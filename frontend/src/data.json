@@ -1,0 +1,14 @@
+{
+  "2020": {
+    "covid": {"weight": 20},
+    "china": {"weight": 15}
+  },
+  "2021": {
+    "israel": {"weight": 10},
+    "covid": {"weight": 10}
+  },
+  "2022": {
+    "ukraine": {"weight": 45},
+    "russia": {"weight": 40}
+  }
+}

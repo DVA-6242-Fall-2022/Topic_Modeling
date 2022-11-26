@@ -1,0 +1,37 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+path.link-0 {
+  fill: none;
+  stroke: #666;
+  stroke-width: 1.5px;
+}
+
+path.link-1 {
+  fill: none;
+  stroke: green;
+  stroke-width: 0.75px;
+  stroke-dasharray: 5px;
+}
+
+circle {
+  fill: #ccc;
+  stroke: #fff;
+  stroke: black;
+  stroke-width: 1.5px;
+}
+
+text.node-labels {
+  fill: #000;
+  font: bold 10px sans-serif;
+  pointer-events: none;
+}
+
+#pinned {
+  fill: #FFFF00 !important;
+}
+
+*{
+  user-select: none;
+}
