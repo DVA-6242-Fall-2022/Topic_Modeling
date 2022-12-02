@@ -1,0 +1,2160 @@
+created_dt_month,topic,comment_sentiment,name
+2020-01-01,41,0.6808166666666666,41_japanese_samurai_kurosawa_akira
+2020-01-01,42,-0.11882608695652175,42_suicide squad_squad_suicide_gunn
+2020-01-01,43,0.09460526315789475,43_mission impossible_mission_impossible_tom cruise
+2020-01-01,44,0.8658466666666667,44_ridley_ridley scott_scott_duel
+2020-01-01,45,0.5833892857142857,45_rocky_rambo_stallone_creed
+2020-01-01,46,0.5686814814814815,46_pixar_toy story_soul_toy
+2020-01-01,5,0.6015875,5_dune_villeneuve_denis_denis villeneuve
+2020-01-01,47,0.7164388888888888,47_black widow_widow_black_scarlett johansson
+2020-01-01,49,0.5252375,49_mad max_max_mad_fury
+2020-01-01,50,0.6623272727272728,50_book_read_adaptations_adaptation
+2020-01-01,51,0.5347692307692308,51_cage_nicolas cage_nicolas_nic cage
+2020-01-01,52,0.5803384615384616,52_quote_movie quote_line_movie
+2020-01-01,53,0.7508,53_harry_potter_harry potter_fantastic beasts
+2020-01-01,4,0.5342893617021276,4_poster_posters_movie posters_official poster
+2020-01-01,54,0.5920722222222222,54_kombat_mortal kombat_mortal_sub zero
+2020-01-01,55,0.5738,55_youpoll_https youpoll_poll_click https youpoll
+2020-01-01,56,0.5551269230769231,56_cut_version_theatrical_director cut
+2020-01-01,57,0.40632105263157897,57_sex_sex scenes_nudity_scenes
+2020-01-01,58,0.4663230769230769,58_disaster_disaster movies_tomorrow_apocalyptic
+2020-01-01,3,0.18487358490566036,3_star war_war_star_jedi
+2020-01-01,59,0.8171923076923077,59_korean_korean film_korean movies_oldboy
+2020-01-01,60,0.650715,60_borat_cohen_baron cohen_baron
+2020-01-01,61,0.36153,61_mulan_disney_live action_live
+2020-01-01,62,0.8974166666666666,62_venom_carnage_let carnage_venom let
+2020-01-01,63,0.8824333333333334,63_wick_john wick_john_action
+2020-01-01,64,0.7060894736842105,64_lynch_david lynch_mulholland_david
+2020-01-01,2,0.6030090909090909,2_marvel_mcu_avengers_endgame
+2020-01-01,65,0.55358,65_avatar_jam cameron_cameron_endgame
+2020-01-01,66,0.7823,66_ghibli_miyazaki_studio ghibli_studio
+2020-01-01,6,0.7366869565217391,6_star_kristen_kristen stewart_stewart
+2020-01-01,40,0.8054287671232877,40_animate_animation_animate movies_amp
+2020-01-01,39,0.957175,39_fast_furious_fast furious_car
+2020-01-01,38,0.9848800000000001,38_blade_blade runner_runner_deckard
+2020-01-01,12,0.9037999999999999,12_spider_spider man_man_peter
+2020-01-01,13,0.6868880952380952,13_irishman_romantic_romance_goodfellas
+2020-01-01,14,0.5275142857142857,14_shang chi_shang_chi_china
+2020-01-01,15,0.5773824324324325,15_tarantino_quentin_pulp_quentin tarantino
+2020-01-01,16,0.6450589743589743,16_parasite_family_kim_bong
+2020-01-01,10,0.35184166666666666,10_matrix_neo_resurrections_matrix resurrections
+2020-01-01,17,0.6049882352941177,17_godzilla_kong_godzilla kong_monster
+2020-01-01,18,0.6250142857142856,18_godfather_michael_pacino_coppola
+2020-01-01,19,0.561,19_snyder_zack_zack snyder_justice league
+2020-01-01,20,0.6834685714285714,20_alien_predator_prometheus_word word word
+2020-01-01,21,0.5353714285714285,21_die_actor_die age_dead
+2020-01-01,22,0.24325833333333335,22_white_black_racist_people
+2020-01-01,9,0.21040357142857144,9_bond_jam bond_jam_craig
+2020-01-01,23,0.3622630434782609,23_rat_imdb_movies_fuck fuck fuck
+2020-01-01,67,0.6206923076923077,67_jojo_jojo rabbit_rabbit_taika
+2020-01-01,24,0.3852372093023256,24_war_war movies_private ryan_save private
+2020-01-01,26,0.7322526315789474,26_ring_lord ring_lord_hobbit
+2020-01-01,27,0.37822142857142854,27_wonder woman_woman_wonder_diana
+2020-01-01,28,0.23746111111111112,28_jurassic_park_jurassic park_jurassic world
+2020-01-01,8,0.779928947368421,8_batman_dark knight_knight_dark
+2020-01-01,29,0.21231666666666663,29_pirate_depp_johnny depp_johnny
+2020-01-01,30,0.58992,30_indiana_indiana jones_jones_indy
+2020-01-01,31,0.7016170212765958,31_sandler_adam sandler_adam_uncut
+2020-01-01,32,0.6810846153846153,32_western_westerns_west_genre
+2020-01-01,33,0.6872083333333333,33_jaw_shark_ocean_underwater
+2020-01-01,34,0.8119862068965517,34_joker_joaquin_phoenix_joaquin phoenix
+2020-01-01,7,0.7656085106382979,7_nolan_tenet_christopher nolan_christopher
+2020-01-01,35,0.47299285714285716,35_ghostbusters_afterlife_ghostbusters afterlife_bird bird
+2020-01-01,36,0.48829999999999996,36_zombie_zombies_dead_busan
+2020-01-01,37,0.466278947368421,37_villain_villains_hero_heroes
+2020-01-01,25,0.48621477272727276,25_terminator_arnold_dark fate_fate
+2020-01-01,68,0.5586538461538462,68_furious_fast_amp furious_fast amp furious
+2020-01-01,11,0.78103,11_christmas_santa_christmas movie_christmas movies
+2020-01-01,78,0.5066222222222222,78_martial_martial arts_arts_karate
+2020-01-01,81,0.5691681818181819,81_trek_star trek_star_trek film
+2020-01-01,70,0.6557862068965518,70_cgi_effect_practical_look
+2020-01-01,73,0.7276811428571429,73_scorsese_martin scorsese_martin_taxi
+2020-01-01,75,0.8407178571428571,75_hitchcock_alfred hitchcock_alfred_hitchcock film
+2020-01-01,77,0.5465733333333334,77_sonic_hedgehog_sonic hedgehog_sonic movie
+2020-01-01,79,0.7453333333333333,79_gay_straight_lgbt_queer
+2020-01-01,1,0.537122033898305,1_trailer_official trailer_official_trailers
+2020-01-01,0,0.5547205128205128,0_movie_film_movies_like
+2020-01-01,71,0.34297714285714287,71_fight_fight scenes_fight scene_punch
+2020-01-01,69,-0.3612,69_green knight_knight_green_gawain
+2020-01-01,80,0.7226360655737705,80_comment_reddit_com movies comment_com
+2020-01-01,72,0.7335642105263157,72_disney_aladdin_moana_song
+2020-01-01,76,0.7665529411764705,76_dracula_vampire_vampires_bram
+2020-01-01,74,0.5862878415300546,74_thrillers_thriller_psychological_movies
+2020-02-01,51,0.8227857142857143,51_cage_nicolas cage_nicolas_nic cage
+2020-02-01,78,0.9422,78_martial_martial arts_arts_karate
+2020-02-01,28,0.561444827586207,28_jurassic_park_jurassic park_jurassic world
+2020-02-01,79,0.37798,79_gay_straight_lgbt_queer
+2020-02-01,47,0.6664814814814816,47_black widow_widow_black_scarlett johansson
+2020-02-01,8,0.7096627450980392,8_batman_dark knight_knight_dark
+2020-02-01,73,0.752643661971831,73_scorsese_martin scorsese_martin_taxi
+2020-02-01,49,0.43974545454545455,49_mad max_max_mad_fury
+2020-02-01,53,0.4009235294117647,53_harry_potter_harry potter_fantastic beasts
+2020-02-01,4,0.4882985074626866,4_poster_posters_movie posters_official poster
+2020-02-01,52,0.7420434782608696,52_quote_movie quote_line_movie
+2020-02-01,27,0.8641933333333333,27_wonder woman_woman_wonder_diana
+2020-02-01,26,0.7636777777777778,26_ring_lord ring_lord_hobbit
+2020-02-01,76,0.466175,76_dracula_vampire_vampires_bram
+2020-02-01,24,0.39029583333333334,24_war_war movies_private ryan_save private
+2020-02-01,11,0.538374074074074,11_christmas_santa_christmas movie_christmas movies
+2020-02-01,25,0.6278524390243903,25_terminator_arnold_dark fate_fate
+2020-02-01,50,0.6431833333333333,50_book_read_adaptations_adaptation
+2020-02-01,39,0.5538857142857143,39_fast_furious_fast furious_car
+2020-02-01,5,0.6994250000000001,5_dune_villeneuve_denis_denis villeneuve
+2020-02-01,37,0.20430769230769233,37_villain_villains_hero_heroes
+2020-02-01,36,0.34774444444444447,36_zombie_zombies_dead_busan
+2020-02-01,38,0.9417749999999999,38_blade_blade runner_runner_deckard
+2020-02-01,35,0.4688283018867924,35_ghostbusters_afterlife_ghostbusters afterlife_bird bird
+2020-02-01,0,0.48507777777777783,0_movie_film_movies_like
+2020-02-01,68,0.6762911111111111,68_furious_fast_amp furious_fast amp furious
+2020-02-01,34,0.6164901639344262,34_joker_joaquin_phoenix_joaquin phoenix
+2020-02-01,6,0.9126115384615385,6_star_kristen_kristen stewart_stewart
+2020-02-01,7,0.6394021739130434,7_nolan_tenet_christopher nolan_christopher
+2020-02-01,40,0.7297792452830189,40_animate_animation_animate movies_amp
+2020-02-01,75,0.7034199999999999,75_hitchcock_alfred hitchcock_alfred_hitchcock film
+2020-02-01,46,0.5612166666666667,46_pixar_toy story_soul_toy
+2020-02-01,41,0.7080157894736842,41_japanese_samurai_kurosawa_akira
+2020-02-01,42,0.2692178571428571,42_suicide squad_squad_suicide_gunn
+2020-02-01,32,0.648,32_western_westerns_west_genre
+2020-02-01,77,0.7077659574468085,77_sonic_hedgehog_sonic hedgehog_sonic movie
+2020-02-01,43,0.39388636363636365,43_mission impossible_mission_impossible_tom cruise
+2020-02-01,31,0.5796566666666667,31_sandler_adam sandler_adam_uncut
+2020-02-01,44,0.5665695652173913,44_ridley_ridley scott_scott_duel
+2020-02-01,30,0.636488,30_indiana_indiana jones_jones_indy
+2020-02-01,74,0.6268675344563552,74_thrillers_thriller_psychological_movies
+2020-02-01,45,0.7419484848484849,45_rocky_rambo_stallone_creed
+2020-02-01,29,-0.015626666666666664,29_pirate_depp_johnny depp_johnny
+2020-02-01,23,0.23010322580645162,23_rat_imdb_movies_fuck fuck fuck
+2020-02-01,33,0.6183363636363637,33_jaw_shark_ocean_underwater
+2020-02-01,54,0.5508777777777778,54_kombat_mortal kombat_mortal_sub zero
+2020-02-01,72,0.619758108108108,72_disney_aladdin_moana_song
+2020-02-01,22,0.16195714285714288,22_white_black_racist_people
+2020-02-01,65,0.9804333333333334,65_avatar_jam cameron_cameron_endgame
+2020-02-01,59,0.6818666666666666,59_korean_korean film_korean movies_oldboy
+2020-02-01,69,0.9893,69_green knight_knight_green_gawain
+2020-02-01,18,0.6098970588235294,18_godfather_michael_pacino_coppola
+2020-02-01,60,0.3164416666666667,60_borat_cohen_baron cohen_baron
+2020-02-01,81,0.7002857142857143,81_trek_star trek_star_trek film
+2020-02-01,14,0.17181249999999998,14_shang chi_shang_chi_china
+2020-02-01,70,0.6501176470588235,70_cgi_effect_practical_look
+2020-02-01,61,0.20585833333333334,61_mulan_disney_live action_live
+2020-02-01,17,0.6952200000000001,17_godzilla_kong_godzilla kong_monster
+2020-02-01,48,0.5840333333333333,48_russian_ukraine_russia_soviet
+2020-02-01,62,0.25925714285714285,62_venom_carnage_let carnage_venom let
+2020-02-01,2,0.6802802631578948,2_marvel_mcu_avengers_endgame
+2020-02-01,16,0.5341727272727272,16_parasite_family_kim_bong
+2020-02-01,64,0.7950038461538462,64_lynch_david lynch_mulholland_david
+2020-02-01,15,0.49698571428571425,15_tarantino_quentin_pulp_quentin tarantino
+2020-02-01,63,0.48936666666666667,63_wick_john wick_john_action
+2020-02-01,1,0.5629377622377623,1_trailer_official trailer_official_trailers
+2020-02-01,10,0.44736,10_matrix_neo_resurrections_matrix resurrections
+2020-02-01,19,0.822025,19_snyder_zack_zack snyder_justice league
+2020-02-01,21,0.04085882352941177,21_die_actor_die age_dead
+2020-02-01,9,0.5514613636363636,9_bond_jam bond_jam_craig
+2020-02-01,80,0.8026644444444445,80_comment_reddit_com movies comment_com
+2020-02-01,55,0.3289666666666667,55_youpoll_https youpoll_poll_click https youpoll
+2020-02-01,67,0.6577583333333333,67_jojo_jojo rabbit_rabbit_taika
+2020-02-01,57,0.5876823529411765,57_sex_sex scenes_nudity_scenes
+2020-02-01,12,0.43589999999999995,12_spider_spider man_man_peter
+2020-02-01,71,0.4398485714285714,71_fight_fight scenes_fight scene_punch
+2020-02-01,56,0.41902,56_cut_version_theatrical_director cut
+2020-02-01,13,0.8214214285714285,13_irishman_romantic_romance_goodfellas
+2020-02-01,66,0.59354,66_ghibli_miyazaki_studio ghibli_studio
+2020-02-01,58,0.09143076923076923,58_disaster_disaster movies_tomorrow_apocalyptic
+2020-02-01,20,0.6548615384615385,20_alien_predator_prometheus_word word word
+2020-02-01,3,0.24482368421052633,3_star war_war_star_jedi
+2020-03-01,10,0.6998333333333333,10_matrix_neo_resurrections_matrix resurrections
+2020-03-01,11,0.5408033333333333,11_christmas_santa_christmas movie_christmas movies
+2020-03-01,13,0.6020818181818182,13_irishman_romantic_romance_goodfellas
+2020-03-01,35,0.5579965517241379,35_ghostbusters_afterlife_ghostbusters afterlife_bird bird
+2020-03-01,7,0.6740918918918919,7_nolan_tenet_christopher nolan_christopher
+2020-03-01,76,0.44279,76_dracula_vampire_vampires_bram
+2020-03-01,34,0.38732142857142854,34_joker_joaquin_phoenix_joaquin phoenix
+2020-03-01,33,0.5005333333333333,33_jaw_shark_ocean_underwater
+2020-03-01,12,0.5788235294117647,12_spider_spider man_man_peter
+2020-03-01,48,0.3605,48_russian_ukraine_russia_soviet
+2020-03-01,14,0.01177499999999998,14_shang chi_shang_chi_china
+2020-03-01,32,-0.1058888888888889,32_western_westerns_west_genre
+2020-03-01,29,0.5681583333333333,29_pirate_depp_johnny depp_johnny
+2020-03-01,31,0.7829133333333333,31_sandler_adam sandler_adam_uncut
+2020-03-01,23,0.52077,23_rat_imdb_movies_fuck fuck fuck
+2020-03-01,79,0.49251666666666666,79_gay_straight_lgbt_queer
+2020-03-01,24,0.07511071428571428,24_war_war movies_private ryan_save private
+2020-03-01,21,0.05047894736842106,21_die_actor_die age_dead
+2020-03-01,9,0.303515,9_bond_jam bond_jam_craig
+2020-03-01,25,0.635516,25_terminator_arnold_dark fate_fate
+2020-03-01,80,0.684671875,80_comment_reddit_com movies comment_com
+2020-03-01,20,0.767632,20_alien_predator_prometheus_word word word
+2020-03-01,26,0.5936263157894737,26_ring_lord ring_lord_hobbit
+2020-03-01,8,0.7386770833333333,8_batman_dark knight_knight_dark
+2020-03-01,15,0.7495396226415094,15_tarantino_quentin_pulp_quentin tarantino
+2020-03-01,27,0.6681636363636364,27_wonder woman_woman_wonder_diana
+2020-03-01,78,0.2729714285714286,78_martial_martial arts_arts_karate
+2020-03-01,18,0.6924409090909092,18_godfather_michael_pacino_coppola
+2020-03-01,28,0.42987000000000003,28_jurassic_park_jurassic park_jurassic world
+2020-03-01,17,0.6113999999999999,17_godzilla_kong_godzilla kong_monster
+2020-03-01,22,0.9333333333333332,22_white_black_racist_people
+2020-03-01,81,0.7854666666666666,81_trek_star trek_star_trek film
+2020-03-01,16,0.47674375,16_parasite_family_kim_bong
+2020-03-01,30,0.766325,30_indiana_indiana jones_jones_indy
+2020-03-01,77,0.5986307692307692,77_sonic_hedgehog_sonic hedgehog_sonic movie
+2020-03-01,19,0.3821318181818182,19_snyder_zack_zack snyder_justice league
+2020-03-01,36,0.5979823529411764,36_zombie_zombies_dead_busan
+2020-03-01,68,0.7956279069767442,68_furious_fast_amp furious_fast amp furious
+2020-03-01,37,0.0958125,37_villain_villains_hero_heroes
+2020-03-01,47,0.422255,47_black widow_widow_black_scarlett johansson
+2020-03-01,49,0.17099999999999999,49_mad max_max_mad_fury
+2020-03-01,50,0.9964666666666666,50_book_read_adaptations_adaptation
+2020-03-01,51,0.8965833333333334,51_cage_nicolas cage_nicolas_nic cage
+2020-03-01,72,0.726465,72_disney_aladdin_moana_song
+2020-03-01,4,0.7628936170212767,4_poster_posters_movie posters_official poster
+2020-03-01,52,0.5900185185185185,52_quote_movie quote_line_movie
+2020-03-01,53,0.6837,53_harry_potter_harry potter_fantastic beasts
+2020-03-01,54,0.007557142857142858,54_kombat_mortal kombat_mortal_sub zero
+2020-03-01,71,0.06001142857142857,71_fight_fight scenes_fight scene_punch
+2020-03-01,55,-0.02377499999999999,55_youpoll_https youpoll_poll_click https youpoll
+2020-03-01,56,0.5233035714285714,56_cut_version_theatrical_director cut
+2020-03-01,57,0.443162962962963,57_sex_sex scenes_nudity_scenes
+2020-03-01,73,0.7827,73_scorsese_martin scorsese_martin_taxi
+2020-03-01,3,0.24566774193548388,3_star war_war_star_jedi
+2020-03-01,59,0.6193642857142857,59_korean_korean film_korean movies_oldboy
+2020-03-01,70,0.42353636363636366,70_cgi_effect_practical_look
+2020-03-01,60,0.44710625000000004,60_borat_cohen_baron cohen_baron
+2020-03-01,61,0.5079076923076923,61_mulan_disney_live action_live
+2020-03-01,1,0.54607304964539,1_trailer_official trailer_official_trailers
+2020-03-01,62,0.07566363636363635,62_venom_carnage_let carnage_venom let
+2020-03-01,63,0.3516166666666667,63_wick_john wick_john_action
+2020-03-01,2,0.5514555555555556,2_marvel_mcu_avengers_endgame
+2020-03-01,64,0.725552380952381,64_lynch_david lynch_mulholland_david
+2020-03-01,69,0.9720500000000001,69_green knight_knight_green_gawain
+2020-03-01,65,0.37955555555555553,65_avatar_jam cameron_cameron_endgame
+2020-03-01,66,0.575375,66_ghibli_miyazaki_studio ghibli_studio
+2020-03-01,67,0.6298,67_jojo_jojo rabbit_rabbit_taika
+2020-03-01,58,0.30566176470588236,58_disaster_disaster movies_tomorrow_apocalyptic
+2020-03-01,45,0.6250454545454546,45_rocky_rambo_stallone_creed
+2020-03-01,46,0.7097114285714285,46_pixar_toy story_soul_toy
+2020-03-01,41,0.9343066666666666,41_japanese_samurai_kurosawa_akira
+2020-03-01,5,0.79764,5_dune_villeneuve_denis_denis villeneuve
+2020-03-01,75,0.6419962962962963,75_hitchcock_alfred hitchcock_alfred_hitchcock film
+2020-03-01,42,0.34242352941176474,42_suicide squad_squad_suicide_gunn
+2020-03-01,39,0.9448444444444445,39_fast_furious_fast furious_car
+2020-03-01,6,0.7895153846153846,6_star_kristen_kristen stewart_stewart
+2020-03-01,40,0.7821053571428571,40_animate_animation_animate movies_amp
+2020-03-01,74,0.5550787749287749,74_thrillers_thriller_psychological_movies
+2020-03-01,38,0.7877857142857143,38_blade_blade runner_runner_deckard
+2020-03-01,0,0.42783823529411763,0_movie_film_movies_like
+2020-03-01,43,0.5802617647058823,43_mission impossible_mission_impossible_tom cruise
+2020-03-01,44,0.6466227272727273,44_ridley_ridley scott_scott_duel
+2020-04-01,13,0.5065107142857143,13_irishman_romantic_romance_goodfellas
+2020-04-01,67,0.49685,67_jojo_jojo rabbit_rabbit_taika
+2020-04-01,70,0.46932222222222225,70_cgi_effect_practical_look
+2020-04-01,11,0.442924,11_christmas_santa_christmas movie_christmas movies
+2020-04-01,18,0.7188568181818181,18_godfather_michael_pacino_coppola
+2020-04-01,59,0.6247666666666666,59_korean_korean film_korean movies_oldboy
+2020-04-01,33,0.8175875,33_jaw_shark_ocean_underwater
+2020-04-01,75,0.6939387096774193,75_hitchcock_alfred hitchcock_alfred_hitchcock film
+2020-04-01,17,0.7031,17_godzilla_kong_godzilla kong_monster
+2020-04-01,48,0.99265,48_russian_ukraine_russia_soviet
+2020-04-01,60,0.6696428571428571,60_borat_cohen_baron cohen_baron
+2020-04-01,39,0.34859999999999997,39_fast_furious_fast furious_car
+2020-04-01,61,0.6347571428571428,61_mulan_disney_live action_live
+2020-04-01,16,0.5742166666666667,16_parasite_family_kim_bong
+2020-04-01,37,0.1585,37_villain_villains_hero_heroes
+2020-04-01,81,0.6077380952380952,81_trek_star trek_star_trek film
+2020-04-01,62,0.1609,62_venom_carnage_let carnage_venom let
+2020-04-01,68,0.5664861111111111,68_furious_fast_amp furious_fast amp furious
+2020-04-01,15,0.6905333333333333,15_tarantino_quentin_pulp_quentin tarantino
+2020-04-01,12,0.924490909090909,12_spider_spider man_man_peter
+2020-04-01,63,0.25033333333333335,63_wick_john wick_john_action
+2020-04-01,34,0.5711090909090909,34_joker_joaquin_phoenix_joaquin phoenix
+2020-04-01,66,0.4790666666666667,66_ghibli_miyazaki_studio ghibli_studio
+2020-04-01,69,0.9231,69_green knight_knight_green_gawain
+2020-04-01,38,0.97423,38_blade_blade runner_runner_deckard
+2020-04-01,14,0.39705714285714283,14_shang chi_shang_chi_china
+2020-04-01,64,0.7833739130434784,64_lynch_david lynch_mulholland_david
+2020-04-01,35,0.5192571428571429,35_ghostbusters_afterlife_ghostbusters afterlife_bird bird
+2020-04-01,65,0.23655714285714285,65_avatar_jam cameron_cameron_endgame
+2020-04-01,76,0.37560000000000004,76_dracula_vampire_vampires_bram
+2020-04-01,58,0.43541142857142856,58_disaster_disaster movies_tomorrow_apocalyptic
+2020-04-01,45,0.5643566666666667,45_rocky_rambo_stallone_creed
+2020-04-01,80,0.7071757575757576,80_comment_reddit_com movies comment_com
+2020-04-01,25,0.721572972972973,25_terminator_arnold_dark fate_fate
+2020-04-01,30,0.2905125,30_indiana_indiana jones_jones_indy
+2020-04-01,72,0.6956673684210527,72_disney_aladdin_moana_song
+2020-04-01,50,0.898625,50_book_read_adaptations_adaptation
+2020-04-01,26,0.720995,26_ring_lord ring_lord_hobbit
+2020-04-01,78,0.8839285714285714,78_martial_martial arts_arts_karate
+2020-04-01,49,0.7544500000000001,49_mad max_max_mad_fury
+2020-04-01,44,0.5454277777777778,44_ridley_ridley scott_scott_duel
+2020-04-01,27,0.4467,27_wonder woman_woman_wonder_diana
+2020-04-01,47,0.49388235294117644,47_black widow_widow_black_scarlett johansson
+2020-04-01,77,0.7663736842105263,77_sonic_hedgehog_sonic hedgehog_sonic movie
+2020-04-01,29,0.6326999999999999,29_pirate_depp_johnny depp_johnny
+2020-04-01,46,0.65481,46_pixar_toy story_soul_toy
+2020-04-01,73,0.6380102272727273,73_scorsese_martin scorsese_martin_taxi
+2020-04-01,28,0.4769352941176471,28_jurassic_park_jurassic park_jurassic world
+2020-04-01,51,0.46292,51_cage_nicolas cage_nicolas_nic cage
+2020-04-01,43,0.7060545454545455,43_mission impossible_mission_impossible_tom cruise
+2020-04-01,24,0.372684375,24_war_war movies_private ryan_save private
+2020-04-01,52,0.520015,52_quote_movie quote_line_movie
+2020-04-01,20,0.6567323529411765,20_alien_predator_prometheus_word word word
+2020-04-01,57,0.4219057142857143,57_sex_sex scenes_nudity_scenes
+2020-04-01,41,0.7968695652173913,41_japanese_samurai_kurosawa_akira
+2020-04-01,56,0.5122558823529412,56_cut_version_theatrical_director cut
+2020-04-01,32,0.4600125,32_western_westerns_west_genre
+2020-04-01,21,0.5131461538461538,21_die_actor_die age_dead
+2020-04-01,55,0.2823666666666667,55_youpoll_https youpoll_poll_click https youpoll
+2020-04-01,19,0.46858571428571427,19_snyder_zack_zack snyder_justice league
+2020-04-01,42,0.5709352941176471,42_suicide squad_squad_suicide_gunn
+2020-04-01,74,0.5982029481132075,74_thrillers_thriller_psychological_movies
+2020-04-01,22,-0.403,22_white_black_racist_people
+2020-04-01,79,0.7447333333333334,79_gay_straight_lgbt_queer
+2020-04-01,71,0.23100294117647058,71_fight_fight scenes_fight scene_punch
+2020-04-01,53,0.8428684210526315,53_harry_potter_harry potter_fantastic beasts
+2020-04-01,36,0.29825,36_zombie_zombies_dead_busan
+2020-04-01,31,0.920188888888889,31_sandler_adam sandler_adam_uncut
+2020-04-01,54,0.7656400000000001,54_kombat_mortal kombat_mortal_sub zero
+2020-04-01,23,0.5606688888888889,23_rat_imdb_movies_fuck fuck fuck
+2020-04-01,40,0.6979969230769231,40_animate_animation_animate movies_amp
+2020-04-01,1,0.5808154838709677,1_trailer_official trailer_official_trailers
+2020-04-01,7,0.7164422222222222,7_nolan_tenet_christopher nolan_christopher
+2020-04-01,8,0.48756904761904757,8_batman_dark knight_knight_dark
+2020-04-01,5,0.5960444444444444,5_dune_villeneuve_denis_denis villeneuve
+2020-04-01,10,0.79311,10_matrix_neo_resurrections_matrix resurrections
+2020-04-01,9,0.31678181818181816,9_bond_jam bond_jam_craig
+2020-04-01,3,0.325831914893617,3_star war_war_star_jedi
+2020-04-01,0,0.5948577777777777,0_movie_film_movies_like
+2020-04-01,2,0.6692439024390244,2_marvel_mcu_avengers_endgame
+2020-04-01,4,0.5475391304347825,4_poster_posters_movie posters_official poster
+2020-04-01,6,0.9399714285714286,6_star_kristen_kristen stewart_stewart
+2020-05-01,50,0.60725,50_book_read_adaptations_adaptation
+2020-05-01,20,0.7030926829268292,20_alien_predator_prometheus_word word word
+2020-05-01,37,0.1292444444444444,37_villain_villains_hero_heroes
+2020-05-01,23,0.4924717948717948,23_rat_imdb_movies_fuck fuck fuck
+2020-05-01,42,0.23054074074074074,42_suicide squad_squad_suicide_gunn
+2020-05-01,78,0.36238125,78_martial_martial arts_arts_karate
+2020-05-01,64,0.6620090909090909,64_lynch_david lynch_mulholland_david
+2020-05-01,61,0.8639,61_mulan_disney_live action_live
+2020-05-01,21,0.4513875,21_die_actor_die age_dead
+2020-05-01,41,0.6794956521739131,41_japanese_samurai_kurosawa_akira
+2020-05-01,40,0.7555529411764706,40_animate_animation_animate movies_amp
+2020-05-01,39,0.5634571428571429,39_fast_furious_fast furious_car
+2020-05-01,55,0.6953999999999999,55_youpoll_https youpoll_poll_click https youpoll
+2020-05-01,22,-0.3713333333333333,22_white_black_racist_people
+2020-05-01,6,0.5995,6_star_kristen_kristen stewart_stewart
+2020-05-01,65,0.48351666666666665,65_avatar_jam cameron_cameron_endgame
+2020-05-01,69,0.8661666666666666,69_green knight_knight_green_gawain
+2020-05-01,14,0.5907,14_shang chi_shang_chi_china
+2020-05-01,10,0.6619083333333333,10_matrix_neo_resurrections_matrix resurrections
+2020-05-01,46,0.7568666666666667,46_pixar_toy story_soul_toy
+2020-05-01,54,0.70411875,54_kombat_mortal kombat_mortal_sub zero
+2020-05-01,49,0.5418461538461539,49_mad max_max_mad_fury
+2020-05-01,17,0.5931235294117647,17_godzilla_kong_godzilla kong_monster
+2020-05-01,16,0.25608000000000003,16_parasite_family_kim_bong
+2020-05-01,4,0.5658935483870968,4_poster_posters_movie posters_official poster
+2020-05-01,51,0.8012375,51_cage_nicolas cage_nicolas_nic cage
+2020-05-01,74,0.6350745215311004,74_thrillers_thriller_psychological_movies
+2020-05-01,47,0.3889857142857143,47_black widow_widow_black_scarlett johansson
+2020-05-01,63,0.7316764705882353,63_wick_john wick_john_action
+2020-05-01,18,0.7614444444444444,18_godfather_michael_pacino_coppola
+2020-05-01,62,0.349925,62_venom_carnage_let carnage_venom let
+2020-05-01,76,0.6482555555555556,76_dracula_vampire_vampires_bram
+2020-05-01,52,0.4768666666666667,52_quote_movie quote_line_movie
+2020-05-01,71,0.20463513513513515,71_fight_fight scenes_fight scene_punch
+2020-05-01,70,0.6250931034482758,70_cgi_effect_practical_look
+2020-05-01,45,0.8185428571428571,45_rocky_rambo_stallone_creed
+2020-05-01,77,0.6304466666666666,77_sonic_hedgehog_sonic hedgehog_sonic movie
+2020-05-01,2,0.7466880952380952,2_marvel_mcu_avengers_endgame
+2020-05-01,15,0.6239612903225806,15_tarantino_quentin_pulp_quentin tarantino
+2020-05-01,19,0.6902828571428572,19_snyder_zack_zack snyder_justice league
+2020-05-01,53,0.62708125,53_harry_potter_harry potter_fantastic beasts
+2020-05-01,44,0.5841235294117647,44_ridley_ridley scott_scott_duel
+2020-05-01,5,0.4719466666666667,5_dune_villeneuve_denis_denis villeneuve
+2020-05-01,9,0.17363125000000001,9_bond_jam bond_jam_craig
+2020-05-01,48,0.346,48_russian_ukraine_russia_soviet
+2020-05-01,13,0.60728125,13_irishman_romantic_romance_goodfellas
+2020-05-01,81,0.7980805555555555,81_trek_star trek_star_trek film
+2020-05-01,43,0.58186875,43_mission impossible_mission_impossible_tom cruise
+2020-05-01,38,0.6590428571428572,38_blade_blade runner_runner_deckard
+2020-05-01,34,0.5717842105263159,34_joker_joaquin_phoenix_joaquin phoenix
+2020-05-01,31,0.7134173913043478,31_sandler_adam sandler_adam_uncut
+2020-05-01,80,0.8105320512820513,80_comment_reddit_com movies comment_com
+2020-05-01,8,0.7699042553191489,8_batman_dark knight_knight_dark
+2020-05-01,11,0.8055809523809524,11_christmas_santa_christmas movie_christmas movies
+2020-05-01,12,0.5951214285714286,12_spider_spider man_man_peter
+2020-05-01,67,0.564123076923077,67_jojo_jojo rabbit_rabbit_taika
+2020-05-01,33,0.91585,33_jaw_shark_ocean_underwater
+2020-05-01,1,0.6476207142857143,1_trailer_official trailer_official_trailers
+2020-05-01,59,0.618890625,59_korean_korean film_korean movies_oldboy
+2020-05-01,58,0.507747619047619,58_disaster_disaster movies_tomorrow_apocalyptic
+2020-05-01,56,0.6146541666666666,56_cut_version_theatrical_director cut
+2020-05-01,32,0.7449133333333333,32_western_westerns_west_genre
+2020-05-01,68,0.4443135135135135,68_furious_fast_amp furious_fast amp furious
+2020-05-01,27,0.9556666666666666,27_wonder woman_woman_wonder_diana
+2020-05-01,7,0.723074358974359,7_nolan_tenet_christopher nolan_christopher
+2020-05-01,79,0.6614666666666666,79_gay_straight_lgbt_queer
+2020-05-01,0,0.6845909090909091,0_movie_film_movies_like
+2020-05-01,26,0.7848592592592593,26_ring_lord ring_lord_hobbit
+2020-05-01,57,0.5488806451612903,57_sex_sex scenes_nudity_scenes
+2020-05-01,72,0.6321,72_disney_aladdin_moana_song
+2020-05-01,73,0.6981440366972478,73_scorsese_martin scorsese_martin_taxi
+2020-05-01,25,0.5792584615384616,25_terminator_arnold_dark fate_fate
+2020-05-01,35,0.56495,35_ghostbusters_afterlife_ghostbusters afterlife_bird bird
+2020-05-01,75,0.8204216216216216,75_hitchcock_alfred hitchcock_alfred_hitchcock film
+2020-05-01,36,0.4592357142857143,36_zombie_zombies_dead_busan
+2020-05-01,30,0.5192916666666666,30_indiana_indiana jones_jones_indy
+2020-05-01,28,0.47041052631578945,28_jurassic_park_jurassic park_jurassic world
+2020-05-01,3,0.43078297872340426,3_star war_war_star_jedi
+2020-05-01,29,0.44696499999999995,29_pirate_depp_johnny depp_johnny
+2020-05-01,66,0.8250153846153846,66_ghibli_miyazaki_studio ghibli_studio
+2020-05-01,60,0.34931,60_borat_cohen_baron cohen_baron
+2020-05-01,24,0.4174678571428571,24_war_war movies_private ryan_save private
+2020-06-01,1,0.5691811475409836,1_trailer_official trailer_official_trailers
+2020-06-01,47,0.6469368421052631,47_black widow_widow_black_scarlett johansson
+2020-06-01,45,0.43725454545454545,45_rocky_rambo_stallone_creed
+2020-06-01,9,0.6156842105263158,9_bond_jam bond_jam_craig
+2020-06-01,4,0.52463125,4_poster_posters_movie posters_official poster
+2020-06-01,7,0.5463194805194805,7_nolan_tenet_christopher nolan_christopher
+2020-06-01,49,0.44223999999999997,49_mad max_max_mad_fury
+2020-06-01,46,0.5301722222222223,46_pixar_toy story_soul_toy
+2020-06-01,29,0.57705,29_pirate_depp_johnny depp_johnny
+2020-06-01,17,0.648195238095238,17_godzilla_kong_godzilla kong_monster
+2020-06-01,18,0.8533129032258064,18_godfather_michael_pacino_coppola
+2020-06-01,63,0.2797625,63_wick_john wick_john_action
+2020-06-01,79,0.9519714285714286,79_gay_straight_lgbt_queer
+2020-06-01,74,0.6480987886944818,74_thrillers_thriller_psychological_movies
+2020-06-01,28,0.3874941176470588,28_jurassic_park_jurassic park_jurassic world
+2020-06-01,30,0.7450125,30_indiana_indiana jones_jones_indy
+2020-06-01,67,0.70729,67_jojo_jojo rabbit_rabbit_taika
+2020-06-01,70,0.43506,70_cgi_effect_practical_look
+2020-06-01,73,0.690857843137255,73_scorsese_martin scorsese_martin_taxi
+2020-06-01,27,0.34028888888888886,27_wonder woman_woman_wonder_diana
+2020-06-01,36,0.63481,36_zombie_zombies_dead_busan
+2020-06-01,43,0.6787533333333333,43_mission impossible_mission_impossible_tom cruise
+2020-06-01,44,0.58658,44_ridley_ridley scott_scott_duel
+2020-06-01,78,0.37989999999999996,78_martial_martial arts_arts_karate
+2020-06-01,6,0.6984882352941176,6_star_kristen_kristen stewart_stewart
+2020-06-01,23,0.6365380952380952,23_rat_imdb_movies_fuck fuck fuck
+2020-06-01,37,0.17367142857142856,37_villain_villains_hero_heroes
+2020-06-01,24,0.38508055555555554,24_war_war movies_private ryan_save private
+2020-06-01,35,0.46542812499999997,35_ghostbusters_afterlife_ghostbusters afterlife_bird bird
+2020-06-01,66,0.8347749999999999,66_ghibli_miyazaki_studio ghibli_studio
+2020-06-01,80,0.8489774999999999,80_comment_reddit_com movies comment_com
+2020-06-01,38,0.9157500000000001,38_blade_blade runner_runner_deckard
+2020-06-01,65,0.6587416666666667,65_avatar_jam cameron_cameron_endgame
+2020-06-01,8,0.3968943396226415,8_batman_dark knight_knight_dark
+2020-06-01,22,0.1399037037037037,22_white_black_racist_people
+2020-06-01,25,0.7410696428571428,25_terminator_arnold_dark fate_fate
+2020-06-01,39,0.66482,39_fast_furious_fast furious_car
+2020-06-01,19,0.41879600000000006,19_snyder_zack_zack snyder_justice league
+2020-06-01,34,0.6224999999999999,34_joker_joaquin_phoenix_joaquin phoenix
+2020-06-01,21,0.6433692307692309,21_die_actor_die age_dead
+2020-06-01,41,0.8201571428571429,41_japanese_samurai_kurosawa_akira
+2020-06-01,64,0.7434956521739131,64_lynch_david lynch_mulholland_david
+2020-06-01,33,0.39294,33_jaw_shark_ocean_underwater
+2020-06-01,42,0.06713333333333334,42_suicide squad_squad_suicide_gunn
+2020-06-01,20,0.35783243243243246,20_alien_predator_prometheus_word word word
+2020-06-01,26,0.7066464285714286,26_ring_lord ring_lord_hobbit
+2020-06-01,68,0.7543961538461539,68_furious_fast_amp furious_fast amp furious
+2020-06-01,5,0.689221052631579,5_dune_villeneuve_denis_denis villeneuve
+2020-06-01,32,0.4333588235294118,32_western_westerns_west_genre
+2020-06-01,0,0.7123941176470588,0_movie_film_movies_like
+2020-06-01,77,0.5909466666666667,77_sonic_hedgehog_sonic hedgehog_sonic movie
+2020-06-01,31,0.5387478260869565,31_sandler_adam sandler_adam_uncut
+2020-06-01,40,0.7865888888888889,40_animate_animation_animate movies_amp
+2020-06-01,50,0.9609,50_book_read_adaptations_adaptation
+2020-06-01,81,0.5316047619047619,81_trek_star trek_star_trek film
+2020-06-01,15,0.4949266666666666,15_tarantino_quentin_pulp_quentin tarantino
+2020-06-01,10,0.4516375,10_matrix_neo_resurrections_matrix resurrections
+2020-06-01,14,0.9794,14_shang chi_shang_chi_china
+2020-06-01,76,0.4865777777777778,76_dracula_vampire_vampires_bram
+2020-06-01,72,0.7944098039215686,72_disney_aladdin_moana_song
+2020-06-01,58,0.4990162162162162,58_disaster_disaster movies_tomorrow_apocalyptic
+2020-06-01,3,0.27926666666666666,3_star war_war_star_jedi
+2020-06-01,56,0.34175714285714287,56_cut_version_theatrical_director cut
+2020-06-01,59,0.5411923076923076,59_korean_korean film_korean movies_oldboy
+2020-06-01,51,-0.08876666666666667,51_cage_nicolas cage_nicolas_nic cage
+2020-06-01,71,0.24890256410256412,71_fight_fight scenes_fight scene_punch
+2020-06-01,12,0.8467058823529412,12_spider_spider man_man_peter
+2020-06-01,11,0.6005714285714285,11_christmas_santa_christmas movie_christmas movies
+2020-06-01,54,0.5697571428571429,54_kombat_mortal kombat_mortal_sub zero
+2020-06-01,52,0.20430689655172413,52_quote_movie quote_line_movie
+2020-06-01,62,0.12281428571428574,62_venom_carnage_let carnage_venom let
+2020-06-01,48,0.4517,48_russian_ukraine_russia_soviet
+2020-06-01,16,0.5525,16_parasite_family_kim_bong
+2020-06-01,75,0.44920000000000004,75_hitchcock_alfred hitchcock_alfred_hitchcock film
+2020-06-01,2,0.6648489795918366,2_marvel_mcu_avengers_endgame
+2020-06-01,13,0.7952928571428571,13_irishman_romantic_romance_goodfellas
+2020-06-01,55,0.90445,55_youpoll_https youpoll_poll_click https youpoll
+2020-06-01,57,0.6211263157894736,57_sex_sex scenes_nudity_scenes
+2020-06-01,53,0.6369272727272727,53_harry_potter_harry potter_fantastic beasts
+2020-06-01,60,0.8577842105263157,60_borat_cohen_baron cohen_baron
+2020-06-01,61,0.5939785714285714,61_mulan_disney_live action_live
+2020-07-01,34,0.5191555555555555,34_joker_joaquin_phoenix_joaquin phoenix
+2020-07-01,57,0.55035,57_sex_sex scenes_nudity_scenes
+2020-07-01,77,0.8248894736842105,77_sonic_hedgehog_sonic hedgehog_sonic movie
+2020-07-01,54,0.7304750000000001,54_kombat_mortal kombat_mortal_sub zero
+2020-07-01,68,0.7230196428571428,68_furious_fast_amp furious_fast amp furious
+2020-07-01,74,0.6051405759162304,74_thrillers_thriller_psychological_movies
+2020-07-01,19,0.3791875,19_snyder_zack_zack snyder_justice league
+2020-07-01,55,0.9781,55_youpoll_https youpoll_poll_click https youpoll
+2020-07-01,75,0.6751205882352941,75_hitchcock_alfred hitchcock_alfred_hitchcock film
+2020-07-01,66,0.6755136363636364,66_ghibli_miyazaki_studio ghibli_studio
+2020-07-01,12,0.7467,12_spider_spider man_man_peter
+2020-07-01,53,0.6868190476190476,53_harry_potter_harry potter_fantastic beasts
+2020-07-01,43,0.49194444444444446,43_mission impossible_mission_impossible_tom cruise
+2020-07-01,25,0.6327173913043478,25_terminator_arnold_dark fate_fate
+2020-07-01,71,0.4227655172413793,71_fight_fight scenes_fight scene_punch
+2020-07-01,8,0.5447111111111111,8_batman_dark knight_knight_dark
+2020-07-01,5,0.5679705882352941,5_dune_villeneuve_denis_denis villeneuve
+2020-07-01,38,0.6614142857142857,38_blade_blade runner_runner_deckard
+2020-07-01,20,0.555725,20_alien_predator_prometheus_word word word
+2020-07-01,48,0.1495,48_russian_ukraine_russia_soviet
+2020-07-01,69,0.28735,69_green knight_knight_green_gawain
+2020-07-01,61,0.5072,61_mulan_disney_live action_live
+2020-07-01,39,0.6537428571428572,39_fast_furious_fast furious_car
+2020-07-01,40,0.762425,40_animate_animation_animate movies_amp
+2020-07-01,65,0.9755454545454545,65_avatar_jam cameron_cameron_endgame
+2020-07-01,0,0.6504820512820513,0_movie_film_movies_like
+2020-07-01,37,0.544775,37_villain_villains_hero_heroes
+2020-07-01,13,0.6234933333333333,13_irishman_romantic_romance_goodfellas
+2020-07-01,3,0.36841891891891887,3_star war_war_star_jedi
+2020-07-01,23,0.5524948717948718,23_rat_imdb_movies_fuck fuck fuck
+2020-07-01,2,0.7274637931034483,2_marvel_mcu_avengers_endgame
+2020-07-01,21,0.20070000000000002,21_die_actor_die age_dead
+2020-07-01,6,0.07055333333333332,6_star_kristen_kristen stewart_stewart
+2020-07-01,41,0.5780500000000001,41_japanese_samurai_kurosawa_akira
+2020-07-01,36,-0.07783076923076923,36_zombie_zombies_dead_busan
+2020-07-01,64,0.7541285714285715,64_lynch_david lynch_mulholland_david
+2020-07-01,14,0.297925,14_shang chi_shang_chi_china
+2020-07-01,78,0.71807,78_martial_martial arts_arts_karate
+2020-07-01,42,0.40864814814814815,42_suicide squad_squad_suicide_gunn
+2020-07-01,10,0.9771875,10_matrix_neo_resurrections_matrix resurrections
+2020-07-01,24,0.3132034482758621,24_war_war movies_private ryan_save private
+2020-07-01,35,0.3290060606060606,35_ghostbusters_afterlife_ghostbusters afterlife_bird bird
+2020-07-01,80,0.7585044444444444,80_comment_reddit_com movies comment_com
+2020-07-01,56,0.6595791666666667,56_cut_version_theatrical_director cut
+2020-07-01,44,0.7034538461538461,44_ridley_ridley scott_scott_duel
+2020-07-01,15,0.6063986842105263,15_tarantino_quentin_pulp_quentin tarantino
+2020-07-01,7,0.654271052631579,7_nolan_tenet_christopher nolan_christopher
+2020-07-01,11,0.67591,11_christmas_santa_christmas movie_christmas movies
+2020-07-01,51,0.9485166666666668,51_cage_nicolas cage_nicolas_nic cage
+2020-07-01,70,0.7125263157894737,70_cgi_effect_practical_look
+2020-07-01,47,0.46228499999999995,47_black widow_widow_black_scarlett johansson
+2020-07-01,27,0.6296769230769231,27_wonder woman_woman_wonder_diana
+2020-07-01,59,0.8663000000000001,59_korean_korean film_korean movies_oldboy
+2020-07-01,17,0.5155086956521739,17_godzilla_kong_godzilla kong_monster
+2020-07-01,76,0.9246071428571428,76_dracula_vampire_vampires_bram
+2020-07-01,62,0.956175,62_venom_carnage_let carnage_venom let
+2020-07-01,31,0.8818833333333334,31_sandler_adam sandler_adam_uncut
+2020-07-01,30,0.5302692307692308,30_indiana_indiana jones_jones_indy
+2020-07-01,79,0.7022571428571428,79_gay_straight_lgbt_queer
+2020-07-01,16,0.9533200000000001,16_parasite_family_kim_bong
+2020-07-01,49,0.043380000000000016,49_mad max_max_mad_fury
+2020-07-01,67,0.5433857142857142,67_jojo_jojo rabbit_rabbit_taika
+2020-07-01,4,0.6052754385964912,4_poster_posters_movie posters_official poster
+2020-07-01,28,0.63766,28_jurassic_park_jurassic park_jurassic world
+2020-07-01,29,0.2445,29_pirate_depp_johnny depp_johnny
+2020-07-01,72,0.669056,72_disney_aladdin_moana_song
+2020-07-01,73,0.593532142857143,73_scorsese_martin scorsese_martin_taxi
+2020-07-01,50,0.7165600000000001,50_book_read_adaptations_adaptation
+2020-07-01,60,0.7096176470588235,60_borat_cohen_baron cohen_baron
+2020-07-01,1,0.6169705882352942,1_trailer_official trailer_official_trailers
+2020-07-01,22,0.3562777777777778,22_white_black_racist_people
+2020-07-01,26,0.5170529411764706,26_ring_lord ring_lord_hobbit
+2020-07-01,63,0.4833,63_wick_john wick_john_action
+2020-07-01,32,0.6715588235294118,32_western_westerns_west_genre
+2020-07-01,52,0.5093178571428572,52_quote_movie quote_line_movie
+2020-07-01,58,0.4520090909090909,58_disaster_disaster movies_tomorrow_apocalyptic
+2020-07-01,46,0.7789833333333332,46_pixar_toy story_soul_toy
+2020-07-01,9,0.5474217391304348,9_bond_jam bond_jam_craig
+2020-07-01,33,0.46601,33_jaw_shark_ocean_underwater
+2020-07-01,18,0.510628125,18_godfather_michael_pacino_coppola
+2020-07-01,81,0.5169677419354839,81_trek_star trek_star_trek film
+2020-07-01,45,0.7188846153846153,45_rocky_rambo_stallone_creed
+2020-08-01,71,0.17555357142857142,71_fight_fight scenes_fight scene_punch
+2020-08-01,25,0.7230298507462686,25_terminator_arnold_dark fate_fate
+2020-08-01,10,0.6300611111111112,10_matrix_neo_resurrections_matrix resurrections
+2020-08-01,79,0.7256625,79_gay_straight_lgbt_queer
+2020-08-01,37,0.38688571428571433,37_villain_villains_hero_heroes
+2020-08-01,65,0.5317999999999999,65_avatar_jam cameron_cameron_endgame
+2020-08-01,67,0.9754499999999999,67_jojo_jojo rabbit_rabbit_taika
+2020-08-01,57,0.4019394736842105,57_sex_sex scenes_nudity_scenes
+2020-08-01,13,0.7479966666666668,13_irishman_romantic_romance_goodfellas
+2020-08-01,22,-0.415825,22_white_black_racist_people
+2020-08-01,0,0.6889575757575758,0_movie_film_movies_like
+2020-08-01,1,0.6163660919540229,1_trailer_official trailer_official_trailers
+2020-08-01,55,0.9883,55_youpoll_https youpoll_poll_click https youpoll
+2020-08-01,38,0.8871,38_blade_blade runner_runner_deckard
+2020-08-01,68,0.7348236842105264,68_furious_fast_amp furious_fast amp furious
+2020-08-01,28,0.40839565217391305,28_jurassic_park_jurassic park_jurassic world
+2020-08-01,29,0.48923333333333335,29_pirate_depp_johnny depp_johnny
+2020-08-01,7,0.6544078125,7_nolan_tenet_christopher nolan_christopher
+2020-08-01,73,0.7402421686746988,73_scorsese_martin scorsese_martin_taxi
+2020-08-01,2,0.7591044117647059,2_marvel_mcu_avengers_endgame
+2020-08-01,58,0.4169041666666667,58_disaster_disaster movies_tomorrow_apocalyptic
+2020-08-01,31,0.7059,31_sandler_adam sandler_adam_uncut
+2020-08-01,56,0.495448,56_cut_version_theatrical_director cut
+2020-08-01,11,0.732695,11_christmas_santa_christmas movie_christmas movies
+2020-08-01,35,0.7349500000000001,35_ghostbusters_afterlife_ghostbusters afterlife_bird bird
+2020-08-01,24,0.533296,24_war_war movies_private ryan_save private
+2020-08-01,60,0.5986818181818182,60_borat_cohen_baron cohen_baron
+2020-08-01,78,0.53208,78_martial_martial arts_arts_karate
+2020-08-01,80,0.729146551724138,80_comment_reddit_com movies comment_com
+2020-08-01,33,0.57848,33_jaw_shark_ocean_underwater
+2020-08-01,23,0.4174432432432432,23_rat_imdb_movies_fuck fuck fuck
+2020-08-01,8,0.6248813333333334,8_batman_dark knight_knight_dark
+2020-08-01,48,0.41387142857142856,48_russian_ukraine_russia_soviet
+2020-08-01,27,0.4890083333333333,27_wonder woman_woman_wonder_diana
+2020-08-01,66,0.7279733333333333,66_ghibli_miyazaki_studio ghibli_studio
+2020-08-01,59,0.806146875,59_korean_korean film_korean movies_oldboy
+2020-08-01,36,0.1429235294117647,36_zombie_zombies_dead_busan
+2020-08-01,30,0.9782571428571429,30_indiana_indiana jones_jones_indy
+2020-08-01,34,0.7508928571428571,34_joker_joaquin_phoenix_joaquin phoenix
+2020-08-01,12,0.4714,12_spider_spider man_man_peter
+2020-08-01,32,0.8110750000000001,32_western_westerns_west_genre
+2020-08-01,75,0.5988259259259259,75_hitchcock_alfred hitchcock_alfred_hitchcock film
+2020-08-01,26,0.7103590909090909,26_ring_lord ring_lord_hobbit
+2020-08-01,6,0.4580294117647059,6_star_kristen_kristen stewart_stewart
+2020-08-01,50,0.7042545454545455,50_book_read_adaptations_adaptation
+2020-08-01,9,0.6735478260869565,9_bond_jam bond_jam_craig
+2020-08-01,54,0.4662866666666667,54_kombat_mortal kombat_mortal_sub zero
+2020-08-01,21,0.1903153846153846,21_die_actor_die age_dead
+2020-08-01,81,0.6056607142857143,81_trek_star trek_star_trek film
+2020-08-01,70,0.799625925925926,70_cgi_effect_practical_look
+2020-08-01,61,0.357909375,61_mulan_disney_live action_live
+2020-08-01,47,0.5092,47_black widow_widow_black_scarlett johansson
+2020-08-01,51,0.94085,51_cage_nicolas cage_nicolas_nic cage
+2020-08-01,77,0.5695300000000001,77_sonic_hedgehog_sonic hedgehog_sonic movie
+2020-08-01,45,0.4150333333333333,45_rocky_rambo_stallone_creed
+2020-08-01,20,0.7100558823529411,20_alien_predator_prometheus_word word word
+2020-08-01,41,0.8394250000000001,41_japanese_samurai_kurosawa_akira
+2020-08-01,53,0.4789041666666667,53_harry_potter_harry potter_fantastic beasts
+2020-08-01,64,0.5917842105263158,64_lynch_david lynch_mulholland_david
+2020-08-01,15,0.5602117647058823,15_tarantino_quentin_pulp_quentin tarantino
+2020-08-01,5,0.6375548387096773,5_dune_villeneuve_denis_denis villeneuve
+2020-08-01,46,0.7758583333333333,46_pixar_toy story_soul_toy
+2020-08-01,18,0.7124444444444444,18_godfather_michael_pacino_coppola
+2020-08-01,14,0.13660833333333333,14_shang chi_shang_chi_china
+2020-08-01,63,0.53858125,63_wick_john wick_john_action
+2020-08-01,17,0.5281315789473684,17_godzilla_kong_godzilla kong_monster
+2020-08-01,72,0.6434657534246575,72_disney_aladdin_moana_song
+2020-08-01,42,0.4312787878787879,42_suicide squad_squad_suicide_gunn
+2020-08-01,76,0.6709799999999999,76_dracula_vampire_vampires_bram
+2020-08-01,62,0.95336,62_venom_carnage_let carnage_venom let
+2020-08-01,52,0.66981,52_quote_movie quote_line_movie
+2020-08-01,44,0.3556533333333334,44_ridley_ridley scott_scott_duel
+2020-08-01,43,0.7013944444444444,43_mission impossible_mission_impossible_tom cruise
+2020-08-01,69,0.7983250000000001,69_green knight_knight_green_gawain
+2020-08-01,74,0.62460727532097,74_thrillers_thriller_psychological_movies
+2020-08-01,19,0.6779875,19_snyder_zack_zack snyder_justice league
+2020-08-01,39,0.68431,39_fast_furious_fast furious_car
+2020-08-01,49,0.10848181818181818,49_mad max_max_mad_fury
+2020-08-01,4,0.47451960784313724,4_poster_posters_movie posters_official poster
+2020-08-01,3,0.6880466666666667,3_star war_war_star_jedi
+2020-08-01,40,0.6447533333333333,40_animate_animation_animate movies_amp
+2020-08-01,16,0.9661,16_parasite_family_kim_bong
+2020-09-01,18,0.6410358974358974,18_godfather_michael_pacino_coppola
+2020-09-01,10,0.7246133333333333,10_matrix_neo_resurrections_matrix resurrections
+2020-09-01,26,0.2640157894736842,26_ring_lord ring_lord_hobbit
+2020-09-01,19,0.2748129032258064,19_snyder_zack_zack snyder_justice league
+2020-09-01,52,0.6095958333333333,52_quote_movie quote_line_movie
+2020-09-01,66,0.5525,66_ghibli_miyazaki_studio ghibli_studio
+2020-09-01,63,0.987475,63_wick_john wick_john_action
+2020-09-01,44,0.675885,44_ridley_ridley scott_scott_duel
+2020-09-01,73,0.698459574468085,73_scorsese_martin scorsese_martin_taxi
+2020-09-01,33,0.8941333333333333,33_jaw_shark_ocean_underwater
+2020-09-01,48,0.7591,48_russian_ukraine_russia_soviet
+2020-09-01,45,0.7699222222222222,45_rocky_rambo_stallone_creed
+2020-09-01,57,0.30601578947368424,57_sex_sex scenes_nudity_scenes
+2020-09-01,0,0.5888222222222222,0_movie_film_movies_like
+2020-09-01,32,0.40709999999999996,32_western_westerns_west_genre
+2020-09-01,25,0.6583088235294118,25_terminator_arnold_dark fate_fate
+2020-09-01,15,0.7655325000000001,15_tarantino_quentin_pulp_quentin tarantino
+2020-09-01,50,0.3010333333333333,50_book_read_adaptations_adaptation
+2020-09-01,2,0.7455222222222223,2_marvel_mcu_avengers_endgame
+2020-09-01,28,0.6168826086956521,28_jurassic_park_jurassic park_jurassic world
+2020-09-01,62,0.647425,62_venom_carnage_let carnage_venom let
+2020-09-01,76,0.8625666666666666,76_dracula_vampire_vampires_bram
+2020-09-01,29,0.6755428571428571,29_pirate_depp_johnny depp_johnny
+2020-09-01,67,0.519375,67_jojo_jojo rabbit_rabbit_taika
+2020-09-01,49,0.74745,49_mad max_max_mad_fury
+2020-09-01,7,0.7235945054945054,7_nolan_tenet_christopher nolan_christopher
+2020-09-01,59,0.7238840000000001,59_korean_korean film_korean movies_oldboy
+2020-09-01,4,0.6516617647058824,4_poster_posters_movie posters_official poster
+2020-09-01,58,0.307208,58_disaster_disaster movies_tomorrow_apocalyptic
+2020-09-01,30,0.8133800000000001,30_indiana_indiana jones_jones_indy
+2020-09-01,17,0.77516875,17_godzilla_kong_godzilla kong_monster
+2020-09-01,27,0.6871291666666667,27_wonder woman_woman_wonder_diana
+2020-09-01,47,0.496,47_black widow_widow_black_scarlett johansson
+2020-09-01,9,0.639571875,9_bond_jam bond_jam_craig
+2020-09-01,81,0.7166722222222223,81_trek_star trek_star_trek film
+2020-09-01,51,0.5447555555555555,51_cage_nicolas cage_nicolas_nic cage
+2020-09-01,11,0.7758518518518519,11_christmas_santa_christmas movie_christmas movies
+2020-09-01,60,0.35580625,60_borat_cohen_baron cohen_baron
+2020-09-01,31,0.9456133333333334,31_sandler_adam sandler_adam_uncut
+2020-09-01,46,0.6368217391304348,46_pixar_toy story_soul_toy
+2020-09-01,72,0.6894390625,72_disney_aladdin_moana_song
+2020-09-01,70,0.45713571428571426,70_cgi_effect_practical_look
+2020-09-01,53,0.6577818181818181,53_harry_potter_harry potter_fantastic beasts
+2020-09-01,79,0.413025,79_gay_straight_lgbt_queer
+2020-09-01,35,0.496128125,35_ghostbusters_afterlife_ghostbusters afterlife_bird bird
+2020-09-01,13,0.85939375,13_irishman_romantic_romance_goodfellas
+2020-09-01,36,0.3604857142857143,36_zombie_zombies_dead_busan
+2020-09-01,1,0.6075751773049645,1_trailer_official trailer_official_trailers
+2020-09-01,54,0.3659333333333333,54_kombat_mortal kombat_mortal_sub zero
+2020-09-01,24,0.23102727272727275,24_war_war movies_private ryan_save private
+2020-09-01,23,0.4270137931034483,23_rat_imdb_movies_fuck fuck fuck
+2020-09-01,42,0.17851250000000002,42_suicide squad_squad_suicide_gunn
+2020-09-01,8,0.4838923076923077,8_batman_dark knight_knight_dark
+2020-09-01,20,0.6652074074074074,20_alien_predator_prometheus_word word word
+2020-09-01,75,0.797375,75_hitchcock_alfred hitchcock_alfred_hitchcock film
+2020-09-01,40,0.7145785714285714,40_animate_animation_animate movies_amp
+2020-09-01,6,0.6783454545454546,6_star_kristen_kristen stewart_stewart
+2020-09-01,61,0.4337022222222222,61_mulan_disney_live action_live
+2020-09-01,77,0.7771375,77_sonic_hedgehog_sonic hedgehog_sonic movie
+2020-09-01,5,0.7407307692307692,5_dune_villeneuve_denis_denis villeneuve
+2020-09-01,69,0.9938,69_green knight_knight_green_gawain
+2020-09-01,37,0.08020666666666666,37_villain_villains_hero_heroes
+2020-09-01,3,0.10202666666666668,3_star war_war_star_jedi
+2020-09-01,80,0.7360717948717949,80_comment_reddit_com movies comment_com
+2020-09-01,68,0.6794620689655172,68_furious_fast_amp furious_fast amp furious
+2020-09-01,14,-0.07949375,14_shang chi_shang_chi_china
+2020-09-01,22,0.37653,22_white_black_racist_people
+2020-09-01,12,0.3794,12_spider_spider man_man_peter
+2020-09-01,38,0.6119769230769231,38_blade_blade runner_runner_deckard
+2020-09-01,43,0.8321136363636363,43_mission impossible_mission_impossible_tom cruise
+2020-09-01,34,0.7349769230769231,34_joker_joaquin_phoenix_joaquin phoenix
+2020-09-01,39,0.85455,39_fast_furious_fast furious_car
+2020-09-01,16,0.8015,16_parasite_family_kim_bong
+2020-09-01,56,-0.11428536585365855,56_cut_version_theatrical_director cut
+2020-09-01,65,0.58765,65_avatar_jam cameron_cameron_endgame
+2020-09-01,71,0.7947642857142857,71_fight_fight scenes_fight scene_punch
+2020-09-01,74,0.6256381846635368,74_thrillers_thriller_psychological_movies
+2020-09-01,78,0.6335333333333334,78_martial_martial arts_arts_karate
+2020-09-01,21,0.14397894736842104,21_die_actor_die age_dead
+2020-09-01,64,0.9110384615384616,64_lynch_david lynch_mulholland_david
+2020-09-01,55,0.9277666666666667,55_youpoll_https youpoll_poll_click https youpoll
+2020-09-01,41,0.6203285714285715,41_japanese_samurai_kurosawa_akira
+2020-10-01,47,0.47545,47_black widow_widow_black_scarlett johansson
+2020-10-01,64,0.4038171428571428,64_lynch_david lynch_mulholland_david
+2020-10-01,43,0.584944,43_mission impossible_mission_impossible_tom cruise
+2020-10-01,76,0.4694263157894737,76_dracula_vampire_vampires_bram
+2020-10-01,50,0.9821714285714286,50_book_read_adaptations_adaptation
+2020-10-01,37,0.21099285714285715,37_villain_villains_hero_heroes
+2020-10-01,75,0.4654060606060606,75_hitchcock_alfred hitchcock_alfred_hitchcock film
+2020-10-01,49,0.5052749999999999,49_mad max_max_mad_fury
+2020-10-01,29,0.8372666666666667,29_pirate_depp_johnny depp_johnny
+2020-10-01,59,0.7710894736842105,59_korean_korean film_korean movies_oldboy
+2020-10-01,67,0.5106,67_jojo_jojo rabbit_rabbit_taika
+2020-10-01,62,0.86202,62_venom_carnage_let carnage_venom let
+2020-10-01,39,0.9671666666666666,39_fast_furious_fast furious_car
+2020-10-01,2,0.6492345454545455,2_marvel_mcu_avengers_endgame
+2020-10-01,40,0.6646625,40_animate_animation_animate movies_amp
+2020-10-01,77,0.7266222222222223,77_sonic_hedgehog_sonic hedgehog_sonic movie
+2020-10-01,46,0.6074906250000001,46_pixar_toy story_soul_toy
+2020-10-01,5,0.5012066666666667,5_dune_villeneuve_denis_denis villeneuve
+2020-10-01,7,0.7456126984126984,7_nolan_tenet_christopher nolan_christopher
+2020-10-01,38,0.932375,38_blade_blade runner_runner_deckard
+2020-10-01,66,0.477175,66_ghibli_miyazaki_studio ghibli_studio
+2020-10-01,33,0.23124000000000003,33_jaw_shark_ocean_underwater
+2020-10-01,34,0.73455,34_joker_joaquin_phoenix_joaquin phoenix
+2020-10-01,3,0.46365294117647055,3_star war_war_star_jedi
+2020-10-01,52,0.956857142857143,52_quote_movie quote_line_movie
+2020-10-01,44,0.8707916666666667,44_ridley_ridley scott_scott_duel
+2020-10-01,56,0.57091,56_cut_version_theatrical_director cut
+2020-10-01,6,0.6271882352941177,6_star_kristen_kristen stewart_stewart
+2020-10-01,61,0.2427222222222222,61_mulan_disney_live action_live
+2020-10-01,63,-0.17939999999999998,63_wick_john wick_john_action
+2020-10-01,42,0.507552380952381,42_suicide squad_squad_suicide_gunn
+2020-10-01,32,0.6497714285714286,32_western_westerns_west_genre
+2020-10-01,57,0.5325057142857142,57_sex_sex scenes_nudity_scenes
+2020-10-01,45,0.4698318181818182,45_rocky_rambo_stallone_creed
+2020-10-01,35,0.5128921052631579,35_ghostbusters_afterlife_ghostbusters afterlife_bird bird
+2020-10-01,73,0.6314337349397591,73_scorsese_martin scorsese_martin_taxi
+2020-10-01,1,0.601465625,1_trailer_official trailer_official_trailers
+2020-10-01,51,0.3221142857142857,51_cage_nicolas cage_nicolas_nic cage
+2020-10-01,31,0.8199333333333333,31_sandler_adam sandler_adam_uncut
+2020-10-01,58,0.5617172413793103,58_disaster_disaster movies_tomorrow_apocalyptic
+2020-10-01,41,0.9572923076923078,41_japanese_samurai_kurosawa_akira
+2020-10-01,53,0.349975,53_harry_potter_harry potter_fantastic beasts
+2020-10-01,60,0.5502428571428571,60_borat_cohen_baron cohen_baron
+2020-10-01,36,0.27140000000000003,36_zombie_zombies_dead_busan
+2020-10-01,4,0.6685868421052632,4_poster_posters_movie posters_official poster
+2020-10-01,65,0.569125,65_avatar_jam cameron_cameron_endgame
+2020-10-01,54,0.4342428571428572,54_kombat_mortal kombat_mortal_sub zero
+2020-10-01,30,0.6674285714285714,30_indiana_indiana jones_jones_indy
+2020-10-01,78,0.5901375,78_martial_martial arts_arts_karate
+2020-10-01,74,0.5198904761904761,74_thrillers_thriller_psychological_movies
+2020-10-01,14,0.5282142857142856,14_shang chi_shang_chi_china
+2020-10-01,15,0.6283071428571428,15_tarantino_quentin_pulp_quentin tarantino
+2020-10-01,16,0.8590333333333334,16_parasite_family_kim_bong
+2020-10-01,27,0.7369033333333334,27_wonder woman_woman_wonder_diana
+2020-10-01,70,0.7552142857142857,70_cgi_effect_practical_look
+2020-10-01,81,0.7957909090909091,81_trek_star trek_star_trek film
+2020-10-01,9,0.49172,9_bond_jam bond_jam_craig
+2020-10-01,18,0.37784782608695655,18_godfather_michael_pacino_coppola
+2020-10-01,19,0.5865535714285715,19_snyder_zack_zack snyder_justice league
+2020-10-01,13,0.831725,13_irishman_romantic_romance_goodfellas
+2020-10-01,20,0.6770375,20_alien_predator_prometheus_word word word
+2020-10-01,21,-0.046289473684210526,21_die_actor_die age_dead
+2020-10-01,22,0.6275333333333334,22_white_black_racist_people
+2020-10-01,8,0.500375,8_batman_dark knight_knight_dark
+2020-10-01,80,0.7548340909090908,80_comment_reddit_com movies comment_com
+2020-10-01,23,0.6145999999999999,23_rat_imdb_movies_fuck fuck fuck
+2020-10-01,26,0.5982090909090909,26_ring_lord ring_lord_hobbit
+2020-10-01,24,0.08982500000000002,24_war_war movies_private ryan_save private
+2020-10-01,68,0.5911536585365854,68_furious_fast_amp furious_fast amp furious
+2020-10-01,25,0.5931323076923077,25_terminator_arnold_dark fate_fate
+2020-10-01,69,0.46237500000000004,69_green knight_knight_green_gawain
+2020-10-01,71,0.205364,71_fight_fight scenes_fight scene_punch
+2020-10-01,17,0.3996642857142857,17_godzilla_kong_godzilla kong_monster
+2020-10-01,79,0.147275,79_gay_straight_lgbt_queer
+2020-10-01,48,0.9169,48_russian_ukraine_russia_soviet
+2020-10-01,0,0.4076225806451613,0_movie_film_movies_like
+2020-10-01,72,0.7630966666666666,72_disney_aladdin_moana_song
+2020-10-01,12,0.62701875,12_spider_spider man_man_peter
+2020-10-01,11,0.67476,11_christmas_santa_christmas movie_christmas movies
+2020-10-01,10,0.8580333333333333,10_matrix_neo_resurrections_matrix resurrections
+2020-10-01,28,0.7933782608695651,28_jurassic_park_jurassic park_jurassic world
+2020-11-01,59,0.6262275862068966,59_korean_korean film_korean movies_oldboy
+2020-11-01,41,0.6385928571428572,41_japanese_samurai_kurosawa_akira
+2020-11-01,66,0.7759846153846154,66_ghibli_miyazaki_studio ghibli_studio
+2020-11-01,69,0.9859,69_green knight_knight_green_gawain
+2020-11-01,5,0.7128099999999999,5_dune_villeneuve_denis_denis villeneuve
+2020-11-01,60,0.5386064516129032,60_borat_cohen_baron cohen_baron
+2020-11-01,77,0.7737857142857143,77_sonic_hedgehog_sonic hedgehog_sonic movie
+2020-11-01,11,0.5963652631578947,11_christmas_santa_christmas movie_christmas movies
+2020-11-01,74,0.5442465185185185,74_thrillers_thriller_psychological_movies
+2020-11-01,40,0.7954822222222222,40_animate_animation_animate movies_amp
+2020-11-01,64,0.5452309523809523,64_lynch_david lynch_mulholland_david
+2020-11-01,21,0.12525217391304347,21_die_actor_die age_dead
+2020-11-01,39,0.22265000000000001,39_fast_furious_fast furious_car
+2020-11-01,73,0.6713741935483871,73_scorsese_martin scorsese_martin_taxi
+2020-11-01,1,0.519396052631579,1_trailer_official trailer_official_trailers
+2020-11-01,38,0.4259833333333333,38_blade_blade runner_runner_deckard
+2020-11-01,78,0.7379333333333333,78_martial_martial arts_arts_karate
+2020-11-01,34,0.35904074074074077,34_joker_joaquin_phoenix_joaquin phoenix
+2020-11-01,68,0.5234309523809524,68_furious_fast_amp furious_fast amp furious
+2020-11-01,48,0.83912,48_russian_ukraine_russia_soviet
+2020-11-01,35,0.5533785714285715,35_ghostbusters_afterlife_ghostbusters afterlife_bird bird
+2020-11-01,65,0.91336,65_avatar_jam cameron_cameron_endgame
+2020-11-01,23,0.42531071428571426,23_rat_imdb_movies_fuck fuck fuck
+2020-11-01,36,0.5792714285714285,36_zombie_zombies_dead_busan
+2020-11-01,10,0.2974875,10_matrix_neo_resurrections_matrix resurrections
+2020-11-01,24,0.47047142857142854,24_war_war movies_private ryan_save private
+2020-11-01,37,-0.18562105263157896,37_villain_villains_hero_heroes
+2020-11-01,6,0.8436,6_star_kristen_kristen stewart_stewart
+2020-11-01,80,0.7042527777777778,80_comment_reddit_com movies comment_com
+2020-11-01,20,0.6438685714285715,20_alien_predator_prometheus_word word word
+2020-11-01,22,0.33024,22_white_black_racist_people
+2020-11-01,58,0.5888533333333333,58_disaster_disaster movies_tomorrow_apocalyptic
+2020-11-01,2,0.6724901408450704,2_marvel_mcu_avengers_endgame
+2020-11-01,8,0.5559714285714286,8_batman_dark knight_knight_dark
+2020-11-01,43,0.335612,43_mission impossible_mission_impossible_tom cruise
+2020-11-01,55,0.8953000000000001,55_youpoll_https youpoll_poll_click https youpoll
+2020-11-01,12,0.5026529411764705,12_spider_spider man_man_peter
+2020-11-01,50,0.6749454545454546,50_book_read_adaptations_adaptation
+2020-11-01,51,0.663825,51_cage_nicolas cage_nicolas_nic cage
+2020-11-01,72,0.7202445945945946,72_disney_aladdin_moana_song
+2020-11-01,15,0.6212633333333333,15_tarantino_quentin_pulp_quentin tarantino
+2020-11-01,56,0.3681481481481481,56_cut_version_theatrical_director cut
+2020-11-01,52,0.41780869565217393,52_quote_movie quote_line_movie
+2020-11-01,53,0.6124095238095238,53_harry_potter_harry potter_fantastic beasts
+2020-11-01,3,0.3463054054054054,3_star war_war_star_jedi
+2020-11-01,75,0.5618484848484848,75_hitchcock_alfred hitchcock_alfred_hitchcock film
+2020-11-01,61,0.950375,61_mulan_disney_live action_live
+2020-11-01,14,0.9882333333333332,14_shang chi_shang_chi_china
+2020-11-01,71,0.23396470588235294,71_fight_fight scenes_fight scene_punch
+2020-11-01,54,0.4841,54_kombat_mortal kombat_mortal_sub zero
+2020-11-01,13,0.78935,13_irishman_romantic_romance_goodfellas
+2020-11-01,16,0.11830000000000002,16_parasite_family_kim_bong
+2020-11-01,42,0.11290476190476191,42_suicide squad_squad_suicide_gunn
+2020-11-01,81,0.5590909090909091,81_trek_star trek_star_trek film
+2020-11-01,62,0.1549846153846154,62_venom_carnage_let carnage_venom let
+2020-11-01,44,0.6488285714285714,44_ridley_ridley scott_scott_duel
+2020-11-01,63,0.3282555555555555,63_wick_john wick_john_action
+2020-11-01,45,0.546125,45_rocky_rambo_stallone_creed
+2020-11-01,18,0.6335641025641026,18_godfather_michael_pacino_coppola
+2020-11-01,46,0.6050428571428571,46_pixar_toy story_soul_toy
+2020-11-01,4,0.4158459459459459,4_poster_posters_movie posters_official poster
+2020-11-01,76,0.62436,76_dracula_vampire_vampires_bram
+2020-11-01,17,0.31906190476190477,17_godzilla_kong_godzilla kong_monster
+2020-11-01,33,0.943811111111111,33_jaw_shark_ocean_underwater
+2020-11-01,47,0.3880863636363637,47_black widow_widow_black_scarlett johansson
+2020-11-01,57,0.5857884615384615,57_sex_sex scenes_nudity_scenes
+2020-11-01,0,0.6323939393939394,0_movie_film_movies_like
+2020-11-01,70,0.6278055555555555,70_cgi_effect_practical_look
+2020-11-01,9,0.569174074074074,9_bond_jam bond_jam_craig
+2020-11-01,49,0.8132428571428572,49_mad max_max_mad_fury
+2020-11-01,25,0.4838369047619048,25_terminator_arnold_dark fate_fate
+2020-11-01,19,0.4536925925925926,19_snyder_zack_zack snyder_justice league
+2020-11-01,27,0.5949,27_wonder woman_woman_wonder_diana
+2020-11-01,32,0.5759866666666666,32_western_westerns_west_genre
+2020-11-01,29,0.043199999999999995,29_pirate_depp_johnny depp_johnny
+2020-11-01,31,0.9789142857142856,31_sandler_adam sandler_adam_uncut
+2020-11-01,79,0.2908857142857143,79_gay_straight_lgbt_queer
+2020-11-01,7,0.5340803571428572,7_nolan_tenet_christopher nolan_christopher
+2020-11-01,26,0.38145,26_ring_lord ring_lord_hobbit
+2020-11-01,67,0.8747333333333334,67_jojo_jojo rabbit_rabbit_taika
+2020-11-01,28,0.48835333333333336,28_jurassic_park_jurassic park_jurassic world
+2020-11-01,30,0.496525,30_indiana_indiana jones_jones_indy
+2020-12-01,47,0.5076875,47_black widow_widow_black_scarlett johansson
+2020-12-01,46,0.682948275862069,46_pixar_toy story_soul_toy
+2020-12-01,34,0.7234285714285714,34_joker_joaquin_phoenix_joaquin phoenix
+2020-12-01,76,0.8844909090909091,76_dracula_vampire_vampires_bram
+2020-12-01,40,0.7713454545454546,40_animate_animation_animate movies_amp
+2020-12-01,24,0.40967333333333333,24_war_war movies_private ryan_save private
+2020-12-01,23,0.48648484848484846,23_rat_imdb_movies_fuck fuck fuck
+2020-12-01,64,0.8016818181818182,64_lynch_david lynch_mulholland_david
+2020-12-01,17,0.24062222222222224,17_godzilla_kong_godzilla kong_monster
+2020-12-01,42,0.2738,42_suicide squad_squad_suicide_gunn
+2020-12-01,10,0.8150166666666667,10_matrix_neo_resurrections_matrix resurrections
+2020-12-01,30,0.5873117647058824,30_indiana_indiana jones_jones_indy
+2020-12-01,19,0.4109974358974359,19_snyder_zack_zack snyder_justice league
+2020-12-01,29,0.32093499999999997,29_pirate_depp_johnny depp_johnny
+2020-12-01,13,0.7158410256410256,13_irishman_romantic_romance_goodfellas
+2020-12-01,21,0.4078285714285715,21_die_actor_die age_dead
+2020-12-01,67,0.47219999999999995,67_jojo_jojo rabbit_rabbit_taika
+2020-12-01,2,0.7118405405405406,2_marvel_mcu_avengers_endgame
+2020-12-01,4,0.5298684210526315,4_poster_posters_movie posters_official poster
+2020-12-01,56,0.616692,56_cut_version_theatrical_director cut
+2020-12-01,12,0.8161428571428572,12_spider_spider man_man_peter
+2020-12-01,60,0.49118,60_borat_cohen_baron cohen_baron
+2020-12-01,63,0.8058799999999999,63_wick_john wick_john_action
+2020-12-01,44,0.7047428571428572,44_ridley_ridley scott_scott_duel
+2020-12-01,28,0.6504269230769231,28_jurassic_park_jurassic park_jurassic world
+2020-12-01,7,0.6937353383458646,7_nolan_tenet_christopher nolan_christopher
+2020-12-01,41,0.8407764705882353,41_japanese_samurai_kurosawa_akira
+2020-12-01,11,0.6922261061946904,11_christmas_santa_christmas movie_christmas movies
+2020-12-01,18,0.544853086419753,18_godfather_michael_pacino_coppola
+2020-12-01,57,0.5036573770491803,57_sex_sex scenes_nudity_scenes
+2020-12-01,45,0.5906428571428571,45_rocky_rambo_stallone_creed
+2020-12-01,35,0.5861179487179486,35_ghostbusters_afterlife_ghostbusters afterlife_bird bird
+2020-12-01,43,0.37244305555555557,43_mission impossible_mission_impossible_tom cruise
+2020-12-01,65,0.8947636363636363,65_avatar_jam cameron_cameron_endgame
+2020-12-01,38,0.7748444444444444,38_blade_blade runner_runner_deckard
+2020-12-01,32,0.6489857142857142,32_western_westerns_west_genre
+2020-12-01,26,0.8189931818181818,26_ring_lord ring_lord_hobbit
+2020-12-01,74,0.6411595330739299,74_thrillers_thriller_psychological_movies
+2020-12-01,68,0.5478333333333334,68_furious_fast_amp furious_fast amp furious
+2020-12-01,49,0.6828954545454545,49_mad max_max_mad_fury
+2020-12-01,27,0.48920238095238094,27_wonder woman_woman_wonder_diana
+2020-12-01,66,0.7616777777777778,66_ghibli_miyazaki_studio ghibli_studio
+2020-12-01,25,0.6230414893617021,25_terminator_arnold_dark fate_fate
+2020-12-01,36,0.3259933333333333,36_zombie_zombies_dead_busan
+2020-12-01,15,0.5054438596491229,15_tarantino_quentin_pulp_quentin tarantino
+2020-12-01,51,0.3146166666666667,51_cage_nicolas cage_nicolas_nic cage
+2020-12-01,1,0.5645765027322404,1_trailer_official trailer_official_trailers
+2020-12-01,39,0.6116214285714285,39_fast_furious_fast furious_car
+2020-12-01,8,0.43055681818181823,8_batman_dark knight_knight_dark
+2020-12-01,14,0.4959125,14_shang chi_shang_chi_china
+2020-12-01,52,0.5594627906976744,52_quote_movie quote_line_movie
+2020-12-01,22,-0.15744999999999998,22_white_black_racist_people
+2020-12-01,31,0.5538764705882353,31_sandler_adam sandler_adam_uncut
+2020-12-01,80,0.7081636363636363,80_comment_reddit_com movies comment_com
+2020-12-01,3,0.20286428571428572,3_star war_war_star_jedi
+2020-12-01,75,0.5495333333333333,75_hitchcock_alfred hitchcock_alfred_hitchcock film
+2020-12-01,61,0.9216857142857143,61_mulan_disney_live action_live
+2020-12-01,53,0.6000115384615385,53_harry_potter_harry potter_fantastic beasts
+2020-12-01,73,0.7445029850746269,73_scorsese_martin scorsese_martin_taxi
+2020-12-01,62,0.29116,62_venom_carnage_let carnage_venom let
+2020-12-01,33,0.5504142857142857,33_jaw_shark_ocean_underwater
+2020-12-01,78,0.46131538461538457,78_martial_martial arts_arts_karate
+2020-12-01,71,0.20827948717948716,71_fight_fight scenes_fight scene_punch
+2020-12-01,37,0.06854444444444445,37_villain_villains_hero_heroes
+2020-12-01,70,0.7150821428571429,70_cgi_effect_practical_look
+2020-12-01,20,0.6417238095238096,20_alien_predator_prometheus_word word word
+2020-12-01,69,0.7273000000000001,69_green knight_knight_green_gawain
+2020-12-01,16,0.452075,16_parasite_family_kim_bong
+2020-12-01,48,-0.05107142857142856,48_russian_ukraine_russia_soviet
+2020-12-01,59,0.6740351351351351,59_korean_korean film_korean movies_oldboy
+2020-12-01,77,0.6132,77_sonic_hedgehog_sonic hedgehog_sonic movie
+2020-12-01,72,0.7113346534653466,72_disney_aladdin_moana_song
+2020-12-01,79,0.56784,79_gay_straight_lgbt_queer
+2020-12-01,54,0.6012533333333334,54_kombat_mortal kombat_mortal_sub zero
+2020-12-01,0,0.5541836734693878,0_movie_film_movies_like
+2020-12-01,50,0.929142857142857,50_book_read_adaptations_adaptation
+2020-12-01,5,0.583978947368421,5_dune_villeneuve_denis_denis villeneuve
+2020-12-01,9,0.7245714285714285,9_bond_jam bond_jam_craig
+2020-12-01,81,0.6050424999999999,81_trek_star trek_star_trek film
+2020-12-01,6,0.6992657142857143,6_star_kristen_kristen stewart_stewart
+2020-12-01,58,0.37100740740740745,58_disaster_disaster movies_tomorrow_apocalyptic
+2021-01-01,70,0.8614296296296297,70_cgi_effect_practical_look
+2021-01-01,81,0.5731454545454545,81_trek_star trek_star_trek film
+2021-01-01,21,0.23607391304347827,21_die_actor_die age_dead
+2021-01-01,61,0.958275,61_mulan_disney_live action_live
+2021-01-01,41,0.5999260869565217,41_japanese_samurai_kurosawa_akira
+2021-01-01,80,0.6503263157894738,80_comment_reddit_com movies comment_com
+2021-01-01,27,0.33217076923076927,27_wonder woman_woman_wonder_diana
+2021-01-01,58,0.4651263157894737,58_disaster_disaster movies_tomorrow_apocalyptic
+2021-01-01,9,0.4195740740740741,9_bond_jam bond_jam_craig
+2021-01-01,22,0.8068166666666667,22_white_black_racist_people
+2021-01-01,65,0.9597714285714286,65_avatar_jam cameron_cameron_endgame
+2021-01-01,40,0.670448275862069,40_animate_animation_animate movies_amp
+2021-01-01,6,0.78867,6_star_kristen_kristen stewart_stewart
+2021-01-01,78,0.853745,78_martial_martial arts_arts_karate
+2021-01-01,39,0.9035777777777779,39_fast_furious_fast furious_car
+2021-01-01,42,0.20274999999999999,42_suicide squad_squad_suicide_gunn
+2021-01-01,2,0.5810504761904762,2_marvel_mcu_avengers_endgame
+2021-01-01,77,0.5189,77_sonic_hedgehog_sonic hedgehog_sonic movie
+2021-01-01,72,0.6901775,72_disney_aladdin_moana_song
+2021-01-01,1,0.5884052631578948,1_trailer_official trailer_official_trailers
+2021-01-01,71,0.2317512195121951,71_fight_fight scenes_fight scene_punch
+2021-01-01,55,0.97035,55_youpoll_https youpoll_poll_click https youpoll
+2021-01-01,51,0.9315999999999999,51_cage_nicolas cage_nicolas_nic cage
+2021-01-01,10,0.5353263157894738,10_matrix_neo_resurrections_matrix resurrections
+2021-01-01,16,0.3515428571428571,16_parasite_family_kim_bong
+2021-01-01,30,0.6726428571428571,30_indiana_indiana jones_jones_indy
+2021-01-01,48,0.96585,48_russian_ukraine_russia_soviet
+2021-01-01,52,0.7332096774193549,52_quote_movie quote_line_movie
+2021-01-01,28,0.7717277777777778,28_jurassic_park_jurassic park_jurassic world
+2021-01-01,0,0.7284849999999999,0_movie_film_movies_like
+2021-01-01,8,0.4316921875,8_batman_dark knight_knight_dark
+2021-01-01,76,0.58588,76_dracula_vampire_vampires_bram
+2021-01-01,4,0.6460347826086956,4_poster_posters_movie posters_official poster
+2021-01-01,53,0.4987333333333333,53_harry_potter_harry potter_fantastic beasts
+2021-01-01,62,0.13641428571428574,62_venom_carnage_let carnage_venom let
+2021-01-01,50,0.8013714285714286,50_book_read_adaptations_adaptation
+2021-01-01,74,0.6473966666666667,74_thrillers_thriller_psychological_movies
+2021-01-01,17,0.5711916666666667,17_godzilla_kong_godzilla kong_monster
+2021-01-01,63,0.3423076923076923,63_wick_john wick_john_action
+2021-01-01,15,0.687837037037037,15_tarantino_quentin_pulp_quentin tarantino
+2021-01-01,43,0.4688604651162791,43_mission impossible_mission_impossible_tom cruise
+2021-01-01,20,0.5301875,20_alien_predator_prometheus_word word word
+2021-01-01,44,0.563372,44_ridley_ridley scott_scott_duel
+2021-01-01,57,0.5206565217391305,57_sex_sex scenes_nudity_scenes
+2021-01-01,64,0.672424,64_lynch_david lynch_mulholland_david
+2021-01-01,45,0.639615625,45_rocky_rambo_stallone_creed
+2021-01-01,13,0.7277291666666666,13_irishman_romantic_romance_goodfellas
+2021-01-01,19,0.12071153846153845,19_snyder_zack_zack snyder_justice league
+2021-01-01,73,0.6577134920634921,73_scorsese_martin scorsese_martin_taxi
+2021-01-01,5,0.7982235294117648,5_dune_villeneuve_denis_denis villeneuve
+2021-01-01,46,0.7927465116279069,46_pixar_toy story_soul_toy
+2021-01-01,31,0.7292636363636364,31_sandler_adam sandler_adam_uncut
+2021-01-01,47,0.40699599999999997,47_black widow_widow_black_scarlett johansson
+2021-01-01,18,0.7381780487804878,18_godfather_michael_pacino_coppola
+2021-01-01,56,0.3613090909090909,56_cut_version_theatrical_director cut
+2021-01-01,49,0.4429071428571429,49_mad max_max_mad_fury
+2021-01-01,14,0.2595909090909091,14_shang chi_shang_chi_china
+2021-01-01,3,0.4479870967741935,3_star war_war_star_jedi
+2021-01-01,54,0.6728375,54_kombat_mortal kombat_mortal_sub zero
+2021-01-01,29,0.6508,29_pirate_depp_johnny depp_johnny
+2021-01-01,26,0.6312472222222223,26_ring_lord ring_lord_hobbit
+2021-01-01,60,0.40970526315789474,60_borat_cohen_baron cohen_baron
+2021-01-01,35,0.5341904761904762,35_ghostbusters_afterlife_ghostbusters afterlife_bird bird
+2021-01-01,12,0.8001684210526316,12_spider_spider man_man_peter
+2021-01-01,79,0.7113799999999999,79_gay_straight_lgbt_queer
+2021-01-01,38,0.8034,38_blade_blade runner_runner_deckard
+2021-01-01,59,0.7507892857142858,59_korean_korean film_korean movies_oldboy
+2021-01-01,11,0.7237976190476191,11_christmas_santa_christmas movie_christmas movies
+2021-01-01,36,0.05254444444444444,36_zombie_zombies_dead_busan
+2021-01-01,68,0.7521615384615384,68_furious_fast_amp furious_fast amp furious
+2021-01-01,67,0.6068777777777777,67_jojo_jojo rabbit_rabbit_taika
+2021-01-01,37,0.2955666666666667,37_villain_villains_hero_heroes
+2021-01-01,32,0.9353,32_western_westerns_west_genre
+2021-01-01,34,0.8520888888888889,34_joker_joaquin_phoenix_joaquin phoenix
+2021-01-01,7,0.7124857142857144,7_nolan_tenet_christopher nolan_christopher
+2021-01-01,23,0.712995,23_rat_imdb_movies_fuck fuck fuck
+2021-01-01,25,0.7022556818181818,25_terminator_arnold_dark fate_fate
+2021-01-01,33,0.44887,33_jaw_shark_ocean_underwater
+2021-01-01,69,-0.6126,69_green knight_knight_green_gawain
+2021-01-01,75,0.601709090909091,75_hitchcock_alfred hitchcock_alfred_hitchcock film
+2021-01-01,24,0.4733117647058824,24_war_war movies_private ryan_save private
+2021-01-01,66,0.7645470588235294,66_ghibli_miyazaki_studio ghibli_studio
+2021-02-01,59,0.5905166666666667,59_korean_korean film_korean movies_oldboy
+2021-02-01,70,0.6346999999999999,70_cgi_effect_practical_look
+2021-02-01,46,0.706225,46_pixar_toy story_soul_toy
+2021-02-01,42,0.5096666666666666,42_suicide squad_squad_suicide_gunn
+2021-02-01,52,0.5142,52_quote_movie quote_line_movie
+2021-02-01,1,0.5050057142857143,1_trailer_official trailer_official_trailers
+2021-02-01,56,0.5184153846153846,56_cut_version_theatrical_director cut
+2021-02-01,21,0.22569499999999998,21_die_actor_die age_dead
+2021-02-01,61,0.10868333333333337,61_mulan_disney_live action_live
+2021-02-01,60,0.25875333333333334,60_borat_cohen_baron cohen_baron
+2021-02-01,81,0.71215625,81_trek_star trek_star_trek film
+2021-02-01,9,0.5314066666666667,9_bond_jam bond_jam_craig
+2021-02-01,44,0.6931681818181818,44_ridley_ridley scott_scott_duel
+2021-02-01,8,0.1996733333333333,8_batman_dark knight_knight_dark
+2021-02-01,18,0.5678475,18_godfather_michael_pacino_coppola
+2021-02-01,72,0.7501512499999999,72_disney_aladdin_moana_song
+2021-02-01,26,0.5273130434782608,26_ring_lord ring_lord_hobbit
+2021-02-01,4,0.48462750000000004,4_poster_posters_movie posters_official poster
+2021-02-01,57,0.26591176470588235,57_sex_sex scenes_nudity_scenes
+2021-02-01,77,0.8962666666666667,77_sonic_hedgehog_sonic hedgehog_sonic movie
+2021-02-01,45,0.4893772727272727,45_rocky_rambo_stallone_creed
+2021-02-01,5,0.6620571428571429,5_dune_villeneuve_denis_denis villeneuve
+2021-02-01,20,0.4944702702702703,20_alien_predator_prometheus_word word word
+2021-02-01,43,0.5959148148148148,43_mission impossible_mission_impossible_tom cruise
+2021-02-01,7,0.7733442622950819,7_nolan_tenet_christopher nolan_christopher
+2021-02-01,69,0.9956,69_green knight_knight_green_gawain
+2021-02-01,36,0.27393999999999996,36_zombie_zombies_dead_busan
+2021-02-01,19,0.4814340659340659,19_snyder_zack_zack snyder_justice league
+2021-02-01,74,0.5856510510510511,74_thrillers_thriller_psychological_movies
+2021-02-01,10,0.94428,10_matrix_neo_resurrections_matrix resurrections
+2021-02-01,13,0.74125,13_irishman_romantic_romance_goodfellas
+2021-02-01,76,0.657035294117647,76_dracula_vampire_vampires_bram
+2021-02-01,64,0.6602166666666667,64_lynch_david lynch_mulholland_david
+2021-02-01,2,0.5803520547945205,2_marvel_mcu_avengers_endgame
+2021-02-01,73,0.5646186274509803,73_scorsese_martin scorsese_martin_taxi
+2021-02-01,37,0.15974000000000002,37_villain_villains_hero_heroes
+2021-02-01,0,0.4664513513513514,0_movie_film_movies_like
+2021-02-01,53,0.7056964285714286,53_harry_potter_harry potter_fantastic beasts
+2021-02-01,31,0.64625625,31_sandler_adam sandler_adam_uncut
+2021-02-01,66,0.5857333333333333,66_ghibli_miyazaki_studio ghibli_studio
+2021-02-01,24,0.01560952380952382,24_war_war movies_private ryan_save private
+2021-02-01,47,0.5686958333333333,47_black widow_widow_black_scarlett johansson
+2021-02-01,48,0.9922,48_russian_ukraine_russia_soviet
+2021-02-01,38,0.6528272727272727,38_blade_blade runner_runner_deckard
+2021-02-01,40,0.7167727272727272,40_animate_animation_animate movies_amp
+2021-02-01,30,0.6538,30_indiana_indiana jones_jones_indy
+2021-02-01,65,0.9864,65_avatar_jam cameron_cameron_endgame
+2021-02-01,22,0.08761666666666668,22_white_black_racist_people
+2021-02-01,17,0.678342105263158,17_godzilla_kong_godzilla kong_monster
+2021-02-01,14,0.50374,14_shang chi_shang_chi_china
+2021-02-01,58,0.23696,58_disaster_disaster movies_tomorrow_apocalyptic
+2021-02-01,75,0.618072972972973,75_hitchcock_alfred hitchcock_alfred_hitchcock film
+2021-02-01,3,0.3724148148148148,3_star war_war_star_jedi
+2021-02-01,23,0.585003125,23_rat_imdb_movies_fuck fuck fuck
+2021-02-01,51,0.60213,51_cage_nicolas cage_nicolas_nic cage
+2021-02-01,12,0.5910176470588235,12_spider_spider man_man_peter
+2021-02-01,34,0.49354615384615386,34_joker_joaquin_phoenix_joaquin phoenix
+2021-02-01,28,0.42155000000000004,28_jurassic_park_jurassic park_jurassic world
+2021-02-01,78,0.5203555555555556,78_martial_martial arts_arts_karate
+2021-02-01,39,0.8467222222222222,39_fast_furious_fast furious_car
+2021-02-01,50,0.57465,50_book_read_adaptations_adaptation
+2021-02-01,29,0.18805454545454545,29_pirate_depp_johnny depp_johnny
+2021-02-01,11,0.832221875,11_christmas_santa_christmas movie_christmas movies
+2021-02-01,71,0.528109756097561,71_fight_fight scenes_fight scene_punch
+2021-02-01,79,0.41541818181818174,79_gay_straight_lgbt_queer
+2021-02-01,6,0.772775,6_star_kristen_kristen stewart_stewart
+2021-02-01,49,0.8596285714285715,49_mad max_max_mad_fury
+2021-02-01,15,0.6967928571428571,15_tarantino_quentin_pulp_quentin tarantino
+2021-02-01,35,0.5582657894736842,35_ghostbusters_afterlife_ghostbusters afterlife_bird bird
+2021-02-01,67,0.09427777777777778,67_jojo_jojo rabbit_rabbit_taika
+2021-02-01,63,0.6214666666666666,63_wick_john wick_john_action
+2021-02-01,54,0.5785206896551724,54_kombat_mortal kombat_mortal_sub zero
+2021-02-01,41,0.5139238095238096,41_japanese_samurai_kurosawa_akira
+2021-02-01,16,0.8919499999999999,16_parasite_family_kim_bong
+2021-02-01,32,0.63906875,32_western_westerns_west_genre
+2021-02-01,68,0.76002,68_furious_fast_amp furious_fast amp furious
+2021-02-01,80,0.6865811320754718,80_comment_reddit_com movies comment_com
+2021-02-01,62,0.22568181818181818,62_venom_carnage_let carnage_venom let
+2021-02-01,33,0.7920428571428572,33_jaw_shark_ocean_underwater
+2021-02-01,27,0.4031,27_wonder woman_woman_wonder_diana
+2021-02-01,25,0.6212634920634921,25_terminator_arnold_dark fate_fate
+2021-03-01,4,0.631836,4_poster_posters_movie posters_official poster
+2021-03-01,28,0.7687846153846153,28_jurassic_park_jurassic park_jurassic world
+2021-03-01,74,0.6409465838509317,74_thrillers_thriller_psychological_movies
+2021-03-01,36,0.4450333333333333,36_zombie_zombies_dead_busan
+2021-03-01,66,0.6917555555555555,66_ghibli_miyazaki_studio ghibli_studio
+2021-03-01,2,0.5412509803921569,2_marvel_mcu_avengers_endgame
+2021-03-01,35,0.5261230769230769,35_ghostbusters_afterlife_ghostbusters afterlife_bird bird
+2021-03-01,50,0.7261,50_book_read_adaptations_adaptation
+2021-03-01,70,0.2336375,70_cgi_effect_practical_look
+2021-03-01,26,0.7720666666666667,26_ring_lord ring_lord_hobbit
+2021-03-01,14,0.395125,14_shang chi_shang_chi_china
+2021-03-01,47,0.0032583333333333353,47_black widow_widow_black_scarlett johansson
+2021-03-01,63,0.5716249999999999,63_wick_john wick_john_action
+2021-03-01,18,0.34454375,18_godfather_michael_pacino_coppola
+2021-03-01,24,0.5344941176470588,24_war_war movies_private ryan_save private
+2021-03-01,45,0.63871875,45_rocky_rambo_stallone_creed
+2021-03-01,31,0.90826,31_sandler_adam sandler_adam_uncut
+2021-03-01,60,0.738576923076923,60_borat_cohen_baron cohen_baron
+2021-03-01,52,0.5048636363636363,52_quote_movie quote_line_movie
+2021-03-01,49,0.5667666666666666,49_mad max_max_mad_fury
+2021-03-01,76,0.5936222222222223,76_dracula_vampire_vampires_bram
+2021-03-01,71,0.3376318181818182,71_fight_fight scenes_fight scene_punch
+2021-03-01,16,0.9601,16_parasite_family_kim_bong
+2021-03-01,17,0.54054,17_godzilla_kong_godzilla kong_monster
+2021-03-01,13,0.674444,13_irishman_romantic_romance_goodfellas
+2021-03-01,5,0.9844200000000001,5_dune_villeneuve_denis_denis villeneuve
+2021-03-01,51,0.360525,51_cage_nicolas cage_nicolas_nic cage
+2021-03-01,11,0.67722,11_christmas_santa_christmas movie_christmas movies
+2021-03-01,46,0.52545,46_pixar_toy story_soul_toy
+2021-03-01,25,0.7063400000000001,25_terminator_arnold_dark fate_fate
+2021-03-01,56,0.34758,56_cut_version_theatrical_director cut
+2021-03-01,61,0.9226666666666666,61_mulan_disney_live action_live
+2021-03-01,68,0.4441655172413793,68_furious_fast_amp furious_fast amp furious
+2021-03-01,19,0.5700217391304347,19_snyder_zack_zack snyder_justice league
+2021-03-01,77,0.04266153846153848,77_sonic_hedgehog_sonic hedgehog_sonic movie
+2021-03-01,59,0.77643125,59_korean_korean film_korean movies_oldboy
+2021-03-01,34,0.9775,34_joker_joaquin_phoenix_joaquin phoenix
+2021-03-01,44,0.5719785714285714,44_ridley_ridley scott_scott_duel
+2021-03-01,15,0.6310257142857143,15_tarantino_quentin_pulp_quentin tarantino
+2021-03-01,9,0.4327571428571429,9_bond_jam bond_jam_craig
+2021-03-01,57,0.6827181818181818,57_sex_sex scenes_nudity_scenes
+2021-03-01,65,0.9090333333333334,65_avatar_jam cameron_cameron_endgame
+2021-03-01,8,0.23087727272727274,8_batman_dark knight_knight_dark
+2021-03-01,69,0.6482666666666667,69_green knight_knight_green_gawain
+2021-03-01,64,0.6735928571428572,64_lynch_david lynch_mulholland_david
+2021-03-01,38,0.9813285714285714,38_blade_blade runner_runner_deckard
+2021-03-01,73,0.7738506666666667,73_scorsese_martin scorsese_martin_taxi
+2021-03-01,79,0.43032499999999996,79_gay_straight_lgbt_queer
+2021-03-01,67,-0.21243333333333334,67_jojo_jojo rabbit_rabbit_taika
+2021-03-01,80,0.7361172413793103,80_comment_reddit_com movies comment_com
+2021-03-01,0,0.5065333333333333,0_movie_film_movies_like
+2021-03-01,1,0.6230183486238533,1_trailer_official trailer_official_trailers
+2021-03-01,3,0.25078823529411765,3_star war_war_star_jedi
+2021-03-01,27,0.6518499999999999,27_wonder woman_woman_wonder_diana
+2021-03-01,23,0.6019291666666667,23_rat_imdb_movies_fuck fuck fuck
+2021-03-01,37,0.5515944444444444,37_villain_villains_hero_heroes
+2021-03-01,40,0.7591846153846155,40_animate_animation_animate movies_amp
+2021-03-01,42,0.20337333333333335,42_suicide squad_squad_suicide_gunn
+2021-03-01,33,0.8075625,33_jaw_shark_ocean_underwater
+2021-03-01,43,0.33676,43_mission impossible_mission_impossible_tom cruise
+2021-03-01,10,0.9953000000000001,10_matrix_neo_resurrections_matrix resurrections
+2021-03-01,6,0.7073357142857143,6_star_kristen_kristen stewart_stewart
+2021-03-01,58,0.07140833333333335,58_disaster_disaster movies_tomorrow_apocalyptic
+2021-03-01,29,0.9804285714285713,29_pirate_depp_johnny depp_johnny
+2021-03-01,54,0.7226045454545454,54_kombat_mortal kombat_mortal_sub zero
+2021-03-01,41,0.8576142857142858,41_japanese_samurai_kurosawa_akira
+2021-03-01,12,0.7064111111111111,12_spider_spider man_man_peter
+2021-03-01,48,0.2893833333333333,48_russian_ukraine_russia_soviet
+2021-03-01,32,0.58292,32_western_westerns_west_genre
+2021-03-01,78,0.928875,78_martial_martial arts_arts_karate
+2021-03-01,75,0.7399,75_hitchcock_alfred hitchcock_alfred_hitchcock film
+2021-03-01,20,0.8158478260869566,20_alien_predator_prometheus_word word word
+2021-03-01,53,0.4608315789473685,53_harry_potter_harry potter_fantastic beasts
+2021-03-01,81,0.3538952380952381,81_trek_star trek_star_trek film
+2021-03-01,72,0.6039058823529412,72_disney_aladdin_moana_song
+2021-03-01,30,0.9570888888888889,30_indiana_indiana jones_jones_indy
+2021-03-01,22,0.07758333333333332,22_white_black_racist_people
+2021-03-01,21,0.41092000000000006,21_die_actor_die age_dead
+2021-03-01,39,0.48235,39_fast_furious_fast furious_car
+2021-03-01,62,0.34673333333333334,62_venom_carnage_let carnage_venom let
+2021-03-01,7,0.6646478260869565,7_nolan_tenet_christopher nolan_christopher
+2021-04-01,47,0.74256,47_black widow_widow_black_scarlett johansson
+2021-04-01,7,0.7839458333333332,7_nolan_tenet_christopher nolan_christopher
+2021-04-01,11,0.9625333333333335,11_christmas_santa_christmas movie_christmas movies
+2021-04-01,67,0.7619666666666666,67_jojo_jojo rabbit_rabbit_taika
+2021-04-01,26,0.5826600000000001,26_ring_lord ring_lord_hobbit
+2021-04-01,61,0.7528333333333332,61_mulan_disney_live action_live
+2021-04-01,66,0.8063727272727274,66_ghibli_miyazaki_studio ghibli_studio
+2021-04-01,23,0.5583575,23_rat_imdb_movies_fuck fuck fuck
+2021-04-01,62,0.6273266666666667,62_venom_carnage_let carnage_venom let
+2021-04-01,40,0.7400688888888889,40_animate_animation_animate movies_amp
+2021-04-01,79,0.4920714285714286,79_gay_straight_lgbt_queer
+2021-04-01,14,0.5143,14_shang chi_shang_chi_china
+2021-04-01,10,0.443825,10_matrix_neo_resurrections_matrix resurrections
+2021-04-01,34,0.5165416666666667,34_joker_joaquin_phoenix_joaquin phoenix
+2021-04-01,50,-0.1585,50_book_read_adaptations_adaptation
+2021-04-01,58,0.14557777777777778,58_disaster_disaster movies_tomorrow_apocalyptic
+2021-04-01,65,0.8053000000000001,65_avatar_jam cameron_cameron_endgame
+2021-04-01,16,0.99135,16_parasite_family_kim_bong
+2021-04-01,25,0.6143168831168832,25_terminator_arnold_dark fate_fate
+2021-04-01,4,0.6356282051282052,4_poster_posters_movie posters_official poster
+2021-04-01,17,0.38350854700854703,17_godzilla_kong_godzilla kong_monster
+2021-04-01,39,0.304075,39_fast_furious_fast furious_car
+2021-04-01,48,0.850325,48_russian_ukraine_russia_soviet
+2021-04-01,55,0.8704833333333334,55_youpoll_https youpoll_poll_click https youpoll
+2021-04-01,69,0.3391333333333333,69_green knight_knight_green_gawain
+2021-04-01,68,0.7251093023255814,68_furious_fast_amp furious_fast amp furious
+2021-04-01,38,0.7259272727272728,38_blade_blade runner_runner_deckard
+2021-04-01,6,0.544290909090909,6_star_kristen_kristen stewart_stewart
+2021-04-01,51,0.7197875,51_cage_nicolas cage_nicolas_nic cage
+2021-04-01,41,0.6785941176470588,41_japanese_samurai_kurosawa_akira
+2021-04-01,78,0.6846428571428572,78_martial_martial arts_arts_karate
+2021-04-01,2,0.6140975,2_marvel_mcu_avengers_endgame
+2021-04-01,22,-0.04378888888888887,22_white_black_racist_people
+2021-04-01,49,0.58359375,49_mad max_max_mad_fury
+2021-04-01,30,0.6099,30_indiana_indiana jones_jones_indy
+2021-04-01,57,0.598036,57_sex_sex scenes_nudity_scenes
+2021-04-01,24,0.39943636363636364,24_war_war movies_private ryan_save private
+2021-04-01,75,0.579174358974359,75_hitchcock_alfred hitchcock_alfred_hitchcock film
+2021-04-01,72,0.615244776119403,72_disney_aladdin_moana_song
+2021-04-01,32,0.6510421052631579,32_western_westerns_west_genre
+2021-04-01,71,0.2786,71_fight_fight scenes_fight scene_punch
+2021-04-01,45,0.6421344827586207,45_rocky_rambo_stallone_creed
+2021-04-01,33,0.8063307692307693,33_jaw_shark_ocean_underwater
+2021-04-01,20,0.6747131578947368,20_alien_predator_prometheus_word word word
+2021-04-01,43,0.5518090909090909,43_mission impossible_mission_impossible_tom cruise
+2021-04-01,9,0.5361611111111111,9_bond_jam bond_jam_craig
+2021-04-01,77,0.7316428571428572,77_sonic_hedgehog_sonic hedgehog_sonic movie
+2021-04-01,28,0.5400863636363636,28_jurassic_park_jurassic park_jurassic world
+2021-04-01,3,0.31868823529411766,3_star war_war_star_jedi
+2021-04-01,27,0.41006363636363635,27_wonder woman_woman_wonder_diana
+2021-04-01,8,0.6782684210526316,8_batman_dark knight_knight_dark
+2021-04-01,19,0.45795454545454545,19_snyder_zack_zack snyder_justice league
+2021-04-01,1,0.621744578313253,1_trailer_official trailer_official_trailers
+2021-04-01,54,0.6428684210526315,54_kombat_mortal kombat_mortal_sub zero
+2021-04-01,15,0.533305,15_tarantino_quentin_pulp_quentin tarantino
+2021-04-01,36,0.45874666666666664,36_zombie_zombies_dead_busan
+2021-04-01,31,0.8612933333333334,31_sandler_adam sandler_adam_uncut
+2021-04-01,44,0.7308137931034483,44_ridley_ridley scott_scott_duel
+2021-04-01,73,0.6994682170542635,73_scorsese_martin scorsese_martin_taxi
+2021-04-01,52,0.4251814814814815,52_quote_movie quote_line_movie
+2021-04-01,29,0.6315333333333333,29_pirate_depp_johnny depp_johnny
+2021-04-01,0,0.6711448275862069,0_movie_film_movies_like
+2021-04-01,42,-0.3221142857142857,42_suicide squad_squad_suicide_gunn
+2021-04-01,74,0.6536329394387002,74_thrillers_thriller_psychological_movies
+2021-04-01,21,0.07576153846153845,21_die_actor_die age_dead
+2021-04-01,35,0.5592257142857143,35_ghostbusters_afterlife_ghostbusters afterlife_bird bird
+2021-04-01,5,0.8225230769230769,5_dune_villeneuve_denis_denis villeneuve
+2021-04-01,80,0.7368064516129033,80_comment_reddit_com movies comment_com
+2021-04-01,63,0.6433,63_wick_john wick_john_action
+2021-04-01,12,0.66975625,12_spider_spider man_man_peter
+2021-04-01,53,0.7865615384615385,53_harry_potter_harry potter_fantastic beasts
+2021-04-01,13,0.8121272727272727,13_irishman_romantic_romance_goodfellas
+2021-04-01,76,0.530823076923077,76_dracula_vampire_vampires_bram
+2021-04-01,18,0.6461108108108108,18_godfather_michael_pacino_coppola
+2021-04-01,64,0.6017434782608696,64_lynch_david lynch_mulholland_david
+2021-04-01,59,0.66382,59_korean_korean film_korean movies_oldboy
+2021-04-01,81,0.8524695652173913,81_trek_star trek_star_trek film
+2021-04-01,46,0.6704407407407408,46_pixar_toy story_soul_toy
+2021-04-01,56,0.2538655172413793,56_cut_version_theatrical_director cut
+2021-04-01,60,0.32977222222222224,60_borat_cohen_baron cohen_baron
+2021-04-01,70,0.670595238095238,70_cgi_effect_practical_look
+2021-04-01,37,-0.46189285714285716,37_villain_villains_hero_heroes
+2021-05-01,52,0.4973352941176471,52_quote_movie quote_line_movie
+2021-05-01,15,0.5682016666666667,15_tarantino_quentin_pulp_quentin tarantino
+2021-05-01,33,0.29819999999999997,33_jaw_shark_ocean_underwater
+2021-05-01,71,0.349925641025641,71_fight_fight scenes_fight scene_punch
+2021-05-01,14,0.009531578947368417,14_shang chi_shang_chi_china
+2021-05-01,30,0.38215714285714286,30_indiana_indiana jones_jones_indy
+2021-05-01,62,0.5751444444444445,62_venom_carnage_let carnage_venom let
+2021-05-01,1,0.6351139393939395,1_trailer_official trailer_official_trailers
+2021-05-01,26,0.7396894736842106,26_ring_lord ring_lord_hobbit
+2021-05-01,76,0.5969076923076924,76_dracula_vampire_vampires_bram
+2021-05-01,2,0.6712593406593407,2_marvel_mcu_avengers_endgame
+2021-05-01,54,0.524,54_kombat_mortal kombat_mortal_sub zero
+2021-05-01,51,0.937225,51_cage_nicolas cage_nicolas_nic cage
+2021-05-01,48,0.4534444444444445,48_russian_ukraine_russia_soviet
+2021-05-01,16,0.7269,16_parasite_family_kim_bong
+2021-05-01,53,0.5848538461538462,53_harry_potter_harry potter_fantastic beasts
+2021-05-01,24,0.25504827586206896,24_war_war movies_private ryan_save private
+2021-05-01,60,0.5397235294117647,60_borat_cohen_baron cohen_baron
+2021-05-01,73,0.7220148936170213,73_scorsese_martin scorsese_martin_taxi
+2021-05-01,20,0.5181195121951219,20_alien_predator_prometheus_word word word
+2021-05-01,43,0.5497878787878788,43_mission impossible_mission_impossible_tom cruise
+2021-05-01,81,0.568995652173913,81_trek_star trek_star_trek film
+2021-05-01,9,0.5440441176470587,9_bond_jam bond_jam_craig
+2021-05-01,68,0.5646933333333333,68_furious_fast_amp furious_fast amp furious
+2021-05-01,5,0.8775125,5_dune_villeneuve_denis_denis villeneuve
+2021-05-01,57,0.4970307692307692,57_sex_sex scenes_nudity_scenes
+2021-05-01,77,0.7372833333333334,77_sonic_hedgehog_sonic hedgehog_sonic movie
+2021-05-01,28,0.7645379310344829,28_jurassic_park_jurassic park_jurassic world
+2021-05-01,36,0.08784237288135593,36_zombie_zombies_dead_busan
+2021-05-01,19,0.34595303030303026,19_snyder_zack_zack snyder_justice league
+2021-05-01,0,0.5778636363636364,0_movie_film_movies_like
+2021-05-01,72,0.486103125,72_disney_aladdin_moana_song
+2021-05-01,45,0.429136,45_rocky_rambo_stallone_creed
+2021-05-01,56,0.4509815789473684,56_cut_version_theatrical_director cut
+2021-05-01,44,0.6480777777777778,44_ridley_ridley scott_scott_duel
+2021-05-01,79,0.9785625,79_gay_straight_lgbt_queer
+2021-05-01,31,0.5810666666666667,31_sandler_adam sandler_adam_uncut
+2021-05-01,78,0.51005,78_martial_martial arts_arts_karate
+2021-05-01,65,0.49555,65_avatar_jam cameron_cameron_endgame
+2021-05-01,69,0.8316,69_green knight_knight_green_gawain
+2021-05-01,22,0.17192857142857143,22_white_black_racist_people
+2021-05-01,39,0.4372416666666667,39_fast_furious_fast furious_car
+2021-05-01,58,0.15157222222222222,58_disaster_disaster movies_tomorrow_apocalyptic
+2021-05-01,38,0.36912,38_blade_blade runner_runner_deckard
+2021-05-01,42,0.260604,42_suicide squad_squad_suicide_gunn
+2021-05-01,40,0.80739375,40_animate_animation_animate movies_amp
+2021-05-01,29,0.31480833333333336,29_pirate_depp_johnny depp_johnny
+2021-05-01,21,0.28728947368421054,21_die_actor_die age_dead
+2021-05-01,41,0.672576923076923,41_japanese_samurai_kurosawa_akira
+2021-05-01,12,0.2465823529411765,12_spider_spider man_man_peter
+2021-05-01,23,0.44060277777777773,23_rat_imdb_movies_fuck fuck fuck
+2021-05-01,37,0.2090607142857143,37_villain_villains_hero_heroes
+2021-05-01,64,0.7383864864864865,64_lynch_david lynch_mulholland_david
+2021-05-01,6,0.5151727272727272,6_star_kristen_kristen stewart_stewart
+2021-05-01,7,0.804067213114754,7_nolan_tenet_christopher nolan_christopher
+2021-05-01,75,0.8816052631578947,75_hitchcock_alfred hitchcock_alfred_hitchcock film
+2021-05-01,27,0.012304761904761914,27_wonder woman_woman_wonder_diana
+2021-05-01,49,0.4191833333333333,49_mad max_max_mad_fury
+2021-05-01,67,0.40263333333333334,67_jojo_jojo rabbit_rabbit_taika
+2021-05-01,10,0.5407222222222222,10_matrix_neo_resurrections_matrix resurrections
+2021-05-01,17,0.6690772727272727,17_godzilla_kong_godzilla kong_monster
+2021-05-01,32,0.9587428571428571,32_western_westerns_west_genre
+2021-05-01,66,0.3443230769230769,66_ghibli_miyazaki_studio ghibli_studio
+2021-05-01,74,0.6227977695167286,74_thrillers_thriller_psychological_movies
+2021-05-01,8,0.5460268292682927,8_batman_dark knight_knight_dark
+2021-05-01,25,0.5630222222222222,25_terminator_arnold_dark fate_fate
+2021-05-01,61,0.94685,61_mulan_disney_live action_live
+2021-05-01,11,0.43162222222222224,11_christmas_santa_christmas movie_christmas movies
+2021-05-01,80,0.8413396226415094,80_comment_reddit_com movies comment_com
+2021-05-01,47,0.39683999999999997,47_black widow_widow_black_scarlett johansson
+2021-05-01,55,0.6915666666666667,55_youpoll_https youpoll_poll_click https youpoll
+2021-05-01,13,0.7197857142857143,13_irishman_romantic_romance_goodfellas
+2021-05-01,46,0.5568217391304348,46_pixar_toy story_soul_toy
+2021-05-01,50,0.9839600000000001,50_book_read_adaptations_adaptation
+2021-05-01,34,0.571115,34_joker_joaquin_phoenix_joaquin phoenix
+2021-05-01,3,0.04158055555555555,3_star war_war_star_jedi
+2021-05-01,63,0.4366875,63_wick_john wick_john_action
+2021-05-01,18,0.588734693877551,18_godfather_michael_pacino_coppola
+2021-05-01,4,0.5828622222222222,4_poster_posters_movie posters_official poster
+2021-05-01,59,0.740373076923077,59_korean_korean film_korean movies_oldboy
+2021-05-01,35,0.2987151515151515,35_ghostbusters_afterlife_ghostbusters afterlife_bird bird
+2021-05-01,70,0.47160714285714284,70_cgi_effect_practical_look
+2021-06-01,72,0.6696305882352941,72_disney_aladdin_moana_song
+2021-06-01,14,0.29938125,14_shang chi_shang_chi_china
+2021-06-01,58,0.477132,58_disaster_disaster movies_tomorrow_apocalyptic
+2021-06-01,60,0.390662962962963,60_borat_cohen_baron cohen_baron
+2021-06-01,29,0.8196833333333333,29_pirate_depp_johnny depp_johnny
+2021-06-01,48,0.6110000000000001,48_russian_ukraine_russia_soviet
+2021-06-01,57,0.2877022727272727,57_sex_sex scenes_nudity_scenes
+2021-06-01,54,0.6094363636363637,54_kombat_mortal kombat_mortal_sub zero
+2021-06-01,12,0.48219166666666663,12_spider_spider man_man_peter
+2021-06-01,55,0.34,55_youpoll_https youpoll_poll_click https youpoll
+2021-06-01,71,0.2941605263157895,71_fight_fight scenes_fight scene_punch
+2021-06-01,59,0.7219970588235294,59_korean_korean film_korean movies_oldboy
+2021-06-01,28,0.43484390243902443,28_jurassic_park_jurassic park_jurassic world
+2021-06-01,13,0.6066,13_irishman_romantic_romance_goodfellas
+2021-06-01,75,0.530503125,75_hitchcock_alfred hitchcock_alfred_hitchcock film
+2021-06-01,11,0.7256095238095238,11_christmas_santa_christmas movie_christmas movies
+2021-06-01,3,0.4408261904761905,3_star war_war_star_jedi
+2021-06-01,73,0.5538731182795699,73_scorsese_martin scorsese_martin_taxi
+2021-06-01,10,0.7127846153846153,10_matrix_neo_resurrections_matrix resurrections
+2021-06-01,61,0.501925,61_mulan_disney_live action_live
+2021-06-01,56,0.6375434782608697,56_cut_version_theatrical_director cut
+2021-06-01,1,0.5138497737556561,1_trailer_official trailer_official_trailers
+2021-06-01,2,0.6696794117647059,2_marvel_mcu_avengers_endgame
+2021-06-01,9,0.4611571428571429,9_bond_jam bond_jam_craig
+2021-06-01,45,0.7771230769230769,45_rocky_rambo_stallone_creed
+2021-06-01,37,-0.03244999999999999,37_villain_villains_hero_heroes
+2021-06-01,23,0.5303525,23_rat_imdb_movies_fuck fuck fuck
+2021-06-01,6,0.8226485714285714,6_star_kristen_kristen stewart_stewart
+2021-06-01,63,0.2958578947368421,63_wick_john wick_john_action
+2021-06-01,46,0.7691840000000001,46_pixar_toy story_soul_toy
+2021-06-01,78,0.61772,78_martial_martial arts_arts_karate
+2021-06-01,36,0.2074051282051282,36_zombie_zombies_dead_busan
+2021-06-01,18,0.7239916666666667,18_godfather_michael_pacino_coppola
+2021-06-01,27,0.7233076923076923,27_wonder woman_woman_wonder_diana
+2021-06-01,21,0.5591578947368422,21_die_actor_die age_dead
+2021-06-01,70,0.7005136363636364,70_cgi_effect_practical_look
+2021-06-01,47,0.39582058823529415,47_black widow_widow_black_scarlett johansson
+2021-06-01,24,0.3820791666666667,24_war_war movies_private ryan_save private
+2021-06-01,7,0.7921796610169491,7_nolan_tenet_christopher nolan_christopher
+2021-06-01,79,0.3416647058823529,79_gay_straight_lgbt_queer
+2021-06-01,38,0.6728090909090909,38_blade_blade runner_runner_deckard
+2021-06-01,19,0.6028973684210527,19_snyder_zack_zack snyder_justice league
+2021-06-01,31,0.94094,31_sandler_adam sandler_adam_uncut
+2021-06-01,64,0.63565,64_lynch_david lynch_mulholland_david
+2021-06-01,42,0.19866399999999998,42_suicide squad_squad_suicide_gunn
+2021-06-01,40,0.7550744186046512,40_animate_animation_animate movies_amp
+2021-06-01,0,0.697446511627907,0_movie_film_movies_like
+2021-06-01,20,0.5376,20_alien_predator_prometheus_word word word
+2021-06-01,39,0.4181,39_fast_furious_fast furious_car
+2021-06-01,22,-0.07815555555555556,22_white_black_racist_people
+2021-06-01,5,0.8582733333333333,5_dune_villeneuve_denis_denis villeneuve
+2021-06-01,43,0.5991828571428571,43_mission impossible_mission_impossible_tom cruise
+2021-06-01,77,0.479475,77_sonic_hedgehog_sonic hedgehog_sonic movie
+2021-06-01,69,0.5669777777777778,69_green knight_knight_green_gawain
+2021-06-01,44,0.9485083333333333,44_ridley_ridley scott_scott_duel
+2021-06-01,65,0.8334,65_avatar_jam cameron_cameron_endgame
+2021-06-01,81,0.6876724137931034,81_trek_star trek_star_trek film
+2021-06-01,32,0.64586,32_western_westerns_west_genre
+2021-06-01,41,0.649425,41_japanese_samurai_kurosawa_akira
+2021-06-01,16,0.26780000000000004,16_parasite_family_kim_bong
+2021-06-01,26,0.7372681818181818,26_ring_lord ring_lord_hobbit
+2021-06-01,76,0.7105173913043478,76_dracula_vampire_vampires_bram
+2021-06-01,68,0.46005517241379307,68_furious_fast_amp furious_fast amp furious
+2021-06-01,66,0.5859500000000001,66_ghibli_miyazaki_studio ghibli_studio
+2021-06-01,51,0.79148,51_cage_nicolas cage_nicolas_nic cage
+2021-06-01,62,0.5161125,62_venom_carnage_let carnage_venom let
+2021-06-01,52,0.380678125,52_quote_movie quote_line_movie
+2021-06-01,8,0.6451714285714286,8_batman_dark knight_knight_dark
+2021-06-01,50,0.30628,50_book_read_adaptations_adaptation
+2021-06-01,34,0.7041,34_joker_joaquin_phoenix_joaquin phoenix
+2021-06-01,4,0.7163754385964912,4_poster_posters_movie posters_official poster
+2021-06-01,80,0.7861309090909091,80_comment_reddit_com movies comment_com
+2021-06-01,30,0.447445945945946,30_indiana_indiana jones_jones_indy
+2021-06-01,25,0.6433614583333334,25_terminator_arnold_dark fate_fate
+2021-06-01,67,0.595,67_jojo_jojo rabbit_rabbit_taika
+2021-06-01,74,0.566733912037037,74_thrillers_thriller_psychological_movies
+2021-06-01,35,0.422575,35_ghostbusters_afterlife_ghostbusters afterlife_bird bird
+2021-06-01,49,0.43482727272727273,49_mad max_max_mad_fury
+2021-06-01,15,0.5068205128205128,15_tarantino_quentin_pulp_quentin tarantino
+2021-06-01,17,0.5735096774193549,17_godzilla_kong_godzilla kong_monster
+2021-06-01,33,0.23989545454545455,33_jaw_shark_ocean_underwater
+2021-06-01,53,0.7080909090909091,53_harry_potter_harry potter_fantastic beasts
+2021-07-01,25,0.6671990740740741,25_terminator_arnold_dark fate_fate
+2021-07-01,22,0.15325,22_white_black_racist_people
+2021-07-01,21,0.538865,21_die_actor_die age_dead
+2021-07-01,72,0.72447,72_disney_aladdin_moana_song
+2021-07-01,33,0.31443076923076924,33_jaw_shark_ocean_underwater
+2021-07-01,40,0.5608907692307693,40_animate_animation_animate movies_amp
+2021-07-01,73,0.7369526315789473,73_scorsese_martin scorsese_martin_taxi
+2021-07-01,39,0.3881,39_fast_furious_fast furious_car
+2021-07-01,31,0.87699375,31_sandler_adam sandler_adam_uncut
+2021-07-01,68,0.519755,68_furious_fast_amp furious_fast amp furious
+2021-07-01,69,0.8587869565217391,69_green knight_knight_green_gawain
+2021-07-01,11,0.6788722222222222,11_christmas_santa_christmas movie_christmas movies
+2021-07-01,38,0.7587833333333333,38_blade_blade runner_runner_deckard
+2021-07-01,35,0.289578431372549,35_ghostbusters_afterlife_ghostbusters afterlife_bird bird
+2021-07-01,24,0.34200392156862747,24_war_war movies_private ryan_save private
+2021-07-01,80,0.789992857142857,80_comment_reddit_com movies comment_com
+2021-07-01,78,0.7742875,78_martial_martial arts_arts_karate
+2021-07-01,32,0.47531818181818186,32_western_westerns_west_genre
+2021-07-01,26,0.7109142857142857,26_ring_lord ring_lord_hobbit
+2021-07-01,36,0.07477222222222221,36_zombie_zombies_dead_busan
+2021-07-01,6,0.7202333333333334,6_star_kristen_kristen stewart_stewart
+2021-07-01,0,0.6383107142857144,0_movie_film_movies_like
+2021-07-01,23,0.44178958333333335,23_rat_imdb_movies_fuck fuck fuck
+2021-07-01,1,0.6230771844660195,1_trailer_official trailer_official_trailers
+2021-07-01,58,0.20444761904761904,58_disaster_disaster movies_tomorrow_apocalyptic
+2021-07-01,59,0.6136461538461538,59_korean_korean film_korean movies_oldboy
+2021-07-01,37,0.201224,37_villain_villains_hero_heroes
+2021-07-01,65,0.83048,65_avatar_jam cameron_cameron_endgame
+2021-07-01,60,0.630835,60_borat_cohen_baron cohen_baron
+2021-07-01,66,0.8096461538461538,66_ghibli_miyazaki_studio ghibli_studio
+2021-07-01,34,0.6572833333333333,34_joker_joaquin_phoenix_joaquin phoenix
+2021-07-01,8,0.631939344262295,8_batman_dark knight_knight_dark
+2021-07-01,5,0.77255,5_dune_villeneuve_denis_denis villeneuve
+2021-07-01,64,0.8391772727272727,64_lynch_david lynch_mulholland_david
+2021-07-01,7,0.7639238095238096,7_nolan_tenet_christopher nolan_christopher
+2021-07-01,13,0.8066736842105263,13_irishman_romantic_romance_goodfellas
+2021-07-01,41,0.7775304347826086,41_japanese_samurai_kurosawa_akira
+2021-07-01,70,0.6543629629629629,70_cgi_effect_practical_look
+2021-07-01,27,0.53552,27_wonder woman_woman_wonder_diana
+2021-07-01,17,0.41825,17_godzilla_kong_godzilla kong_monster
+2021-07-01,4,0.5801449275362319,4_poster_posters_movie posters_official poster
+2021-07-01,49,0.8916833333333334,49_mad max_max_mad_fury
+2021-07-01,3,0.366425,3_star war_war_star_jedi
+2021-07-01,30,0.7002166666666666,30_indiana_indiana jones_jones_indy
+2021-07-01,50,0.5350900000000001,50_book_read_adaptations_adaptation
+2021-07-01,46,0.5874583333333334,46_pixar_toy story_soul_toy
+2021-07-01,61,0.8595,61_mulan_disney_live action_live
+2021-07-01,62,0.5650200000000001,62_venom_carnage_let carnage_venom let
+2021-07-01,76,0.6848294117647058,76_dracula_vampire_vampires_bram
+2021-07-01,14,0.5064583333333333,14_shang chi_shang_chi_china
+2021-07-01,71,0.30376756756756756,71_fight_fight scenes_fight scene_punch
+2021-07-01,54,0.6816176470588236,54_kombat_mortal kombat_mortal_sub zero
+2021-07-01,67,0.8115857142857142,67_jojo_jojo rabbit_rabbit_taika
+2021-07-01,51,0.527712,51_cage_nicolas cage_nicolas_nic cage
+2021-07-01,52,0.58465625,52_quote_movie quote_line_movie
+2021-07-01,15,0.5531184782608696,15_tarantino_quentin_pulp_quentin tarantino
+2021-07-01,74,0.5715523143164692,74_thrillers_thriller_psychological_movies
+2021-07-01,53,0.581445,53_harry_potter_harry potter_fantastic beasts
+2021-07-01,16,0.97355,16_parasite_family_kim_bong
+2021-07-01,48,0.8838000000000001,48_russian_ukraine_russia_soviet
+2021-07-01,47,0.6478303370786517,47_black widow_widow_black_scarlett johansson
+2021-07-01,75,0.6883384615384615,75_hitchcock_alfred hitchcock_alfred_hitchcock film
+2021-07-01,57,0.5915311111111111,57_sex_sex scenes_nudity_scenes
+2021-07-01,12,0.689711111111111,12_spider_spider man_man_peter
+2021-07-01,42,0.3868978260869565,42_suicide squad_squad_suicide_gunn
+2021-07-01,28,0.6589870967741935,28_jurassic_park_jurassic park_jurassic world
+2021-07-01,20,0.47738636363636366,20_alien_predator_prometheus_word word word
+2021-07-01,79,0.757475,79_gay_straight_lgbt_queer
+2021-07-01,77,0.6294642857142857,77_sonic_hedgehog_sonic hedgehog_sonic movie
+2021-07-01,29,0.43799285714285713,29_pirate_depp_johnny depp_johnny
+2021-07-01,43,0.8145851851851852,43_mission impossible_mission_impossible_tom cruise
+2021-07-01,18,0.7232131578947368,18_godfather_michael_pacino_coppola
+2021-07-01,19,0.5712375,19_snyder_zack_zack snyder_justice league
+2021-07-01,44,0.769762962962963,44_ridley_ridley scott_scott_duel
+2021-07-01,2,0.7422085714285714,2_marvel_mcu_avengers_endgame
+2021-07-01,9,0.39019047619047614,9_bond_jam bond_jam_craig
+2021-07-01,63,0.40224117647058827,63_wick_john wick_john_action
+2021-07-01,56,0.516536,56_cut_version_theatrical_director cut
+2021-07-01,45,0.56114375,45_rocky_rambo_stallone_creed
+2021-07-01,81,0.8156666666666667,81_trek_star trek_star_trek film
+2021-07-01,10,0.46328571428571436,10_matrix_neo_resurrections_matrix resurrections
+2021-08-01,2,0.5351229357798165,2_marvel_mcu_avengers_endgame
+2021-08-01,64,0.6632148148148148,64_lynch_david lynch_mulholland_david
+2021-08-01,1,0.6441269058295964,1_trailer_official trailer_official_trailers
+2021-08-01,63,0.4311818181818182,63_wick_john wick_john_action
+2021-08-01,69,0.8293357142857143,69_green knight_knight_green_gawain
+2021-08-01,73,0.7630285714285714,73_scorsese_martin scorsese_martin_taxi
+2021-08-01,66,0.87653,66_ghibli_miyazaki_studio ghibli_studio
+2021-08-01,65,0.9370857142857142,65_avatar_jam cameron_cameron_endgame
+2021-08-01,67,0.7127857142857142,67_jojo_jojo rabbit_rabbit_taika
+2021-08-01,60,0.7202679999999999,60_borat_cohen_baron cohen_baron
+2021-08-01,61,0.03843333333333332,61_mulan_disney_live action_live
+2021-08-01,70,0.5944368421052632,70_cgi_effect_practical_look
+2021-08-01,71,0.483071875,71_fight_fight scenes_fight scene_punch
+2021-08-01,62,0.5992999999999999,62_venom_carnage_let carnage_venom let
+2021-08-01,74,0.6077577109602328,74_thrillers_thriller_psychological_movies
+2021-08-01,68,0.6797438356164384,68_furious_fast_amp furious_fast amp furious
+2021-08-01,0,0.7051466666666667,0_movie_film_movies_like
+2021-08-01,72,0.7363203883495145,72_disney_aladdin_moana_song
+2021-08-01,24,0.35086470588235297,24_war_war movies_private ryan_save private
+2021-08-01,25,0.6233469026548673,25_terminator_arnold_dark fate_fate
+2021-08-01,34,0.5639869565217391,34_joker_joaquin_phoenix_joaquin phoenix
+2021-08-01,42,0.37971610169491526,42_suicide squad_squad_suicide_gunn
+2021-08-01,30,0.4682,30_indiana_indiana jones_jones_indy
+2021-08-01,14,0.583034375,14_shang chi_shang_chi_china
+2021-08-01,35,0.4720979591836735,35_ghostbusters_afterlife_ghostbusters afterlife_bird bird
+2021-08-01,7,0.6739689189189189,7_nolan_tenet_christopher nolan_christopher
+2021-08-01,15,0.6696632911392405,15_tarantino_quentin_pulp_quentin tarantino
+2021-08-01,18,0.71462,18_godfather_michael_pacino_coppola
+2021-08-01,53,0.6255272727272727,53_harry_potter_harry potter_fantastic beasts
+2021-08-01,44,0.7643695652173913,44_ridley_ridley scott_scott_duel
+2021-08-01,80,0.7009685714285714,80_comment_reddit_com movies comment_com
+2021-08-01,16,0.9001,16_parasite_family_kim_bong
+2021-08-01,40,0.6622318181818182,40_animate_animation_animate movies_amp
+2021-08-01,54,0.19726315789473683,54_kombat_mortal kombat_mortal_sub zero
+2021-08-01,81,0.7798888888888889,81_trek_star trek_star_trek film
+2021-08-01,8,0.7107,8_batman_dark knight_knight_dark
+2021-08-01,6,0.7105466666666668,6_star_kristen_kristen stewart_stewart
+2021-08-01,78,0.45962222222222215,78_martial_martial arts_arts_karate
+2021-08-01,51,0.6015166666666667,51_cage_nicolas cage_nicolas_nic cage
+2021-08-01,47,0.42350731707317074,47_black widow_widow_black_scarlett johansson
+2021-08-01,77,0.8943,77_sonic_hedgehog_sonic hedgehog_sonic movie
+2021-08-01,23,0.630544,23_rat_imdb_movies_fuck fuck fuck
+2021-08-01,50,0.7169846153846154,50_book_read_adaptations_adaptation
+2021-08-01,76,0.42328,76_dracula_vampire_vampires_bram
+2021-08-01,9,0.7536304347826087,9_bond_jam bond_jam_craig
+2021-08-01,41,0.6874695652173913,41_japanese_samurai_kurosawa_akira
+2021-08-01,17,0.7171724137931034,17_godzilla_kong_godzilla kong_monster
+2021-08-01,5,0.7987964285714285,5_dune_villeneuve_denis_denis villeneuve
+2021-08-01,29,-0.14237058823529414,29_pirate_depp_johnny depp_johnny
+2021-08-01,52,0.36532,52_quote_movie quote_line_movie
+2021-08-01,49,0.2288230769230769,49_mad max_max_mad_fury
+2021-08-01,46,0.5304236842105263,46_pixar_toy story_soul_toy
+2021-08-01,39,0.6430375,39_fast_furious_fast furious_car
+2021-08-01,32,0.8693583333333333,32_western_westerns_west_genre
+2021-08-01,79,0.5752,79_gay_straight_lgbt_queer
+2021-08-01,11,0.5948333333333333,11_christmas_santa_christmas movie_christmas movies
+2021-08-01,28,0.6348038461538461,28_jurassic_park_jurassic park_jurassic world
+2021-08-01,36,0.27981500000000004,36_zombie_zombies_dead_busan
+2021-08-01,59,0.7331307692307691,59_korean_korean film_korean movies_oldboy
+2021-08-01,21,0.40011,21_die_actor_die age_dead
+2021-08-01,31,0.6539481481481482,31_sandler_adam sandler_adam_uncut
+2021-08-01,45,0.5533235294117647,45_rocky_rambo_stallone_creed
+2021-08-01,22,0.2123,22_white_black_racist_people
+2021-08-01,27,0.524904347826087,27_wonder woman_woman_wonder_diana
+2021-08-01,37,0.1405294117647059,37_villain_villains_hero_heroes
+2021-08-01,10,0.5743,10_matrix_neo_resurrections_matrix resurrections
+2021-08-01,58,0.42881,58_disaster_disaster movies_tomorrow_apocalyptic
+2021-08-01,13,0.8037647058823529,13_irishman_romantic_romance_goodfellas
+2021-08-01,43,0.630436,43_mission impossible_mission_impossible_tom cruise
+2021-08-01,12,0.2895515151515151,12_spider_spider man_man_peter
+2021-08-01,3,0.4758965517241379,3_star war_war_star_jedi
+2021-08-01,19,0.659192,19_snyder_zack_zack snyder_justice league
+2021-08-01,55,0.34445,55_youpoll_https youpoll_poll_click https youpoll
+2021-08-01,48,0.844875,48_russian_ukraine_russia_soviet
+2021-08-01,20,0.34544736842105267,20_alien_predator_prometheus_word word word
+2021-08-01,75,0.6504055555555556,75_hitchcock_alfred hitchcock_alfred_hitchcock film
+2021-08-01,33,0.5867384615384615,33_jaw_shark_ocean_underwater
+2021-08-01,26,0.7640473684210526,26_ring_lord ring_lord_hobbit
+2021-08-01,57,0.5711592592592593,57_sex_sex scenes_nudity_scenes
+2021-08-01,38,0.6234571428571429,38_blade_blade runner_runner_deckard
+2021-08-01,56,0.4613166666666667,56_cut_version_theatrical_director cut
+2021-08-01,4,0.664484126984127,4_poster_posters_movie posters_official poster
+2021-09-01,22,0.34186,22_white_black_racist_people
+2021-09-01,2,0.6300953703703704,2_marvel_mcu_avengers_endgame
+2021-09-01,43,0.574259090909091,43_mission impossible_mission_impossible_tom cruise
+2021-09-01,42,0.27316666666666667,42_suicide squad_squad_suicide_gunn
+2021-09-01,5,0.7832691588785047,5_dune_villeneuve_denis_denis villeneuve
+2021-09-01,31,0.6541470588235294,31_sandler_adam sandler_adam_uncut
+2021-09-01,78,0.7466666666666666,78_martial_martial arts_arts_karate
+2021-09-01,28,0.5771999999999999,28_jurassic_park_jurassic park_jurassic world
+2021-09-01,36,0.29559375,36_zombie_zombies_dead_busan
+2021-09-01,79,0.4676625,79_gay_straight_lgbt_queer
+2021-09-01,27,0.4491058823529412,27_wonder woman_woman_wonder_diana
+2021-09-01,65,0.9717,65_avatar_jam cameron_cameron_endgame
+2021-09-01,37,0.19755416666666667,37_villain_villains_hero_heroes
+2021-09-01,1,0.6349774647887324,1_trailer_official trailer_official_trailers
+2021-09-01,26,0.82455,26_ring_lord ring_lord_hobbit
+2021-09-01,38,0.8155454545454546,38_blade_blade runner_runner_deckard
+2021-09-01,35,0.4276815789473684,35_ghostbusters_afterlife_ghostbusters afterlife_bird bird
+2021-09-01,77,0.8523583333333332,77_sonic_hedgehog_sonic hedgehog_sonic movie
+2021-09-01,25,0.6253619565217391,25_terminator_arnold_dark fate_fate
+2021-09-01,68,0.44096833333333335,68_furious_fast_amp furious_fast amp furious
+2021-09-01,73,0.7621076086956522,73_scorsese_martin scorsese_martin_taxi
+2021-09-01,24,0.2618607142857143,24_war_war movies_private ryan_save private
+2021-09-01,40,0.7552392156862746,40_animate_animation_animate movies_amp
+2021-09-01,80,0.721135294117647,80_comment_reddit_com movies comment_com
+2021-09-01,23,0.3251820512820513,23_rat_imdb_movies_fuck fuck fuck
+2021-09-01,64,0.7787137931034482,64_lynch_david lynch_mulholland_david
+2021-09-01,8,0.4572758620689655,8_batman_dark knight_knight_dark
+2021-09-01,41,0.795775,41_japanese_samurai_kurosawa_akira
+2021-09-01,39,0.2652888888888889,39_fast_furious_fast furious_car
+2021-09-01,44,0.6806628571428571,44_ridley_ridley scott_scott_duel
+2021-09-01,4,0.6794738461538461,4_poster_posters_movie posters_official poster
+2021-09-01,21,0.21914814814814815,21_die_actor_die age_dead
+2021-09-01,14,0.48687164179104475,14_shang chi_shang_chi_china
+2021-09-01,13,0.8975633333333334,13_irishman_romantic_romance_goodfellas
+2021-09-01,71,0.24815128205128203,71_fight_fight scenes_fight scene_punch
+2021-09-01,3,0.1888304347826087,3_star war_war_star_jedi
+2021-09-01,61,0.19982,61_mulan_disney_live action_live
+2021-09-01,54,0.42473333333333335,54_kombat_mortal kombat_mortal_sub zero
+2021-09-01,33,0.5654181818181818,33_jaw_shark_ocean_underwater
+2021-09-01,75,0.67676,75_hitchcock_alfred hitchcock_alfred_hitchcock film
+2021-09-01,55,0.7050000000000001,55_youpoll_https youpoll_poll_click https youpoll
+2021-09-01,56,0.4086,56_cut_version_theatrical_director cut
+2021-09-01,12,0.7331772727272727,12_spider_spider man_man_peter
+2021-09-01,57,0.4787611111111111,57_sex_sex scenes_nudity_scenes
+2021-09-01,30,0.6347538461538461,30_indiana_indiana jones_jones_indy
+2021-09-01,74,0.5533235675675675,74_thrillers_thriller_psychological_movies
+2021-09-01,58,0.2891458333333333,58_disaster_disaster movies_tomorrow_apocalyptic
+2021-09-01,72,0.6704935483870967,72_disney_aladdin_moana_song
+2021-09-01,48,0.2985666666666667,48_russian_ukraine_russia_soviet
+2021-09-01,60,0.47595294117647063,60_borat_cohen_baron cohen_baron
+2021-09-01,10,0.5418783783783784,10_matrix_neo_resurrections_matrix resurrections
+2021-09-01,0,0.6570325581395349,0_movie_film_movies_like
+2021-09-01,59,0.5460086956521739,59_korean_korean film_korean movies_oldboy
+2021-09-01,11,0.701088888888889,11_christmas_santa_christmas movie_christmas movies
+2021-09-01,32,0.66326,32_western_westerns_west_genre
+2021-09-01,53,0.8204916666666667,53_harry_potter_harry potter_fantastic beasts
+2021-09-01,69,0.6351666666666667,69_green knight_knight_green_gawain
+2021-09-01,15,0.5710658536585366,15_tarantino_quentin_pulp_quentin tarantino
+2021-09-01,16,-0.013550000000000006,16_parasite_family_kim_bong
+2021-09-01,63,0.30627777777777776,63_wick_john wick_john_action
+2021-09-01,45,0.6431523809523809,45_rocky_rambo_stallone_creed
+2021-09-01,20,0.5847,20_alien_predator_prometheus_word word word
+2021-09-01,34,0.7802666666666668,34_joker_joaquin_phoenix_joaquin phoenix
+2021-09-01,19,0.25987692307692306,19_snyder_zack_zack snyder_justice league
+2021-09-01,46,0.6446193548387097,46_pixar_toy story_soul_toy
+2021-09-01,18,0.5415035087719299,18_godfather_michael_pacino_coppola
+2021-09-01,47,0.6488052631578947,47_black widow_widow_black_scarlett johansson
+2021-09-01,9,0.4781950819672131,9_bond_jam bond_jam_craig
+2021-09-01,7,0.6893971830985915,7_nolan_tenet_christopher nolan_christopher
+2021-09-01,76,0.4745,76_dracula_vampire_vampires_bram
+2021-09-01,81,0.6214272727272727,81_trek_star trek_star_trek film
+2021-09-01,17,0.7499045454545455,17_godzilla_kong_godzilla kong_monster
+2021-09-01,70,0.654971052631579,70_cgi_effect_practical_look
+2021-09-01,62,0.5659025641025641,62_venom_carnage_let carnage_venom let
+2021-09-01,50,0.8602142857142857,50_book_read_adaptations_adaptation
+2021-09-01,67,0.76215,67_jojo_jojo rabbit_rabbit_taika
+2021-09-01,66,0.4123,66_ghibli_miyazaki_studio ghibli_studio
+2021-09-01,51,0.8435583333333333,51_cage_nicolas cage_nicolas_nic cage
+2021-09-01,29,0.4741473684210526,29_pirate_depp_johnny depp_johnny
+2021-09-01,52,0.51480625,52_quote_movie quote_line_movie
+2021-09-01,49,0.5831428571428571,49_mad max_max_mad_fury
+2021-09-01,6,0.7515682926829268,6_star_kristen_kristen stewart_stewart
+2021-10-01,7,0.7203875,7_nolan_tenet_christopher nolan_christopher
+2021-10-01,30,0.6115545454545455,30_indiana_indiana jones_jones_indy
+2021-10-01,28,0.5771499999999999,28_jurassic_park_jurassic park_jurassic world
+2021-10-01,29,0.44538,29_pirate_depp_johnny depp_johnny
+2021-10-01,67,0.10674000000000003,67_jojo_jojo rabbit_rabbit_taika
+2021-10-01,74,0.53768,74_thrillers_thriller_psychological_movies
+2021-10-01,27,0.7860999999999999,27_wonder woman_woman_wonder_diana
+2021-10-01,10,0.47339375,10_matrix_neo_resurrections_matrix resurrections
+2021-10-01,48,0.7073400000000001,48_russian_ukraine_russia_soviet
+2021-10-01,11,0.6920333333333334,11_christmas_santa_christmas movie_christmas movies
+2021-10-01,0,0.5236500000000001,0_movie_film_movies_like
+2021-10-01,12,0.4588592592592593,12_spider_spider man_man_peter
+2021-10-01,72,0.6921493670886076,72_disney_aladdin_moana_song
+2021-10-01,71,0.30828125,71_fight_fight scenes_fight scene_punch
+2021-10-01,13,0.5804034482758621,13_irishman_romantic_romance_goodfellas
+2021-10-01,14,0.224475,14_shang chi_shang_chi_china
+2021-10-01,15,0.624450847457627,15_tarantino_quentin_pulp_quentin tarantino
+2021-10-01,16,0.41497142857142855,16_parasite_family_kim_bong
+2021-10-01,81,0.7399333333333333,81_trek_star trek_star_trek film
+2021-10-01,70,0.6924153846153847,70_cgi_effect_practical_look
+2021-10-01,9,0.5989384615384615,9_bond_jam bond_jam_craig
+2021-10-01,17,0.36370882352941175,17_godzilla_kong_godzilla kong_monster
+2021-10-01,18,0.4141508474576271,18_godfather_michael_pacino_coppola
+2021-10-01,19,0.7337640000000001,19_snyder_zack_zack snyder_justice league
+2021-10-01,69,0.93836,69_green knight_knight_green_gawain
+2021-10-01,21,0.174595,21_die_actor_die age_dead
+2021-10-01,22,0.14078333333333332,22_white_black_racist_people
+2021-10-01,8,0.4938746031746032,8_batman_dark knight_knight_dark
+2021-10-01,80,0.8347744186046512,80_comment_reddit_com movies comment_com
+2021-10-01,23,0.6133673469387755,23_rat_imdb_movies_fuck fuck fuck
+2021-10-01,68,0.6699227272727273,68_furious_fast_amp furious_fast amp furious
+2021-10-01,24,0.179134375,24_war_war movies_private ryan_save private
+2021-10-01,25,0.5089577464788733,25_terminator_arnold_dark fate_fate
+2021-10-01,26,0.6931434782608695,26_ring_lord ring_lord_hobbit
+2021-10-01,79,0.3878083333333333,79_gay_straight_lgbt_queer
+2021-10-01,20,0.7340886363636364,20_alien_predator_prometheus_word word word
+2021-10-01,5,0.7369296943231441,5_dune_villeneuve_denis_denis villeneuve
+2021-10-01,63,0.39491333333333334,63_wick_john wick_john_action
+2021-10-01,55,0.9865,55_youpoll_https youpoll_poll_click https youpoll
+2021-10-01,39,0.5074625,39_fast_furious_fast furious_car
+2021-10-01,54,0.7668363636363636,54_kombat_mortal kombat_mortal_sub zero
+2021-10-01,61,0.9917000000000001,61_mulan_disney_live action_live
+2021-10-01,75,0.21222127659574466,75_hitchcock_alfred hitchcock_alfred_hitchcock film
+2021-10-01,47,0.441376,47_black widow_widow_black_scarlett johansson
+2021-10-01,3,0.3261545454545454,3_star war_war_star_jedi
+2021-10-01,40,0.643947619047619,40_animate_animation_animate movies_amp
+2021-10-01,53,0.783259090909091,53_harry_potter_harry potter_fantastic beasts
+2021-10-01,64,0.6672769230769231,64_lynch_david lynch_mulholland_david
+2021-10-01,77,0.85419,77_sonic_hedgehog_sonic hedgehog_sonic movie
+2021-10-01,41,0.6357333333333334,41_japanese_samurai_kurosawa_akira
+2021-10-01,42,-0.14688846153846152,42_suicide squad_squad_suicide_gunn
+2021-10-01,52,0.5628709677419356,52_quote_movie quote_line_movie
+2021-10-01,43,0.721955,43_mission impossible_mission_impossible_tom cruise
+2021-10-01,44,0.6333827586206897,44_ridley_ridley scott_scott_duel
+2021-10-01,51,0.1804857142857143,51_cage_nicolas cage_nicolas_nic cage
+2021-10-01,50,0.5984363636363637,50_book_read_adaptations_adaptation
+2021-10-01,31,0.6835052631578948,31_sandler_adam sandler_adam_uncut
+2021-10-01,45,0.5833666666666667,45_rocky_rambo_stallone_creed
+2021-10-01,62,0.6364111111111111,62_venom_carnage_let carnage_venom let
+2021-10-01,49,0.9959000000000001,49_mad max_max_mad_fury
+2021-10-01,76,0.633088,76_dracula_vampire_vampires_bram
+2021-10-01,46,0.2885304347826087,46_pixar_toy story_soul_toy
+2021-10-01,38,0.96955,38_blade_blade runner_runner_deckard
+2021-10-01,37,0.25836129032258065,37_villain_villains_hero_heroes
+2021-10-01,4,0.537308988764045,4_poster_posters_movie posters_official poster
+2021-10-01,2,0.684007874015748,2_marvel_mcu_avengers_endgame
+2021-10-01,58,0.5540714285714285,58_disaster_disaster movies_tomorrow_apocalyptic
+2021-10-01,35,0.37102738095238097,35_ghostbusters_afterlife_ghostbusters afterlife_bird bird
+2021-10-01,66,0.5463416666666666,66_ghibli_miyazaki_studio ghibli_studio
+2021-10-01,33,0.7004874999999999,33_jaw_shark_ocean_underwater
+2021-10-01,60,0.8160928571428572,60_borat_cohen_baron cohen_baron
+2021-10-01,59,0.566043137254902,59_korean_korean film_korean movies_oldboy
+2021-10-01,6,0.5055448275862069,6_star_kristen_kristen stewart_stewart
+2021-10-01,73,0.6927701923076923,73_scorsese_martin scorsese_martin_taxi
+2021-10-01,1,0.5142126168224299,1_trailer_official trailer_official_trailers
+2021-10-01,57,0.5136391304347826,57_sex_sex scenes_nudity_scenes
+2021-10-01,32,0.5555625,32_western_westerns_west_genre
+2021-10-01,34,0.5418384615384615,34_joker_joaquin_phoenix_joaquin phoenix
+2021-10-01,65,-0.031999999999999994,65_avatar_jam cameron_cameron_endgame
+2021-10-01,36,0.03150434782608696,36_zombie_zombies_dead_busan
+2021-10-01,78,0.18259999999999998,78_martial_martial arts_arts_karate
+2021-10-01,56,0.29805526315789477,56_cut_version_theatrical_director cut
+2021-11-01,70,0.6906,70_cgi_effect_practical_look
+2021-11-01,50,0.673225,50_book_read_adaptations_adaptation
+2021-11-01,9,0.5449404255319149,9_bond_jam bond_jam_craig
+2021-11-01,59,0.4125774193548387,59_korean_korean film_korean movies_oldboy
+2021-11-01,12,0.44247023809523806,12_spider_spider man_man_peter
+2021-11-01,74,0.5722012896825397,74_thrillers_thriller_psychological_movies
+2021-11-01,81,0.7224838709677419,81_trek_star trek_star_trek film
+2021-11-01,48,0.32874,48_russian_ukraine_russia_soviet
+2021-11-01,62,0.5307625,62_venom_carnage_let carnage_venom let
+2021-11-01,17,0.5952115384615385,17_godzilla_kong_godzilla kong_monster
+2021-11-01,47,0.5857842105263158,47_black widow_widow_black_scarlett johansson
+2021-11-01,10,0.656962962962963,10_matrix_neo_resurrections_matrix resurrections
+2021-11-01,49,0.49387,49_mad max_max_mad_fury
+2021-11-01,16,0.9893000000000001,16_parasite_family_kim_bong
+2021-11-01,52,0.5104923076923077,52_quote_movie quote_line_movie
+2021-11-01,2,0.7014251851851853,2_marvel_mcu_avengers_endgame
+2021-11-01,71,0.3752357142857143,71_fight_fight scenes_fight scene_punch
+2021-11-01,54,0.62785,54_kombat_mortal kombat_mortal_sub zero
+2021-11-01,56,0.5695,56_cut_version_theatrical_director cut
+2021-11-01,57,0.5935377358490566,57_sex_sex scenes_nudity_scenes
+2021-11-01,60,0.7565882352941177,60_borat_cohen_baron cohen_baron
+2021-11-01,13,0.69549,13_irishman_romantic_romance_goodfellas
+2021-11-01,75,0.6618622641509434,75_hitchcock_alfred hitchcock_alfred_hitchcock film
+2021-11-01,51,0.9851699999999999,51_cage_nicolas cage_nicolas_nic cage
+2021-11-01,53,0.4569741935483871,53_harry_potter_harry potter_fantastic beasts
+2021-11-01,3,0.25099354838709675,3_star war_war_star_jedi
+2021-11-01,0,0.7139228571428572,0_movie_film_movies_like
+2021-11-01,58,0.3910391304347826,58_disaster_disaster movies_tomorrow_apocalyptic
+2021-11-01,11,0.6780383720930233,11_christmas_santa_christmas movie_christmas movies
+2021-11-01,15,0.6769123076923077,15_tarantino_quentin_pulp_quentin tarantino
+2021-11-01,55,-0.89055,55_youpoll_https youpoll_poll_click https youpoll
+2021-11-01,72,0.6889012195121951,72_disney_aladdin_moana_song
+2021-11-01,14,0.820325,14_shang chi_shang_chi_china
+2021-11-01,61,0.6072000000000001,61_mulan_disney_live action_live
+2021-11-01,31,0.74198125,31_sandler_adam sandler_adam_uncut
+2021-11-01,46,0.6276472222222222,46_pixar_toy story_soul_toy
+2021-11-01,39,0.6970000000000001,39_fast_furious_fast furious_car
+2021-11-01,73,0.7893792452830188,73_scorsese_martin scorsese_martin_taxi
+2021-11-01,24,0.1251642857142857,24_war_war movies_private ryan_save private
+2021-11-01,1,0.6441757225433526,1_trailer_official trailer_official_trailers
+2021-11-01,38,0.6944,38_blade_blade runner_runner_deckard
+2021-11-01,25,0.5103071428571428,25_terminator_arnold_dark fate_fate
+2021-11-01,37,0.29731,37_villain_villains_hero_heroes
+2021-11-01,26,0.7484954545454545,26_ring_lord ring_lord_hobbit
+2021-11-01,36,0.04845294117647058,36_zombie_zombies_dead_busan
+2021-11-01,27,0.8288444444444445,27_wonder woman_woman_wonder_diana
+2021-11-01,79,0.4851125,79_gay_straight_lgbt_queer
+2021-11-01,65,0.6951571428571429,65_avatar_jam cameron_cameron_endgame
+2021-11-01,35,0.6335535353535354,35_ghostbusters_afterlife_ghostbusters afterlife_bird bird
+2021-11-01,28,0.5621700000000001,28_jurassic_park_jurassic park_jurassic world
+2021-11-01,7,0.6914084507042253,7_nolan_tenet_christopher nolan_christopher
+2021-11-01,67,0.9761,67_jojo_jojo rabbit_rabbit_taika
+2021-11-01,34,0.7585133333333334,34_joker_joaquin_phoenix_joaquin phoenix
+2021-11-01,78,0.58766,78_martial_martial arts_arts_karate
+2021-11-01,29,0.4448857142857143,29_pirate_depp_johnny depp_johnny
+2021-11-01,33,-0.021966666666666666,33_jaw_shark_ocean_underwater
+2021-11-01,66,0.82738125,66_ghibli_miyazaki_studio ghibli_studio
+2021-11-01,32,0.50839375,32_western_westerns_west_genre
+2021-11-01,30,0.30264,30_indiana_indiana jones_jones_indy
+2021-11-01,76,0.7294333333333333,76_dracula_vampire_vampires_bram
+2021-11-01,77,0.9676636363636363,77_sonic_hedgehog_sonic hedgehog_sonic movie
+2021-11-01,68,0.6135446428571428,68_furious_fast_amp furious_fast amp furious
+2021-11-01,6,0.7191029411764706,6_star_kristen_kristen stewart_stewart
+2021-11-01,20,0.8082970588235294,20_alien_predator_prometheus_word word word
+2021-11-01,69,0.9847,69_green knight_knight_green_gawain
+2021-11-01,63,0.4927428571428571,63_wick_john wick_john_action
+2021-11-01,44,0.6104691176470588,44_ridley_ridley scott_scott_duel
+2021-11-01,43,0.5731241379310344,43_mission impossible_mission_impossible_tom cruise
+2021-11-01,64,0.517765625,64_lynch_david lynch_mulholland_david
+2021-11-01,21,0.2769,21_die_actor_die age_dead
+2021-11-01,19,0.6751166666666666,19_snyder_zack_zack snyder_justice league
+2021-11-01,8,0.44332,8_batman_dark knight_knight_dark
+2021-11-01,22,0.363675,22_white_black_racist_people
+2021-11-01,80,0.7373716216216216,80_comment_reddit_com movies comment_com
+2021-11-01,41,0.8949166666666667,41_japanese_samurai_kurosawa_akira
+2021-11-01,5,0.8345672727272728,5_dune_villeneuve_denis_denis villeneuve
+2021-11-01,4,0.6522246753246753,4_poster_posters_movie posters_official poster
+2021-11-01,18,0.7165351351351351,18_godfather_michael_pacino_coppola
+2021-11-01,40,0.76256,40_animate_animation_animate movies_amp
+2021-11-01,23,0.6157583333333334,23_rat_imdb_movies_fuck fuck fuck
+2021-11-01,42,0.2786,42_suicide squad_squad_suicide_gunn
+2021-11-01,45,0.6998642857142857,45_rocky_rambo_stallone_creed
+2021-12-01,78,0.52432,78_martial_martial arts_arts_karate
+2021-12-01,76,0.8212666666666667,76_dracula_vampire_vampires_bram
+2021-12-01,73,0.5534022222222222,73_scorsese_martin scorsese_martin_taxi
+2021-12-01,80,0.7197857142857143,80_comment_reddit_com movies comment_com
+2021-12-01,79,0.6534333333333333,79_gay_straight_lgbt_queer
+2021-12-01,81,0.968475,81_trek_star trek_star_trek film
+2021-12-01,75,0.6211944444444444,75_hitchcock_alfred hitchcock_alfred_hitchcock film
+2021-12-01,77,0.98582,77_sonic_hedgehog_sonic hedgehog_sonic movie
+2021-12-01,74,0.6024216867469879,74_thrillers_thriller_psychological_movies
+2021-12-01,72,0.7942485714285714,72_disney_aladdin_moana_song
+2021-12-01,10,0.5957911764705883,10_matrix_neo_resurrections_matrix resurrections
+2021-12-01,41,0.7032846153846154,41_japanese_samurai_kurosawa_akira
+2021-12-01,36,0.63808,36_zombie_zombies_dead_busan
+2021-12-01,37,0.020357142857142834,37_villain_villains_hero_heroes
+2021-12-01,38,0.8125,38_blade_blade runner_runner_deckard
+2021-12-01,39,0.3336625,39_fast_furious_fast furious_car
+2021-12-01,5,0.7387866666666666,5_dune_villeneuve_denis_denis villeneuve
+2021-12-01,40,0.6937473684210527,40_animate_animation_animate movies_amp
+2021-12-01,42,0.3640666666666667,42_suicide squad_squad_suicide_gunn
+2021-12-01,43,0.24412857142857142,43_mission impossible_mission_impossible_tom cruise
+2021-12-01,44,0.5368649999999999,44_ridley_ridley scott_scott_duel
+2021-12-01,45,0.6324615384615384,45_rocky_rambo_stallone_creed
+2021-12-01,4,0.3245809523809524,4_poster_posters_movie posters_official poster
+2021-12-01,35,0.5760904761904762,35_ghostbusters_afterlife_ghostbusters afterlife_bird bird
+2021-12-01,46,0.7075733333333333,46_pixar_toy story_soul_toy
+2021-12-01,49,0.9148666666666667,49_mad max_max_mad_fury
+2021-12-01,50,0.24273333333333336,50_book_read_adaptations_adaptation
+2021-12-01,51,0.68696,51_cage_nicolas cage_nicolas_nic cage
+2021-12-01,52,0.5112076923076923,52_quote_movie quote_line_movie
+2021-12-01,3,0.16312941176470588,3_star war_war_star_jedi
+2021-12-01,53,-0.10663,53_harry_potter_harry potter_fantastic beasts
+2021-12-01,54,0.016237499999999988,54_kombat_mortal kombat_mortal_sub zero
+2021-12-01,55,0.33616666666666667,55_youpoll_https youpoll_poll_click https youpoll
+2021-12-01,56,0.49377142857142864,56_cut_version_theatrical_director cut
+2021-12-01,57,0.7966384615384616,57_sex_sex scenes_nudity_scenes
+2021-12-01,58,0.60814,58_disaster_disaster movies_tomorrow_apocalyptic
+2021-12-01,47,-0.10743,47_black widow_widow_black_scarlett johansson
+2021-12-01,34,0.603388888888889,34_joker_joaquin_phoenix_joaquin phoenix
+2021-12-01,6,0.5100769230769231,6_star_kristen_kristen stewart_stewart
+2021-12-01,33,0.24324999999999997,33_jaw_shark_ocean_underwater
+2021-12-01,11,0.7529662337662337,11_christmas_santa_christmas movie_christmas movies
+2021-12-01,12,0.49886363636363634,12_spider_spider man_man_peter
+2021-12-01,13,0.9026166666666667,13_irishman_romantic_romance_goodfellas
+2021-12-01,14,0.0007499999999999729,14_shang chi_shang_chi_china
+2021-12-01,15,0.6895454545454546,15_tarantino_quentin_pulp_quentin tarantino
+2021-12-01,9,0.22973333333333334,9_bond_jam bond_jam_craig
+2021-12-01,16,0.9979,16_parasite_family_kim_bong
+2021-12-01,17,0.8421199999999999,17_godzilla_kong_godzilla kong_monster
+2021-12-01,18,0.79580625,18_godfather_michael_pacino_coppola
+2021-12-01,19,0.617975,19_snyder_zack_zack snyder_justice league
+2021-12-01,20,0.5685727272727272,20_alien_predator_prometheus_word word word
+2021-12-01,21,0.18596666666666664,21_die_actor_die age_dead
+2021-12-01,8,0.4686,8_batman_dark knight_knight_dark
+2021-12-01,22,0.8549000000000001,22_white_black_racist_people
+2021-12-01,23,0.4456636363636364,23_rat_imdb_movies_fuck fuck fuck
+2021-12-01,24,0.56565,24_war_war movies_private ryan_save private
+2021-12-01,25,0.5538350000000001,25_terminator_arnold_dark fate_fate
+2021-12-01,26,0.5452117647058823,26_ring_lord ring_lord_hobbit
+2021-12-01,27,0.9555111111111112,27_wonder woman_woman_wonder_diana
+2021-12-01,7,0.8048608695652174,7_nolan_tenet_christopher nolan_christopher
+2021-12-01,28,0.27721666666666667,28_jurassic_park_jurassic park_jurassic world
+2021-12-01,29,0.6361600000000001,29_pirate_depp_johnny depp_johnny
+2021-12-01,30,0.9875,30_indiana_indiana jones_jones_indy
+2021-12-01,31,0.02096666666666669,31_sandler_adam sandler_adam_uncut
+2021-12-01,32,0.5960315789473685,32_western_westerns_west_genre
+2021-12-01,2,0.6965392156862745,2_marvel_mcu_avengers_endgame
+2021-12-01,59,0.4442888888888889,59_korean_korean film_korean movies_oldboy
+2021-12-01,48,0.9825,48_russian_ukraine_russia_soviet
+2021-12-01,63,-0.9975,63_wick_john wick_john_action
+2021-12-01,64,0.9440454545454545,64_lynch_david lynch_mulholland_david
+2021-12-01,62,0.10077999999999998,62_venom_carnage_let carnage_venom let
+2021-12-01,66,-0.003024999999999972,66_ghibli_miyazaki_studio ghibli_studio
+2021-12-01,71,0.5181857142857142,71_fight_fight scenes_fight scene_punch
+2021-12-01,60,0.8446384615384616,60_borat_cohen_baron cohen_baron
+2021-12-01,1,0.5496523076923078,1_trailer_official trailer_official_trailers
+2021-12-01,67,0.9647,67_jojo_jojo rabbit_rabbit_taika
+2021-12-01,70,0.3511666666666667,70_cgi_effect_practical_look
+2021-12-01,61,-0.1779,61_mulan_disney_live action_live
+2021-12-01,68,0.58073125,68_furious_fast_amp furious_fast amp furious
+2021-12-01,65,0.991425,65_avatar_jam cameron_cameron_endgame
+2021-12-01,0,0.8454423076923077,0_movie_film_movies_like
+2022-01-01,74,0.5248352941176471,74_thrillers_thriller_psychological_movies
+2022-01-01,56,0.9915,56_cut_version_theatrical_director cut
+2022-01-01,65,0.998,65_avatar_jam cameron_cameron_endgame
+2022-01-01,64,0.9944,64_lynch_david lynch_mulholland_david
+2022-01-01,4,0.9274,4_poster_posters_movie posters_official poster
+2022-01-01,35,-0.9894,35_ghostbusters_afterlife_ghostbusters afterlife_bird bird
+2022-01-01,8,-0.8887,8_batman_dark knight_knight_dark
+2022-01-01,27,-0.9831,27_wonder woman_woman_wonder_diana
+2022-01-01,63,0.9828,63_wick_john wick_john_action
+2022-01-01,10,-0.11195,10_matrix_neo_resurrections_matrix resurrections
+2022-01-01,52,0.9758,52_quote_movie quote_line_movie
+2022-01-01,15,-0.42955,15_tarantino_quentin_pulp_quentin tarantino
+2022-01-01,57,0.9775,57_sex_sex scenes_nudity_scenes
+2022-01-01,68,0.01765,68_furious_fast_amp furious_fast amp furious
+2022-01-01,60,0.99085,60_borat_cohen_baron cohen_baron
+2022-01-01,31,0.9311,31_sandler_adam sandler_adam_uncut
+2022-01-01,11,-0.2684,11_christmas_santa_christmas movie_christmas movies
+2022-01-01,24,0.9941,24_war_war movies_private ryan_save private
+2022-01-01,75,0.9953,75_hitchcock_alfred hitchcock_alfred_hitchcock film
+2022-01-01,46,0.9915,46_pixar_toy story_soul_toy
+2022-01-01,73,0.98915,73_scorsese_martin scorsese_martin_taxi
+2022-01-01,2,0.9772,2_marvel_mcu_avengers_endgame
+2022-01-01,72,0.12288571428571428,72_disney_aladdin_moana_song
+2022-01-01,19,0.6815,19_snyder_zack_zack snyder_justice league
+2022-01-01,25,0.3353333333333333,25_terminator_arnold_dark fate_fate
+2022-01-01,1,0.6848799999999999,1_trailer_official trailer_official_trailers
+2022-01-01,17,0.3314,17_godzilla_kong_godzilla kong_monster
+2022-01-01,7,0.9979,7_nolan_tenet_christopher nolan_christopher
+2022-02-01,42,0.5861,42_suicide squad_squad_suicide_gunn
+2022-02-01,40,0.8265162162162162,40_animate_animation_animate movies_amp
+2022-02-01,6,0.557245,6_star_kristen_kristen stewart_stewart
+2022-02-01,41,0.9586153846153846,41_japanese_samurai_kurosawa_akira
+2022-02-01,19,0.6609631578947368,19_snyder_zack_zack snyder_justice league
+2022-02-01,39,0.9371,39_fast_furious_fast furious_car
+2022-02-01,78,0.270025,78_martial_martial arts_arts_karate
+2022-02-01,72,0.6189790697674419,72_disney_aladdin_moana_song
+2022-02-01,65,0.6817666666666667,65_avatar_jam cameron_cameron_endgame
+2022-02-01,31,0.7690153846153845,31_sandler_adam sandler_adam_uncut
+2022-02-01,22,-0.7123,22_white_black_racist_people
+2022-02-01,32,0.7199833333333334,32_western_westerns_west_genre
+2022-02-01,73,0.7105493506493507,73_scorsese_martin scorsese_martin_taxi
+2022-02-01,29,0.33044999999999997,29_pirate_depp_johnny depp_johnny
+2022-02-01,79,0.94775,79_gay_straight_lgbt_queer
+2022-02-01,9,0.6029904761904762,9_bond_jam bond_jam_craig
+2022-02-01,33,0.038899999999999976,33_jaw_shark_ocean_underwater
+2022-02-01,7,0.7126711111111111,7_nolan_tenet_christopher nolan_christopher
+2022-02-01,81,0.6698896551724138,81_trek_star trek_star_trek film
+2022-02-01,70,0.5685863636363636,70_cgi_effect_practical_look
+2022-02-01,67,0.9764,67_jojo_jojo rabbit_rabbit_taika
+2022-02-01,23,0.701004,23_rat_imdb_movies_fuck fuck fuck
+2022-02-01,35,0.3258322580645161,35_ghostbusters_afterlife_ghostbusters afterlife_bird bird
+2022-02-01,21,-0.01021666666666666,21_die_actor_die age_dead
+2022-02-01,66,0.73005,66_ghibli_miyazaki_studio ghibli_studio
+2022-02-01,36,0.08392608695652173,36_zombie_zombies_dead_busan
+2022-02-01,37,0.3386705882352941,37_villain_villains_hero_heroes
+2022-02-01,1,0.6664457627118645,1_trailer_official trailer_official_trailers
+2022-02-01,38,0.6505857142857143,38_blade_blade runner_runner_deckard
+2022-02-01,28,0.3434592592592593,28_jurassic_park_jurassic park_jurassic world
+2022-02-01,20,0.3920947368421053,20_alien_predator_prometheus_word word word
+2022-02-01,34,0.669525,34_joker_joaquin_phoenix_joaquin phoenix
+2022-02-01,18,0.8085761904761904,18_godfather_michael_pacino_coppola
+2022-02-01,77,0.3662,77_sonic_hedgehog_sonic hedgehog_sonic movie
+2022-02-01,25,0.5224180555555555,25_terminator_arnold_dark fate_fate
+2022-02-01,71,-0.01937333333333333,71_fight_fight scenes_fight scene_punch
+2022-02-01,53,0.31112,53_harry_potter_harry potter_fantastic beasts
+2022-02-01,80,0.80201875,80_comment_reddit_com movies comment_com
+2022-02-01,63,0.9887,63_wick_john wick_john_action
+2022-02-01,54,0.7596555555555555,54_kombat_mortal kombat_mortal_sub zero
+2022-02-01,14,0.15836666666666666,14_shang chi_shang_chi_china
+2022-02-01,55,0.63495,55_youpoll_https youpoll_poll_click https youpoll
+2022-02-01,56,0.7087583333333334,56_cut_version_theatrical_director cut
+2022-02-01,69,0.9964333333333334,69_green knight_knight_green_gawain
+2022-02-01,57,0.6018628571428571,57_sex_sex scenes_nudity_scenes
+2022-02-01,13,0.7640583333333333,13_irishman_romantic_romance_goodfellas
+2022-02-01,12,0.671225,12_spider_spider man_man_peter
+2022-02-01,62,0.9833,62_venom_carnage_let carnage_venom let
+2022-02-01,3,0.36378125,3_star war_war_star_jedi
+2022-02-01,75,0.6093481481481482,75_hitchcock_alfred hitchcock_alfred_hitchcock film
+2022-02-01,58,0.6017230769230769,58_disaster_disaster movies_tomorrow_apocalyptic
+2022-02-01,26,0.4668,26_ring_lord ring_lord_hobbit
+2022-02-01,11,0.8542954545454545,11_christmas_santa_christmas movie_christmas movies
+2022-02-01,59,0.7547409090909091,59_korean_korean film_korean movies_oldboy
+2022-02-01,61,0.9656,61_mulan_disney_live action_live
+2022-02-01,60,0.81,60_borat_cohen_baron cohen_baron
+2022-02-01,24,0.2994588235294118,24_war_war movies_private ryan_save private
+2022-02-01,43,0.641612,43_mission impossible_mission_impossible_tom cruise
+2022-02-01,0,0.6978666666666666,0_movie_film_movies_like
+2022-02-01,76,0.10346363636363637,76_dracula_vampire_vampires_bram
+2022-02-01,44,0.7907863636363637,44_ridley_ridley scott_scott_duel
+2022-02-01,17,0.7332076923076923,17_godzilla_kong_godzilla kong_monster
+2022-02-01,45,0.6361285714285714,45_rocky_rambo_stallone_creed
+2022-02-01,5,0.7344892857142857,5_dune_villeneuve_denis_denis villeneuve
+2022-02-01,68,0.6173695652173913,68_furious_fast_amp furious_fast amp furious
+2022-02-01,64,0.820159090909091,64_lynch_david lynch_mulholland_david
+2022-02-01,74,0.6202411585365853,74_thrillers_thriller_psychological_movies
+2022-02-01,46,0.8438365853658536,46_pixar_toy story_soul_toy
+2022-02-01,8,0.543565,8_batman_dark knight_knight_dark
+2022-02-01,47,0.6701888888888888,47_black widow_widow_black_scarlett johansson
+2022-02-01,49,0.2494,49_mad max_max_mad_fury
+2022-02-01,2,0.6207475409836065,2_marvel_mcu_avengers_endgame
+2022-02-01,50,0.886,50_book_read_adaptations_adaptation
+2022-02-01,51,0.60678,51_cage_nicolas cage_nicolas_nic cage
+2022-02-01,48,0.37925625,48_russian_ukraine_russia_soviet
+2022-02-01,27,0.4115,27_wonder woman_woman_wonder_diana
+2022-02-01,10,0.20068000000000003,10_matrix_neo_resurrections_matrix resurrections
+2022-02-01,4,0.5987740740740741,4_poster_posters_movie posters_official poster
+2022-02-01,52,0.6593133333333333,52_quote_movie quote_line_movie
+2022-02-01,15,0.6372285714285715,15_tarantino_quentin_pulp_quentin tarantino
+2022-02-01,30,0.2697,30_indiana_indiana jones_jones_indy
+2022-03-01,23,0.69537,23_rat_imdb_movies_fuck fuck fuck
+2022-03-01,24,0.24912105263157894,24_war_war movies_private ryan_save private
+2022-03-01,69,0.9783,69_green knight_knight_green_gawain
+2022-03-01,73,0.6926933333333333,73_scorsese_martin scorsese_martin_taxi
+2022-03-01,70,0.4543761904761905,70_cgi_effect_practical_look
+2022-03-01,1,0.5678371428571428,1_trailer_official trailer_official_trailers
+2022-03-01,11,0.7725500000000001,11_christmas_santa_christmas movie_christmas movies
+2022-03-01,12,0.7020058823529413,12_spider_spider man_man_peter
+2022-03-01,13,0.6865681818181818,13_irishman_romantic_romance_goodfellas
+2022-03-01,71,0.2856034482758621,71_fight_fight scenes_fight scene_punch
+2022-03-01,14,0.427,14_shang chi_shang_chi_china
+2022-03-01,10,0.60442,10_matrix_neo_resurrections_matrix resurrections
+2022-03-01,48,-0.047117142857142864,48_russian_ukraine_russia_soviet
+2022-03-01,15,0.6755444444444444,15_tarantino_quentin_pulp_quentin tarantino
+2022-03-01,16,0.9997,16_parasite_family_kim_bong
+2022-03-01,17,0.6557304347826086,17_godzilla_kong_godzilla kong_monster
+2022-03-01,18,0.5345714285714286,18_godfather_michael_pacino_coppola
+2022-03-01,19,0.6432181818181818,19_snyder_zack_zack snyder_justice league
+2022-03-01,20,0.605125,20_alien_predator_prometheus_word word word
+2022-03-01,9,0.38226666666666664,9_bond_jam bond_jam_craig
+2022-03-01,81,0.7089357142857143,81_trek_star trek_star_trek film
+2022-03-01,21,0.27366999999999997,21_die_actor_die age_dead
+2022-03-01,22,0.5525142857142857,22_white_black_racist_people
+2022-03-01,25,0.5490732142857143,25_terminator_arnold_dark fate_fate
+2022-03-01,60,0.26371764705882356,60_borat_cohen_baron cohen_baron
+2022-03-01,64,0.3557416666666666,64_lynch_david lynch_mulholland_david
+2022-03-01,43,0.7125578947368422,43_mission impossible_mission_impossible_tom cruise
+2022-03-01,44,0.45546000000000003,44_ridley_ridley scott_scott_duel
+2022-03-01,5,0.8015481481481481,5_dune_villeneuve_denis_denis villeneuve
+2022-03-01,77,0.8734142857142857,77_sonic_hedgehog_sonic hedgehog_sonic movie
+2022-03-01,45,0.8426214285714285,45_rocky_rambo_stallone_creed
+2022-03-01,46,0.5861914285714286,46_pixar_toy story_soul_toy
+2022-03-01,47,0.6340692307692308,47_black widow_widow_black_scarlett johansson
+2022-03-01,49,0.438875,49_mad max_max_mad_fury
+2022-03-01,74,0.566546286701209,74_thrillers_thriller_psychological_movies
+2022-03-01,50,0.6613222222222223,50_book_read_adaptations_adaptation
+2022-03-01,51,0.77211875,51_cage_nicolas cage_nicolas_nic cage
+2022-03-01,4,0.6904783783783783,4_poster_posters_movie posters_official poster
+2022-03-01,63,0.8844000000000001,63_wick_john wick_john_action
+2022-03-01,76,0.49892499999999995,76_dracula_vampire_vampires_bram
+2022-03-01,52,0.42405000000000004,52_quote_movie quote_line_movie
+2022-03-01,2,0.5556666666666666,2_marvel_mcu_avengers_endgame
+2022-03-01,53,0.6227647058823529,53_harry_potter_harry potter_fantastic beasts
+2022-03-01,54,0.7379333333333333,54_kombat_mortal kombat_mortal_sub zero
+2022-03-01,56,0.26063125,56_cut_version_theatrical_director cut
+2022-03-01,62,0.1252,62_venom_carnage_let carnage_venom let
+2022-03-01,57,0.7696259259259259,57_sex_sex scenes_nudity_scenes
+2022-03-01,3,0.38689090909090906,3_star war_war_star_jedi
+2022-03-01,0,0.8107678571428572,0_movie_film_movies_like
+2022-03-01,75,0.3976913043478261,75_hitchcock_alfred hitchcock_alfred_hitchcock film
+2022-03-01,58,0.30777333333333334,58_disaster_disaster movies_tomorrow_apocalyptic
+2022-03-01,61,0.9965,61_mulan_disney_live action_live
+2022-03-01,59,0.65021875,59_korean_korean film_korean movies_oldboy
+2022-03-01,42,0.08596666666666668,42_suicide squad_squad_suicide_gunn
+2022-03-01,72,0.646708,72_disney_aladdin_moana_song
+2022-03-01,34,0.5058909090909091,34_joker_joaquin_phoenix_joaquin phoenix
+2022-03-01,40,0.8314685714285714,40_animate_animation_animate movies_amp
+2022-03-01,80,0.779928125,80_comment_reddit_com movies comment_com
+2022-03-01,26,0.5602416666666666,26_ring_lord ring_lord_hobbit
+2022-03-01,8,0.6051847222222223,8_batman_dark knight_knight_dark
+2022-03-01,27,0.6747538461538463,27_wonder woman_woman_wonder_diana
+2022-03-01,28,0.8086727272727273,28_jurassic_park_jurassic park_jurassic world
+2022-03-01,68,0.5436619047619048,68_furious_fast_amp furious_fast amp furious
+2022-03-01,29,0.59914,29_pirate_depp_johnny depp_johnny
+2022-03-01,30,0.4784,30_indiana_indiana jones_jones_indy
+2022-03-01,41,0.6085318181818182,41_japanese_samurai_kurosawa_akira
+2022-03-01,79,0.5182083333333333,79_gay_straight_lgbt_queer
+2022-03-01,32,0.5543611111111111,32_western_westerns_west_genre
+2022-03-01,67,0.9064333333333333,67_jojo_jojo rabbit_rabbit_taika
+2022-03-01,31,0.8530266666666667,31_sandler_adam sandler_adam_uncut
+2022-03-01,33,0.34912857142857145,33_jaw_shark_ocean_underwater
+2022-03-01,66,0.4448666666666667,66_ghibli_miyazaki_studio ghibli_studio
+2022-03-01,35,0.3513583333333334,35_ghostbusters_afterlife_ghostbusters afterlife_bird bird
+2022-03-01,39,0.4185714285714286,39_fast_furious_fast furious_car
+2022-03-01,36,0.3919615384615385,36_zombie_zombies_dead_busan
+2022-03-01,37,0.10208,37_villain_villains_hero_heroes
+2022-03-01,65,0.58818,65_avatar_jam cameron_cameron_endgame
+2022-03-01,38,0.82434,38_blade_blade runner_runner_deckard
+2022-03-01,7,0.7410277777777778,7_nolan_tenet_christopher nolan_christopher
+2022-03-01,78,0.6762,78_martial_martial arts_arts_karate
+2022-03-01,6,0.6524368421052632,6_star_kristen_kristen stewart_stewart
+2022-04-01,1,0.9916,1_trailer_official trailer_official_trailers
+2022-04-01,24,0.9884,24_war_war movies_private ryan_save private
+2022-04-01,73,0.9969,73_scorsese_martin scorsese_martin_taxi
+2022-04-01,23,0.1851,23_rat_imdb_movies_fuck fuck fuck
+2022-04-01,68,-0.6674,68_furious_fast_amp furious_fast amp furious
+2022-04-01,74,0.9806,74_thrillers_thriller_psychological_movies
+2022-04-01,52,0.9218,52_quote_movie quote_line_movie
+2022-04-01,57,0.9728,57_sex_sex scenes_nudity_scenes
+2022-04-01,8,0.9947999999999999,8_batman_dark knight_knight_dark
