@@ -50,7 +50,7 @@ function ForceGraph({data, year, selected, handleSelection}) {
       
         // set up colour scale
         const fillColour = d3.scaleOrdinal()
-          .domain(data.map(item => item.topic))
+          .domain(data.sort((a,b) => a.size - b.size).map(item => item.topic))
           .range(["#feebe2", "#fbb4b9", "#f768a1", "#c51b8a", "#7a0177"]);
       
         // data manipulation function takes raw data from csv and converts it into an array of node objects
