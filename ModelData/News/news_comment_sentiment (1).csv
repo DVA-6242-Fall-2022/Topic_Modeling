@@ -1,0 +1,216 @@
+created_dt_month,topic,comment_sentiment,name
+2020-01-01,5,0.05178928571428572,5_mask_face mask_face_ventilators
+2020-01-01,25,0.1627436440677966,25_climate_carbon_emissions_climate change
+2020-01-01,6,-0.11486242884250474,6_coronavirus_case_coronavirus case_pandemic
+2020-01-01,23,-0.43387486702127664,23_iran_coronavirus_sanction_iran coronavirus
+2020-01-01,38,-0.23443953488372093,38_earthquake_magnitude_magnitude earthquake_puerto
+2020-01-01,41,0.2602635135135135,41_huawei_network_giant huawei_giant
+2020-01-01,7,-0.1265409090909091,7_israel_palestinian_netanyahu_israeli
+2020-01-01,22,0.3598545454545455,22_korea_south_south korea_north korea
+2020-01-01,8,0.11659466666666667,8_dog_animals_meat_cat
+2020-01-01,21,-0.4132246153846154,21_taliban_afghanistan_kill_afghan
+2020-01-01,20,-0.012037804878048777,20_mexico_mexican_border_drug
+2020-01-01,9,-0.004111538461538472,9_italy_italian_coronavirus_deaths
+2020-01-01,19,-0.06800379746835443,19_germany_german_far right_right
+2020-01-01,18,0.10667735849056605,18_taiwan_china_tsai_support taiwan
+2020-01-01,10,0.18634503816793893,10_johnson_boris_boris johnson_brexit
+2020-01-01,17,-0.1247940594059406,17_canada_trudeau_canadian_covid
+2020-01-01,39,0.3601967741935484,39_sanders_bernie_bernie sanders_sanders drop
+2020-01-01,16,0.2084032786885246,16_japan_tokyo_olympics_japanese
+2020-01-01,11,0.38304339622641514,11_stock_economy_recession_market
+2020-01-01,15,-0.20661724806201548,15_australia_bushfires_australian_fire
+2020-01-01,40,-0.5752367346938775,40_gun_shoot_assault_canada
+2020-01-01,12,-0.5289536082474228,12_plane_crash_iran_ukrainian
+2020-01-01,14,-0.18299473684210527,14_kim_jong_kim jong_north
+2020-01-01,26,0.3796875,26_facebook_youtube_google_zoom
+2020-01-01,27,0.020799999999999996,27_venezuela_maduro_venezuelan_coup
+2020-01-01,24,0.07234042553191489,24_cruise_ship_cruise ship_passengers
+2020-01-01,31,0.10440227272727273,31_ice_antarctica_melt_warm
+2020-01-01,35,-0.13163804878048782,35_impeachment_trump_trial_witness
+2020-01-01,34,0.47930285714285714,34_earth_nasa_asteroid_star
+2020-01-01,0,-0.16299471153846154,0_china_coronavirus_chinese_wuhan
+2020-01-01,33,0.036602970297029705,33_greece_greek_migrants_turkey
+2020-01-01,36,0.18198924731182797,36_greta_thunberg_greta thunberg_climate
+2020-01-01,32,-0.1951475,32_india_coronavirus_lockdown_covid
+2020-01-01,1,-0.032364000000000004,1_pakistan_india_school_coronavirus
+2020-01-01,4,0.017238596491228064,4_trump_coronavirus_fund_white house
+2020-01-01,42,-0.24459528301886793,42_assange_julian assange_julian_extradition
+2020-01-01,2,-0.5196394366197183,2_iran_iraq_soleimani_iranian
+2020-01-01,30,-0.013949122807017544,30_oil_price_oil price_saudi
+2020-01-01,13,0.04437999999999999,13_brazil_bolsonaro_brazilian_president
+2020-01-01,29,0.10014789915966386,29_vaccine_coronavirus vaccine_coronavirus_develop
+2020-01-01,3,-0.3135330434782609,3_putin_death_toll_death toll
+2020-01-01,37,0.17066666666666666,37_amazon_airlines_flight_airline
+2020-01-01,28,-0.07440452488687783,28_russia_putin_moscow_coronavirus
+2020-02-01,26,0.21383214285714286,26_facebook_youtube_google_zoom
+2020-02-01,14,-0.1468,14_kim_jong_kim jong_north
+2020-02-01,34,0.2977814814814815,34_earth_nasa_asteroid_star
+2020-02-01,27,-0.014836842105263159,27_venezuela_maduro_venezuelan_coup
+2020-02-01,33,-0.053253773584905656,33_greece_greek_migrants_turkey
+2020-02-01,15,-0.18304945054945054,15_australia_bushfires_australian_fire
+2020-02-01,39,0.3103488888888889,39_sanders_bernie_bernie sanders_sanders drop
+2020-02-01,25,0.2702427777777778,25_climate_carbon_emissions_climate change
+2020-02-01,16,0.0854625,16_japan_tokyo_olympics_japanese
+2020-02-01,32,-0.2272486301369863,32_india_coronavirus_lockdown_covid
+2020-02-01,24,0.06789081632653061,24_cruise_ship_cruise ship_passengers
+2020-02-01,35,-0.13949009433962264,35_impeachment_trump_trial_witness
+2020-02-01,13,0.24423225806451612,13_brazil_bolsonaro_brazilian_president
+2020-02-01,18,-0.06226274509803921,18_taiwan_china_tsai_support taiwan
+2020-02-01,36,0.12513684210526316,36_greta_thunberg_greta thunberg_climate
+2020-02-01,31,0.4036961038961039,31_ice_antarctica_melt_warm
+2020-02-01,19,-0.1955657142857143,19_germany_german_far right_right
+2020-02-01,28,-0.1037246153846154,28_russia_putin_moscow_coronavirus
+2020-02-01,20,-0.5545438596491228,20_mexico_mexican_border_drug
+2020-02-01,23,-0.25606260623229465,23_iran_coronavirus_sanction_iran coronavirus
+2020-02-01,21,-0.3861989361702128,21_taliban_afghanistan_kill_afghan
+2020-02-01,38,0.1357708333333333,38_earthquake_magnitude_magnitude earthquake_puerto
+2020-02-01,30,0.049925,30_oil_price_oil price_saudi
+2020-02-01,22,0.08759285714285714,22_korea_south_south korea_north korea
+2020-02-01,29,0.024119021739130435,29_vaccine_coronavirus vaccine_coronavirus_develop
+2020-02-01,37,0.0984706896551724,37_amazon_airlines_flight_airline
+2020-02-01,17,0.004161956521739135,17_canada_trudeau_canadian_covid
+2020-02-01,41,0.29296,41_huawei_network_giant huawei_giant
+2020-02-01,8,-0.09807301587301588,8_dog_animals_meat_cat
+2020-02-01,42,-0.15743333333333334,42_assange_julian assange_julian_extradition
+2020-02-01,9,-0.02917272727272727,9_italy_italian_coronavirus_deaths
+2020-02-01,7,-0.22134212765957448,7_israel_palestinian_netanyahu_israeli
+2020-02-01,0,-0.21365568181818181,0_china_coronavirus_chinese_wuhan
+2020-02-01,6,-0.11692637130801688,6_coronavirus_case_coronavirus case_pandemic
+2020-02-01,2,-0.5480395348837209,2_iran_iraq_soleimani_iranian
+2020-02-01,10,0.3851299145299145,10_johnson_boris_boris johnson_brexit
+2020-02-01,3,-0.34912540983606555,3_putin_death_toll_death toll
+2020-02-01,40,-0.6727194444444444,40_gun_shoot_assault_canada
+2020-02-01,11,0.19500526315789474,11_stock_economy_recession_market
+2020-02-01,1,-0.08306578947368422,1_pakistan_india_school_coronavirus
+2020-02-01,4,0.13317102803738318,4_trump_coronavirus_fund_white house
+2020-02-01,12,-0.23772619047619048,12_plane_crash_iran_ukrainian
+2020-02-01,5,-0.19177254901960786,5_mask_face mask_face_ventilators
+2020-03-01,25,0.2254742857142857,25_climate_carbon_emissions_climate change
+2020-03-01,27,-0.12489056603773585,27_venezuela_maduro_venezuelan_coup
+2020-03-01,31,0.1288032258064516,31_ice_antarctica_melt_warm
+2020-03-01,21,-0.2212023076923077,21_taliban_afghanistan_kill_afghan
+2020-03-01,1,-0.15822424242424243,1_pakistan_india_school_coronavirus
+2020-03-01,7,-0.2381794642857143,7_israel_palestinian_netanyahu_israeli
+2020-03-01,28,-0.12055887850467291,28_russia_putin_moscow_coronavirus
+2020-03-01,22,0.04472666666666667,22_korea_south_south korea_north korea
+2020-03-01,36,-0.24800555555555556,36_greta_thunberg_greta thunberg_climate
+2020-03-01,6,-0.0690357327586207,6_coronavirus_case_coronavirus case_pandemic
+2020-03-01,23,-0.21360053908355797,23_iran_coronavirus_sanction_iran coronavirus
+2020-03-01,30,0.07523239436619718,30_oil_price_oil price_saudi
+2020-03-01,26,0.25743829787234046,26_facebook_youtube_google_zoom
+2020-03-01,41,0.018396969696969693,41_huawei_network_giant huawei_giant
+2020-03-01,37,0.12589999999999998,37_amazon_airlines_flight_airline
+2020-03-01,2,-0.45276818181818185,2_iran_iraq_soleimani_iranian
+2020-03-01,24,-0.05771428571428571,24_cruise_ship_cruise ship_passengers
+2020-03-01,5,0.197032,5_mask_face mask_face_ventilators
+2020-03-01,29,-0.04314738372093023,29_vaccine_coronavirus vaccine_coronavirus_develop
+2020-03-01,4,0.013062499999999998,4_trump_coronavirus_fund_white house
+2020-03-01,35,-0.10509878048780488,35_impeachment_trump_trial_witness
+2020-03-01,20,-0.30671228070175444,20_mexico_mexican_border_drug
+2020-03-01,8,0.08682340425531915,8_dog_animals_meat_cat
+2020-03-01,13,-0.23056063829787232,13_brazil_bolsonaro_brazilian_president
+2020-03-01,12,-0.16329811320754717,12_plane_crash_iran_ukrainian
+2020-03-01,14,-0.17187164179104478,14_kim_jong_kim jong_north
+2020-03-01,39,0.44556969696969695,39_sanders_bernie_bernie sanders_sanders drop
+2020-03-01,34,0.16419999999999998,34_earth_nasa_asteroid_star
+2020-03-01,11,0.06546826347305389,11_stock_economy_recession_market
+2020-03-01,15,-0.04603833333333333,15_australia_bushfires_australian_fire
+2020-03-01,10,0.19523620689655174,10_johnson_boris_boris johnson_brexit
+2020-03-01,40,-0.2311566037735849,40_gun_shoot_assault_canada
+2020-03-01,17,0.07765874125874125,17_canada_trudeau_canadian_covid
+2020-03-01,16,0.14952584269662922,16_japan_tokyo_olympics_japanese
+2020-03-01,42,-0.2084734693877551,42_assange_julian assange_julian_extradition
+2020-03-01,38,-0.19090344827586206,38_earthquake_magnitude_magnitude earthquake_puerto
+2020-03-01,19,-0.1399549019607843,19_germany_german_far right_right
+2020-03-01,32,-0.09956321243523317,32_india_coronavirus_lockdown_covid
+2020-03-01,33,-0.19231049382716048,33_greece_greek_migrants_turkey
+2020-03-01,0,-0.38444931506849317,0_china_coronavirus_chinese_wuhan
+2020-03-01,18,0.04690375939849624,18_taiwan_china_tsai_support taiwan
+2020-03-01,3,-0.30877553956834536,3_putin_death_toll_death toll
+2020-03-01,9,-0.07294880239520958,9_italy_italian_coronavirus_deaths
+2020-04-01,29,0.13438740031897925,29_vaccine_coronavirus vaccine_coronavirus_develop
+2020-04-01,36,0.4621571428571429,36_greta_thunberg_greta thunberg_climate
+2020-04-01,31,0.12088974358974358,31_ice_antarctica_melt_warm
+2020-04-01,33,-0.09464137931034483,33_greece_greek_migrants_turkey
+2020-04-01,1,-0.056671428571428574,1_pakistan_india_school_coronavirus
+2020-04-01,2,-0.5886185185185185,2_iran_iraq_soleimani_iranian
+2020-04-01,34,0.30553478260869565,34_earth_nasa_asteroid_star
+2020-04-01,28,-0.07160388349514564,28_russia_putin_moscow_coronavirus
+2020-04-01,30,0.007992452830188677,30_oil_price_oil price_saudi
+2020-04-01,0,-0.2282188559322034,0_china_coronavirus_chinese_wuhan
+2020-04-01,35,-0.2656514285714286,35_impeachment_trump_trial_witness
+2020-04-01,32,-0.12417282051282051,32_india_coronavirus_lockdown_covid
+2020-04-01,12,0.08827391304347826,12_plane_crash_iran_ukrainian
+2020-04-01,27,-0.21451111111111112,27_venezuela_maduro_venezuelan_coup
+2020-04-01,8,0.023392134831460677,8_dog_animals_meat_cat
+2020-04-01,19,-0.0206,19_germany_german_far right_right
+2020-04-01,40,-0.5182322033898306,40_gun_shoot_assault_canada
+2020-04-01,38,-0.20288478260869566,38_earthquake_magnitude_magnitude earthquake_puerto
+2020-04-01,18,0.00034696969696969705,18_taiwan_china_tsai_support taiwan
+2020-04-01,9,-0.010038372093023256,9_italy_italian_coronavirus_deaths
+2020-04-01,3,-0.305270303030303,3_putin_death_toll_death toll
+2020-04-01,17,-0.05873515151515152,17_canada_trudeau_canadian_covid
+2020-04-01,10,0.20238987341772152,10_johnson_boris_boris johnson_brexit
+2020-04-01,15,-0.14709868421052633,15_australia_bushfires_australian_fire
+2020-04-01,11,-0.04245202702702702,11_stock_economy_recession_market
+2020-04-01,14,-0.038222972972972974,14_kim_jong_kim jong_north
+2020-04-01,39,0.268028813559322,39_sanders_bernie_bernie sanders_sanders drop
+2020-04-01,13,-0.037556470588235295,13_brazil_bolsonaro_brazilian_president
+2020-04-01,16,-0.028589999999999997,16_japan_tokyo_olympics_japanese
+2020-04-01,42,-0.2036939393939394,42_assange_julian assange_julian_extradition
+2020-04-01,20,-0.02023207547169811,20_mexico_mexican_border_drug
+2020-04-01,21,-0.36867261904761905,21_taliban_afghanistan_kill_afghan
+2020-04-01,41,0.09345,41_huawei_network_giant huawei_giant
+2020-04-01,26,0.14916964285714288,26_facebook_youtube_google_zoom
+2020-04-01,4,-0.19402658959537572,4_trump_coronavirus_fund_white house
+2020-04-01,25,0.09009404761904762,25_climate_carbon_emissions_climate change
+2020-04-01,24,-0.06833229166666667,24_cruise_ship_cruise ship_passengers
+2020-04-01,37,0.05201408450704226,37_amazon_airlines_flight_airline
+2020-04-01,23,-0.15770650406504066,23_iran_coronavirus_sanction_iran coronavirus
+2020-04-01,6,-0.06905902232951117,6_coronavirus_case_coronavirus case_pandemic
+2020-04-01,22,0.08095666666666666,22_korea_south_south korea_north korea
+2020-04-01,7,-0.23046916666666667,7_israel_palestinian_netanyahu_israeli
+2020-04-01,5,-0.010930813953488371,5_mask_face mask_face_ventilators
+2020-05-01,38,-0.023277777777777803,38_earthquake_magnitude_magnitude earthquake_puerto
+2020-05-01,37,0.0758625,37_amazon_airlines_flight_airline
+2020-05-01,40,-0.68318,40_gun_shoot_assault_canada
+2020-05-01,35,0.041850000000000005,35_impeachment_trump_trial_witness
+2020-05-01,41,0.27035789473684213,41_huawei_network_giant huawei_giant
+2020-05-01,36,0.33130714285714286,36_greta_thunberg_greta thunberg_climate
+2020-05-01,39,-0.1311166666666667,39_sanders_bernie_bernie sanders_sanders drop
+2020-05-01,20,0.2441266666666667,20_mexico_mexican_border_drug
+2020-05-01,33,0.14630434782608695,33_greece_greek_migrants_turkey
+2020-05-01,12,-0.31697000000000003,12_plane_crash_iran_ukrainian
+2020-05-01,11,0.2357804347826087,11_stock_economy_recession_market
+2020-05-01,10,0.28308947368421056,10_johnson_boris_boris johnson_brexit
+2020-05-01,9,-0.2727076923076923,9_italy_italian_coronavirus_deaths
+2020-05-01,8,-0.05775416666666667,8_dog_animals_meat_cat
+2020-05-01,7,-0.27123488372093024,7_israel_palestinian_netanyahu_israeli
+2020-05-01,13,-0.011245161290322573,13_brazil_bolsonaro_brazilian_president
+2020-05-01,6,-0.05049752066115703,6_coronavirus_case_coronavirus case_pandemic
+2020-05-01,4,-0.09834999999999999,4_trump_coronavirus_fund_white house
+2020-05-01,3,-0.5072918367346938,3_putin_death_toll_death toll
+2020-05-01,2,0.5635833333333333,2_iran_iraq_soleimani_iranian
+2020-05-01,1,0.45088,1_pakistan_india_school_coronavirus
+2020-05-01,0,-0.1583737804878049,0_china_coronavirus_chinese_wuhan
+2020-05-01,5,0.04903157894736842,5_mask_face mask_face_ventilators
+2020-05-01,14,-0.1601965909090909,14_kim_jong_kim jong_north
+2020-05-01,15,0.03615,15_australia_bushfires_australian_fire
+2020-05-01,16,-0.012633333333333331,16_japan_tokyo_olympics_japanese
+2020-05-01,32,-0.12972037037037035,32_india_coronavirus_lockdown_covid
+2020-05-01,31,0.7249142857142857,31_ice_antarctica_melt_warm
+2020-05-01,30,0.12633076923076925,30_oil_price_oil price_saudi
+2020-05-01,29,0.1732635294117647,29_vaccine_coronavirus vaccine_coronavirus_develop
+2020-05-01,28,-0.2675050505050505,28_russia_putin_moscow_coronavirus
+2020-05-01,27,-0.024724615384615383,27_venezuela_maduro_venezuelan_coup
+2020-05-01,26,-0.09661904761904762,26_facebook_youtube_google_zoom
+2020-05-01,25,-0.0036787878787878673,25_climate_carbon_emissions_climate change
+2020-05-01,24,0.30476315789473685,24_cruise_ship_cruise ship_passengers
+2020-05-01,23,-0.2824919463087249,23_iran_coronavirus_sanction_iran coronavirus
+2020-05-01,22,0.10908125,22_korea_south_south korea_north korea
+2020-05-01,21,-0.3304282608695652,21_taliban_afghanistan_kill_afghan
+2020-05-01,19,-0.2440157894736842,19_germany_german_far right_right
+2020-05-01,18,-0.0056572815533980575,18_taiwan_china_tsai_support taiwan
+2020-05-01,17,-0.1633840909090909,17_canada_trudeau_canadian_covid
+2020-05-01,34,0.4117,34_earth_nasa_asteroid_star
+2020-05-01,42,-0.24998,42_assange_julian assange_julian_extradition
