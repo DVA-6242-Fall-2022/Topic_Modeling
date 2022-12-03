@@ -1,11 +1,58 @@
 import React, { useEffect, useRef, useState } from 'react'
 import * as d3 from 'd3'
 import timeSentiments from '../topics_over_time_with_sentiment.csv'
-import _, { fill } from 'lodash'
+import _ from 'lodash'
 import tip from 'd3-tip'
 
+// data manipulation function takes raw data from csv and converts it into an array of node objects
+// each node will store data and visualisation values to draw a bubble
+// rawData is expected to be an array of data objects, read in d3.csv
+// function returns the new node array, with a node for each element in the rawData input
+function createNodes(rawData, currentTimeline) {
+  const timeStamps = Array.from(new Set(rawData.map(item => item.Timestamp)))
+  const filterTimeline = timeStamps.slice(currentTimeline, currentTimeline+3)
+
+  // use max size in the data as the max in the scale's domain
+  // note we have to ensure that size is a number
+  const maxSize = d3.max(rawData, d => +d.Frequency / 1.5);
+
+  // size bubbles based on area
+  const radiusScale = d3.scaleSqrt()
+    .domain([0, maxSize])
+    .range([0, 60])
+
+  // use map() to convert raw data into node data
+  const myNodes = rawData.map(d => ({
+    ...d,
+    Topic: +d.Topic,
+    radius: radiusScale(+d.Frequency),
+    comment_sentiment: +d.comment_sentiment,
+    Frequency: +d.Frequency,
+    // size: +d.size,
+    x: Math.random() * 900,
+    y: Math.random() * 800
+  }))
+
+
+  const timeGroups = _.groupBy(myNodes, 'Timestamp')
+
+  Object.keys(timeGroups).forEach(key => {
+    const temp = _.orderBy(timeGroups[key], 'Frequency', 'desc')
+    timeGroups[key] = temp.slice(0, 20)
+  })
+
+  const topNodes = Object.values(timeGroups).reduce((prev, curr) => {
+    return [
+      ...prev,
+      ...curr
+    ]
+  }, [])
+
+  return topNodes.filter(item => filterTimeline.includes(item.Timestamp));
+}
+
 // bubbleChart creation function; instantiate new bubble chart given a DOM element to display it in and a dataset to visualise
-function bubbleChart(selector, timeSentimentData, setGraphElements, currentTimeline, handleSelection) {
+function bubbleChart(selector, timeSentimentData, graphElements, setGraphElements, currentTimeline, handleSelection) {
 
   // create svg element
   const svg = d3.select(selector)
@@ -55,42 +102,13 @@ function bubbleChart(selector, timeSentimentData, setGraphElements, currentTimel
     .domain(d3.extent(timeSentimentData.map(item => item.Frequency)))
     .range(["#feebe2", "#fbb4b9", "#f768a1", "#c51b8a", "#7a0177"]);
 
-  // data manipulation function takes raw data from csv and converts it into an array of node objects
-  // each node will store data and visualisation values to draw a bubble
-  // rawData is expected to be an array of data objects, read in d3.csv
-  // function returns the new node array, with a node for each element in the rawData input
-  function createNodes(rawData) {
-    // use max size in the data as the max in the scale's domain
-    // note we have to ensure that size is a number
-    const maxSize = d3.max(rawData, d => +d.Frequency / 1.5);
-
-    // size bubbles based on area
-    const radiusScale = d3.scaleSqrt()
-      .domain([0, maxSize])
-      .range([0, 60])
-
-    // use map() to convert raw data into node data
-    const myNodes = rawData.map(d => ({
-      ...d,
-      Topic: +d.Topic,
-      radius: radiusScale(+d.Frequency),
-      comment_sentiment: +d.comment_sentiment,
-      // size: +d.size,
-      x: Math.random() * 900,
-      y: Math.random() * 800
-    }))
-
-    return myNodes.filter(item => filterTimeline.includes(item.Timestamp));
-  }
-
   // main entry point to bubble chart, returned by parent closure
   // prepares rawData for visualisation and adds an svg element to the provided selector and starts the visualisation process
   
   const timeStamps = Array.from(new Set(timeSentimentData.map(item => item.Timestamp)))
-  const filterTimeline = timeStamps.slice(currentTimeline, currentTimeline+3)
 
   // convert raw data into nodes data
-  nodes = createNodes(timeSentimentData);
+  nodes = createNodes(timeSentimentData, currentTimeline);
 
   const toolTip = tip().attr('class', 'd3-tip').html(function(event, d) { 
     return `
@@ -106,10 +124,10 @@ function bubbleChart(selector, timeSentimentData, setGraphElements, currentTimel
   });
   svg.call(toolTip)
 
-  const bubbleContainer = svg.append('g').classed('bubble-container', true)
+  const bubbleContainer = svg.append('g').classed('bubble-container', true).selectAll('.bubble')
 
   // bind nodes data to circle elements
-  const elements = bubbleContainer.selectAll('.bubble')
+  const elements = bubbleContainer
     .data(nodes, d => d.Topic)
     .enter()
     .append('g')
@@ -174,31 +192,18 @@ function bubbleChart(selector, timeSentimentData, setGraphElements, currentTimel
   // here we do the actual repositioning of the circles based on current x and y value of their bound node data
   // x and y values are modified by the force simulation
   function ticked() {
-    // path.attr("d", function(d) {
-    //   console.log(d)
-    //   var dx = d.target.x - d.source.x,
-    //     dy = d.target.y - d.source.y,
-    //     dr = Math.sqrt(dx * dx + dy * dy);
-    //   return "M" +
-    //     d.source.x + "," +
-    //     d.source.y + "A" +
-    //     dr + "," + dr + " 0 0,1 " +
-    //     d.target.x + "," +
-    //     d.target.y;
-    // });
-
     const k = this.alpha() * 1;
     //move the nodes to their foci/cluster
-    nodes.forEach(function(n, i) {
+    simulation.nodes().forEach(function(n, i) {
       n.x += (clusters(timeStamps.indexOf(n.Timestamp)) - n.x) * k;
       n.y += (300 - n.y) * k;
     });
 
-    bubbles
+    d3.selectAll('.bubble')
       .attr('cx', d => d.x)
       .attr('cy', d => d.y)
 
-    labels
+    d3.selectAll('.topic-label')
       .attr('x', d => d.x)
       .attr('y', d => d.y)
   }
@@ -209,9 +214,89 @@ function bubbleChart(selector, timeSentimentData, setGraphElements, currentTimel
     path,
     timeStamps,
     sentimentScale,
-    timeSentimentData,
-    svgData
+    nodes,
+    svgData,
+    timeSentimentData
   })
+
+  return Object.assign({node: svg.node()}, {
+    update: (newNodes, selected)  => {
+      // Make a shallow copy to protect against mutation, while
+      // recycling old nodes to preserve position and velocity.
+      // const old = new Map(elements.data().map(d => [d.Topic, d]));
+      // nodes = nodes.map(d => Object.assign(old.get(d.id) || {}, d));
+      // links = links.map(d => Object.assign({}, d));
+      // console.log(elements.data(), newNodes)
+      const old = _.intersectionWith(elements.data(), newNodes, (a, b) => {
+        if(a.Topic === b.Topic && a.Timestamp === b.Timestamp) return true
+        else return false
+      })
+
+      const temp = _.differenceWith(newNodes, old, (a, b) => {
+        if(a.Topic === b.Topic && a.Timestamp === b.Timestamp) return true
+        else return false
+      })
+
+      const remove = _.differenceWith(elements.data(), old, (a, b) => {
+        if(a.Topic === b.Topic && a.Timestamp === b.Timestamp) return true
+        else return false
+      })
+
+      const updatedNodes = [...old, ...temp]
+
+      d3.selectAll('.bubble-group').remove()
+
+      simulation.nodes(updatedNodes);
+      simulation.alpha(1).restart();
+
+      bubbleContainer
+        .data(updatedNodes, d => d.Topic)
+        .join(enter => {
+            const newElements = enter.append('g')
+            .classed('bubble-group', true)
+            .on("click", function(event, d){
+              if(d3.select('.sentiment-grid').empty()) handleSelection(d)
+            })
+            .on('dblclick', function(event, d){
+              handleSelection()
+              d3.selectAll('.linked-paths').remove()
+              d3.select('.axis-sentiment').remove()
+              d3.select('.sentiment-grid').remove()
+            })
+            .on('mouseover', toolTip.show)
+            .on('mouseout', toolTip.hide)
+
+
+            newElements.append('circle')
+            .classed('bubble', true)
+            .attr('r', d => d.radius)
+            .style('fill', d => fillColour(d.Frequency))
+
+            newElements.append('text')
+            .classed('topic-label', true)
+            .attr('dy', '.3em')
+            .style('text-anchor', 'middle')
+            .style('font-size', '1em')
+            .text(d => d.Topic)
+          },
+          update => {
+            console.log(update)
+          },
+          exit => {
+            console.log(exit)
+          })
+      // newElements.join(enter => 
+      //     enter.append('circle')
+      //     .classed('bubble', true)
+      //     .attr('r', d => d.radius)
+      //     .style('fill', d => fillColour(d.Frequency))
+      //   )
+
+      // link = link
+      //   .data(links, d => `${d.source.id}\t${d.target.id}`)
+      //   .join("line");
+    }
+  });
 }
 
 function SingleGraph({selected, handleSelection}) {
@@ -219,32 +304,34 @@ function SingleGraph({selected, handleSelection}) {
   const dev = useRef(false)
   const [currentTimeline, setCurrentTimeline] = useState(0)
   const [graphElements, setGraphElements] = useState({})
+  const [chartUpdate, setChartUpdate] = useState(null)
 
   useEffect(() => {
     if(!dev.current){
       dev.current = true
 
       d3.csv(timeSentiments).then(timeSentimentData => {
-        bubbleChart(svgRef.current, timeSentimentData, setGraphElements, currentTimeline, handleSelection)
+        const {update} = bubbleChart(svgRef.current, timeSentimentData, graphElements, setGraphElements, currentTimeline, handleSelection)
+        setChartUpdate({update})
       })
       .catch(err => console.error(err))
     }
   }, [])
 
   useEffect(() => {
-    if(selected){
+    if(selected && selected.Frequency){
       d3.selectAll('.bubble')
         .attr('visibility', d => {
-          if(selected.Topic && d.Topic !== selected.Topic) return 'hidden'
+          if(typeof selected.Topic === 'number' && d.Topic !== selected.Topic) return 'hidden'
           else return 'visible'
         })
       d3.selectAll('.topic-label')
         .attr('visibility', d => {
-          if(selected.Topic && d.Topic !== selected.Topic) return 'hidden'
+          if(typeof selected.Topic === 'number' && d.Topic !== selected.Topic) return 'hidden'
           else return 'visible'
       })
 
-      const selectedTopicNodesIdx = graphElements.timeSentimentData.reduce((prev, curr , i) => {
+      const selectedTopicNodesIdx = graphElements.simulation.nodes().reduce((prev, curr , i) => {
         if (parseInt(curr.Topic) === selected.Topic) prev.push(i);
         return prev;
       }, []);
@@ -259,7 +346,7 @@ function SingleGraph({selected, handleSelection}) {
         }
       })
 
-      graphElements.simulation.force("link" , d3.forceLink(links.slice(currentTimeline, currentTimeline+2)).strength(0))
+      graphElements.simulation.force("link" , d3.forceLink(links).strength(0))
 
       graphElements.path
       .data(links.slice(currentTimeline, currentTimeline+2))
@@ -267,7 +354,6 @@ function SingleGraph({selected, handleSelection}) {
       .append("path")
       .classed('linked-paths', true)
       .attr("d", function(d) {
-        console.log(d)
         var dx = d.target.x - d.source.x,
           dy = graphElements.sentimentScale(d.target.comment_sentiment) - graphElements.sentimentScale(d.source.comment_sentiment),
           dr = Math.sqrt(dx * dx + dy * dy);
@@ -292,7 +378,6 @@ function SingleGraph({selected, handleSelection}) {
       d3.selectAll('.bubble-group')
       .attr('transform', d => {
         if(d.Topic === selected.Topic) {
-          console.log(graphElements.sentimentScale(d.comment_sentiment))
           return `translate(0, ${graphElements.sentimentScale(d.comment_sentiment) - d.y})`
         }
       })
@@ -319,6 +404,9 @@ function SingleGraph({selected, handleSelection}) {
       .text(d => {
         return new Date(graphElements.timeStamps[d]).toLocaleDateString('en-US', {month: 'long', year: 'numeric'})
       });
+
+      const updatedNodes = createNodes(graphElements.timeSentimentData, currentTimeline)
+      chartUpdate.update(updatedNodes)
     }
   }, [currentTimeline])
 
