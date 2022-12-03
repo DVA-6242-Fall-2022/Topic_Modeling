@@ -1,6 +1,5 @@
 import React, { useEffect, useRef, useState } from 'react'
 import * as d3 from 'd3'
-import timeSentiments from '../topics_over_time_with_sentiment.csv'
 import _ from 'lodash'
 import tip from 'd3-tip'
 
@@ -52,7 +51,7 @@ function createNodes(rawData, currentTimeline) {
 }
 
 // bubbleChart creation function; instantiate new bubble chart given a DOM element to display it in and a dataset to visualise
-function bubbleChart(selector, timeSentimentData, graphElements, setGraphElements, currentTimeline, handleSelection) {
+function bubbleChart(selector, timeSentimentData, setGraphElements, currentTimeline, handleSelection) {
 
   // create svg element
   const svg = d3.select(selector)
@@ -74,7 +73,7 @@ function bubbleChart(selector, timeSentimentData, graphElements, setGraphElement
   const clusters = d3.scalePoint()
   .domain(_.range(currentTimeline, currentTimeline+3))
   .range([100, svgData.width-100])
-  .padding(0.2)
+  .padding(0.4)
   
   let bubbles = null;
   let labels = null;
@@ -88,7 +87,7 @@ function bubbleChart(selector, timeSentimentData, graphElements, setGraphElement
   // create a force simulation and add forces to it
   const simulation = d3.forceSimulation()
     .force('charge', d3.forceManyBody())
-    .force('x', d3.forceX().x(centre.x))
+    .force('x', d3.forceX().x(d => clusters(timeStamps.indexOf(d.Timestamp))))
     .force('y', d3.forceY().y(centre.y))
     .force('collision', d3.forceCollide().radius(d => d.radius + 2))
     // .force('center', d3.forceCenter(centre.x, centre.y))
@@ -104,7 +103,6 @@ function bubbleChart(selector, timeSentimentData, graphElements, setGraphElement
 
   // main entry point to bubble chart, returned by parent closure
   // prepares rawData for visualisation and adds an svg element to the provided selector and starts the visualisation process
-  
   const timeStamps = Array.from(new Set(timeSentimentData.map(item => item.Timestamp)))
 
   // convert raw data into nodes data
@@ -139,6 +137,7 @@ function bubbleChart(selector, timeSentimentData, graphElements, setGraphElement
       handleSelection()
       d3.selectAll('.linked-paths').remove()
       d3.select('.axis-sentiment').remove()
+      d3.select('.sentiment-scale-title').remove()
       d3.select('.sentiment-grid').remove()
     })
     .on('mouseover', toolTip.show)
@@ -172,12 +171,12 @@ function bubbleChart(selector, timeSentimentData, graphElements, setGraphElement
     .restart();
 
   svg.append("g")
-    .attr("transform", "translate(" + 0 + ", " + (600-20) + ")")
+    .attr("transform", "translate(" + 0 + ", " + (600-40) + ")")
     .attr("class", "axis-timeline")
     .call(d3.axisBottom(clusters));
   
   d3.selectAll('.tick').selectAll('text')
-    .style("font-size", "13px")
+    .style("font-size", "16px")
     .text(d => {
       return new Date(timeStamps[d]).toLocaleDateString('en-US', {month: 'long', year: 'numeric'})
     });
@@ -185,8 +184,6 @@ function bubbleChart(selector, timeSentimentData, graphElements, setGraphElement
   const sentimentScale = d3.scaleLinear()
     .domain([1, -1])
     .range([100, svgData.height-100])
-    // .padding(0.3)
-    // .round(true)
   
   // callback function called after every tick of the force simulation
   // here we do the actual repositioning of the circles based on current x and y value of their bound node data
@@ -194,10 +191,10 @@ function bubbleChart(selector, timeSentimentData, graphElements, setGraphElement
   function ticked() {
     const k = this.alpha() * 1;
     //move the nodes to their foci/cluster
-    simulation.nodes().forEach(function(n, i) {
-      n.x += (clusters(timeStamps.indexOf(n.Timestamp)) - n.x) * k;
-      n.y += (300 - n.y) * k;
-    });
+    // simulation.nodes().forEach(function(n, i) {
+    //   n.x += (clusters(timeStamps.indexOf(n.Timestamp)) - n.x) * k;
+    //   n.y += (200 - n.y) * k;
+    // });
 
     d3.selectAll('.bubble')
       .attr('cx', d => d.x)
@@ -220,37 +217,37 @@ function bubbleChart(selector, timeSentimentData, graphElements, setGraphElement
   })
 
   return Object.assign({node: svg.node()}, {
-    update: (newNodes, selected)  => {
+    update: (newNodes)  => {
       // Make a shallow copy to protect against mutation, while
       // recycling old nodes to preserve position and velocity.
       // const old = new Map(elements.data().map(d => [d.Topic, d]));
       // nodes = nodes.map(d => Object.assign(old.get(d.id) || {}, d));
       // links = links.map(d => Object.assign({}, d));
       // console.log(elements.data(), newNodes)
-      const old = _.intersectionWith(elements.data(), newNodes, (a, b) => {
-        if(a.Topic === b.Topic && a.Timestamp === b.Timestamp) return true
-        else return false
-      })
+      // const old = _.intersectionWith(elements.data(), newNodes, (a, b) => {
+      //   if(a.Topic === b.Topic && a.Timestamp === b.Timestamp) return true
+      //   else return false
+      // })
 
-      const temp = _.differenceWith(newNodes, old, (a, b) => {
-        if(a.Topic === b.Topic && a.Timestamp === b.Timestamp) return true
-        else return false
-      })
+      // const temp = _.differenceWith(newNodes, old, (a, b) => {
+      //   if(a.Topic === b.Topic && a.Timestamp === b.Timestamp) return true
+      //   else return false
+      // })
 
-      const remove = _.differenceWith(elements.data(), old, (a, b) => {
-        if(a.Topic === b.Topic && a.Timestamp === b.Timestamp) return true
-        else return false
-      })
+      // const remove = _.differenceWith(elements.data(), old, (a, b) => {
+      //   if(a.Topic === b.Topic && a.Timestamp === b.Timestamp) return true
+      //   else return false
+      // })
 
-      const updatedNodes = [...old, ...temp]
+      // const updatedNodes = [...old, ...temp]
 
       d3.selectAll('.bubble-group').remove()
 
-      simulation.nodes(updatedNodes);
+      simulation.nodes(newNodes)
       simulation.alpha(1).restart();
 
       bubbleContainer
-        .data(updatedNodes, d => d.Topic)
+        .data(newNodes, d => d.Topic)
         .join(enter => {
             const newElements = enter.append('g')
             .classed('bubble-group', true)
@@ -262,10 +259,10 @@ function bubbleChart(selector, timeSentimentData, graphElements, setGraphElement
               d3.selectAll('.linked-paths').remove()
               d3.select('.axis-sentiment').remove()
               d3.select('.sentiment-grid').remove()
+              d3.select('.sentiment-scale-title').remove()
             })
             .on('mouseover', toolTip.show)
             .on('mouseout', toolTip.hide)
-
 
             newElements.append('circle')
             .classed('bubble', true)
@@ -278,45 +275,48 @@ function bubbleChart(selector, timeSentimentData, graphElements, setGraphElement
             .style('text-anchor', 'middle')
             .style('font-size', '1em')
             .text(d => d.Topic)
-          },
-          update => {
-            console.log(update)
-          },
-          exit => {
-            console.log(exit)
           })
-      // newElements.join(enter => 
-      //     enter.append('circle')
-      //     .classed('bubble', true)
-      //     .attr('r', d => d.radius)
-      //     .style('fill', d => fillColour(d.Frequency))
-      //   )
-
-      // link = link
-      //   .data(links, d => `${d.source.id}\t${d.target.id}`)
-      //   .join("line");
+          // update => {
+          //   console.log(update)
+          // },
+          // exit => {
+          //   console.log(exit)
+          // })
     }
   });
 }
 
-function SingleGraph({selected, handleSelection}) {
+function SingleGraph({data, selected, handleSelection}) {
   const svgRef = useRef()
-  const dev = useRef(false)
+  const dev = useRef(null)
   const [currentTimeline, setCurrentTimeline] = useState(0)
   const [graphElements, setGraphElements] = useState({})
   const [chartUpdate, setChartUpdate] = useState(null)
 
-  useEffect(() => {
-    if(!dev.current){
-      dev.current = true
+  // useEffect(() => {
+  //   if(dev.current){
+  //     dev.current = false
+  //     d3.csv(data).then(timeSentimentData => {
+  //       const {update} = bubbleChart(svgRef.current, timeSentimentData, setGraphElements, currentTimeline, handleSelection)
+  //       setChartUpdate({update})
+  //     })
+  //     .catch(err => console.error(err))
+  //   }
+  // }, [])
 
-      d3.csv(timeSentiments).then(timeSentimentData => {
-        const {update} = bubbleChart(svgRef.current, timeSentimentData, graphElements, setGraphElements, currentTimeline, handleSelection)
+  useEffect(() => {
+    if(dev.current !== data){
+      dev.current = data
+      d3.select('#graph-svg').remove()
+      d3.select('.d3-tip').remove()
+      d3.csv(data).then(timeSentimentData => {
+        const {update} = bubbleChart(svgRef.current, timeSentimentData, setGraphElements, currentTimeline, handleSelection)
         setChartUpdate({update})
       })
       .catch(err => console.error(err))
     }
-  }, [])
+      return () => d3.select('#graph-svg').remove()
+  }, [data])
 
   useEffect(() => {
     if(selected && selected.Frequency){
@@ -349,7 +349,7 @@ function SingleGraph({selected, handleSelection}) {
       graphElements.simulation.force("link" , d3.forceLink(links).strength(0))
 
       graphElements.path
-      .data(links.slice(currentTimeline, currentTimeline+2))
+      .data(links)
       .enter()
       .append("path")
       .classed('linked-paths', true)
@@ -365,14 +365,21 @@ function SingleGraph({selected, handleSelection}) {
           graphElements.sentimentScale(d.target.comment_sentiment);
       });
 
+      d3.select('#graph-svg').append('text')
+      .classed('sentiment-scale-title', true)
+      .style("font-size", "20px")
+      .style("font-weight", "600")
+      .attr("transform", "translate(" + (graphElements.svgData.width/2 - 60) + ", " + 80 + ")")
+      .text('Sentiment Scale')
+
       d3.select('#graph-svg').append("g")
-      .attr("transform", "translate(" + 30 + ", " + 0 + ")")
+      .attr("transform", "translate(" + 40 + ", " + 0 + ")")
       .attr("class", "axis-sentiment")
       .call(d3.axisLeft(graphElements.sentimentScale).ticks(2));
 
       d3.select('#graph-svg').insert("g",":first-child")
       .attr("class", "sentiment-grid")
-      .attr("transform", "translate(30," + 0 + ")")
+      .attr("transform", "translate(40," + 0 + ")")
       .call(d3.axisLeft(graphElements.sentimentScale).tickSize(-graphElements.svgData.width + 100).tickFormat('').ticks(10))
 
       d3.selectAll('.bubble-group')
@@ -396,11 +403,16 @@ function SingleGraph({selected, handleSelection}) {
 
   useEffect(() => {
     if(Object.keys(graphElements).length){
+      d3.selectAll('.linked-paths').remove()
+      d3.select('.axis-sentiment').remove()
+      d3.select('.sentiment-grid').remove()
+      d3.select('.sentiment-scale-title').remove()
+
       graphElements.clusters.domain(_.range(currentTimeline, currentTimeline+3))
       const updatedAxis = d3.axisBottom(graphElements.clusters)
       d3.select('.axis-timeline').call(updatedAxis)
       d3.selectAll('.tick').selectAll('text')
-      .style("font-size", "13px")
+      .style("font-size", "16px")
       .text(d => {
         return new Date(graphElements.timeStamps[d]).toLocaleDateString('en-US', {month: 'long', year: 'numeric'})
       });
