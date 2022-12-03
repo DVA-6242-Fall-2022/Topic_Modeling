@@ -1,0 +1,1234 @@
+created_dt_month,topic,comment_sentiment,name
+2020-01-01,41,-0.14668857142857142,41_toilet_toilet paper_paper_hand
+2020-01-01,13,0.2587421052631579,13_queen_prince_elizabeth_queen elizabeth
+2020-01-01,40,0.238156,40_wheat_food_ukraine_war
+2020-01-01,22,0.10635714285714284,22_greta_thunberg_greta thunberg_climate
+2020-01-01,6,-0.42449740259740265,6_zelensky_zelenskyy_ukraine_volodymyr
+2020-01-01,14,0.3340757575757576,14_tiktok_ban_ban tiktok_trump
+2020-01-01,21,-0.06511333333333334,21_residential school_residential_school_grave
+2020-01-01,39,-0.0939728476821192,39_duterte_philippines_philippine_rodrigo duterte
+2020-01-01,32,-0.5053338461538461,32_chemical_ukraine_biological_false flag
+2020-01-01,15,-0.28022400000000003,15_flood_rain_dam_china
+2020-01-01,2,0.37848518518518515,2_space_earth_nasa_moon
+2020-01-01,38,-0.059750000000000004,38_locust_locusts_swarm_locust swarm
+2020-01-01,16,-0.054992307692307694,16_cannabis_marijuana_drug_decriminalize
+2020-01-01,20,0.3109036144578313,20_musk_elon_elon musk_tesla
+2020-01-01,37,0.3668101123595505,37_tax_corporate tax_corporate_minimum
+2020-01-01,33,-0.11599452054794522,33_suez_canal_suez canal_ship
+2020-01-01,1,-0.0006126436781609168,1_mask_face mask_wear_face
+2020-01-01,17,0.3434371428571429,17_ice_melt_greenland_arctic
+2020-01-01,19,-0.4605515625,19_earthquake_magnitude_magnitude earthquake_quake
+2020-01-01,36,-0.24327884615384615,36_cow_urine_dung_cow urine
+2020-01-01,34,0.3119340909090909,34_scottish_scotland_independence_scottish independence
+2020-01-01,5,-0.40862077294685994,5_navalny_alexei_alexei navalny_poison
+2020-01-01,18,0.3764472222222222,18_astrazeneca_vaccine_astrazeneca vaccine_astrazeneca covid
+2020-01-01,0,-0.21711124144672533,0_china_coronavirus_say_covid
+2020-01-01,30,0.0874625,30_pipeline_nord stream_nord_stream
+2020-01-01,31,-0.2325648148148148,31_ufo_pentagon_ufos_ufo videos
+2020-01-01,12,0.20560384615384614,12_plastic_waste_single use_plastic waste
+2020-01-01,8,-0.24886726546906188,8_australia_bushfires_wildfires_bushfire
+2020-01-01,26,-0.17234,26_bird flu_bird_flu_case bird flu
+2020-01-01,27,-0.17371885714285715,27_lockdown_england_reopen_travel
+2020-01-01,45,-0.4969137271937446,45_drone strike_drone_strike_kabul
+2020-01-01,25,-0.47385714285714287,25_omicron_variant_omicron variant_case omicron
+2020-01-01,7,0.14137945205479452,7_amazon_deforestation_rainforest_tree
+2020-01-01,9,0.04816425339366515,9_huawei_meng_wanzhou_meng wanzhou
+2020-01-01,3,0.1173384236453202,3_climate_climate change_change_emissions
+2020-01-01,28,-0.040361403508771924,28_volcano_eruption_erupt_palma
+2020-01-01,23,-0.15168076923076926,23_brain_cancer_alzheimer_scientists
+2020-01-01,10,0.12817777777777778,10_johnson_boris johnson_boris_coronavirus
+2020-01-01,24,-0.229838202247191,24_assange_julian_julian assange_wikileaks
+2020-01-01,44,-0.08989,44_ventilators_ventilator_need_patients
+2020-01-01,29,0.14604,29_record_hottest_warmest_temperature
+2020-01-01,42,0.20142692307692306,42_pollution_air pollution_air_delhi
+2020-01-01,43,0.05929999999999998,43_maxwell_ghislaine maxwell_ghislaine_sex
+2020-01-01,4,0.02868860759493671,4_pope_vatican_francis_pope francis
+2020-01-01,11,-0.218754,11_live matter_matter_black live_black live matter
+2020-01-01,35,-0.03867,35_school_close_close school_coronavirus
+2020-02-01,29,0.6597516129032258,29_record_hottest_warmest_temperature
+2020-02-01,23,0.05252500000000001,23_brain_cancer_alzheimer_scientists
+2020-02-01,24,-0.12385018587360595,24_assange_julian_julian assange_wikileaks
+2020-02-01,34,0.3223948148148148,34_scottish_scotland_independence_scottish independence
+2020-02-01,30,0.058477777777777774,30_pipeline_nord stream_nord_stream
+2020-02-01,27,-0.05761205673758866,27_lockdown_england_reopen_travel
+2020-02-01,25,-5.9999999999993395e-05,25_omicron_variant_omicron variant_case omicron
+2020-02-01,19,0.06496363636363636,19_earthquake_magnitude_magnitude earthquake_quake
+2020-02-01,28,0.2682866666666667,28_volcano_eruption_erupt_palma
+2020-02-01,3,0.20521679389312977,3_climate_climate change_change_emissions
+2020-02-01,33,0.11713529411764706,33_suez_canal_suez canal_ship
+2020-02-01,2,0.3843818181818182,2_space_earth_nasa_moon
+2020-02-01,21,-0.18582812499999998,21_residential school_residential_school_grave
+2020-02-01,22,-0.013051456310679612,22_greta_thunberg_greta thunberg_climate
+2020-02-01,31,0.152875,31_ufo_pentagon_ufos_ufo videos
+2020-02-01,20,0.029800000000000004,20_musk_elon_elon musk_tesla
+2020-02-01,32,-0.3581977777777778,32_chemical_ukraine_biological_false flag
+2020-02-01,4,-0.06273544303797468,4_pope_vatican_francis_pope francis
+2020-02-01,18,0.18269352517985613,18_astrazeneca_vaccine_astrazeneca vaccine_astrazeneca covid
+2020-02-01,36,-0.20270285714285713,36_cow_urine_dung_cow urine
+2020-02-01,5,-0.22291460674157304,5_navalny_alexei_alexei navalny_poison
+2020-02-01,12,0.36533,12_plastic_waste_single use_plastic waste
+2020-02-01,41,0.08571785714285715,41_toilet_toilet paper_paper_hand
+2020-02-01,43,0.38394,43_maxwell_ghislaine maxwell_ghislaine_sex
+2020-02-01,0,-0.13715473781048756,0_china_coronavirus_say_covid
+2020-02-01,10,0.20553153153153153,10_johnson_boris johnson_boris_coronavirus
+2020-02-01,35,-0.17462982456140352,35_school_close_close school_coronavirus
+2020-02-01,6,0.003414545454545456,6_zelensky_zelenskyy_ukraine_volodymyr
+2020-02-01,40,-0.3215555555555556,40_wheat_food_ukraine_war
+2020-02-01,13,0.04671999999999999,13_queen_prince_elizabeth_queen elizabeth
+2020-02-01,44,-0.13633157894736841,44_ventilators_ventilator_need_patients
+2020-02-01,39,0.03641065573770492,39_duterte_philippines_philippine_rodrigo duterte
+2020-02-01,42,0.0051369230769230815,42_pollution_air pollution_air_delhi
+2020-02-01,9,-0.1684902027027027,9_huawei_meng_wanzhou_meng wanzhou
+2020-02-01,14,-0.22869411764705883,14_tiktok_ban_ban tiktok_trump
+2020-02-01,15,0.06883714285714286,15_flood_rain_dam_china
+2020-02-01,17,0.312704,17_ice_melt_greenland_arctic
+2020-02-01,26,-0.2762678899082569,26_bird flu_bird_flu_case bird flu
+2020-02-01,1,-0.00889382716049383,1_mask_face mask_wear_face
+2020-02-01,38,-0.1202525641025641,38_locust_locusts_swarm_locust swarm
+2020-02-01,8,-0.15766344086021505,8_australia_bushfires_wildfires_bushfire
+2020-02-01,11,-0.10036486486486486,11_live matter_matter_black live_black live matter
+2020-02-01,16,-0.12600238095238098,16_cannabis_marijuana_drug_decriminalize
+2020-02-01,37,0.2749645569620253,37_tax_corporate tax_corporate_minimum
+2020-02-01,7,-0.004143750000000006,7_amazon_deforestation_rainforest_tree
+2020-02-01,45,-0.5106479481641469,45_drone strike_drone_strike_kabul
+2020-03-01,24,-0.27601521739130436,24_assange_julian_julian assange_wikileaks
+2020-03-01,8,-0.17760526315789474,8_australia_bushfires_wildfires_bushfire
+2020-03-01,25,-0.11845,25_omicron_variant_omicron variant_case omicron
+2020-03-01,7,-0.039689552238805964,7_amazon_deforestation_rainforest_tree
+2020-03-01,23,0.14447812499999999,23_brain_cancer_alzheimer_scientists
+2020-03-01,9,-0.2651129213483146,9_huawei_meng_wanzhou_meng wanzhou
+2020-03-01,4,0.23077142857142857,4_pope_vatican_francis_pope francis
+2020-03-01,11,-0.05021818181818182,11_live matter_matter_black live_black live matter
+2020-03-01,12,0.42395625,12_plastic_waste_single use_plastic waste
+2020-03-01,22,-0.14301250000000001,22_greta_thunberg_greta thunberg_climate
+2020-03-01,6,0.13784666666666667,6_zelensky_zelenskyy_ukraine_volodymyr
+2020-03-01,21,0.15698,21_residential school_residential_school_grave
+2020-03-01,13,0.22135636363636363,13_queen_prince_elizabeth_queen elizabeth
+2020-03-01,14,0.0642625,14_tiktok_ban_ban tiktok_trump
+2020-03-01,20,0.23401698113207547,20_musk_elon_elon musk_tesla
+2020-03-01,15,-0.1931690476190476,15_flood_rain_dam_china
+2020-03-01,16,-0.0936671875,16_cannabis_marijuana_drug_decriminalize
+2020-03-01,19,-0.2416962962962963,19_earthquake_magnitude_magnitude earthquake_quake
+2020-03-01,17,0.08173529411764706,17_ice_melt_greenland_arctic
+2020-03-01,5,-0.06285416666666667,5_navalny_alexei_alexei navalny_poison
+2020-03-01,18,-0.00623610586011342,18_astrazeneca_vaccine_astrazeneca vaccine_astrazeneca covid
+2020-03-01,10,-0.05175338983050848,10_johnson_boris johnson_boris_coronavirus
+2020-03-01,26,-0.09452118226600985,26_bird flu_bird_flu_case bird flu
+2020-03-01,3,0.04383205128205128,3_climate_climate change_change_emissions
+2020-03-01,36,-0.01387380952380953,36_cow_urine_dung_cow urine
+2020-03-01,35,0.06838211920529802,35_school_close_close school_coronavirus
+2020-03-01,1,0.1352108843537415,1_mask_face mask_wear_face
+2020-03-01,34,-0.12064310344827586,34_scottish_scotland_independence_scottish independence
+2020-03-01,37,0.1756047619047619,37_tax_corporate tax_corporate_minimum
+2020-03-01,33,0.04667142857142858,33_suez_canal_suez canal_ship
+2020-03-01,38,-0.2776840909090909,38_locust_locusts_swarm_locust swarm
+2020-03-01,32,-0.44602105263157893,32_chemical_ukraine_biological_false flag
+2020-03-01,39,0.0029163934426229476,39_duterte_philippines_philippine_rodrigo duterte
+2020-03-01,2,0.07096296296296298,2_space_earth_nasa_moon
+2020-03-01,0,-0.16185534863577306,0_china_coronavirus_say_covid
+2020-03-01,40,0.14016,40_wheat_food_ukraine_war
+2020-03-01,41,0.08826304347826087,41_toilet_toilet paper_paper_hand
+2020-03-01,30,0.24103921568627448,30_pipeline_nord stream_nord_stream
+2020-03-01,42,0.11898360655737705,42_pollution_air pollution_air_delhi
+2020-03-01,31,-0.0366109589041096,31_ufo_pentagon_ufos_ufo videos
+2020-03-01,44,0.1602406504065041,44_ventilators_ventilator_need_patients
+2020-03-01,45,-0.4209711678832117,45_drone strike_drone_strike_kabul
+2020-03-01,43,0.30169999999999997,43_maxwell_ghislaine maxwell_ghislaine_sex
+2020-03-01,27,-0.03827676537585421,27_lockdown_england_reopen_travel
+2020-03-01,29,0.4292923076923077,29_record_hottest_warmest_temperature
+2020-03-01,28,-0.05034561403508772,28_volcano_eruption_erupt_palma
+2020-04-01,14,0.004824000000000002,14_tiktok_ban_ban tiktok_trump
+2020-04-01,37,0.17344273504273505,37_tax_corporate tax_corporate_minimum
+2020-04-01,8,-0.32874903846153847,8_australia_bushfires_wildfires_bushfire
+2020-04-01,36,-0.07590882352941175,36_cow_urine_dung_cow urine
+2020-04-01,16,-0.1959212121212121,16_cannabis_marijuana_drug_decriminalize
+2020-04-01,26,-0.09095874125874127,26_bird flu_bird_flu_case bird flu
+2020-04-01,45,-0.3686557446808511,45_drone strike_drone_strike_kabul
+2020-04-01,15,-0.04990888888888889,15_flood_rain_dam_china
+2020-04-01,38,-0.13194629629629628,38_locust_locusts_swarm_locust swarm
+2020-04-01,42,-0.06859571428571429,42_pollution_air pollution_air_delhi
+2020-04-01,13,-0.007538709677419352,13_queen_prince_elizabeth_queen elizabeth
+2020-04-01,39,0.08229421487603307,39_duterte_philippines_philippine_rodrigo duterte
+2020-04-01,0,-0.1693549704142012,0_china_coronavirus_say_covid
+2020-04-01,9,-0.08562205882352941,9_huawei_meng_wanzhou_meng wanzhou
+2020-04-01,43,0.3292,43_maxwell_ghislaine maxwell_ghislaine_sex
+2020-04-01,40,0.04310888888888889,40_wheat_food_ukraine_war
+2020-04-01,5,-0.35422990654205605,5_navalny_alexei_alexei navalny_poison
+2020-04-01,12,0.37513076923076927,12_plastic_waste_single use_plastic waste
+2020-04-01,6,-0.0066568627450980375,6_zelensky_zelenskyy_ukraine_volodymyr
+2020-04-01,41,0.05711212121212121,41_toilet_toilet paper_paper_hand
+2020-04-01,10,0.22495827338129495,10_johnson_boris johnson_boris_coronavirus
+2020-04-01,11,-0.4185040816326531,11_live matter_matter_black live_black live matter
+2020-04-01,44,-0.12039424460431655,44_ventilators_ventilator_need_patients
+2020-04-01,17,0.0927,17_ice_melt_greenland_arctic
+2020-04-01,3,-0.008021839080459774,3_climate_climate change_change_emissions
+2020-04-01,2,0.4307972222222222,2_space_earth_nasa_moon
+2020-04-01,25,0.4257470588235294,25_omicron_variant_omicron variant_case omicron
+2020-04-01,27,-0.028675791855203622,27_lockdown_england_reopen_travel
+2020-04-01,24,-0.1136080459770115,24_assange_julian_julian assange_wikileaks
+2020-04-01,28,-0.32193333333333335,28_volcano_eruption_erupt_palma
+2020-04-01,23,-0.008799999999999999,23_brain_cancer_alzheimer_scientists
+2020-04-01,29,0.39461500000000005,29_record_hottest_warmest_temperature
+2020-04-01,22,0.1826793103448276,22_greta_thunberg_greta thunberg_climate
+2020-04-01,30,0.1370811320754717,30_pipeline_nord stream_nord_stream
+2020-04-01,35,0.07502291666666668,35_school_close_close school_coronavirus
+2020-04-01,4,0.004049438202247195,4_pope_vatican_francis_pope francis
+2020-04-01,21,-0.11426190476190475,21_residential school_residential_school_grave
+2020-04-01,31,0.1498118811881188,31_ufo_pentagon_ufos_ufo videos
+2020-04-01,20,0.21579726027397259,20_musk_elon_elon musk_tesla
+2020-04-01,32,-0.36956333333333335,32_chemical_ukraine_biological_false flag
+2020-04-01,7,-0.10278705882352941,7_amazon_deforestation_rainforest_tree
+2020-04-01,18,0.16662732919254658,18_astrazeneca_vaccine_astrazeneca vaccine_astrazeneca covid
+2020-04-01,34,0.09365277777777778,34_scottish_scotland_independence_scottish independence
+2020-04-01,1,-0.04075551330798479,1_mask_face mask_wear_face
+2020-04-01,19,-0.015025714285714286,19_earthquake_magnitude_magnitude earthquake_quake
+2020-04-01,33,-0.023681428571428575,33_suez_canal_suez canal_ship
+2020-05-01,16,0.016012500000000006,16_cannabis_marijuana_drug_decriminalize
+2020-05-01,42,0.14572857142857143,42_pollution_air pollution_air_delhi
+2020-05-01,23,0.12239565217391304,23_brain_cancer_alzheimer_scientists
+2020-05-01,9,-0.0519689556509299,9_huawei_meng_wanzhou_meng wanzhou
+2020-05-01,27,-0.032329078014184394,27_lockdown_england_reopen_travel
+2020-05-01,43,-0.38258000000000003,43_maxwell_ghislaine maxwell_ghislaine_sex
+2020-05-01,34,0.08209574468085107,34_scottish_scotland_independence_scottish independence
+2020-05-01,8,-0.39648214285714284,8_australia_bushfires_wildfires_bushfire
+2020-05-01,10,-0.06384102564102564,10_johnson_boris johnson_boris_coronavirus
+2020-05-01,7,0.09748170731707317,7_amazon_deforestation_rainforest_tree
+2020-05-01,44,-0.0018923076923076947,44_ventilators_ventilator_need_patients
+2020-05-01,35,0.055448437499999996,35_school_close_close school_coronavirus
+2020-05-01,25,0.17454999999999998,25_omicron_variant_omicron variant_case omicron
+2020-05-01,26,-0.04962891156462585,26_bird flu_bird_flu_case bird flu
+2020-05-01,45,-0.455787675070028,45_drone strike_drone_strike_kabul
+2020-05-01,24,-0.18974350282485877,24_assange_julian_julian assange_wikileaks
+2020-05-01,28,-0.37903749999999997,28_volcano_eruption_erupt_palma
+2020-05-01,32,-0.09033214285714286,32_chemical_ukraine_biological_false flag
+2020-05-01,41,0.21747741935483872,41_toilet_toilet paper_paper_hand
+2020-05-01,19,-0.1570018181818182,19_earthquake_magnitude_magnitude earthquake_quake
+2020-05-01,38,-0.3715666666666667,38_locust_locusts_swarm_locust swarm
+2020-05-01,37,0.24340186915887851,37_tax_corporate tax_corporate_minimum
+2020-05-01,13,0.23602727272727272,13_queen_prince_elizabeth_queen elizabeth
+2020-05-01,20,0.2389448598130841,20_musk_elon_elon musk_tesla
+2020-05-01,31,0.18497469879518072,31_ufo_pentagon_ufos_ufo videos
+2020-05-01,39,-0.03916807228915663,39_duterte_philippines_philippine_rodrigo duterte
+2020-05-01,21,0.2898222222222222,21_residential school_residential_school_grave
+2020-05-01,12,0.18555,12_plastic_waste_single use_plastic waste
+2020-05-01,15,-0.3036111111111111,15_flood_rain_dam_china
+2020-05-01,33,0.12142820512820511,33_suez_canal_suez canal_ship
+2020-05-01,40,0.04512439024390243,40_wheat_food_ukraine_war
+2020-05-01,30,0.18031250000000001,30_pipeline_nord stream_nord_stream
+2020-05-01,36,-0.07989629629629631,36_cow_urine_dung_cow urine
+2020-05-01,18,0.2434614864864865,18_astrazeneca_vaccine_astrazeneca vaccine_astrazeneca covid
+2020-05-01,11,-0.37918202247191013,11_live matter_matter_black live_black live matter
+2020-05-01,29,0.6422260869565217,29_record_hottest_warmest_temperature
+2020-05-01,14,0.20913333333333334,14_tiktok_ban_ban tiktok_trump
+2020-05-01,17,0.08439565217391305,17_ice_melt_greenland_arctic
+2020-05-01,22,-0.1701275,22_greta_thunberg_greta thunberg_climate
+2020-05-01,5,-0.14856031746031745,5_navalny_alexei_alexei navalny_poison
+2020-05-01,6,-0.11426666666666667,6_zelensky_zelenskyy_ukraine_volodymyr
+2020-05-01,4,0.06343148148148148,4_pope_vatican_francis_pope francis
+2020-05-01,0,-0.07840195439739414,0_china_coronavirus_say_covid
+2020-05-01,3,0.11034647887323944,3_climate_climate change_change_emissions
+2020-05-01,1,0.05501711711711711,1_mask_face mask_wear_face
+2020-05-01,2,0.18204418604651162,2_space_earth_nasa_moon
+2020-06-01,9,-0.07536366237482117,9_huawei_meng_wanzhou_meng wanzhou
+2020-06-01,27,-0.2744806034482759,27_lockdown_england_reopen_travel
+2020-06-01,17,-0.14288979591836734,17_ice_melt_greenland_arctic
+2020-06-01,33,0.06153424657534247,33_suez_canal_suez canal_ship
+2020-06-01,16,-0.21733000000000002,16_cannabis_marijuana_drug_decriminalize
+2020-06-01,32,-0.3066081081081081,32_chemical_ukraine_biological_false flag
+2020-06-01,6,-0.010068181818181825,6_zelensky_zelenskyy_ukraine_volodymyr
+2020-06-01,19,-0.4145337837837838,19_earthquake_magnitude_magnitude earthquake_quake
+2020-06-01,20,0.358728125,20_musk_elon_elon musk_tesla
+2020-06-01,38,-0.26070208333333333,38_locust_locusts_swarm_locust swarm
+2020-06-01,43,0.3712375,43_maxwell_ghislaine maxwell_ghislaine_sex
+2020-06-01,18,0.40134551282051284,18_astrazeneca_vaccine_astrazeneca vaccine_astrazeneca covid
+2020-06-01,34,-0.074853125,34_scottish_scotland_independence_scottish independence
+2020-06-01,40,0.19652272727272727,40_wheat_food_ukraine_war
+2020-06-01,1,-0.11819239130434782,1_mask_face mask_wear_face
+2020-06-01,15,-0.32481290322580647,15_flood_rain_dam_china
+2020-06-01,14,-0.050329411764705886,14_tiktok_ban_ban tiktok_trump
+2020-06-01,45,-0.4595931649331352,45_drone strike_drone_strike_kabul
+2020-06-01,44,-0.5215217391304348,44_ventilators_ventilator_need_patients
+2020-06-01,35,0.04496341463414634,35_school_close_close school_coronavirus
+2020-06-01,13,0.0031207547169811276,13_queen_prince_elizabeth_queen elizabeth
+2020-06-01,37,0.3163472972972973,37_tax_corporate tax_corporate_minimum
+2020-06-01,10,-0.019901324503311255,10_johnson_boris johnson_boris_coronavirus
+2020-06-01,12,-0.4229083333333333,12_plastic_waste_single use_plastic waste
+2020-06-01,36,-0.582384375,36_cow_urine_dung_cow urine
+2020-06-01,11,-0.5414397515527951,11_live matter_matter_black live_black live matter
+2020-06-01,5,-0.4723,5_navalny_alexei_alexei navalny_poison
+2020-06-01,31,-0.14302413793103447,31_ufo_pentagon_ufos_ufo videos
+2020-06-01,21,-0.11464,21_residential school_residential_school_grave
+2020-06-01,23,0.21680666666666668,23_brain_cancer_alzheimer_scientists
+2020-06-01,0,-0.11926691176470587,0_china_coronavirus_say_covid
+2020-06-01,2,0.3855545454545455,2_space_earth_nasa_moon
+2020-06-01,24,-0.18321184834123222,24_assange_julian_julian assange_wikileaks
+2020-06-01,30,-0.00530952380952381,30_pipeline_nord stream_nord_stream
+2020-06-01,8,-0.2914782051282051,8_australia_bushfires_wildfires_bushfire
+2020-06-01,42,0.08625555555555556,42_pollution_air pollution_air_delhi
+2020-06-01,28,0.1024304347826087,28_volcano_eruption_erupt_palma
+2020-06-01,22,-0.21218,22_greta_thunberg_greta thunberg_climate
+2020-06-01,39,-0.028013761467889912,39_duterte_philippines_philippine_rodrigo duterte
+2020-06-01,26,-0.09365485436893203,26_bird flu_bird_flu_case bird flu
+2020-06-01,41,0.0997608695652174,41_toilet_toilet paper_paper_hand
+2020-06-01,4,-0.07678333333333333,4_pope_vatican_francis_pope francis
+2020-06-01,7,0.11855735294117646,7_amazon_deforestation_rainforest_tree
+2020-06-01,29,0.3154888888888889,29_record_hottest_warmest_temperature
+2020-06-01,3,-0.03472307692307692,3_climate_climate change_change_emissions
+2020-06-01,25,-0.2563066666666666,25_omicron_variant_omicron variant_case omicron
+2020-07-01,3,0.4396590476190476,3_climate_climate change_change_emissions
+2020-07-01,41,0.03560434782608696,41_toilet_toilet paper_paper_hand
+2020-07-01,14,-0.010964655172413794,14_tiktok_ban_ban tiktok_trump
+2020-07-01,13,0.14821627906976742,13_queen_prince_elizabeth_queen elizabeth
+2020-07-01,35,0.0034734939759036103,35_school_close_close school_coronavirus
+2020-07-01,28,-0.030325,28_volcano_eruption_erupt_palma
+2020-07-01,44,-0.030222222222222223,44_ventilators_ventilator_need_patients
+2020-07-01,12,0.6216333333333334,12_plastic_waste_single use_plastic waste
+2020-07-01,36,-0.024541379310344825,36_cow_urine_dung_cow urine
+2020-07-01,11,-0.39934857142857144,11_live matter_matter_black live_black live matter
+2020-07-01,26,-0.1191088560885609,26_bird flu_bird_flu_case bird flu
+2020-07-01,25,-0.09172500000000001,25_omicron_variant_omicron variant_case omicron
+2020-07-01,24,-0.05207053941908713,24_assange_julian_julian assange_wikileaks
+2020-07-01,5,-0.32413119266055046,5_navalny_alexei_alexei navalny_poison
+2020-07-01,34,0.13138735632183907,34_scottish_scotland_independence_scottish independence
+2020-07-01,20,0.42198749999999996,20_musk_elon_elon musk_tesla
+2020-07-01,31,0.004378095238095238,31_ufo_pentagon_ufos_ufo videos
+2020-07-01,21,0.12429310344827585,21_residential school_residential_school_grave
+2020-07-01,4,0.1773962962962963,4_pope_vatican_francis_pope francis
+2020-07-01,19,-0.124175,19_earthquake_magnitude_magnitude earthquake_quake
+2020-07-01,30,0.04947674418604651,30_pipeline_nord stream_nord_stream
+2020-07-01,22,-0.045596875,22_greta_thunberg_greta thunberg_climate
+2020-07-01,32,-0.294825,32_chemical_ukraine_biological_false flag
+2020-07-01,15,-0.2596838235294118,15_flood_rain_dam_china
+2020-07-01,18,0.29264823008849555,18_astrazeneca_vaccine_astrazeneca vaccine_astrazeneca covid
+2020-07-01,17,0.057390322580645164,17_ice_melt_greenland_arctic
+2020-07-01,42,0.18477567567567565,42_pollution_air pollution_air_delhi
+2020-07-01,33,0.1724313253012048,33_suez_canal_suez canal_ship
+2020-07-01,16,-0.35303563218390804,16_cannabis_marijuana_drug_decriminalize
+2020-07-01,40,-0.04605142857142856,40_wheat_food_ukraine_war
+2020-07-01,23,0.035527272727272734,23_brain_cancer_alzheimer_scientists
+2020-07-01,2,0.21292857142857144,2_space_earth_nasa_moon
+2020-07-01,1,-0.08303026315789473,1_mask_face mask_wear_face
+2020-07-01,29,0.14634545454545456,29_record_hottest_warmest_temperature
+2020-07-01,43,-0.25863454545454545,43_maxwell_ghislaine maxwell_ghislaine_sex
+2020-07-01,6,-0.11562285714285714,6_zelensky_zelenskyy_ukraine_volodymyr
+2020-07-01,27,-0.028296363636363637,27_lockdown_england_reopen_travel
+2020-07-01,8,-0.18710731707317074,8_australia_bushfires_wildfires_bushfire
+2020-07-01,0,-0.018701473296500924,0_china_coronavirus_say_covid
+2020-07-01,39,-0.21774701492537313,39_duterte_philippines_philippine_rodrigo duterte
+2020-07-01,38,-0.020545652173913048,38_locust_locusts_swarm_locust swarm
+2020-07-01,9,0.010033079434167575,9_huawei_meng_wanzhou_meng wanzhou
+2020-07-01,7,-0.11679222222222223,7_amazon_deforestation_rainforest_tree
+2020-07-01,45,-0.3564651629072682,45_drone strike_drone_strike_kabul
+2020-07-01,37,0.371895652173913,37_tax_corporate tax_corporate_minimum
+2020-07-01,10,0.13743966942148758,10_johnson_boris johnson_boris_coronavirus
+2020-08-01,6,-0.10818741721854304,6_zelensky_zelenskyy_ukraine_volodymyr
+2020-08-01,43,-0.027856250000000013,43_maxwell_ghislaine maxwell_ghislaine_sex
+2020-08-01,44,-0.28221999999999997,44_ventilators_ventilator_need_patients
+2020-08-01,7,0.10420375000000001,7_amazon_deforestation_rainforest_tree
+2020-08-01,24,0.008288832487309645,24_assange_julian_julian assange_wikileaks
+2020-08-01,41,0.17562926829268294,41_toilet_toilet paper_paper_hand
+2020-08-01,32,-0.35341578947368424,32_chemical_ukraine_biological_false flag
+2020-08-01,45,-0.4358976987447699,45_drone strike_drone_strike_kabul
+2020-08-01,39,0.08153082706766918,39_duterte_philippines_philippine_rodrigo duterte
+2020-08-01,26,0.016447849462365594,26_bird flu_bird_flu_case bird flu
+2020-08-01,12,0.38905500000000004,12_plastic_waste_single use_plastic waste
+2020-08-01,23,-0.017072413793103446,23_brain_cancer_alzheimer_scientists
+2020-08-01,18,0.14412415730337078,18_astrazeneca_vaccine_astrazeneca vaccine_astrazeneca covid
+2020-08-01,13,0.07901666666666668,13_queen_prince_elizabeth_queen elizabeth
+2020-08-01,17,0.26777333333333336,17_ice_melt_greenland_arctic
+2020-08-01,40,-0.024720000000000006,40_wheat_food_ukraine_war
+2020-08-01,15,0.0159887323943662,15_flood_rain_dam_china
+2020-08-01,5,-0.3627490066225166,5_navalny_alexei_alexei navalny_poison
+2020-08-01,3,0.3643878048780488,3_climate_climate change_change_emissions
+2020-08-01,9,-0.019004954954954956,9_huawei_meng_wanzhou_meng wanzhou
+2020-08-01,16,-0.054087878787878796,16_cannabis_marijuana_drug_decriminalize
+2020-08-01,1,-0.062411999999999995,1_mask_face mask_wear_face
+2020-08-01,35,0.20409298245614035,35_school_close_close school_coronavirus
+2020-08-01,14,0.004108695652173913,14_tiktok_ban_ban tiktok_trump
+2020-08-01,25,0.26374,25_omicron_variant_omicron variant_case omicron
+2020-08-01,28,0.031483606557377045,28_volcano_eruption_erupt_palma
+2020-08-01,33,0.16047877094972066,33_suez_canal_suez canal_ship
+2020-08-01,37,0.3817614285714286,37_tax_corporate tax_corporate_minimum
+2020-08-01,0,-0.10520883116883117,0_china_coronavirus_say_covid
+2020-08-01,29,0.3159608695652174,29_record_hottest_warmest_temperature
+2020-08-01,2,0.1297,2_space_earth_nasa_moon
+2020-08-01,19,-0.2910231578947369,19_earthquake_magnitude_magnitude earthquake_quake
+2020-08-01,34,0.21742461538461538,34_scottish_scotland_independence_scottish independence
+2020-08-01,30,0.018773015873015875,30_pipeline_nord stream_nord_stream
+2020-08-01,10,0.17663478260869564,10_johnson_boris johnson_boris_coronavirus
+2020-08-01,36,0.04868846153846154,36_cow_urine_dung_cow urine
+2020-08-01,27,-0.1294763005780347,27_lockdown_england_reopen_travel
+2020-08-01,20,0.1354482142857143,20_musk_elon_elon musk_tesla
+2020-08-01,31,-0.06748333333333334,31_ufo_pentagon_ufos_ufo videos
+2020-08-01,22,0.05271111111111112,22_greta_thunberg_greta thunberg_climate
+2020-08-01,4,0.07575000000000001,4_pope_vatican_francis_pope francis
+2020-08-01,11,-0.4952267605633803,11_live matter_matter_black live_black live matter
+2020-08-01,8,-0.19788615384615385,8_australia_bushfires_wildfires_bushfire
+2020-08-01,38,-0.0997342857142857,38_locust_locusts_swarm_locust swarm
+2020-08-01,21,-0.10420344827586207,21_residential school_residential_school_grave
+2020-08-01,42,0.11751034482758621,42_pollution_air pollution_air_delhi
+2020-09-01,38,-0.10585750000000001,38_locust_locusts_swarm_locust swarm
+2020-09-01,17,-0.02597631578947368,17_ice_melt_greenland_arctic
+2020-09-01,37,0.18678194444444443,37_tax_corporate tax_corporate_minimum
+2020-09-01,24,-0.1528995145631068,24_assange_julian_julian assange_wikileaks
+2020-09-01,14,-0.013309090909090913,14_tiktok_ban_ban tiktok_trump
+2020-09-01,41,-0.010958139534883714,41_toilet_toilet paper_paper_hand
+2020-09-01,10,0.14984495412844037,10_johnson_boris johnson_boris_coronavirus
+2020-09-01,43,0.4446,43_maxwell_ghislaine maxwell_ghislaine_sex
+2020-09-01,39,-0.18002125984251968,39_duterte_philippines_philippine_rodrigo duterte
+2020-09-01,3,0.20433296703296705,3_climate_climate change_change_emissions
+2020-09-01,22,-0.08291428571428572,22_greta_thunberg_greta thunberg_climate
+2020-09-01,13,-0.010208333333333338,13_queen_prince_elizabeth_queen elizabeth
+2020-09-01,27,-0.06193571428571429,27_lockdown_england_reopen_travel
+2020-09-01,25,0.07804666666666667,25_omicron_variant_omicron variant_case omicron
+2020-09-01,33,0.10948095238095239,33_suez_canal_suez canal_ship
+2020-09-01,8,-0.29148214285714286,8_australia_bushfires_wildfires_bushfire
+2020-09-01,28,0.0012314285714285754,28_volcano_eruption_erupt_palma
+2020-09-01,6,-0.13495862068965517,6_zelensky_zelenskyy_ukraine_volodymyr
+2020-09-01,7,-0.10725204081632653,7_amazon_deforestation_rainforest_tree
+2020-09-01,19,-0.21250526315789472,19_earthquake_magnitude_magnitude earthquake_quake
+2020-09-01,35,0.0921027027027027,35_school_close_close school_coronavirus
+2020-09-01,34,0.3347381578947369,34_scottish_scotland_independence_scottish independence
+2020-09-01,30,0.15076052631578948,30_pipeline_nord stream_nord_stream
+2020-09-01,15,0.0808909090909091,15_flood_rain_dam_china
+2020-09-01,26,-0.07658000000000001,26_bird flu_bird_flu_case bird flu
+2020-09-01,4,-0.04968823529411766,4_pope_vatican_francis_pope francis
+2020-09-01,2,0.22212962962962965,2_space_earth_nasa_moon
+2020-09-01,12,0.0632125,12_plastic_waste_single use_plastic waste
+2020-09-01,23,0.14308749999999998,23_brain_cancer_alzheimer_scientists
+2020-09-01,0,-0.12298095238095237,0_china_coronavirus_say_covid
+2020-09-01,36,-0.13136470588235294,36_cow_urine_dung_cow urine
+2020-09-01,18,0.0735132530120482,18_astrazeneca_vaccine_astrazeneca vaccine_astrazeneca covid
+2020-09-01,32,-0.4381157894736842,32_chemical_ukraine_biological_false flag
+2020-09-01,31,-0.026208571428571425,31_ufo_pentagon_ufos_ufo videos
+2020-09-01,44,-0.5161,44_ventilators_ventilator_need_patients
+2020-09-01,16,-0.011447142857142855,16_cannabis_marijuana_drug_decriminalize
+2020-09-01,1,0.046197247706422015,1_mask_face mask_wear_face
+2020-09-01,5,-0.3076969230769231,5_navalny_alexei_alexei navalny_poison
+2020-09-01,40,-0.08162499999999999,40_wheat_food_ukraine_war
+2020-09-01,29,0.31421111111111105,29_record_hottest_warmest_temperature
+2020-09-01,45,-0.4468579617834395,45_drone strike_drone_strike_kabul
+2020-09-01,9,-0.14922279069767444,9_huawei_meng_wanzhou_meng wanzhou
+2020-09-01,20,0.2653734693877551,20_musk_elon_elon musk_tesla
+2020-09-01,42,0.44926333333333335,42_pollution_air pollution_air_delhi
+2020-09-01,21,0.01775454545454547,21_residential school_residential_school_grave
+2020-09-01,11,-0.36526964285714286,11_live matter_matter_black live_black live matter
+2020-10-01,42,0.0004948717948718001,42_pollution_air pollution_air_delhi
+2020-10-01,15,-0.2713242424242424,15_flood_rain_dam_china
+2020-10-01,21,0.1827272727272727,21_residential school_residential_school_grave
+2020-10-01,9,-0.10642097701149425,9_huawei_meng_wanzhou_meng wanzhou
+2020-10-01,24,-0.05876781609195402,24_assange_julian_julian assange_wikileaks
+2020-10-01,6,-0.035167000000000004,6_zelensky_zelenskyy_ukraine_volodymyr
+2020-10-01,33,0.030281521739130433,33_suez_canal_suez canal_ship
+2020-10-01,4,-0.10505681818181818,4_pope_vatican_francis_pope francis
+2020-10-01,45,-0.4994490099009901,45_drone strike_drone_strike_kabul
+2020-10-01,40,-0.04528620689655174,40_wheat_food_ukraine_war
+2020-10-01,19,-0.255616393442623,19_earthquake_magnitude_magnitude earthquake_quake
+2020-10-01,10,0.004776315789473684,10_johnson_boris johnson_boris_coronavirus
+2020-10-01,23,0.355675,23_brain_cancer_alzheimer_scientists
+2020-10-01,18,0.228163309352518,18_astrazeneca_vaccine_astrazeneca vaccine_astrazeneca covid
+2020-10-01,31,-0.03803717948717949,31_ufo_pentagon_ufos_ufo videos
+2020-10-01,8,-0.10362647058823529,8_australia_bushfires_wildfires_bushfire
+2020-10-01,29,0.39633333333333337,29_record_hottest_warmest_temperature
+2020-10-01,1,-0.15142359550561799,1_mask_face mask_wear_face
+2020-10-01,17,0.1429857142857143,17_ice_melt_greenland_arctic
+2020-10-01,20,0.13974259259259258,20_musk_elon_elon musk_tesla
+2020-10-01,22,0.07872264150943396,22_greta_thunberg_greta thunberg_climate
+2020-10-01,3,0.3847353846153846,3_climate_climate change_change_emissions
+2020-10-01,43,0.07645833333333332,43_maxwell_ghislaine maxwell_ghislaine_sex
+2020-10-01,38,-0.3964581395348837,38_locust_locusts_swarm_locust swarm
+2020-10-01,16,0.04862658227848102,16_cannabis_marijuana_drug_decriminalize
+2020-10-01,32,-0.02526500000000001,32_chemical_ukraine_biological_false flag
+2020-10-01,30,0.28954615384615384,30_pipeline_nord stream_nord_stream
+2020-10-01,11,-0.26191041666666665,11_live matter_matter_black live_black live matter
+2020-10-01,7,0.1613679245283019,7_amazon_deforestation_rainforest_tree
+2020-10-01,36,-0.07392777777777777,36_cow_urine_dung_cow urine
+2020-10-01,28,-0.14389056603773584,28_volcano_eruption_erupt_palma
+2020-10-01,0,-0.09283154362416107,0_china_coronavirus_say_covid
+2020-10-01,2,0.5685374999999999,2_space_earth_nasa_moon
+2020-10-01,39,-0.005649999999999995,39_duterte_philippines_philippine_rodrigo duterte
+2020-10-01,14,-0.30035730337078653,14_tiktok_ban_ban tiktok_trump
+2020-10-01,13,0.4641458333333333,13_queen_prince_elizabeth_queen elizabeth
+2020-10-01,35,-0.0807586956521739,35_school_close_close school_coronavirus
+2020-10-01,5,-0.3170686274509804,5_navalny_alexei_alexei navalny_poison
+2020-10-01,27,-0.15953432835820897,27_lockdown_england_reopen_travel
+2020-10-01,41,-0.14974411764705883,41_toilet_toilet paper_paper_hand
+2020-10-01,44,0.5321,44_ventilators_ventilator_need_patients
+2020-10-01,34,0.35444285714285717,34_scottish_scotland_independence_scottish independence
+2020-10-01,12,0.128315,12_plastic_waste_single use_plastic waste
+2020-10-01,26,0.009792227979274612,26_bird flu_bird_flu_case bird flu
+2020-10-01,37,0.2772786885245902,37_tax_corporate tax_corporate_minimum
+2020-10-01,25,-0.021284210526315794,25_omicron_variant_omicron variant_case omicron
+2020-11-01,6,-0.1297964912280702,6_zelensky_zelenskyy_ukraine_volodymyr
+2020-11-01,5,0.020446511627906977,5_navalny_alexei_alexei navalny_poison
+2020-11-01,29,0.33190000000000003,29_record_hottest_warmest_temperature
+2020-11-01,45,-0.48757453027139874,45_drone strike_drone_strike_kabul
+2020-11-01,19,-0.19067285714285717,19_earthquake_magnitude_magnitude earthquake_quake
+2020-11-01,26,0.07287405405405406,26_bird flu_bird_flu_case bird flu
+2020-11-01,1,0.08284303797468355,1_mask_face mask_wear_face
+2020-11-01,3,0.21190309278350516,3_climate_climate change_change_emissions
+2020-11-01,18,0.43184057142857146,18_astrazeneca_vaccine_astrazeneca vaccine_astrazeneca covid
+2020-11-01,11,-0.3153878787878788,11_live matter_matter_black live_black live matter
+2020-11-01,8,-0.2235265060240964,8_australia_bushfires_wildfires_bushfire
+2020-11-01,13,0.21971142857142859,13_queen_prince_elizabeth_queen elizabeth
+2020-11-01,12,0.21431176470588234,12_plastic_waste_single use_plastic waste
+2020-11-01,44,-0.24995882352941176,44_ventilators_ventilator_need_patients
+2020-11-01,2,0.2665675,2_space_earth_nasa_moon
+2020-11-01,40,0.2492725,40_wheat_food_ukraine_war
+2020-11-01,27,0.06911485148514851,27_lockdown_england_reopen_travel
+2020-11-01,17,0.11451960784313726,17_ice_melt_greenland_arctic
+2020-11-01,35,-0.13146279069767441,35_school_close_close school_coronavirus
+2020-11-01,31,0.18782875,31_ufo_pentagon_ufos_ufo videos
+2020-11-01,32,-0.18061428571428573,32_chemical_ukraine_biological_false flag
+2020-11-01,23,0.3410086956521739,23_brain_cancer_alzheimer_scientists
+2020-11-01,4,-0.0740688679245283,4_pope_vatican_francis_pope francis
+2020-11-01,22,0.07109705882352942,22_greta_thunberg_greta thunberg_climate
+2020-11-01,37,0.5278173333333334,37_tax_corporate tax_corporate_minimum
+2020-11-01,34,0.1946611650485437,34_scottish_scotland_independence_scottish independence
+2020-11-01,10,0.19380099009900992,10_johnson_boris johnson_boris_coronavirus
+2020-11-01,15,-0.09804047619047619,15_flood_rain_dam_china
+2020-11-01,9,0.03815703324808185,9_huawei_meng_wanzhou_meng wanzhou
+2020-11-01,42,0.33541000000000004,42_pollution_air pollution_air_delhi
+2020-11-01,30,0.14628999999999998,30_pipeline_nord stream_nord_stream
+2020-11-01,21,0.41490740740740745,21_residential school_residential_school_grave
+2020-11-01,24,-0.11785257731958762,24_assange_julian_julian assange_wikileaks
+2020-11-01,0,-0.026323333333333334,0_china_coronavirus_say_covid
+2020-11-01,25,0.13444375,25_omicron_variant_omicron variant_case omicron
+2020-11-01,39,-0.0527375,39_duterte_philippines_philippine_rodrigo duterte
+2020-11-01,41,0.07050416666666666,41_toilet_toilet paper_paper_hand
+2020-11-01,7,0.2843547619047619,7_amazon_deforestation_rainforest_tree
+2020-11-01,38,0.01763870967741936,38_locust_locusts_swarm_locust swarm
+2020-11-01,43,-0.3977,43_maxwell_ghislaine maxwell_ghislaine_sex
+2020-11-01,20,0.37796031746031744,20_musk_elon_elon musk_tesla
+2020-11-01,36,-0.14824888888888887,36_cow_urine_dung_cow urine
+2020-11-01,14,-0.033776923076923086,14_tiktok_ban_ban tiktok_trump
+2020-11-01,28,0.06914444444444444,28_volcano_eruption_erupt_palma
+2020-11-01,16,-0.14677272727272728,16_cannabis_marijuana_drug_decriminalize
+2020-11-01,33,0.0979109756097561,33_suez_canal_suez canal_ship
+2020-12-01,30,0.23702131147540983,30_pipeline_nord stream_nord_stream
+2020-12-01,21,0.10188064516129032,21_residential school_residential_school_grave
+2020-12-01,2,0.5856560000000001,2_space_earth_nasa_moon
+2020-12-01,42,0.08925106382978722,42_pollution_air pollution_air_delhi
+2020-12-01,39,-0.18666115702479338,39_duterte_philippines_philippine_rodrigo duterte
+2020-12-01,20,0.5054864406779661,20_musk_elon_elon musk_tesla
+2020-12-01,22,0.05303142857142857,22_greta_thunberg_greta thunberg_climate
+2020-12-01,1,0.3156428571428571,1_mask_face mask_wear_face
+2020-12-01,3,0.4478521739130435,3_climate_climate change_change_emissions
+2020-12-01,11,-0.26398484848484843,11_live matter_matter_black live_black live matter
+2020-12-01,8,-0.12935172413793103,8_australia_bushfires_wildfires_bushfire
+2020-12-01,45,-0.39600124999999997,45_drone strike_drone_strike_kabul
+2020-12-01,10,0.10631931818181818,10_johnson_boris johnson_boris_coronavirus
+2020-12-01,26,-0.041708056872037914,26_bird flu_bird_flu_case bird flu
+2020-12-01,31,0.3275507575757576,31_ufo_pentagon_ufos_ufo videos
+2020-12-01,36,0.08138478260869567,36_cow_urine_dung_cow urine
+2020-12-01,38,0.09009393939393938,38_locust_locusts_swarm_locust swarm
+2020-12-01,6,-0.2860717948717949,6_zelensky_zelenskyy_ukraine_volodymyr
+2020-12-01,0,0.0014480676328502415,0_china_coronavirus_say_covid
+2020-12-01,41,-0.1350391304347826,41_toilet_toilet paper_paper_hand
+2020-12-01,44,0.43006875,44_ventilators_ventilator_need_patients
+2020-12-01,27,0.07036108374384237,27_lockdown_england_reopen_travel
+2020-12-01,40,0.12238225806451612,40_wheat_food_ukraine_war
+2020-12-01,19,-0.1859,19_earthquake_magnitude_magnitude earthquake_quake
+2020-12-01,9,0.0858134328358209,9_huawei_meng_wanzhou_meng wanzhou
+2020-12-01,13,-0.021919230769230767,13_queen_prince_elizabeth_queen elizabeth
+2020-12-01,43,0.05889,43_maxwell_ghislaine maxwell_ghislaine_sex
+2020-12-01,16,-0.10547835051546392,16_cannabis_marijuana_drug_decriminalize
+2020-12-01,33,0.32096538461538465,33_suez_canal_suez canal_ship
+2020-12-01,17,0.28550909090909093,17_ice_melt_greenland_arctic
+2020-12-01,5,-0.2455082644628099,5_navalny_alexei_alexei navalny_poison
+2020-12-01,28,0.29053181818181817,28_volcano_eruption_erupt_palma
+2020-12-01,14,0.13358163265306122,14_tiktok_ban_ban tiktok_trump
+2020-12-01,7,0.19181630434782607,7_amazon_deforestation_rainforest_tree
+2020-12-01,35,-0.23994905660377358,35_school_close_close school_coronavirus
+2020-12-01,34,0.1903821052631579,34_scottish_scotland_independence_scottish independence
+2020-12-01,4,0.21138641975308642,4_pope_vatican_francis_pope francis
+2020-12-01,32,-0.06151162790697674,32_chemical_ukraine_biological_false flag
+2020-12-01,29,0.5909882352941176,29_record_hottest_warmest_temperature
+2020-12-01,23,0.25386000000000003,23_brain_cancer_alzheimer_scientists
+2020-12-01,25,0.18526666666666666,25_omicron_variant_omicron variant_case omicron
+2020-12-01,24,-0.08782292993630574,24_assange_julian_julian assange_wikileaks
+2020-12-01,15,-0.004192857142857141,15_flood_rain_dam_china
+2020-12-01,12,0.221440625,12_plastic_waste_single use_plastic waste
+2020-12-01,37,0.419189010989011,37_tax_corporate tax_corporate_minimum
+2020-12-01,18,0.2438392857142857,18_astrazeneca_vaccine_astrazeneca vaccine_astrazeneca covid
+2021-01-01,8,-0.227446511627907,8_australia_bushfires_wildfires_bushfire
+2021-01-01,17,0.2772904761904762,17_ice_melt_greenland_arctic
+2021-01-01,0,-0.13567297297297295,0_china_coronavirus_say_covid
+2021-01-01,22,-0.2126686274509804,22_greta_thunberg_greta thunberg_climate
+2021-01-01,41,0.1516714285714286,41_toilet_toilet paper_paper_hand
+2021-01-01,21,0.170832,21_residential school_residential_school_grave
+2021-01-01,35,0.30862307692307694,35_school_close_close school_coronavirus
+2021-01-01,34,0.11767096774193549,34_scottish_scotland_independence_scottish independence
+2021-01-01,31,-0.08056105263157895,31_ufo_pentagon_ufos_ufo videos
+2021-01-01,11,-0.07483488372093024,11_live matter_matter_black live_black live matter
+2021-01-01,16,-0.03455903614457831,16_cannabis_marijuana_drug_decriminalize
+2021-01-01,45,-0.44015258064516133,45_drone strike_drone_strike_kabul
+2021-01-01,29,0.21857000000000004,29_record_hottest_warmest_temperature
+2021-01-01,38,0.03645227272727273,38_locust_locusts_swarm_locust swarm
+2021-01-01,14,0.312334,14_tiktok_ban_ban tiktok_trump
+2021-01-01,3,0.37355733333333335,3_climate_climate change_change_emissions
+2021-01-01,15,-0.06917499999999999,15_flood_rain_dam_china
+2021-01-01,10,0.07696913580246913,10_johnson_boris johnson_boris_coronavirus
+2021-01-01,25,-0.32591470588235294,25_omicron_variant_omicron variant_case omicron
+2021-01-01,44,0.12882105263157898,44_ventilators_ventilator_need_patients
+2021-01-01,37,0.44033,37_tax_corporate tax_corporate_minimum
+2021-01-01,40,-0.003673076923076937,40_wheat_food_ukraine_war
+2021-01-01,5,-0.22207844036697247,5_navalny_alexei_alexei navalny_poison
+2021-01-01,7,0.24931343283582091,7_amazon_deforestation_rainforest_tree
+2021-01-01,32,-0.33372,32_chemical_ukraine_biological_false flag
+2021-01-01,42,-0.1632586206896552,42_pollution_air pollution_air_delhi
+2021-01-01,33,0.009640963855421694,33_suez_canal_suez canal_ship
+2021-01-01,2,0.48891212121212124,2_space_earth_nasa_moon
+2021-01-01,13,0.18767631578947366,13_queen_prince_elizabeth_queen elizabeth
+2021-01-01,18,0.14346398390342052,18_astrazeneca_vaccine_astrazeneca vaccine_astrazeneca covid
+2021-01-01,20,0.4001123711340206,20_musk_elon_elon musk_tesla
+2021-01-01,24,-0.18526617647058824,24_assange_julian_julian assange_wikileaks
+2021-01-01,9,0.04562961275626423,9_huawei_meng_wanzhou_meng wanzhou
+2021-01-01,6,-0.21529574468085105,6_zelensky_zelenskyy_ukraine_volodymyr
+2021-01-01,4,-0.03631076923076923,4_pope_vatican_francis_pope francis
+2021-01-01,27,0.05298744939271255,27_lockdown_england_reopen_travel
+2021-01-01,12,0.1886916666666667,12_plastic_waste_single use_plastic waste
+2021-01-01,23,-0.02278947368421053,23_brain_cancer_alzheimer_scientists
+2021-01-01,43,0.53175,43_maxwell_ghislaine maxwell_ghislaine_sex
+2021-01-01,19,-0.18667619047619047,19_earthquake_magnitude_magnitude earthquake_quake
+2021-01-01,30,0.02165,30_pipeline_nord stream_nord_stream
+2021-01-01,28,0.02026756756756757,28_volcano_eruption_erupt_palma
+2021-01-01,39,-0.10268260869565217,39_duterte_philippines_philippine_rodrigo duterte
+2021-01-01,1,0.02190909090909091,1_mask_face mask_wear_face
+2021-01-01,26,-0.056055621301775146,26_bird flu_bird_flu_case bird flu
+2021-01-01,36,0.04709,36_cow_urine_dung_cow urine
+2021-02-01,4,-0.07324,4_pope_vatican_francis_pope francis
+2021-02-01,30,0.12493428571428572,30_pipeline_nord stream_nord_stream
+2021-02-01,8,-0.21789230769230766,8_australia_bushfires_wildfires_bushfire
+2021-02-01,25,0.18369375,25_omicron_variant_omicron variant_case omicron
+2021-02-01,7,0.12188571428571428,7_amazon_deforestation_rainforest_tree
+2021-02-01,3,0.38730459770114944,3_climate_climate change_change_emissions
+2021-02-01,23,-0.4882818181818182,23_brain_cancer_alzheimer_scientists
+2021-02-01,27,0.005859999999999999,27_lockdown_england_reopen_travel
+2021-02-01,39,-0.07148899082568808,39_duterte_philippines_philippine_rodrigo duterte
+2021-02-01,24,-0.22933355263157895,24_assange_julian_julian assange_wikileaks
+2021-02-01,26,0.12240743801652892,26_bird flu_bird_flu_case bird flu
+2021-02-01,42,0.14112820512820515,42_pollution_air pollution_air_delhi
+2021-02-01,29,0.16084166666666666,29_record_hottest_warmest_temperature
+2021-02-01,28,0.11431923076923077,28_volcano_eruption_erupt_palma
+2021-02-01,37,0.3446126582278481,37_tax_corporate tax_corporate_minimum
+2021-02-01,18,0.20010712166172107,18_astrazeneca_vaccine_astrazeneca vaccine_astrazeneca covid
+2021-02-01,20,0.44491884057971015,20_musk_elon_elon musk_tesla
+2021-02-01,1,0.06739454545454546,1_mask_face mask_wear_face
+2021-02-01,40,0.21157419354838708,40_wheat_food_ukraine_war
+2021-02-01,32,-0.2648787878787879,32_chemical_ukraine_biological_false flag
+2021-02-01,22,-0.07827051282051282,22_greta_thunberg_greta thunberg_climate
+2021-02-01,16,-0.040547222222222214,16_cannabis_marijuana_drug_decriminalize
+2021-02-01,12,0.31551666666666667,12_plastic_waste_single use_plastic waste
+2021-02-01,43,-0.4585857142857143,43_maxwell_ghislaine maxwell_ghislaine_sex
+2021-02-01,34,0.19841142857142857,34_scottish_scotland_independence_scottish independence
+2021-02-01,19,-0.015010769230769229,19_earthquake_magnitude_magnitude earthquake_quake
+2021-02-01,13,0.35566041666666665,13_queen_prince_elizabeth_queen elizabeth
+2021-02-01,17,0.153725,17_ice_melt_greenland_arctic
+2021-02-01,9,0.11278,9_huawei_meng_wanzhou_meng wanzhou
+2021-02-01,6,-0.35681159420289854,6_zelensky_zelenskyy_ukraine_volodymyr
+2021-02-01,5,-0.321162937062937,5_navalny_alexei_alexei navalny_poison
+2021-02-01,33,0.12673636363636362,33_suez_canal_suez canal_ship
+2021-02-01,38,0.09558214285714285,38_locust_locusts_swarm_locust swarm
+2021-02-01,44,0.12345833333333334,44_ventilators_ventilator_need_patients
+2021-02-01,36,0.006440000000000009,36_cow_urine_dung_cow urine
+2021-02-01,11,-0.20077027027027025,11_live matter_matter_black live_black live matter
+2021-02-01,15,-0.018610526315789477,15_flood_rain_dam_china
+2021-02-01,10,0.2557964912280702,10_johnson_boris johnson_boris_coronavirus
+2021-02-01,35,-0.26994761904761905,35_school_close_close school_coronavirus
+2021-02-01,31,0.08319,31_ufo_pentagon_ufos_ufo videos
+2021-02-01,21,0.159185,21_residential school_residential_school_grave
+2021-02-01,41,-0.23618095238095235,41_toilet_toilet paper_paper_hand
+2021-02-01,2,0.40073000000000003,2_space_earth_nasa_moon
+2021-02-01,14,-0.05182820512820513,14_tiktok_ban_ban tiktok_trump
+2021-02-01,0,-0.08659559748427674,0_china_coronavirus_say_covid
+2021-02-01,45,-0.4070117824773414,45_drone strike_drone_strike_kabul
+2021-03-01,0,-0.0035940540540540518,0_china_coronavirus_say_covid
+2021-03-01,35,-0.30320588235294116,35_school_close_close school_coronavirus
+2021-03-01,5,-0.37955769230769226,5_navalny_alexei_alexei navalny_poison
+2021-03-01,17,0.10093846153846156,17_ice_melt_greenland_arctic
+2021-03-01,28,0.07536000000000001,28_volcano_eruption_erupt_palma
+2021-03-01,24,-0.15648947368421054,24_assange_julian_julian assange_wikileaks
+2021-03-01,44,0.14916000000000001,44_ventilators_ventilator_need_patients
+2021-03-01,1,-0.25453125,1_mask_face mask_wear_face
+2021-03-01,39,-0.08441084337349397,39_duterte_philippines_philippine_rodrigo duterte
+2021-03-01,29,0.9014625,29_record_hottest_warmest_temperature
+2021-03-01,34,0.06285333333333334,34_scottish_scotland_independence_scottish independence
+2021-03-01,16,-0.039882857142857144,16_cannabis_marijuana_drug_decriminalize
+2021-03-01,10,-0.14365882352941178,10_johnson_boris johnson_boris_coronavirus
+2021-03-01,42,0.0930025,42_pollution_air pollution_air_delhi
+2021-03-01,25,0.11964,25_omicron_variant_omicron variant_case omicron
+2021-03-01,13,-0.308075,13_queen_prince_elizabeth_queen elizabeth
+2021-03-01,15,-0.007985185185185185,15_flood_rain_dam_china
+2021-03-01,7,0.05368478260869564,7_amazon_deforestation_rainforest_tree
+2021-03-01,26,0.05688421052631579,26_bird flu_bird_flu_case bird flu
+2021-03-01,22,-0.19303962264150942,22_greta_thunberg_greta thunberg_climate
+2021-03-01,40,-0.139275,40_wheat_food_ukraine_war
+2021-03-01,23,0.8862222222222222,23_brain_cancer_alzheimer_scientists
+2021-03-01,33,0.2626071428571429,33_suez_canal_suez canal_ship
+2021-03-01,20,0.4741,20_musk_elon_elon musk_tesla
+2021-03-01,30,-0.11616666666666665,30_pipeline_nord stream_nord_stream
+2021-03-01,11,-0.15837142857142858,11_live matter_matter_black live_black live matter
+2021-03-01,32,-0.3371,32_chemical_ukraine_biological_false flag
+2021-03-01,37,0.4463145833333333,37_tax_corporate tax_corporate_minimum
+2021-03-01,31,0.04965263157894738,31_ufo_pentagon_ufos_ufo videos
+2021-03-01,2,0.5245538461538461,2_space_earth_nasa_moon
+2021-03-01,21,0.23910000000000003,21_residential school_residential_school_grave
+2021-03-01,45,-0.4857561224489796,45_drone strike_drone_strike_kabul
+2021-03-01,41,0.03820588235294118,41_toilet_toilet paper_paper_hand
+2021-03-01,4,0.08166603773584906,4_pope_vatican_francis_pope francis
+2021-03-01,27,-0.13788795180722893,27_lockdown_england_reopen_travel
+2021-03-01,3,0.12064358974358974,3_climate_climate change_change_emissions
+2021-03-01,14,-0.22388235294117648,14_tiktok_ban_ban tiktok_trump
+2021-03-01,43,-0.22566363636363637,43_maxwell_ghislaine maxwell_ghislaine_sex
+2021-03-01,19,-0.07560731707317073,19_earthquake_magnitude_magnitude earthquake_quake
+2021-03-01,8,-0.2099029411764706,8_australia_bushfires_wildfires_bushfire
+2021-03-01,6,-0.150868,6_zelensky_zelenskyy_ukraine_volodymyr
+2021-03-01,38,-0.4802458333333333,38_locust_locusts_swarm_locust swarm
+2021-03-01,18,0.07371760299625468,18_astrazeneca_vaccine_astrazeneca vaccine_astrazeneca covid
+2021-03-01,12,0.368975,12_plastic_waste_single use_plastic waste
+2021-03-01,36,-0.18822727272727272,36_cow_urine_dung_cow urine
+2021-03-01,9,0.005577740863787376,9_huawei_meng_wanzhou_meng wanzhou
+2021-04-01,39,-0.03957586206896552,39_duterte_philippines_philippine_rodrigo duterte
+2021-04-01,35,-0.23590909090909087,35_school_close_close school_coronavirus
+2021-04-01,45,-0.5047238605898123,45_drone strike_drone_strike_kabul
+2021-04-01,27,-0.18147666666666665,27_lockdown_england_reopen_travel
+2021-04-01,7,0.2720746666666667,7_amazon_deforestation_rainforest_tree
+2021-04-01,10,-0.08644698795180722,10_johnson_boris johnson_boris_coronavirus
+2021-04-01,37,0.5021186046511628,37_tax_corporate tax_corporate_minimum
+2021-04-01,36,0.22739166666666666,36_cow_urine_dung_cow urine
+2021-04-01,13,-0.0843906976744186,13_queen_prince_elizabeth_queen elizabeth
+2021-04-01,12,0.767375,12_plastic_waste_single use_plastic waste
+2021-04-01,11,-0.37093589743589744,11_live matter_matter_black live_black live matter
+2021-04-01,26,-0.022458208955223883,26_bird flu_bird_flu_case bird flu
+2021-04-01,3,0.2477139534883721,3_climate_climate change_change_emissions
+2021-04-01,28,0.102012,28_volcano_eruption_erupt_palma
+2021-04-01,6,-0.11911010101010101,6_zelensky_zelenskyy_ukraine_volodymyr
+2021-04-01,34,0.1318472222222222,34_scottish_scotland_independence_scottish independence
+2021-04-01,14,-0.11853235294117648,14_tiktok_ban_ban tiktok_trump
+2021-04-01,38,-0.3964243902439024,38_locust_locusts_swarm_locust swarm
+2021-04-01,18,0.10980245098039215,18_astrazeneca_vaccine_astrazeneca vaccine_astrazeneca covid
+2021-04-01,43,-0.20072142857142858,43_maxwell_ghislaine maxwell_ghislaine_sex
+2021-04-01,32,-0.3375924528301886,32_chemical_ukraine_biological_false flag
+2021-04-01,19,-0.2938454545454545,19_earthquake_magnitude_magnitude earthquake_quake
+2021-04-01,41,-0.230368,41_toilet_toilet paper_paper_hand
+2021-04-01,23,0.26874827586206895,23_brain_cancer_alzheimer_scientists
+2021-04-01,8,-0.3006111111111111,8_australia_bushfires_wildfires_bushfire
+2021-04-01,20,0.31919302325581395,20_musk_elon_elon musk_tesla
+2021-04-01,30,-0.0946175,30_pipeline_nord stream_nord_stream
+2021-04-01,31,0.17464823529411766,31_ufo_pentagon_ufos_ufo videos
+2021-04-01,21,0.084116,21_residential school_residential_school_grave
+2021-04-01,4,-0.032962162162162155,4_pope_vatican_francis_pope francis
+2021-04-01,2,0.2607111111111111,2_space_earth_nasa_moon
+2021-04-01,22,0.1453185185185185,22_greta_thunberg_greta thunberg_climate
+2021-04-01,33,0.10326446280991736,33_suez_canal_suez canal_ship
+2021-04-01,9,0.02158323232323232,9_huawei_meng_wanzhou_meng wanzhou
+2021-04-01,0,-0.11556081081081081,0_china_coronavirus_say_covid
+2021-04-01,17,-0.08026530612244899,17_ice_melt_greenland_arctic
+2021-04-01,15,-0.2480588235294118,15_flood_rain_dam_china
+2021-04-01,42,0.11563918918918918,42_pollution_air pollution_air_delhi
+2021-04-01,25,0.2241875,25_omicron_variant_omicron variant_case omicron
+2021-04-01,40,0.11597222222222221,40_wheat_food_ukraine_war
+2021-04-01,16,-0.026627868852459012,16_cannabis_marijuana_drug_decriminalize
+2021-04-01,5,-0.29641365853658536,5_navalny_alexei_alexei navalny_poison
+2021-04-01,44,-0.08593703703703703,44_ventilators_ventilator_need_patients
+2021-04-01,29,0.2704125,29_record_hottest_warmest_temperature
+2021-04-01,24,-0.276796644295302,24_assange_julian_julian assange_wikileaks
+2021-04-01,1,-0.1444015625,1_mask_face mask_wear_face
+2021-05-01,30,-0.22517432432432433,30_pipeline_nord stream_nord_stream
+2021-05-01,28,-0.1300910447761194,28_volcano_eruption_erupt_palma
+2021-05-01,35,-0.4438416666666667,35_school_close_close school_coronavirus
+2021-05-01,1,-0.19014615384615385,1_mask_face mask_wear_face
+2021-05-01,2,0.3026390625,2_space_earth_nasa_moon
+2021-05-01,33,-0.13372631578947367,33_suez_canal_suez canal_ship
+2021-05-01,38,-0.33175,38_locust_locusts_swarm_locust swarm
+2021-05-01,36,-0.289284126984127,36_cow_urine_dung_cow urine
+2021-05-01,40,0.18472647058823527,40_wheat_food_ukraine_war
+2021-05-01,34,0.2752189189189189,34_scottish_scotland_independence_scottish independence
+2021-05-01,32,-0.38126829268292683,32_chemical_ukraine_biological_false flag
+2021-05-01,41,-0.1919794117647059,41_toilet_toilet paper_paper_hand
+2021-05-01,0,-0.180521412803532,0_china_coronavirus_say_covid
+2021-05-01,29,-0.0771090909090909,29_record_hottest_warmest_temperature
+2021-05-01,31,-0.06691022727272727,31_ufo_pentagon_ufos_ufo videos
+2021-05-01,37,0.28818656716417906,37_tax_corporate tax_corporate_minimum
+2021-05-01,23,0.19867307692307692,23_brain_cancer_alzheimer_scientists
+2021-05-01,17,0.24507551020408166,17_ice_melt_greenland_arctic
+2021-05-01,6,-0.2799145833333333,6_zelensky_zelenskyy_ukraine_volodymyr
+2021-05-01,11,-0.298041935483871,11_live matter_matter_black live_black live matter
+2021-05-01,25,-0.06518571428571429,25_omicron_variant_omicron variant_case omicron
+2021-05-01,12,0.20264444444444446,12_plastic_waste_single use_plastic waste
+2021-05-01,13,-0.06224500000000001,13_queen_prince_elizabeth_queen elizabeth
+2021-05-01,24,-0.2747306603773585,24_assange_julian_julian assange_wikileaks
+2021-05-01,42,0.04650172413793103,42_pollution_air pollution_air_delhi
+2021-05-01,44,0.030736363636363638,44_ventilators_ventilator_need_patients
+2021-05-01,14,-0.05828035714285714,14_tiktok_ban_ban tiktok_trump
+2021-05-01,10,-0.028986206896551726,10_johnson_boris johnson_boris_coronavirus
+2021-05-01,15,-0.2977828571428571,15_flood_rain_dam_china
+2021-05-01,5,-0.2539626168224299,5_navalny_alexei_alexei navalny_poison
+2021-05-01,16,-0.27726666666666666,16_cannabis_marijuana_drug_decriminalize
+2021-05-01,22,-0.07626333333333334,22_greta_thunberg_greta thunberg_climate
+2021-05-01,18,0.14040902612826603,18_astrazeneca_vaccine_astrazeneca vaccine_astrazeneca covid
+2021-05-01,43,-0.74485,43_maxwell_ghislaine maxwell_ghislaine_sex
+2021-05-01,21,-0.24644166666666667,21_residential school_residential_school_grave
+2021-05-01,4,0.16407272727272726,4_pope_vatican_francis_pope francis
+2021-05-01,19,-0.5237267045454546,19_earthquake_magnitude_magnitude earthquake_quake
+2021-05-01,39,0.09798173913043477,39_duterte_philippines_philippine_rodrigo duterte
+2021-05-01,45,-0.5897178802588997,45_drone strike_drone_strike_kabul
+2021-05-01,20,0.009317708333333332,20_musk_elon_elon musk_tesla
+2021-05-01,26,0.05100662251655629,26_bird flu_bird_flu_case bird flu
+2021-05-01,8,-0.3558150442477876,8_australia_bushfires_wildfires_bushfire
+2021-05-01,9,0.11304668246445497,9_huawei_meng_wanzhou_meng wanzhou
+2021-05-01,3,0.1538868131868132,3_climate_climate change_change_emissions
+2021-05-01,7,0.1530148514851485,7_amazon_deforestation_rainforest_tree
+2021-05-01,27,-0.032649000000000004,27_lockdown_england_reopen_travel
+2021-06-01,5,-0.22429594594594593,5_navalny_alexei_alexei navalny_poison
+2021-06-01,1,0.04002876712328767,1_mask_face mask_wear_face
+2021-06-01,22,0.12925189873417722,22_greta_thunberg_greta thunberg_climate
+2021-06-01,23,-0.050713793103448285,23_brain_cancer_alzheimer_scientists
+2021-06-01,8,-0.17648382352941175,8_australia_bushfires_wildfires_bushfire
+2021-06-01,15,-0.1852151515151515,15_flood_rain_dam_china
+2021-06-01,40,-0.08320000000000001,40_wheat_food_ukraine_war
+2021-06-01,16,0.09506615384615384,16_cannabis_marijuana_drug_decriminalize
+2021-06-01,30,0.239364,30_pipeline_nord stream_nord_stream
+2021-06-01,2,0.38759999999999994,2_space_earth_nasa_moon
+2021-06-01,0,-0.12759801980198018,0_china_coronavirus_say_covid
+2021-06-01,37,0.3544242424242424,37_tax_corporate tax_corporate_minimum
+2021-06-01,42,0.3000791666666667,42_pollution_air pollution_air_delhi
+2021-06-01,27,0.029784579439252334,27_lockdown_england_reopen_travel
+2021-06-01,17,0.2653243902439024,17_ice_melt_greenland_arctic
+2021-06-01,43,-0.2140142857142857,43_maxwell_ghislaine maxwell_ghislaine_sex
+2021-06-01,39,-0.04693023255813953,39_duterte_philippines_philippine_rodrigo duterte
+2021-06-01,18,0.18609506493506495,18_astrazeneca_vaccine_astrazeneca vaccine_astrazeneca covid
+2021-06-01,21,-0.432,21_residential school_residential_school_grave
+2021-06-01,7,0.10997196261682245,7_amazon_deforestation_rainforest_tree
+2021-06-01,32,-0.28317000000000003,32_chemical_ukraine_biological_false flag
+2021-06-01,4,-0.2526904761904762,4_pope_vatican_francis_pope francis
+2021-06-01,19,-0.35622989690721646,19_earthquake_magnitude_magnitude earthquake_quake
+2021-06-01,31,0.22433365384615384,31_ufo_pentagon_ufos_ufo videos
+2021-06-01,33,0.2008119565217391,33_suez_canal_suez canal_ship
+2021-06-01,14,-0.14100943396226415,14_tiktok_ban_ban tiktok_trump
+2021-06-01,34,0.23973474576271186,34_scottish_scotland_independence_scottish independence
+2021-06-01,44,-0.008822727272727275,44_ventilators_ventilator_need_patients
+2021-06-01,36,-0.12023636363636364,36_cow_urine_dung_cow urine
+2021-06-01,12,-0.20398666666666668,12_plastic_waste_single use_plastic waste
+2021-06-01,38,-0.052637500000000004,38_locust_locusts_swarm_locust swarm
+2021-06-01,41,-0.305748,41_toilet_toilet paper_paper_hand
+2021-06-01,11,-0.3311886363636364,11_live matter_matter_black live_black live matter
+2021-06-01,26,0.020847014925373133,26_bird flu_bird_flu_case bird flu
+2021-06-01,9,-0.006468000000000001,9_huawei_meng_wanzhou_meng wanzhou
+2021-06-01,13,-0.07191578947368421,13_queen_prince_elizabeth_queen elizabeth
+2021-06-01,3,0.08656634615384615,3_climate_climate change_change_emissions
+2021-06-01,25,0.4377521739130435,25_omicron_variant_omicron variant_case omicron
+2021-06-01,6,-0.019032000000000004,6_zelensky_zelenskyy_ukraine_volodymyr
+2021-06-01,24,-0.1555054187192118,24_assange_julian_julian assange_wikileaks
+2021-06-01,35,-0.246165625,35_school_close_close school_coronavirus
+2021-06-01,20,0.14731304347826088,20_musk_elon_elon musk_tesla
+2021-06-01,10,0.03030625,10_johnson_boris johnson_boris_coronavirus
+2021-06-01,45,-0.42198743169398906,45_drone strike_drone_strike_kabul
+2021-06-01,28,0.12627777777777777,28_volcano_eruption_erupt_palma
+2021-06-01,29,0.2562933333333334,29_record_hottest_warmest_temperature
+2021-07-01,10,-0.2164156862745098,10_johnson_boris johnson_boris_coronavirus
+2021-07-01,9,0.03628865096359743,9_huawei_meng_wanzhou_meng wanzhou
+2021-07-01,7,0.07797088607594936,7_amazon_deforestation_rainforest_tree
+2021-07-01,32,0.11698095238095238,32_chemical_ukraine_biological_false flag
+2021-07-01,18,0.10345642458100558,18_astrazeneca_vaccine_astrazeneca vaccine_astrazeneca covid
+2021-07-01,6,0.12145816326530612,6_zelensky_zelenskyy_ukraine_volodymyr
+2021-07-01,19,-0.13557052631578947,19_earthquake_magnitude_magnitude earthquake_quake
+2021-07-01,4,-0.059865,4_pope_vatican_francis_pope francis
+2021-07-01,11,-0.2907913793103448,11_live matter_matter_black live_black live matter
+2021-07-01,45,-0.29472893835616437,45_drone strike_drone_strike_kabul
+2021-07-01,17,0.11248809523809523,17_ice_melt_greenland_arctic
+2021-07-01,14,0.053835,14_tiktok_ban_ban tiktok_trump
+2021-07-01,5,-0.2656483870967742,5_navalny_alexei_alexei navalny_poison
+2021-07-01,38,-0.06899756097560976,38_locust_locusts_swarm_locust swarm
+2021-07-01,0,0.02467915057915058,0_china_coronavirus_say_covid
+2021-07-01,15,-0.002579054054054056,15_flood_rain_dam_china
+2021-07-01,34,0.15876582278481013,34_scottish_scotland_independence_scottish independence
+2021-07-01,37,0.23041341463414633,37_tax_corporate tax_corporate_minimum
+2021-07-01,8,-0.22002604166666664,8_australia_bushfires_wildfires_bushfire
+2021-07-01,35,-0.2406736842105263,35_school_close_close school_coronavirus
+2021-07-01,13,-0.042631428571428584,13_queen_prince_elizabeth_queen elizabeth
+2021-07-01,39,-0.003342458100558664,39_duterte_philippines_philippine_rodrigo duterte
+2021-07-01,1,-0.01054794520547945,1_mask_face mask_wear_face
+2021-07-01,16,-0.10069310344827585,16_cannabis_marijuana_drug_decriminalize
+2021-07-01,44,0.33068333333333333,44_ventilators_ventilator_need_patients
+2021-07-01,12,0.09831764705882351,12_plastic_waste_single use_plastic waste
+2021-07-01,40,-0.07936052631578948,40_wheat_food_ukraine_war
+2021-07-01,36,-0.21850357142857144,36_cow_urine_dung_cow urine
+2021-07-01,43,0.149425,43_maxwell_ghislaine maxwell_ghislaine_sex
+2021-07-01,33,0.0660012048192771,33_suez_canal_suez canal_ship
+2021-07-01,27,-0.04429109947643979,27_lockdown_england_reopen_travel
+2021-07-01,21,-0.23945999999999998,21_residential school_residential_school_grave
+2021-07-01,28,0.07536896551724137,28_volcano_eruption_erupt_palma
+2021-07-01,3,0.26372900763358775,3_climate_climate change_change_emissions
+2021-07-01,24,-0.17047553191489362,24_assange_julian_julian assange_wikileaks
+2021-07-01,41,-0.17080869565217394,41_toilet_toilet paper_paper_hand
+2021-07-01,31,-0.1646205128205128,31_ufo_pentagon_ufos_ufo videos
+2021-07-01,23,0.05150909090909092,23_brain_cancer_alzheimer_scientists
+2021-07-01,25,-0.33514,25_omicron_variant_omicron variant_case omicron
+2021-07-01,42,0.010492857142857146,42_pollution_air pollution_air_delhi
+2021-07-01,22,-0.026763829787234038,22_greta_thunberg_greta thunberg_climate
+2021-07-01,2,0.3385714285714286,2_space_earth_nasa_moon
+2021-07-01,30,0.17695526315789473,30_pipeline_nord stream_nord_stream
+2021-07-01,20,0.00961685393258427,20_musk_elon_elon musk_tesla
+2021-07-01,26,-0.07983785310734463,26_bird flu_bird_flu_case bird flu
+2021-07-01,29,0.1541125,29_record_hottest_warmest_temperature
+2021-08-01,13,-0.03281481481481481,13_queen_prince_elizabeth_queen elizabeth
+2021-08-01,35,0.09183846153846154,35_school_close_close school_coronavirus
+2021-08-01,34,0.19811666666666666,34_scottish_scotland_independence_scottish independence
+2021-08-01,14,-0.14760967741935482,14_tiktok_ban_ban tiktok_trump
+2021-08-01,5,-0.4248741379310345,5_navalny_alexei_alexei navalny_poison
+2021-08-01,23,0.2628263157894737,23_brain_cancer_alzheimer_scientists
+2021-08-01,15,-0.182688,15_flood_rain_dam_china
+2021-08-01,42,0.3168105263157895,42_pollution_air pollution_air_delhi
+2021-08-01,22,0.04498166666666667,22_greta_thunberg_greta thunberg_climate
+2021-08-01,16,-0.20483287671232878,16_cannabis_marijuana_drug_decriminalize
+2021-08-01,29,0.5361116279069768,29_record_hottest_warmest_temperature
+2021-08-01,24,-0.2268233576642336,24_assange_julian_julian assange_wikileaks
+2021-08-01,31,-0.11711739130434784,31_ufo_pentagon_ufos_ufo videos
+2021-08-01,12,0.26243076923076925,12_plastic_waste_single use_plastic waste
+2021-08-01,27,0.0994547619047619,27_lockdown_england_reopen_travel
+2021-08-01,7,0.043603030303030296,7_amazon_deforestation_rainforest_tree
+2021-08-01,38,-0.19806200000000002,38_locust_locusts_swarm_locust swarm
+2021-08-01,8,-0.24609328358208957,8_australia_bushfires_wildfires_bushfire
+2021-08-01,45,-0.2521169082125604,45_drone strike_drone_strike_kabul
+2021-08-01,39,-0.029484649122807023,39_duterte_philippines_philippine_rodrigo duterte
+2021-08-01,41,0.04052499999999999,41_toilet_toilet paper_paper_hand
+2021-08-01,0,-0.1590903381642512,0_china_coronavirus_say_covid
+2021-08-01,9,0.0901066496163683,9_huawei_meng_wanzhou_meng wanzhou
+2021-08-01,37,0.6026509433962264,37_tax_corporate tax_corporate_minimum
+2021-08-01,6,-0.01982183098591549,6_zelensky_zelenskyy_ukraine_volodymyr
+2021-08-01,25,0.4056454545454546,25_omicron_variant_omicron variant_case omicron
+2021-08-01,28,0.25882045454545455,28_volcano_eruption_erupt_palma
+2021-08-01,10,-0.18675652173913043,10_johnson_boris johnson_boris_coronavirus
+2021-08-01,11,-0.08261666666666666,11_live matter_matter_black live_black live matter
+2021-08-01,36,-0.03011818181818183,36_cow_urine_dung_cow urine
+2021-08-01,3,0.07307874015748032,3_climate_climate change_change_emissions
+2021-08-01,2,0.21327142857142856,2_space_earth_nasa_moon
+2021-08-01,33,0.06393383458646616,33_suez_canal_suez canal_ship
+2021-08-01,44,-0.09578500000000001,44_ventilators_ventilator_need_patients
+2021-08-01,30,0.1338048780487805,30_pipeline_nord stream_nord_stream
+2021-08-01,26,0.025720394736842105,26_bird flu_bird_flu_case bird flu
+2021-08-01,1,0.07452833333333334,1_mask_face mask_wear_face
+2021-08-01,40,0.03770208333333334,40_wheat_food_ukraine_war
+2021-08-01,43,0.9520500000000001,43_maxwell_ghislaine maxwell_ghislaine_sex
+2021-08-01,20,0.29763333333333336,20_musk_elon_elon musk_tesla
+2021-08-01,18,0.1634781512605042,18_astrazeneca_vaccine_astrazeneca vaccine_astrazeneca covid
+2021-08-01,32,0.10866666666666666,32_chemical_ukraine_biological_false flag
+2021-08-01,4,-0.11714634146341463,4_pope_vatican_francis_pope francis
+2021-08-01,21,-0.0015227272727272665,21_residential school_residential_school_grave
+2021-08-01,19,-0.15162658227848103,19_earthquake_magnitude_magnitude earthquake_quake
+2021-08-01,17,-0.05532916666666667,17_ice_melt_greenland_arctic
+2021-09-01,36,0.009746808510638296,36_cow_urine_dung_cow urine
+2021-09-01,11,-0.14965757575757577,11_live matter_matter_black live_black live matter
+2021-09-01,2,0.5318288461538462,2_space_earth_nasa_moon
+2021-09-01,42,0.44986949152542377,42_pollution_air pollution_air_delhi
+2021-09-01,43,-0.025939999999999984,43_maxwell_ghislaine maxwell_ghislaine_sex
+2021-09-01,28,-0.03375740740740741,28_volcano_eruption_erupt_palma
+2021-09-01,44,0.22906666666666667,44_ventilators_ventilator_need_patients
+2021-09-01,18,0.1184633608815427,18_astrazeneca_vaccine_astrazeneca vaccine_astrazeneca covid
+2021-09-01,24,-0.1739902985074627,24_assange_julian_julian assange_wikileaks
+2021-09-01,35,-0.010976666666666657,35_school_close_close school_coronavirus
+2021-09-01,32,-0.2683392857142857,32_chemical_ukraine_biological_false flag
+2021-09-01,21,0.08928421052631579,21_residential school_residential_school_grave
+2021-09-01,12,0.4846076923076923,12_plastic_waste_single use_plastic waste
+2021-09-01,10,0.2787857142857143,10_johnson_boris johnson_boris_coronavirus
+2021-09-01,0,0.0019512295081967202,0_china_coronavirus_say_covid
+2021-09-01,31,-0.12475423728813559,31_ufo_pentagon_ufos_ufo videos
+2021-09-01,41,-0.36015,41_toilet_toilet paper_paper_hand
+2021-09-01,27,-0.12132258064516128,27_lockdown_england_reopen_travel
+2021-09-01,7,0.2948350515463918,7_amazon_deforestation_rainforest_tree
+2021-09-01,45,-0.27817762430939225,45_drone strike_drone_strike_kabul
+2021-09-01,38,-0.15313529411764706,38_locust_locusts_swarm_locust swarm
+2021-09-01,8,-0.07961410256410256,8_australia_bushfires_wildfires_bushfire
+2021-09-01,4,0.12344776119402984,4_pope_vatican_francis_pope francis
+2021-09-01,26,-0.013649624060150375,26_bird flu_bird_flu_case bird flu
+2021-09-01,9,0.044534773662551444,9_huawei_meng_wanzhou_meng wanzhou
+2021-09-01,39,0.19192032967032965,39_duterte_philippines_philippine_rodrigo duterte
+2021-09-01,6,0.1034507042253521,6_zelensky_zelenskyy_ukraine_volodymyr
+2021-09-01,37,0.5768384615384615,37_tax_corporate tax_corporate_minimum
+2021-09-01,20,0.1443625,20_musk_elon_elon musk_tesla
+2021-09-01,13,0.17153777777777776,13_queen_prince_elizabeth_queen elizabeth
+2021-09-01,25,-0.00608666666666667,25_omicron_variant_omicron variant_case omicron
+2021-09-01,19,-0.09422253521126761,19_earthquake_magnitude_magnitude earthquake_quake
+2021-09-01,40,0.09834324324324324,40_wheat_food_ukraine_war
+2021-09-01,3,0.21497391304347824,3_climate_climate change_change_emissions
+2021-09-01,14,0.04919024390243902,14_tiktok_ban_ban tiktok_trump
+2021-09-01,22,-0.04889767441860466,22_greta_thunberg_greta thunberg_climate
+2021-09-01,1,-0.09505326086956521,1_mask_face mask_wear_face
+2021-09-01,16,-0.029598630136986305,16_cannabis_marijuana_drug_decriminalize
+2021-09-01,5,0.0471516393442623,5_navalny_alexei_alexei navalny_poison
+2021-09-01,34,0.31124094488188975,34_scottish_scotland_independence_scottish independence
+2021-09-01,29,0.29814444444444443,29_record_hottest_warmest_temperature
+2021-09-01,15,-0.11208958333333334,15_flood_rain_dam_china
+2021-09-01,17,0.1854027027027027,17_ice_melt_greenland_arctic
+2021-09-01,23,0.3646777777777778,23_brain_cancer_alzheimer_scientists
+2021-09-01,33,0.1796018987341772,33_suez_canal_suez canal_ship
+2021-09-01,30,0.16346363636363637,30_pipeline_nord stream_nord_stream
+2021-10-01,40,-0.07426756756756758,40_wheat_food_ukraine_war
+2021-10-01,39,-0.05121278195488722,39_duterte_philippines_philippine_rodrigo duterte
+2021-10-01,25,-0.07953636363636364,25_omicron_variant_omicron variant_case omicron
+2021-10-01,17,0.3036,17_ice_melt_greenland_arctic
+2021-10-01,20,0.32490681818181816,20_musk_elon_elon musk_tesla
+2021-10-01,10,-0.02317234042553192,10_johnson_boris johnson_boris_coronavirus
+2021-10-01,37,0.4910895238095238,37_tax_corporate tax_corporate_minimum
+2021-10-01,9,0.05429876796714579,9_huawei_meng_wanzhou_meng wanzhou
+2021-10-01,22,0.1380983606557377,22_greta_thunberg_greta thunberg_climate
+2021-10-01,4,-0.2279787037037037,4_pope_vatican_francis_pope francis
+2021-10-01,0,0.004331343283582088,0_china_coronavirus_say_covid
+2021-10-01,3,0.29630769230769227,3_climate_climate change_change_emissions
+2021-10-01,2,0.43944772727272724,2_space_earth_nasa_moon
+2021-10-01,43,-0.9747250000000001,43_maxwell_ghislaine maxwell_ghislaine_sex
+2021-10-01,42,0.2883109090909091,42_pollution_air pollution_air_delhi
+2021-10-01,41,0.337075,41_toilet_toilet paper_paper_hand
+2021-10-01,7,0.15787441860465115,7_amazon_deforestation_rainforest_tree
+2021-10-01,45,-0.464925284738041,45_drone strike_drone_strike_kabul
+2021-10-01,27,-0.028101526717557255,27_lockdown_england_reopen_travel
+2021-10-01,30,0.3216952380952381,30_pipeline_nord stream_nord_stream
+2021-10-01,38,0.12863548387096774,38_locust_locusts_swarm_locust swarm
+2021-10-01,31,0.09501617647058823,31_ufo_pentagon_ufos_ufo videos
+2021-10-01,16,-0.054668965517241375,16_cannabis_marijuana_drug_decriminalize
+2021-10-01,26,0.10940566037735848,26_bird flu_bird_flu_case bird flu
+2021-10-01,8,-0.3187123076923077,8_australia_bushfires_wildfires_bushfire
+2021-10-01,6,0.019329203539823005,6_zelensky_zelenskyy_ukraine_volodymyr
+2021-10-01,19,-0.1255016129032258,19_earthquake_magnitude_magnitude earthquake_quake
+2021-10-01,33,0.1709901098901099,33_suez_canal_suez canal_ship
+2021-10-01,28,0.24128983050847458,28_volcano_eruption_erupt_palma
+2021-10-01,15,-0.004862500000000006,15_flood_rain_dam_china
+2021-10-01,34,0.16741234567901234,34_scottish_scotland_independence_scottish independence
+2021-10-01,29,0.5049190476190476,29_record_hottest_warmest_temperature
+2021-10-01,5,-0.14661052631578947,5_navalny_alexei_alexei navalny_poison
+2021-10-01,13,0.35953882352941174,13_queen_prince_elizabeth_queen elizabeth
+2021-10-01,1,-0.11946981132075472,1_mask_face mask_wear_face
+2021-10-01,21,0.209575,21_residential school_residential_school_grave
+2021-10-01,32,-0.051942105263157894,32_chemical_ukraine_biological_false flag
+2021-10-01,14,0.10900555555555555,14_tiktok_ban_ban tiktok_trump
+2021-10-01,35,-0.19632608695652176,35_school_close_close school_coronavirus
+2021-10-01,12,0.41818181818181815,12_plastic_waste_single use_plastic waste
+2021-10-01,24,-0.02776483516483516,24_assange_julian_julian assange_wikileaks
+2021-10-01,44,-0.18376153846153842,44_ventilators_ventilator_need_patients
+2021-10-01,18,0.1223,18_astrazeneca_vaccine_astrazeneca vaccine_astrazeneca covid
+2021-10-01,23,0.08063499999999998,23_brain_cancer_alzheimer_scientists
+2021-10-01,36,0.15149666666666667,36_cow_urine_dung_cow urine
+2021-10-01,11,-0.11267837837837838,11_live matter_matter_black live_black live matter
+2021-11-01,35,-0.2563857142857143,35_school_close_close school_coronavirus
+2021-11-01,30,0.11351129032258064,30_pipeline_nord stream_nord_stream
+2021-11-01,33,0.05280595238095238,33_suez_canal_suez canal_ship
+2021-11-01,18,0.18347424892703862,18_astrazeneca_vaccine_astrazeneca vaccine_astrazeneca covid
+2021-11-01,14,0.034818518518518506,14_tiktok_ban_ban tiktok_trump
+2021-11-01,4,0.18412,4_pope_vatican_francis_pope francis
+2021-11-01,26,0.0951107843137255,26_bird flu_bird_flu_case bird flu
+2021-11-01,10,0.15749565217391304,10_johnson_boris johnson_boris_coronavirus
+2021-11-01,17,0.12920526315789474,17_ice_melt_greenland_arctic
+2021-11-01,27,-0.08393098591549294,27_lockdown_england_reopen_travel
+2021-11-01,11,-0.1400878787878788,11_live matter_matter_black live_black live matter
+2021-11-01,16,0.1763794117647059,16_cannabis_marijuana_drug_decriminalize
+2021-11-01,41,-0.27440714285714285,41_toilet_toilet paper_paper_hand
+2021-11-01,32,-0.27994864864864866,32_chemical_ukraine_biological_false flag
+2021-11-01,45,-0.4086753462603878,45_drone strike_drone_strike_kabul
+2021-11-01,7,0.33160204081632655,7_amazon_deforestation_rainforest_tree
+2021-11-01,0,-0.014388461538461544,0_china_coronavirus_say_covid
+2021-11-01,13,0.532478,13_queen_prince_elizabeth_queen elizabeth
+2021-11-01,21,0.29176086956521735,21_residential school_residential_school_grave
+2021-11-01,43,-0.007123076923076925,43_maxwell_ghislaine maxwell_ghislaine_sex
+2021-11-01,5,0.11215714285714286,5_navalny_alexei_alexei navalny_poison
+2021-11-01,39,0.1066031914893617,39_duterte_philippines_philippine_rodrigo duterte
+2021-11-01,8,-0.23045689655172413,8_australia_bushfires_wildfires_bushfire
+2021-11-01,38,-0.08741666666666666,38_locust_locusts_swarm_locust swarm
+2021-11-01,31,0.0780811320754717,31_ufo_pentagon_ufos_ufo videos
+2021-11-01,2,0.11296511627906977,2_space_earth_nasa_moon
+2021-11-01,15,-0.10878571428571428,15_flood_rain_dam_china
+2021-11-01,20,0.26429558823529414,20_musk_elon_elon musk_tesla
+2021-11-01,3,0.34104782608695655,3_climate_climate change_change_emissions
+2021-11-01,25,-0.02638409090909091,25_omicron_variant_omicron variant_case omicron
+2021-11-01,44,-0.10697499999999999,44_ventilators_ventilator_need_patients
+2021-11-01,1,0.05303333333333334,1_mask_face mask_wear_face
+2021-11-01,40,0.06321388888888889,40_wheat_food_ukraine_war
+2021-11-01,22,0.22515595238095237,22_greta_thunberg_greta thunberg_climate
+2021-11-01,6,-0.1498821917808219,6_zelensky_zelenskyy_ukraine_volodymyr
+2021-11-01,9,0.03146421800947868,9_huawei_meng_wanzhou_meng wanzhou
+2021-11-01,24,-0.3030357798165138,24_assange_julian_julian assange_wikileaks
+2021-11-01,29,0.40900000000000003,29_record_hottest_warmest_temperature
+2021-11-01,42,0.31666,42_pollution_air pollution_air_delhi
+2021-11-01,12,0.6287235294117647,12_plastic_waste_single use_plastic waste
+2021-11-01,28,0.2497541666666667,28_volcano_eruption_erupt_palma
+2021-11-01,23,0.13317777777777776,23_brain_cancer_alzheimer_scientists
+2021-11-01,34,0.20498550724637682,34_scottish_scotland_independence_scottish independence
+2021-11-01,19,-0.400246511627907,19_earthquake_magnitude_magnitude earthquake_quake
+2021-11-01,37,0.4518701754385965,37_tax_corporate tax_corporate_minimum
+2021-11-01,36,0.037837499999999996,36_cow_urine_dung_cow urine
+2021-12-01,39,0.0993511111111111,39_duterte_philippines_philippine_rodrigo duterte
+2021-12-01,41,-0.510175,41_toilet_toilet paper_paper_hand
+2021-12-01,42,-0.013046153846153844,42_pollution_air pollution_air_delhi
+2021-12-01,43,-0.03635000000000005,43_maxwell_ghislaine maxwell_ghislaine_sex
+2021-12-01,44,0.8366000000000001,44_ventilators_ventilator_need_patients
+2021-12-01,40,-0.0036562499999999998,40_wheat_food_ukraine_war
+2021-12-01,45,-0.34453815789473685,45_drone strike_drone_strike_kabul
+2021-12-01,22,0.5622550000000001,22_greta_thunberg_greta thunberg_climate
+2021-12-01,32,-0.20048000000000002,32_chemical_ukraine_biological_false flag
+2021-12-01,1,-0.3274869565217391,1_mask_face mask_wear_face
+2021-12-01,31,0.33316875,31_ufo_pentagon_ufos_ufo videos
+2021-12-01,10,0.3261818181818182,10_johnson_boris johnson_boris_coronavirus
+2021-12-01,30,0.29341428571428574,30_pipeline_nord stream_nord_stream
+2021-12-01,29,0.08145,29_record_hottest_warmest_temperature
+2021-12-01,28,0.26707333333333333,28_volcano_eruption_erupt_palma
+2021-12-01,16,-0.31020857142857144,16_cannabis_marijuana_drug_decriminalize
+2021-12-01,2,0.9571083333333333,2_space_earth_nasa_moon
+2021-12-01,11,-0.012575000000000017,11_live matter_matter_black live_black live matter
+2021-12-01,26,0.045707894736842114,26_bird flu_bird_flu_case bird flu
+2021-12-01,25,0.2301891304347826,25_omicron_variant_omicron variant_case omicron
+2021-12-01,9,0.10107237569060773,9_huawei_meng_wanzhou_meng wanzhou
+2021-12-01,24,-0.3390705128205128,24_assange_julian_julian assange_wikileaks
+2021-12-01,23,0.05068333333333332,23_brain_cancer_alzheimer_scientists
+2021-12-01,3,0.2523740740740741,3_climate_climate change_change_emissions
+2021-12-01,5,-0.1933741935483871,5_navalny_alexei_alexei navalny_poison
+2021-12-01,13,-0.12051428571428571,13_queen_prince_elizabeth_queen elizabeth
+2021-12-01,21,0.2381,21_residential school_residential_school_grave
+2021-12-01,20,0.23474799999999998,20_musk_elon_elon musk_tesla
+2021-12-01,19,-0.4583086956521739,19_earthquake_magnitude_magnitude earthquake_quake
+2021-12-01,14,-0.30220625,14_tiktok_ban_ban tiktok_trump
+2021-12-01,18,-0.14321037735849057,18_astrazeneca_vaccine_astrazeneca vaccine_astrazeneca covid
+2021-12-01,4,-0.02275714285714285,4_pope_vatican_francis_pope francis
+2021-12-01,17,0.15797916666666667,17_ice_melt_greenland_arctic
+2021-12-01,15,-0.08907058823529412,15_flood_rain_dam_china
+2021-12-01,12,0.2920222222222222,12_plastic_waste_single use_plastic waste
+2021-12-01,33,-0.0026962962962962995,33_suez_canal_suez canal_ship
+2021-12-01,27,-0.033501886792452834,27_lockdown_england_reopen_travel
+2021-12-01,8,-0.6089892857142857,8_australia_bushfires_wildfires_bushfire
+2021-12-01,38,-0.6520714285714285,38_locust_locusts_swarm_locust swarm
+2021-12-01,37,0.5606612903225807,37_tax_corporate tax_corporate_minimum
+2021-12-01,35,-0.4024294117647059,35_school_close_close school_coronavirus
+2021-12-01,34,0.052788461538461534,34_scottish_scotland_independence_scottish independence
+2021-12-01,7,-0.10131666666666667,7_amazon_deforestation_rainforest_tree
+2021-12-01,36,0.042615384615384624,36_cow_urine_dung_cow urine
+2021-12-01,6,0.004284313725490199,6_zelensky_zelenskyy_ukraine_volodymyr
+2021-12-01,0,0.056075,0_china_coronavirus_say_covid
+2022-01-01,26,-0.0237,26_bird flu_bird_flu_case bird flu
+2022-01-01,37,0.9729,37_tax_corporate tax_corporate_minimum
+2022-01-01,30,0.9756,30_pipeline_nord stream_nord_stream
+2022-01-01,34,0.77115,34_scottish_scotland_independence_scottish independence
+2022-01-01,45,-0.23975,45_drone strike_drone_strike_kabul
+2022-01-01,13,-0.18260000000000004,13_queen_prince_elizabeth_queen elizabeth
+2022-01-01,19,-0.9946,19_earthquake_magnitude_magnitude earthquake_quake
+2022-01-01,9,-0.9923000000000001,9_huawei_meng_wanzhou_meng wanzhou
+2022-01-01,4,0.9748,4_pope_vatican_francis_pope francis
+2022-01-01,27,0.0772,27_lockdown_england_reopen_travel
+2022-01-01,6,0.02260000000000001,6_zelensky_zelenskyy_ukraine_volodymyr
+2022-01-01,11,-0.9713499999999999,11_live matter_matter_black live_black live matter
+2022-01-01,10,0.3196333333333333,10_johnson_boris johnson_boris_coronavirus
+2022-01-01,17,-0.9674,17_ice_melt_greenland_arctic
+2022-01-01,32,-0.22111999999999998,32_chemical_ukraine_biological_false flag
+2022-01-01,15,-0.9364,15_flood_rain_dam_china
+2022-01-01,39,0.8074,39_duterte_philippines_philippine_rodrigo duterte
+2022-01-01,0,-0.8207,0_china_coronavirus_say_covid
+2022-01-01,18,0.3226,18_astrazeneca_vaccine_astrazeneca vaccine_astrazeneca covid
+2022-01-01,5,-0.9898,5_navalny_alexei_alexei navalny_poison
+2022-02-01,20,0.3332716417910448,20_musk_elon_elon musk_tesla
+2022-02-01,44,-0.0539125,44_ventilators_ventilator_need_patients
+2022-02-01,39,-0.1273967741935484,39_duterte_philippines_philippine_rodrigo duterte
+2022-02-01,13,0.27373521126760564,13_queen_prince_elizabeth_queen elizabeth
+2022-02-01,18,0.06369054054054055,18_astrazeneca_vaccine_astrazeneca vaccine_astrazeneca covid
+2022-02-01,17,0.09002033898305085,17_ice_melt_greenland_arctic
+2022-02-01,23,-0.35914615384615384,23_brain_cancer_alzheimer_scientists
+2022-02-01,15,-0.03635789473684211,15_flood_rain_dam_china
+2022-02-01,5,-0.13970858034321373,5_navalny_alexei_alexei navalny_poison
+2022-02-01,19,-0.38728120300751884,19_earthquake_magnitude_magnitude earthquake_quake
+2022-02-01,4,0.14316521739130436,4_pope_vatican_francis_pope francis
+2022-02-01,22,0.2547,22_greta_thunberg_greta thunberg_climate
+2022-02-01,37,0.23035538461538463,37_tax_corporate tax_corporate_minimum
+2022-02-01,8,-0.3867193548387097,8_australia_bushfires_wildfires_bushfire
+2022-02-01,14,-0.24451764705882356,14_tiktok_ban_ban tiktok_trump
+2022-02-01,7,0.3365875,7_amazon_deforestation_rainforest_tree
+2022-02-01,21,-0.08451923076923078,21_residential school_residential_school_grave
+2022-02-01,38,0.11091111111111111,38_locust_locusts_swarm_locust swarm
+2022-02-01,34,0.13357586206896552,34_scottish_scotland_independence_scottish independence
+2022-02-01,6,-0.12439498044328552,6_zelensky_zelenskyy_ukraine_volodymyr
+2022-02-01,33,0.1006436170212766,33_suez_canal_suez canal_ship
+2022-02-01,10,0.014435732647814909,10_johnson_boris johnson_boris_coronavirus
+2022-02-01,32,-0.2838479262672811,32_chemical_ukraine_biological_false flag
+2022-02-01,2,0.0028305084745762665,2_space_earth_nasa_moon
+2022-02-01,31,0.15687272727272727,31_ufo_pentagon_ufos_ufo videos
+2022-02-01,41,0.04183333333333333,41_toilet_toilet paper_paper_hand
+2022-02-01,35,-0.11483333333333334,35_school_close_close school_coronavirus
+2022-02-01,9,0.09907688172043011,9_huawei_meng_wanzhou_meng wanzhou
+2022-02-01,45,-0.356843989769821,45_drone strike_drone_strike_kabul
+2022-02-01,30,-0.012774660633484161,30_pipeline_nord stream_nord_stream
+2022-02-01,11,-0.45535000000000003,11_live matter_matter_black live_black live matter
+2022-02-01,29,0.5514636363636364,29_record_hottest_warmest_temperature
+2022-02-01,24,-0.14551333333333333,24_assange_julian_julian assange_wikileaks
+2022-02-01,28,-0.14640714285714285,28_volcano_eruption_erupt_palma
+2022-02-01,0,-0.1471240663900415,0_china_coronavirus_say_covid
+2022-02-01,16,0.314438,16_cannabis_marijuana_drug_decriminalize
+2022-02-01,40,-0.048338124999999996,40_wheat_food_ukraine_war
+2022-02-01,25,-0.06622142857142858,25_omicron_variant_omicron variant_case omicron
+2022-02-01,27,-0.09257841409691629,27_lockdown_england_reopen_travel
+2022-02-01,3,0.14885283018867926,3_climate_climate change_change_emissions
+2022-02-01,1,-0.08791176470588236,1_mask_face mask_wear_face
+2022-02-01,12,0.06794000000000001,12_plastic_waste_single use_plastic waste
+2022-02-01,26,-0.024911594202898554,26_bird flu_bird_flu_case bird flu
+2022-02-01,42,0.1103625,42_pollution_air pollution_air_delhi
+2022-02-01,36,0.29515,36_cow_urine_dung_cow urine
+2022-03-01,14,-0.15077374999999998,14_tiktok_ban_ban tiktok_trump
+2022-03-01,9,0.09658720238095238,9_huawei_meng_wanzhou_meng wanzhou
+2022-03-01,12,0.3070333333333333,12_plastic_waste_single use_plastic waste
+2022-03-01,15,-0.32792647058823526,15_flood_rain_dam_china
+2022-03-01,10,-0.10855282608695652,10_johnson_boris johnson_boris_coronavirus
+2022-03-01,13,-0.17225666666666667,13_queen_prince_elizabeth_queen elizabeth
+2022-03-01,6,-0.14520019389238972,6_zelensky_zelenskyy_ukraine_volodymyr
+2022-03-01,11,-0.21009230769230772,11_live matter_matter_black live_black live matter
+2022-03-01,44,0.14263076923076923,44_ventilators_ventilator_need_patients
+2022-03-01,45,-0.48201739130434784,45_drone strike_drone_strike_kabul
+2022-03-01,8,-0.5760844660194174,8_australia_bushfires_wildfires_bushfire
+2022-03-01,39,0.17422592592592595,39_duterte_philippines_philippine_rodrigo duterte
+2022-03-01,7,0.18217560975609756,7_amazon_deforestation_rainforest_tree
+2022-03-01,42,0.12014705882352944,42_pollution_air pollution_air_delhi
+2022-03-01,25,0.09434999999999999,25_omicron_variant_omicron variant_case omicron
+2022-03-01,26,-0.15240399999999998,26_bird flu_bird_flu_case bird flu
+2022-03-01,3,0.22482,3_climate_climate change_change_emissions
+2022-03-01,34,0.24540786516853932,34_scottish_scotland_independence_scottish independence
+2022-03-01,27,0.06102121212121212,27_lockdown_england_reopen_travel
+2022-03-01,35,-0.16834651162790698,35_school_close_close school_coronavirus
+2022-03-01,16,-0.06079423076923077,16_cannabis_marijuana_drug_decriminalize
+2022-03-01,29,0.3762727272727273,29_record_hottest_warmest_temperature
+2022-03-01,30,0.10141171548117155,30_pipeline_nord stream_nord_stream
+2022-03-01,41,-0.11124210526315789,41_toilet_toilet paper_paper_hand
+2022-03-01,2,0.17806022727272727,2_space_earth_nasa_moon
+2022-03-01,31,-0.016522794117647052,31_ufo_pentagon_ufos_ufo videos
+2022-03-01,33,0.12576176470588235,33_suez_canal_suez canal_ship
+2022-03-01,28,-0.2867736842105263,28_volcano_eruption_erupt_palma
+2022-03-01,24,-0.08974060913705584,24_assange_julian_julian assange_wikileaks
+2022-03-01,40,-0.01778375,40_wheat_food_ukraine_war
+2022-03-01,19,-0.35944400000000004,19_earthquake_magnitude_magnitude earthquake_quake
+2022-03-01,5,-0.13287402298850573,5_navalny_alexei_alexei navalny_poison
+2022-03-01,17,0.21101851851851852,17_ice_melt_greenland_arctic
+2022-03-01,18,0.016953968253968252,18_astrazeneca_vaccine_astrazeneca vaccine_astrazeneca covid
+2022-03-01,38,0.18719285714285716,38_locust_locusts_swarm_locust swarm
+2022-03-01,43,0.42813999999999997,43_maxwell_ghislaine maxwell_ghislaine_sex
+2022-03-01,23,0.31533,23_brain_cancer_alzheimer_scientists
+2022-03-01,37,0.12358383838383838,37_tax_corporate tax_corporate_minimum
+2022-03-01,32,-0.4212717159763314,32_chemical_ukraine_biological_false flag
+2022-03-01,36,0.25562,36_cow_urine_dung_cow urine
+2022-03-01,21,-0.377785,21_residential school_residential_school_grave
+2022-03-01,4,-0.013917543859649127,4_pope_vatican_francis_pope francis
+2022-03-01,0,-0.11746495176848874,0_china_coronavirus_say_covid
+2022-03-01,22,-0.02807777777777777,22_greta_thunberg_greta thunberg_climate
+2022-03-01,1,0.07431388888888889,1_mask_face mask_wear_face
+2022-03-01,20,0.17824096385542168,20_musk_elon_elon musk_tesla
+2022-04-01,33,-0.9026,33_suez_canal_suez canal_ship
+2022-04-01,38,0.7402,38_locust_locusts_swarm_locust swarm
+2022-04-01,32,-0.9326,32_chemical_ukraine_biological_false flag
+2022-04-01,5,-0.9844,5_navalny_alexei_alexei navalny_poison
+2022-04-01,45,-0.56315,45_drone strike_drone_strike_kabul
+2022-04-01,31,-0.872,31_ufo_pentagon_ufos_ufo videos
+2022-04-01,28,-0.9682,28_volcano_eruption_erupt_palma
+2022-04-01,6,-0.14376666666666668,6_zelensky_zelenskyy_ukraine_volodymyr
+2022-04-01,42,-0.9426,42_pollution_air pollution_air_delhi
+2022-04-01,24,-0.9809,24_assange_julian_julian assange_wikileaks
+2022-04-01,39,0.03015000000000001,39_duterte_philippines_philippine_rodrigo duterte
+2022-04-01,13,0.9967,13_queen_prince_elizabeth_queen elizabeth
+2022-04-01,20,0.32315,20_musk_elon_elon musk_tesla
+2022-04-01,10,-0.895,10_johnson_boris johnson_boris_coronavirus
+2022-04-01,27,-0.0258,27_lockdown_england_reopen_travel
+2022-09-01,10,-0.9432,10_johnson_boris johnson_boris_coronavirus
+2022-09-01,5,0.9809,5_navalny_alexei_alexei navalny_poison
+2022-09-01,18,-0.8316,18_astrazeneca_vaccine_astrazeneca vaccine_astrazeneca covid

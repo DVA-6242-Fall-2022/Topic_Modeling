@@ -1,0 +1,963 @@
+Topic,Words,Frequency,Timestamp,Name
+-1,"say, trump, coronavirus, australia, china",2346,2019-12-31 00:19:13.393999872,-1_say_covid_ukraine_china
+0,"iran, trump, china, coronavirus, say",4079,2019-12-31 00:19:13.393999872,0_china_coronavirus_say_covid
+1,"mask, wear, face mask, face, coronavirus",33,2019-12-31 00:19:13.393999872,1_mask_face mask_wear_face
+2,"space, earth, nasa, spacex, star",48,2019-12-31 00:19:13.393999872,2_space_earth_nasa_moon
+3,"climate, climate change, change, carbon, emissions",54,2019-12-31 00:19:13.393999872,3_climate_climate change_change_emission...
+4,"pope, francis, pope francis, abuse, church",34,2019-12-31 00:19:13.393999872,4_pope_vatican_francis_pope francis
+5,"putin okay israeli, okay israeli woman, childhood diseases, missile childhood, okay israeli",2,2019-12-31 00:19:13.393999872,5_navalny_alexei_alexei navalny_poison
+6,"zelensky, president zelenskiy, yovanovitch, zelenskiy, president",4,2019-12-31 00:19:13.393999872,6_zelensky_zelenskyy_ukraine_volodymyr
+7,"amazon, rainforest, tree, brazil, amazon rainforest",17,2019-12-31 00:19:13.393999872,7_amazon_deforestation_rainforest_tree
+8,"bushfires, australia, bushfire, australian, fire",262,2019-12-31 00:19:13.393999872,8_australia_bushfires_wildfires_bushfire
+9,"huawei, network, meng, extradition, wanzhou",47,2019-12-31 00:19:13.393999872,9_huawei_meng_wanzhou_meng wanzhou
+11,"black, live matter, london, hour, matter",4,2019-12-31 00:19:13.393999872,11_live matter_matter_black live_black l...
+12,"plastic, single use, malaysia send, waste, use",22,2019-12-31 00:19:13.393999872,12_plastic_waste_single use_plastic wast...
+13,"prince, queen, harry, prince harry, royal",10,2019-12-31 00:19:13.393999872,13_queen_prince_elizabeth_queen elizabet...
+14,"tiktok, zero takedown request, zero takedown, tiktok claim zero, china transparency report",5,2019-12-31 00:19:13.393999872,14_tiktok_ban_ban tiktok_trump
+15,"flood, rain, landslides, jakarta, submerge entire",8,2019-12-31 00:19:13.393999872,15_flood_rain_dam_china
+16,"cannabis, marijuana, adolescents, school higher rate, higher rate non",13,2019-12-31 00:19:13.393999872,16_cannabis_marijuana_drug_decriminalize
+17,"ice, glacier, antarctica, melt, beneath",9,2019-12-31 00:19:13.393999872,17_ice_melt_greenland_arctic
+19,"earthquake, magnitude, magnitude earthquake, quake, puerto",48,2019-12-31 00:19:13.393999872,19_earthquake_magnitude_magnitude earthq...
+20,"musk, bezos, elon, jeff, jeff bezos",10,2019-12-31 00:19:13.393999872,20_musk_elon_elon musk_tesla
+21,"indigenous kid, aboriginal youth detain, report show canada, quebec city get, get muslim",2,2019-12-31 00:19:13.393999872,21_residential school_residential_school...
+22,"thunberg, greta, greta thunberg, davos, climate",61,2019-12-31 00:19:13.393999872,22_greta_thunberg_greta thunberg_climate
+23,"cancer, brain, cancer deaths, breast, prostate",18,2019-12-31 00:19:13.393999872,23_brain_cancer_alzheimer_scientists
+24,"assange, julian, julian assange, extradition, wikileaks",7,2019-12-31 00:19:13.393999872,24_assange_julian_julian assange_wikilea...
+26,"bird flu, bird, flu, hunan province, hunan",21,2019-12-31 00:19:13.393999872,26_bird flu_bird_flu_case bird flu
+27,"irish, lockdown, stay strong windows, constabulary, commemoration service members",3,2019-12-31 00:19:13.393999872,27_lockdown_england_reopen_travel
+28,"volcano, eruption, taal, taal volcano, erupt",12,2019-12-31 00:19:13.393999872,28_volcano_eruption_erupt_palma
+29,"record, hottest, warmest, year record, hottest year",15,2019-12-31 00:19:13.393999872,29_record_hottest_warmest_temperature
+30,"turkstream pipeline, turkstream, turkstream pipeline carry, russia launch turkstream, carry gas europe",1,2019-12-31 00:19:13.393999872,30_pipeline_nord stream_nord_stream
+31,"file cause grave, security release navy, cause grave damage, national security release, cause grave",1,2019-12-31 00:19:13.393999872,31_ufo_pentagon_ufos_ufo videos
+34,"independence, scotland, scottish, referendum, independence referendum",15,2019-12-31 00:19:13.393999872,34_scottish_scotland_independence_scotti...
+35,"school, school ban, close school, kong declare emergency, sydney confirm",5,2019-12-31 00:19:13.393999872,35_school_close_close school_coronavirus
+36,"cow, coronavirus treat cow, treat cow, coronavirus treat, urine",5,2019-12-31 00:19:13.393999872,36_cow_urine_dung_cow urine
+37,"tax, digital, corporate tax, tech, corporate",8,2019-12-31 00:19:13.393999872,37_tax_corporate tax_corporate_minimum
+38,"locust, swarm, locusts, east africa, africa",22,2019-12-31 00:19:13.393999872,38_locust_locusts_swarm_locust swarm
+39,"duterte, drug, philippine, charge corruption, drug war",3,2019-12-31 00:19:13.393999872,39_duterte_philippines_philippine_rodrig...
+41,"british blood, british blood hand, soleimani british, soleimani british blood, blood hand",1,2019-12-31 00:19:13.393999872,41_toilet_toilet paper_paper_hand
+42,"pollution, air, air pollution, air quality, level",5,2019-12-31 00:19:13.393999872,42_pollution_air pollution_air_delhi
+43,"doctor jail electrocution, fake doctor jail, electrocution experiment, jail electrocution, jail electrocution experiment",1,2019-12-31 00:19:13.393999872,43_maxwell_ghislaine maxwell_ghislaine_s...
+45,"target taliban, drone, target taliban splinter, splinter group commander, wound drone",2,2019-12-31 00:19:13.393999872,45_drone strike_drone_strike_kabul
+-1,"coronavirus, trump, say, new, china",2344,2020-02-02 21:23:48.200000000,-1_say_covid_ukraine_china
+0,"coronavirus, china, say, trump, case",3056,2020-02-02 21:23:48.200000000,0_china_coronavirus_say_covid
+1,"mask, face mask, face, wear, coronavirus",33,2020-02-02 21:23:48.200000000,1_mask_face mask_wear_face
+2,"space, earth, nasa, asteroid, moon",50,2020-02-02 21:23:48.200000000,2_space_earth_nasa_moon
+3,"climate, climate change, change, emissions, climate crisis",43,2020-02-02 21:23:48.200000000,3_climate_climate change_change_emission...
+4,"pope, francis, pope francis, vatican, abuse",56,2020-02-02 21:23:48.200000000,4_pope_vatican_francis_pope francis
+5,"navalny, alexei, alexei navalny, critic, russia",9,2020-02-02 21:23:48.200000000,5_navalny_alexei_alexei navalny_poison
+6,"zelensky, fsb secretive department, department assassination, president zelensky replace, assassination georgian",3,2020-02-02 21:23:48.200000000,6_zelensky_zelenskyy_ukraine_volodymyr
+7,"amazon, deforestation, forest, tree, rainforest",26,2020-02-02 21:23:48.200000000,7_amazon_deforestation_rainforest_tree
+8,"australia, bushfires, bushfire, fire, wildfires",25,2020-02-02 21:23:48.200000000,8_australia_bushfires_wildfires_bushfire
+9,"huawei, network, giant huawei, meng, huawei decision",24,2020-02-02 21:23:48.200000000,9_huawei_meng_wanzhou_meng wanzhou
+10,"boris johnson, boris, johnson, shake hand, shake",3,2020-02-02 21:23:48.200000000,10_johnson_boris johnson_boris_coronavir...
+11,"black, live matter, matter, black live, black live matter",3,2020-02-02 21:23:48.200000000,11_live matter_matter_black live_black l...
+12,"plastic, recycle, invent, waste, package",9,2020-02-02 21:23:48.200000000,12_plastic_waste_single use_plastic wast...
+13,"queen, wife autumn divorce, wife autumn, gloves spark, gloves spark coronavirus",2,2020-02-02 21:23:48.200000000,13_queen_prince_elizabeth_queen elizabet...
+14,"challenge cause, skull breaker challenge, child head injuries, tiktok skull breaker, tiktok skull",1,2020-02-02 21:23:48.200000000,14_tiktok_ban_ban tiktok_trump
+15,"flood, storm dennis, dennis, rain, storm",11,2020-02-02 21:23:48.200000000,15_flood_rain_dam_china
+16,"cannabis, marijuana, weed, legalise, legalization",9,2020-02-02 21:23:48.200000000,16_cannabis_marijuana_drug_decriminalize
+17,"ice, melt, antarctica, antarctic, snow",21,2020-02-02 21:23:48.200000000,17_ice_melt_greenland_arctic
+19,"earthquake, magnitude, magnitude earthquake, rock asia eastern, veto house aid",3,2020-02-02 21:23:48.200000000,19_earthquake_magnitude_magnitude earthq...
+20,"musk, elon, elon musk, bezos, jeff bezos",5,2020-02-02 21:23:48.200000000,20_musk_elon_elon musk_tesla
+21,"reaper death, discover canada, reaper, canada, rex discover canada",3,2020-02-02 21:23:48.200000000,21_residential school_residential_school...
+22,"greta, thunberg, greta thunberg, climate, activist",46,2020-02-02 21:23:48.200000000,22_greta_thunberg_greta thunberg_climate
+23,"brain, vision, play violin, vision problems, violin",9,2020-02-02 21:23:48.200000000,23_brain_cancer_alzheimer_scientists
+24,"assange, julian assange, julian, wikileaks, extradition",21,2020-02-02 21:23:48.200000000,24_assange_julian_julian assange_wikilea...
+26,"bird, bird flu, flu, chickens, report outbreak",9,2020-02-02 21:23:48.200000000,26_bird flu_bird_flu_case bird flu
+28,"massive ash cloud, massive ash, spew massive ash, spew massive, cloud air",1,2020-02-02 21:23:48.200000000,28_volcano_eruption_erupt_palma
+29,"record, hottest, warmest, january, record begin data",8,2020-02-02 21:23:48.200000000,29_record_hottest_warmest_temperature
+30,"pipeline, gas pipeline, gas, billion russia germany, thwart billion russia",2,2020-02-02 21:23:48.200000000,30_pipeline_nord stream_nord_stream
+31,"ufo, pentagon, ufo relate, relate phenomena, pentagon study",9,2020-02-02 21:23:48.200000000,31_ufo_pentagon_ufos_ufo videos
+34,"scottish, independence, scotland, wealth order, scots",10,2020-02-02 21:23:48.200000000,34_scottish_scotland_independence_scotti...
+35,"school, close, close school, coronavirus, school close",14,2020-02-02 21:23:48.200000000,35_school_close_close school_coronavirus
+36,"cow, urine, dung, cow urine, cow dung",6,2020-02-02 21:23:48.200000000,36_cow_urine_dung_cow urine
+37,"tax, islands tax haven, cayman islands tax, islands tax, haven blacklist",4,2020-02-02 21:23:48.200000000,37_tax_corporate tax_corporate_minimum
+38,"locust, locusts, swarm, duck, africa",26,2020-02-02 21:23:48.200000000,38_locust_locusts_swarm_locust swarm
+39,"duterte, duterte say, philippines, rodrigo duterte, rodrigo",2,2020-02-02 21:23:48.200000000,39_duterte_philippines_philippine_rodrig...
+41,"toilet, toilet paper, paper, toilet roll, panic",14,2020-02-02 21:23:48.200000000,41_toilet_toilet paper_paper_hand
+42,"pollution, air pollution, air, cities worst air, cities worst",10,2020-02-02 21:23:48.200000000,42_pollution_air pollution_air_delhi
+44,"scuba gear, drown liberal, scuba gear avoid, deliver state, union scuba",1,2020-02-02 21:23:48.200000000,44_ventilators_ventilator_need_patients
+45,"drone, missile afghanistan children, drop missile afghanistan, children say military, say military worse",3,2020-02-02 21:23:48.200000000,45_drone strike_drone_strike_kabul
+-1,"coronavirus, covid, test, say, trump",3686,2020-03-06 18:47:28.400000000,-1_say_covid_ukraine_china
+0,"coronavirus, china, say, case, covid",3815,2020-03-06 18:47:28.400000000,0_china_coronavirus_say_covid
+1,"mask, face mask, face, wear, wear mask",284,2020-03-06 18:47:28.400000000,1_mask_face mask_wear_face
+2,"earth, space, asteroid, nasa, moon",27,2020-03-06 18:47:28.400000000,2_space_earth_nasa_moon
+3,"climate, climate change, change, optimism, heat",13,2020-03-06 18:47:28.400000000,3_climate_climate change_change_emission...
+4,"pope, francis, pope francis, prayer, catholic",26,2020-03-06 18:47:28.400000000,4_pope_vatican_francis_pope francis
+5,"navalny, alexei, alexei navalny, critic, kremlin critic",3,2020-03-06 18:47:28.400000000,5_navalny_alexei_alexei navalny_poison
+7,"amazon, forest, tree, deforestation, hectares tree",12,2020-03-06 18:47:28.400000000,7_amazon_deforestation_rainforest_tree
+8,"dismay nsw, unburnt habitat bushfires, dismay nsw forestry, unburnt habitat, forestry log unburnt",2,2020-03-06 18:47:28.400000000,8_australia_bushfires_wildfires_bushfire
+9,"huawei, huawei warn, china huawei, strike new restrictions, china strike new",10,2020-03-06 18:47:28.400000000,9_huawei_meng_wanzhou_meng wanzhou
+10,"johnson, boris, boris johnson, coronavirus boris johnson, coronavirus boris",89,2020-03-06 18:47:28.400000000,10_johnson_boris johnson_boris_coronavir...
+12,"plastic, recycle, toxic plastic, scientists bug, toxic",14,2020-03-06 18:47:28.400000000,12_plastic_waste_single use_plastic wast...
+13,"queen, prince, queen elizabeth, elizabeth, prince charles",47,2020-03-06 18:47:28.400000000,13_queen_prince_elizabeth_queen elizabet...
+14,"tiktok, china tiktok, china tiktok say, tiktok try, ban federal employees",4,2020-03-06 18:47:28.400000000,14_tiktok_ban_ban tiktok_trump
+15,"harold, cyclone harold, vanuatu, cyclone, flood",2,2020-03-06 18:47:28.400000000,15_flood_rain_dam_china
+16,"cannabis, road canada, province consider, decriminalize drink drive, consider decriminalize drink",12,2020-03-06 18:47:28.400000000,16_cannabis_marijuana_drug_decriminalize
+17,"ice, melt, antarctica, greenland, sea level",15,2020-03-06 18:47:28.400000000,17_ice_melt_greenland_arctic
+19,"earthquake, magnitude, magnitude earthquake, earthquake strike, idaho",15,2020-03-06 18:47:28.400000000,19_earthquake_magnitude_magnitude earthq...
+20,"musk, elon, elon musk, tesla, bezos",7,2020-03-06 18:47:28.400000000,20_musk_elon_elon musk_tesla
+22,"greta, thunberg, greta thunberg, climate, crises greta",12,2020-03-06 18:47:28.400000000,22_greta_thunberg_greta thunberg_climate
+23,"brain, cancer, gene, disease, alzheimer",7,2020-03-06 18:47:28.400000000,23_brain_cancer_alzheimer_scientists
+24,"assange, julian assange, julian, wikileaks, bail",5,2020-03-06 18:47:28.400000000,24_assange_julian_julian assange_wikilea...
+26,"bird flu, bird, flu, flu outbreak, bird flu outbreak",12,2020-03-06 18:47:28.400000000,26_bird flu_bird_flu_case bird flu
+27,"lockdown, travel, ireland, patrick day, patrick",42,2020-03-06 18:47:28.400000000,27_lockdown_england_reopen_travel
+28,"volcano, erupt, ash, mount merapi erupt, mount merapi",5,2020-03-06 18:47:28.400000000,28_volcano_eruption_erupt_palma
+29,"warmest, years warmest, years warmest record, record, warmest record",2,2020-03-06 18:47:28.400000000,29_record_hottest_warmest_temperature
+31,"pentagon, bomb service, military intelligence agencies, fail collect, fuel bomb service",3,2020-03-06 18:47:28.400000000,31_ufo_pentagon_ufos_ufo videos
+35,"school, close, close school, coronavirus, shut school",36,2020-03-06 18:47:28.400000000,35_school_close_close school_coronavirus
+36,"cow, urine, cow urine, dung, drink",17,2020-03-06 18:47:28.400000000,36_cow_urine_dung_cow urine
+38,"locust, swarm, locusts, locust swarm, africa",18,2020-03-06 18:47:28.400000000,38_locust_locusts_swarm_locust swarm
+39,"duterte, quarantine violators, philippine, violators, philippine president",10,2020-03-06 18:47:28.400000000,39_duterte_philippines_philippine_rodrig...
+40,"trip buy bread, fin mile, man fin mile, mile round trip, mile round",1,2020-03-06 18:47:28.400000000,40_wheat_food_ukraine_war
+41,"toilet, toilet paper, paper, sanitizer, hand sanitizer",50,2020-03-06 18:47:28.400000000,41_toilet_toilet paper_paper_hand
+42,"pollution, air pollution, air, higher covid death, pollution link far",5,2020-03-06 18:47:28.400000000,42_pollution_air pollution_air_delhi
+44,"ventilators, ventilator, need, open source, ventilators trump",63,2020-03-06 18:47:28.400000000,44_ventilators_ventilator_need_patients
+45,"somalia april, woman child, woman child kill, drone strike somalia, admit woman child",1,2020-03-06 18:47:28.400000000,45_drone strike_drone_strike_kabul
+-1,"coronavirus, covid, say, china, trump",3144,2020-04-08 16:11:08.600000000,-1_say_covid_ukraine_china
+0,"coronavirus, china, say, covid, kim",3336,2020-04-08 16:11:08.600000000,0_china_coronavirus_say_covid
+1,"mask, face mask, face, wear, wear mask",133,2020-04-08 16:11:08.600000000,1_mask_face mask_wear_face
+2,"earth, space, moon, asteroid, nasa",53,2020-04-08 16:11:08.600000000,2_space_earth_nasa_moon
+3,"climate, climate change, heat, change, emissions",23,2020-04-08 16:11:08.600000000,3_climate_climate change_change_emission...
+4,"pope, francis, pope francis, pope say coronavirus, vatican",21,2020-04-08 16:11:08.600000000,4_pope_vatican_francis_pope francis
+7,"deforestation, amazon, rainforest, tree, amazon rainforest",18,2020-04-08 16:11:08.600000000,7_amazon_deforestation_rainforest_tree
+8,"wildfires, forest, bushfires, bushfire, burn",7,2020-04-08 16:11:08.600000000,8_australia_bushfires_wildfires_bushfire
+9,"huawei, phone huawei, huawei plan, staff talk, china arrest huawei",13,2020-04-08 16:11:08.600000000,9_huawei_meng_wanzhou_meng wanzhou
+10,"johnson, boris johnson, boris, minister boris johnson, minister boris",45,2020-04-08 16:11:08.600000000,10_johnson_boris johnson_boris_coronavir...
+11,"segment talk, msnbc spend, racist confederate, protestors racist confederate, protestors racist",1,2020-04-08 16:11:08.600000000,11_live matter_matter_black live_black l...
+12,"plastic, waste, plastic waste, vizag, plastic bag",13,2020-04-08 16:11:08.600000000,12_plastic_waste_single use_plastic wast...
+13,"prince, queen, elizabeth, prince harry, queen elizabeth",7,2020-04-08 16:11:08.600000000,13_queen_prince_elizabeth_queen elizabet...
+14,"tiktok, market draconian earn, billion claim hot, film troll world, boycott tiktok",6,2020-04-08 16:11:08.600000000,14_tiktok_ban_ban tiktok_trump
+15,"mekong, drought, flood, mekong flow, china limit mekong",15,2020-04-08 16:11:08.600000000,15_flood_rain_dam_china
+16,"cannabis, marijuana, lebanon arab, lebanon arab country, arab country",17,2020-04-08 16:11:08.600000000,16_cannabis_marijuana_drug_decriminalize
+17,"ice, melt, greenland, ice free, ice sheet",11,2020-04-08 16:11:08.600000000,17_ice_melt_greenland_arctic
+18,"septeber, vaxx giant, prototype septeber know, prototype septeber, oxford prototype",1,2020-04-08 16:11:08.600000000,18_astrazeneca_vaccine_astrazeneca vacci...
+19,"earthquake, magnitude, magnitude earthquake, earthquake hit, magnitude earthquake hit",9,2020-04-08 16:11:08.600000000,19_earthquake_magnitude_magnitude earthq...
+20,"musk, elon, elon musk, tesla, bezos",30,2020-04-08 16:11:08.600000000,20_musk_elon_elon musk_tesla
+21,"discovery lend, ancestral story, canada dna, canada dna discovery, lend weight nations",1,2020-04-08 16:11:08.600000000,21_residential school_residential_school...
+22,"greta, thunberg, greta thunberg, climate, thunberg help",9,2020-04-08 16:11:08.600000000,22_greta_thunberg_greta thunberg_climate
+23,"parkinson discovery implicate, second brain, implicate second, implicate second brain, discovery implicate",1,2020-04-08 16:11:08.600000000,23_brain_cancer_alzheimer_scientists
+24,"assange, julian assange, julian, father children, assange father",14,2020-04-08 16:11:08.600000000,24_assange_julian_julian assange_wikilea...
+26,"bird, bird flu, flu, case bird flu, case bird",5,2020-04-08 16:11:08.600000000,26_bird flu_bird_flu_case bird flu
+27,"lockdown, reopen, neil ferguson, ferguson, neil",35,2020-04-08 16:11:08.600000000,27_lockdown_england_reopen_travel
+28,"volcano, erupt, eruption, white island, sue royal caribbean",13,2020-04-08 16:11:08.600000000,28_volcano_eruption_erupt_palma
+29,"warmest, record, year record, record march, hottest",9,2020-04-08 16:11:08.600000000,29_record_hottest_warmest_temperature
+31,"ufo, ufo videos, pentagon, videos, release ufo",20,2020-04-08 16:11:08.600000000,31_ufo_pentagon_ufos_ufo videos
+34,"golf, bail luxury, scottish, golf resort, scotland",4,2020-04-08 16:11:08.600000000,34_scottish_scotland_independence_scotti...
+35,"school, reopen, school reopen, close, close school",11,2020-04-08 16:11:08.600000000,35_school_close_close school_coronavirus
+36,"iranian islamic, iranian islamic medicine, medicine specialist, camel urine cure, claim camel urine",1,2020-04-08 16:11:08.600000000,36_cow_urine_dung_cow urine
+38,"locust, locusts, east africa, swarm, africa",14,2020-04-08 16:11:08.600000000,38_locust_locusts_swarm_locust swarm
+39,"duterte, abs, cbn, abs cbn, philippines",9,2020-04-08 16:11:08.600000000,39_duterte_philippines_philippine_rodrig...
+40,"romania, export, non countries, export outside, foods non",2,2020-04-08 16:11:08.600000000,40_wheat_food_ukraine_war
+41,"toilet, toilet paper, paper, hand sanitizer, sanitizer",13,2020-04-08 16:11:08.600000000,41_toilet_toilet paper_paper_hand
+42,"pollution, air, air pollution, himalayas, time decades",8,2020-04-08 16:11:08.600000000,42_pollution_air pollution_air_delhi
+44,"ventilators, ventilator, chinese ventilators, patients, sell ventilators",20,2020-04-08 16:11:08.600000000,44_ventilators_ventilator_need_patients
+-1,"trump, coronavirus, covid, say, china",2467,2020-05-11 13:34:48.800000000,-1_say_covid_ukraine_china
+0,"china, hong, hong kong, kong, coronavirus",2613,2020-05-11 13:34:48.800000000,0_china_coronavirus_say_covid
+1,"mask, wear, face mask, wear mask, face",56,2020-05-11 13:34:48.800000000,1_mask_face mask_wear_face
+2,"space, nasa, spacex, earth, universe",69,2020-05-11 13:34:48.800000000,2_space_earth_nasa_moon
+3,"climate, emissions, trump delay global, global emissions cut, emissions cut years",10,2020-05-11 13:34:48.800000000,3_climate_climate change_change_emission...
+4,"pope, church, vatican, catholic, abuse",24,2020-05-11 13:34:48.800000000,4_pope_vatican_francis_pope francis
+5,"navalny, media identify, lawsuit opposition, plot poison, navalny damage",2,2020-05-11 13:34:48.800000000,5_navalny_alexei_alexei navalny_poison
+7,"amazon, deforestation, rainforest, amazon rainforest, tree",21,2020-05-11 13:34:48.800000000,7_amazon_deforestation_rainforest_tree
+8,"rage country continue, continue bake, country continue bake, months burn treatment, arson suspect arrest",2,2020-05-11 13:34:48.800000000,8_australia_bushfires_wildfires_bushfire
+9,"huawei, meng, wanzhou, meng wanzhou, extradition",38,2020-05-11 13:34:48.800000000,9_huawei_meng_wanzhou_meng wanzhou
+10,"johnson, boris johnson, boris, cummings, dominic cummings",26,2020-05-11 13:34:48.800000000,10_johnson_boris johnson_boris_coronavir...
+11,"live matter, black live, black live matter, matter, black",101,2020-05-11 13:34:48.800000000,11_live matter_matter_black live_black l...
+12,"plastic, microplastics, plastics, waste, bottle",11,2020-05-11 13:34:48.800000000,12_plastic_waste_single use_plastic wast...
+13,"prince, prince test positive, volunteer mental, prince test, positive coronavirus attend",5,2020-05-11 13:34:48.800000000,13_queen_prince_elizabeth_queen elizabet...
+14,"tiktok, play store, violate child privacy, child privacy laws, child privacy",11,2020-05-11 13:34:48.800000000,14_tiktok_ban_ban tiktok_trump
+15,"flood, southern central china, deadly flood mudslides, mudslides southern, mudslides southern central",2,2020-05-11 13:34:48.800000000,15_flood_rain_dam_china
+16,"cannabis, ancient israelites, israelites, drug, ecstasy",10,2020-05-11 13:34:48.800000000,16_cannabis_marijuana_drug_decriminalize
+17,"ice, melt, antarctica, ice melt, greenland",7,2020-05-11 13:34:48.800000000,17_ice_melt_greenland_arctic
+18,"astrazeneca, vaccine, virus vaccine september, roll virus, vaccine astrazeneca receive",3,2020-05-11 13:34:48.800000000,18_astrazeneca_vaccine_astrazeneca vacci...
+19,"earthquake, magnitude, magnitude earthquake, earthquake strike, earthquake hit",8,2020-05-11 13:34:48.800000000,19_earthquake_magnitude_magnitude earthq...
+20,"musk, elon, elon musk, tesla, bezos",20,2020-05-11 13:34:48.800000000,20_musk_elon_elon musk_tesla
+21,"outdoor, explore outdoor space, outdoor space optimise, outdoor learn, local authorities explore",1,2020-05-11 13:34:48.800000000,21_residential school_residential_school...
+22,"greta, thunberg, greta thunberg, climate, climate change ahead",4,2020-05-11 13:34:48.800000000,22_greta_thunberg_greta thunberg_climate
+23,"bionic eye, bionic, sight, eye, identify brain region",4,2020-05-11 13:34:48.800000000,23_brain_cancer_alzheimer_scientists
+24,"assange, julian, julian assange, britain supreme court, argue original detention",3,2020-05-11 13:34:48.800000000,24_assange_julian_julian assange_wikilea...
+26,"bird, bird flu, flu, disease, psittacosis",1,2020-05-11 13:34:48.800000000,26_bird flu_bird_flu_case bird flu
+27,"lockdown, earlier, lockdown weeks, england, advise",11,2020-05-11 13:34:48.800000000,27_lockdown_england_reopen_travel
+28,"cluster near, record cluster, near yellowstone, near yellowstone park, yellowstone park hours",1,2020-05-11 13:34:48.800000000,28_volcano_eruption_erupt_palma
+29,"record, warmest, sunniest, hottest, years",6,2020-05-11 13:34:48.800000000,29_record_hottest_warmest_temperature
+30,"crusade putin, german team kneel, wolfsburg beat werder, kneel game, kneel game wolfsburg",2,2020-05-11 13:34:48.800000000,30_pipeline_nord stream_nord_stream
+32,"enthusiast dump, kind british history, jail have chemical, lake jail have, lake jail",2,2020-05-11 13:34:48.800000000,32_chemical_ukraine_biological_false fla...
+33,"mccann, madeleine, madeleine mccann, suez, canal",16,2020-05-11 13:34:48.800000000,33_suez_canal_suez canal_ship
+34,"scottish bailout, line tax, line tax rebate, resort line, trump golf resort",3,2020-05-11 13:34:48.800000000,34_scottish_scotland_independence_scotti...
+35,"school, case covid french, covid french school, french school days, french school",10,2020-05-11 13:34:48.800000000,35_school_close_close school_coronavirus
+37,"tax, impose digital, goods outside, outside unite state, outside unite",2,2020-05-11 13:34:48.800000000,37_tax_corporate tax_corporate_minimum
+38,"locust, locusts, swarm, locust invasion, worst locust",17,2020-05-11 13:34:48.800000000,38_locust_locusts_swarm_locust swarm
+39,"duterte, philippines, newsroom, rodrigo duterte, rodrigo",5,2020-05-11 13:34:48.800000000,39_duterte_philippines_philippine_rodrig...
+41,"down bottle sanitiser, man break cancer, bottle sanitiser, break cancer, down bottle",1,2020-05-11 13:34:48.800000000,41_toilet_toilet paper_paper_hand
+42,"pollution, air, air pollution, india chemical gas, enforcement gap",2,2020-05-11 13:34:48.800000000,42_pollution_air pollution_air_delhi
+43,"affair ghislaine, affair ghislaine maxwell, book claim clinton, claim clinton affair, claim clinton",1,2020-05-11 13:34:48.800000000,43_maxwell_ghislaine maxwell_ghislaine_s...
+44,"ventilators, ventilator, ventilators india week, india week white, donate ventilators india",4,2020-05-11 13:34:48.800000000,44_ventilators_ventilator_need_patients
+-1,"china, trump, say, coronavirus, covid",2748,2020-06-13 10:58:29.000000000,-1_say_covid_ukraine_china
+0,"china, hong, coronavirus, kong, hong kong",2703,2020-06-13 10:58:29.000000000,0_china_coronavirus_say_covid
+1,"mask, wear, wear mask, face mask, face",69,2020-06-13 10:58:29.000000000,1_mask_face mask_wear_face
+2,"space, earth, moon, space station, asteroid",48,2020-06-13 10:58:29.000000000,2_space_earth_nasa_moon
+3,"climate, climate change, emissions, change, scenarios",32,2020-06-13 10:58:29.000000000,3_climate_climate change_change_emission...
+4,"pope, catholic, vatican, church, francis",19,2020-06-13 10:58:29.000000000,4_pope_vatican_francis_pope francis
+5,"navalny, poison, paul whelan, whelan, paul",9,2020-06-13 10:58:29.000000000,5_navalny_alexei_alexei navalny_poison
+7,"amazon, deforestation, brazil, rainforest, tree",26,2020-06-13 10:58:29.000000000,7_amazon_deforestation_rainforest_tree
+8,"wildfires, bushfire, areas extend nearly, areas extend, wildfire coverage",4,2020-06-13 10:58:29.000000000,8_australia_bushfires_wildfires_bushfire
+9,"huawei, network, ban huawei, ban, meng",72,2020-06-13 10:58:29.000000000,9_huawei_meng_wanzhou_meng wanzhou
+10,"johnson, boris johnson, boris, coronavirus boris johnson, coronavirus boris",17,2020-06-13 10:58:29.000000000,10_johnson_boris johnson_boris_coronavir...
+11,"live matter, matter, black live, black live matter, live",65,2020-06-13 10:58:29.000000000,11_live matter_matter_black live_black l...
+12,"plastic, microplastics, single use, ban single use, ban single",14,2020-06-13 10:58:29.000000000,12_plastic_waste_single use_plastic wast...
+13,"queen, prince, institutional racism, prince harry, institutional",8,2020-06-13 10:58:29.000000000,13_queen_prince_elizabeth_queen elizabet...
+14,"tiktok, ban, app, ban tiktok, apps",57,2020-06-13 10:58:29.000000000,14_tiktok_ban_ban tiktok_trump
+15,"flood, dam, rain, bangladesh underwater, gorge dam",18,2020-06-13 10:58:29.000000000,15_flood_rain_dam_china
+16,"cannabis, illicit, decriminalize, chiefs, illicit drug",9,2020-06-13 10:58:29.000000000,16_cannabis_marijuana_drug_decriminalize
+17,"ice, melt, glacier, rapid melt antarctica, rapid melt",10,2020-06-13 10:58:29.000000000,17_ice_melt_greenland_arctic
+18,"astrazeneca, oxford potential coronavirus, astrazeneca announce thursday, announce thursday july, vaccine license astrazeneca",2,2020-06-13 10:58:29.000000000,18_astrazeneca_vaccine_astrazeneca vacci...
+19,"earthquake, magnitude, magnitude earthquake, earthquake magnitude, mexico",13,2020-06-13 10:58:29.000000000,19_earthquake_magnitude_magnitude earthq...
+20,"musk, elon, elon musk, tesla, bezos",7,2020-06-13 10:58:29.000000000,20_musk_elon_elon musk_tesla
+21,"call speechwriter, school bogus genocide, bogus genocide, speechwriter say residential, resist call speechwriter",1,2020-06-13 10:58:29.000000000,21_residential school_residential_school...
+22,"greta, thunberg, greta thunberg, climate, chicks",6,2020-06-13 10:58:29.000000000,22_greta_thunberg_greta thunberg_climate
+23,"amoeba, brain, florida rare, brain eat amoeba, eat amoeba",6,2020-06-13 10:58:29.000000000,23_brain_cancer_alzheimer_scientists
+24,"assange, julian assange, julian, wikileaks, indictment",5,2020-06-13 10:58:29.000000000,24_assange_julian_julian assange_wikilea...
+26,"count chickens, count chickens early, chickens early, chickens, count",1,2020-06-13 10:58:29.000000000,26_bird flu_bird_flu_case bird flu
+27,"reopen england, lockdown, hairdressers, new normal, pubs",6,2020-06-13 10:58:29.000000000,27_lockdown_england_reopen_travel
+28,"volcano, eruption, recharge, recharge eruption, iceland",10,2020-06-13 10:58:29.000000000,28_volcano_eruption_erupt_palma
+29,"record, hottest, warmest, heat, temperature",8,2020-06-13 10:58:29.000000000,29_record_hottest_warmest_temperature
+30,"russian vessel able, vessel able, able complete nord, able complete, pipeline depart german",1,2020-06-13 10:58:29.000000000,30_pipeline_nord stream_nord_stream
+31,"pull world exclusive, channl, series scientology day, channl seven, channl seven pull",1,2020-06-13 10:58:29.000000000,31_ufo_pentagon_ufos_ufo videos
+33,"mccann, madeleine mccann, madeleine, suez, canal",3,2020-06-13 10:58:29.000000000,33_suez_canal_suez canal_ship
+34,"scotland, scottish, glasgow scotland today, outrage nazi, scotland england",3,2020-06-13 10:58:29.000000000,34_scottish_scotland_independence_scotti...
+35,"school, transmit covid school, children transmit covid, children transmit, reopen fall",6,2020-06-13 10:58:29.000000000,35_school_close_close school_coronavirus
+37,"tax, digital tax, digital, global, french goods",8,2020-06-13 10:58:29.000000000,37_tax_corporate tax_corporate_minimum
+38,"locust, swarm, locusts, locust swarm, east africa",11,2020-06-13 10:58:29.000000000,38_locust_locusts_swarm_locust swarm
+39,"duterte, duterte sign, philippines, law duterte sign, abs",7,2020-06-13 10:58:29.000000000,39_duterte_philippines_philippine_rodrig...
+40,"sanction grip, syria fresh sanction, bread shortages, severe bread shortages, loom syria",1,2020-06-13 10:58:29.000000000,40_wheat_food_ukraine_war
+41,"toilet, toilet paper, paper, panic buy, panic",4,2020-06-13 10:58:29.000000000,41_toilet_toilet paper_paper_hand
+42,"cause deaths china, deaths china half, china half year, pollution cause deaths, air pollution cause",1,2020-06-13 10:58:29.000000000,42_pollution_air pollution_air_delhi
+43,"maxwell, ghislaine maxwell, ghislaine, maxwell arrest, ghislaine maxwell arrest",33,2020-06-13 10:58:29.000000000,43_maxwell_ghislaine maxwell_ghislaine_s...
+44,"ventilators, ventilator plug cooler, unplug ventilator plug, unplug ventilator, family members unplug",5,2020-06-13 10:58:29.000000000,44_ventilators_ventilator_need_patients
+-1,"china, say, covid, coronavirus, trump",2318,2020-07-16 08:22:09.200000000,-1_say_covid_ukraine_china
+0,"china, say, coronavirus, covid, beirut",2602,2020-07-16 08:22:09.200000000,0_china_coronavirus_say_covid
+1,"mask, wear, face mask, wear mask, face",103,2020-07-16 08:22:09.200000000,1_mask_face mask_wear_face
+2,"earth, asteroid, nasa, space, moon",35,2020-07-16 08:22:09.200000000,2_space_earth_nasa_moon
+3,"climate, climate change, emissions, change, heat",17,2020-07-16 08:22:09.200000000,3_climate_climate change_change_emission...
+4,"pope, vatican, bishops, bishops report, abuse",13,2020-07-16 08:22:09.200000000,4_pope_vatican_francis_pope francis
+5,"navalny, kremlin critic, critic, kremlin critic navalny, critic navalny",6,2020-07-16 08:22:09.200000000,5_navalny_alexei_alexei navalny_poison
+7,"amazon, deforestation, tree, rainforest, brazil",30,2020-07-16 08:22:09.200000000,7_amazon_deforestation_rainforest_tree
+8,"fire, fire rage, rage, wildfires, australia",7,2020-07-16 08:22:09.200000000,8_australia_bushfires_wildfires_bushfire
+9,"huawei, ban, huawei ban, extradition, meng",27,2020-07-16 08:22:09.200000000,9_huawei_meng_wanzhou_meng wanzhou
+10,"boris johnson, boris, johnson, boris johnson admit, johnson admit",8,2020-07-16 08:22:09.200000000,10_johnson_boris johnson_boris_coronavir...
+11,"black live, live matter, black live matter, matter, black",18,2020-07-16 08:22:09.200000000,11_live matter_matter_black live_black l...
+12,"plastic, bag, plastic bag, single use, plastics",14,2020-07-16 08:22:09.200000000,12_plastic_waste_single use_plastic wast...
+13,"queen, queen elizabeth, elizabeth, plan hold referendum, jamaica opposition plan",4,2020-07-16 08:22:09.200000000,13_queen_prince_elizabeth_queen elizabet...
+14,"tiktok, ban tiktok, ban, trump, trump say",120,2020-07-16 08:22:09.200000000,14_tiktok_ban_ban tiktok_trump
+15,"flood, dam, gorge dam, gorge, river",29,2020-07-16 08:22:09.200000000,15_flood_rain_dam_china
+16,"cannabis, marijuana, drug, possession, decriminalize",11,2020-07-16 08:22:09.200000000,16_cannabis_marijuana_drug_decriminalize
+17,"ice, melt, arctic, greenland, greenland ice",27,2020-07-16 08:22:09.200000000,17_ice_melt_greenland_arctic
+18,"astrazeneca exempt, astrazeneca exempt coronavirus, claim countries, coronavirus vaccine liability, exempt coronavirus vaccine",1,2020-07-16 08:22:09.200000000,18_astrazeneca_vaccine_astrazeneca vacci...
+19,"earthquake, magnitude, magnitude earthquake, tsunami, powerful earthquake",8,2020-07-16 08:22:09.200000000,19_earthquake_magnitude_magnitude earthq...
+20,"bezos, jeff, jeff bezos, musk, elon",8,2020-07-16 08:22:09.200000000,20_musk_elon_elon musk_tesla
+21,"shameful school, nearly people sign, ontario shameful school, ontario shameful, sign petition slam",1,2020-07-16 08:22:09.200000000,21_residential school_residential_school...
+22,"greta, thunberg, greta thunberg, climate, million euro",11,2020-07-16 08:22:09.200000000,22_greta_thunberg_greta thunberg_climate
+23,"brain, blood test, cancer, neuralink, blood",11,2020-07-16 08:22:09.200000000,23_brain_cancer_alzheimer_scientists
+24,"assange, julian assange, julian, assange extradition, julian assange extradition",4,2020-07-16 08:22:09.200000000,24_assange_julian_julian assange_wikilea...
+26,"flu, bird flu, bird, farm, chickens avian",2,2020-07-16 08:22:09.200000000,26_bird flu_bird_flu_case bird flu
+27,"lockdown, tighten part northern, tighten part, part northern england, lockdown tighten part",11,2020-07-16 08:22:09.200000000,27_lockdown_england_reopen_travel
+28,"volcano, eruption, sinabung, volcano erupt, erupt",5,2020-07-16 08:22:09.200000000,28_volcano_eruption_erupt_palma
+29,"record, summer hot, summer hot humans, hot humans, hottest",7,2020-07-16 08:22:09.200000000,29_record_hottest_warmest_temperature
+30,"pipeline, nord stream, nord, stream, senators threaten",9,2020-07-16 08:22:09.200000000,30_pipeline_nord stream_nord_stream
+31,"pentagon, unit find public, pentagon unit, pentagon world, unit find",5,2020-07-16 08:22:09.200000000,31_ufo_pentagon_ufos_ufo videos
+33,"hide cellar, cellar, madeleine, madeleine mccann, mccann",2,2020-07-16 08:22:09.200000000,33_suez_canal_suez canal_ship
+34,"scotland, scottish, independence, sturgeon, independence referendum",6,2020-07-16 08:22:09.200000000,34_scottish_scotland_independence_scotti...
+35,"school, close, school reopen, school close, close school",9,2020-07-16 08:22:09.200000000,35_school_close_close school_coronavirus
+36,"cow, urine, cow urine, drink cow, drink cow urine",5,2020-07-16 08:22:09.200000000,36_cow_urine_dung_cow urine
+37,"tax, tariff french, woo europe pensioners, response tech, response tech tax",2,2020-07-16 08:22:09.200000000,37_tax_corporate tax_corporate_minimum
+38,"swarm, swarm fly ants, fly ants, swarm fly, ants",5,2020-07-16 08:22:09.200000000,38_locust_locusts_swarm_locust swarm
+39,"duterte, philippines, rodrigo duterte, rodrigo, president duterte",7,2020-07-16 08:22:09.200000000,39_duterte_philippines_philippine_rodrig...
+40,"ham texas georgia, ham texas, produce iberian, produce iberian ham, iberian ham",1,2020-07-16 08:22:09.200000000,40_wheat_food_ukraine_war
+41,"sanitiser, sanitiser die, die partially blind, die partially, warn drink hand",7,2020-07-16 08:22:09.200000000,41_toilet_toilet paper_paper_hand
+42,"air pollution, pollution, air, average, sicker live shorter",3,2020-07-16 08:22:09.200000000,42_pollution_air pollution_air_delhi
+43,"maxwell, ghislaine maxwell, ghislaine, sex, document",21,2020-07-16 08:22:09.200000000,43_maxwell_ghislaine maxwell_ghislaine_s...
+44,"team design low, cost ventilator, robotics team design, low cost ventilator, ventilator treat coronavirus",1,2020-07-16 08:22:09.200000000,44_ventilators_ventilator_need_patients
+-1,"china, trump, covid, say, coronavirus",1984,2020-08-18 05:45:49.400000000,-1_say_covid_ukraine_china
+0,"china, say, israel, trump, coronavirus",2120,2020-08-18 05:45:49.400000000,0_china_coronavirus_say_covid
+1,"mask, face mask, wear, wear mask, face",70,2020-08-18 05:45:49.400000000,1_mask_face mask_wear_face
+2,"venus, asteroid, earth, life, sign alien",42,2020-08-18 05:45:49.400000000,2_space_earth_nasa_moon
+3,"climate, climate change, change, world, single target",20,2020-08-18 05:45:49.400000000,3_climate_climate change_change_emission...
+4,"pope, francis, pope francis, gossip, sexual abuse",20,2020-08-18 05:45:49.400000000,4_pope_vatican_francis_pope francis
+5,"navalny, poison, alexei navalny, alexei, critic",128,2020-08-18 05:45:49.400000000,5_navalny_alexei_alexei navalny_poison
+6,"ukraine leader zelensky, leader zelensky say, repeat belarus presidential, election ukraine leader, presidential election ukraine",1,2020-08-18 05:45:49.400000000,6_zelensky_zelenskyy_ukraine_volodymyr
+7,"amazon, brazil, deforestation, arrow, kill arrow",38,2020-08-18 05:45:49.400000000,7_amazon_deforestation_rainforest_tree
+8,"wildfires, california, australia, california wildfires, smoke",23,2020-08-18 05:45:49.400000000,8_australia_bushfires_wildfires_bushfire
+9,"huawei, meng, equipment telecom network, will detain, huawei chinese equipment",6,2020-08-18 05:45:49.400000000,9_huawei_meng_wanzhou_meng wanzhou
+10,"johnson, boris johnson, boris, health, resign months linger",6,2020-08-18 05:45:49.400000000,10_johnson_boris johnson_boris_coronavir...
+11,"black, live matter, black live, matter, black live matter",14,2020-08-18 05:45:49.400000000,11_live matter_matter_black live_black l...
+12,"plastic, waste, recycle, plastic pollution, plastic waste",18,2020-08-18 05:45:49.400000000,12_plastic_waste_single use_plastic wast...
+13,"queen, queen elizabeth, elizabeth, barbados, remove queen",8,2020-08-18 05:45:49.400000000,13_queen_prince_elizabeth_queen elizabet...
+14,"tiktok, wechat, tiktok wechat, oracle, microsoft",48,2020-08-18 05:45:49.400000000,14_tiktok_ban_ban tiktok_trump
+15,"flood, evacuate, nigeria rice, typhoon haishen millions, usd bangladesh",4,2020-08-18 05:45:49.400000000,15_flood_rain_dam_china
+16,"cannabis, drug, hemp, decriminalize, marijuana",14,2020-08-18 05:45:49.400000000,16_cannabis_marijuana_drug_decriminalize
+17,"ice, melt, greenland, greenland ice, tonnes ice",28,2020-08-18 05:45:49.400000000,17_ice_melt_greenland_arctic
+18,"astrazeneca, vaccine, participant, neurological symptoms, covid vaccine",6,2020-08-18 05:45:49.400000000,18_astrazeneca_vaccine_astrazeneca vacci...
+19,"earthquake, magnitude, part southern england, earthquake magnitude felt, magnitude felt part",4,2020-08-18 05:45:49.400000000,19_earthquake_magnitude_magnitude earthq...
+20,"jeff, jeff bezos, bezos, worth, jeff bezos person",8,2020-08-18 05:45:49.400000000,20_musk_elon_elon musk_tesla
+21,"school, residential school, residential, algorithm, grade",5,2020-08-18 05:45:49.400000000,21_residential school_residential_school...
+22,"greta, thunberg, greta thunberg, climate, climate activist",4,2020-08-18 05:45:49.400000000,22_greta_thunberg_greta thunberg_climate
+23,"brain, musk, neuralink, chip brain, brain elon",13,2020-08-18 05:45:49.400000000,23_brain_cancer_alzheimer_scientists
+24,"assange, julian assange, julian, extradition, wikileaks",12,2020-08-18 05:45:49.400000000,24_assange_julian_julian assange_wikilea...
+26,"bird flu, bird, flu, thousands chickens, coli tens thousands",2,2020-08-18 05:45:49.400000000,26_bird flu_bird_flu_case bird flu
+29,"record hottest, hottest, record, weather service record, ways heatwave",3,2020-08-18 05:45:49.400000000,29_record_hottest_warmest_temperature
+30,"pipeline, nord stream, nord, stream, russian pipeline",7,2020-08-18 05:45:49.400000000,30_pipeline_nord stream_nord_stream
+31,"university access nasa, university access, access nasa space, access nasa, professor texas",1,2020-08-18 05:45:49.400000000,31_ufo_pentagon_ufos_ufo videos
+32,"capabilities world, capabilities world threaten, biological warfare capabilities, russian biological, russian biological warfare",1,2020-08-18 05:45:49.400000000,32_chemical_ukraine_biological_false fla...
+33,"boost charity, evidence harm, boost charity say, hop boost charity, charity say evidence",1,2020-08-18 05:45:49.400000000,33_suez_canal_suez canal_ship
+34,"scotland, independence, support independence, scottish, handle virus boost",3,2020-08-18 05:45:49.400000000,34_scottish_scotland_independence_scotti...
+35,"school, reopen france, covid outbreaks, reopen, outbreaks",5,2020-08-18 05:45:49.400000000,35_school_close_close school_coronavirus
+36,"cow, urine, dung, cow urine, cow dung",3,2020-08-18 05:45:49.400000000,36_cow_urine_dung_cow urine
+39,"duterte, duterte say order, shoot kill duterte, politician kill spokesman, duterte order philippine",2,2020-08-18 05:45:49.400000000,39_duterte_philippines_philippine_rodrig...
+42,"pollution return pre, pollution return, air pollution return, return pre covid, pre covid level",1,2020-08-18 05:45:49.400000000,42_pollution_air pollution_air_delhi
+43,"maxwell, ghislaine maxwell, ghislaine, hillary clinton cover, allege sex trafficker",1,2020-08-18 05:45:49.400000000,43_maxwell_ghislaine maxwell_ghislaine_s...
+44,"ventilators, ventilator, ventilators support sri, ventilator contract, house trade",2,2020-08-18 05:45:49.400000000,44_ventilators_ventilator_need_patients
+-1,"trump, covid, china, say, new",1790,2020-09-20 03:09:29.600000000,-1_say_covid_ukraine_china
+0,"china, say, azerbaijan, coronavirus, trump",1873,2020-09-20 03:09:29.600000000,0_china_coronavirus_say_covid
+1,"mask, wear, wear mask, face, face mask",41,2020-09-20 03:09:29.600000000,1_mask_face mask_wear_face
+2,"nasa, space, moon, network moon, nokia",40,2020-09-20 03:09:29.600000000,2_space_earth_nasa_moon
+3,"climate, climate change, emissions, change, disasters",21,2020-09-20 03:09:29.600000000,3_climate_climate change_change_emission...
+4,"pope, francis, pope francis, vatican, sex",53,2020-09-20 03:09:29.600000000,4_pope_vatican_francis_pope francis
+5,"navalny, poison, alexei navalny, alexei, putin",31,2020-09-20 03:09:29.600000000,5_navalny_alexei_alexei navalny_poison
+6,"businessman zef eisenberg, eisenberg die land, businessman zef, zef eisenberg, land speed",1,2020-09-20 03:09:29.600000000,6_zelensky_zelenskyy_ukraine_volodymyr
+7,"amazon, rainforest, deforestation, brazil, amazon rainforest",17,2020-09-20 03:09:29.600000000,7_amazon_deforestation_rainforest_tree
+8,"wildfires, california, gigafire, california wildfires, burn",10,2020-09-20 03:09:29.600000000,8_australia_bushfires_wildfires_bushfire
+9,"huawei, meng, wanzhou, meng wanzhou, huawei executive",21,2020-09-20 03:09:29.600000000,9_huawei_meng_wanzhou_meng wanzhou
+10,"johnson, boris johnson, boris, lockdown, covid",19,2020-09-20 03:09:29.600000000,10_johnson_boris johnson_boris_coronavir...
+11,"live matter, matter, black live, black live matter, white privilege",11,2020-09-20 03:09:29.600000000,11_live matter_matter_black live_black l...
+12,"plastic, straw, microplastics, ban plastic, plastic straw",18,2020-09-20 03:09:29.600000000,12_plastic_waste_single use_plastic wast...
+13,"prince, queen, prince harry, harry, awaken racism",6,2020-09-20 03:09:29.600000000,13_queen_prince_elizabeth_queen elizabet...
+14,"tiktok, tiktok ban, tiktok deal, ban, ban tiktok",8,2020-09-20 03:09:29.600000000,14_tiktok_ban_ban tiktok_trump
+15,"flood, venice, hold water, hold water time, flood barriers",10,2020-09-20 03:09:29.600000000,15_flood_rain_dam_china
+16,"cannabis, marijuana, legalization, cannabis legalization, drug",24,2020-09-20 03:09:29.600000000,16_cannabis_marijuana_drug_decriminalize
+17,"ice, melt, arctic, greenland, sea ice",21,2020-09-20 03:09:29.600000000,17_ice_melt_greenland_arctic
+18,"astrazeneca, vaccine, participants, vaccine trial, trial",3,2020-09-20 03:09:29.600000000,18_astrazeneca_vaccine_astrazeneca vacci...
+19,"earthquake, magnitude, guinea earthquake magnitude, imminent mega, alaska scientists warn",2,2020-09-20 03:09:29.600000000,19_earthquake_magnitude_magnitude earthq...
+20,"musk, musk set dangerous, precedent elon musk, gate knucklehead, say win coronavirus",2,2020-09-20 03:09:29.600000000,20_musk_elon_elon musk_tesla
+21,"school, catholic, residential school, principal word, residential",6,2020-09-20 03:09:29.600000000,21_residential school_residential_school...
+22,"greta, thunberg, greta thunberg, climate, activist greta",13,2020-09-20 03:09:29.600000000,22_greta_thunberg_greta thunberg_climate
+23,"brain, cancer, scientists, say lead neurosurgeon, canadian boy",6,2020-09-20 03:09:29.600000000,23_brain_cancer_alzheimer_scientists
+24,"assange, julian assange, julian, wikileaks, extradition",8,2020-09-20 03:09:29.600000000,24_assange_julian_julian assange_wikilea...
+26,"bird flu, bird, flu, nsw prepare worst, probably biggest avian",1,2020-09-20 03:09:29.600000000,26_bird flu_bird_flu_case bird flu
+27,"impose week, lockdown, everybody stay, lockdown everybody, week national lockdown",3,2020-09-20 03:09:29.600000000,27_lockdown_england_reopen_travel
+28,"look like get, active volcano look, like get ready, get ready erupt, ready erupt",1,2020-09-20 03:09:29.600000000,28_volcano_eruption_erupt_palma
+29,"hottest, record, warmest, september, september record",7,2020-09-20 03:09:29.600000000,29_record_hottest_warmest_temperature
+31,"ufo, ufos, pentagon, harry reid, reid",8,2020-09-20 03:09:29.600000000,31_ufo_pentagon_ufos_ufo videos
+34,"trump golf course, trump golf, golf course, golf, new trump golf",4,2020-09-20 03:09:29.600000000,34_scottish_scotland_independence_scotti...
+35,"school, close, school close, control second, wave state",5,2020-09-20 03:09:29.600000000,35_school_close_close school_coronavirus
+36,"cow, dung, cow dung, cow dung chip, chip reduce",4,2020-09-20 03:09:29.600000000,36_cow_urine_dung_cow urine
+37,"tax, tech, economy millions time, tax policy, fairer tax policy",3,2020-09-20 03:09:29.600000000,37_tax_corporate tax_corporate_minimum
+38,"covid curb locust, curb locust swarm, locust swarm ravage, swell rain covid, curb locust",1,2020-09-20 03:09:29.600000000,38_locust_locusts_swarm_locust swarm
+39,"duterte, philippines, investigate war drug, rodrigo duterte list, approve duterte performance",3,2020-09-20 03:09:29.600000000,39_duterte_philippines_philippine_rodrig...
+41,"toilet, toilet paper, paper, panic buy, buy",6,2020-09-20 03:09:29.600000000,41_toilet_toilet paper_paper_hand
+42,"pollution, air pollution, air, half million, smog",4,2020-09-20 03:09:29.600000000,42_pollution_air pollution_air_delhi
+43,"maxwell, ghislaine maxwell, ghislaine, ghislaine maxwell deposition, maxwell deposition",6,2020-09-20 03:09:29.600000000,43_maxwell_ghislaine maxwell_ghislaine_s...
+44,"ventilators, remain unused government, cost say national, say national audit, remain unused",1,2020-09-20 03:09:29.600000000,44_ventilators_ventilator_need_patients
+45,"declare drone, target houston airport, strike intercept target, strike intercept, declare drone strike",1,2020-09-20 03:09:29.600000000,45_drone strike_drone_strike_kabul
+-1,"covid, say, new, china, coronavirus",2164,2020-10-23 00:33:09.800000000,-1_say_covid_ukraine_china
+0,"covid, say, china, vaccine, coronavirus",2278,2020-10-23 00:33:09.800000000,0_china_coronavirus_say_covid
+1,"mask, face mask, face, wear, wear mask",38,2020-10-23 00:33:09.800000000,1_mask_face mask_wear_face
+2,"moon, asteroid, space, earth, nasa",61,2020-10-23 00:33:09.800000000,2_space_earth_nasa_moon
+3,"climate, climate change, change, emissions, greenhouse",25,2020-10-23 00:33:09.800000000,3_climate_climate change_change_emission...
+4,"pope, vatican, francis, pope francis, priest",62,2020-10-23 00:33:09.800000000,4_pope_vatican_francis_pope francis
+5,"navalny, poison, allege navalny, allege navalny poison, navalny poison germany",7,2020-10-23 00:33:09.800000000,5_navalny_alexei_alexei navalny_poison
+7,"deforestation, amazon, tree, rainforest, illegal",23,2020-10-23 00:33:09.800000000,7_amazon_deforestation_rainforest_tree
+8,"burn, fireworks protect hospitals, eve fireworks protect, victim burn, mean begin",4,2020-10-23 00:33:09.800000000,8_australia_bushfires_wildfires_bushfire
+9,"huawei, meng, wanzhou, meng wanzhou, ban huawei",16,2020-10-23 00:33:09.800000000,9_huawei_meng_wanzhou_meng wanzhou
+10,"boris johnson, johnson, boris, johnson self, boris johnson self",29,2020-10-23 00:33:09.800000000,10_johnson_boris johnson_boris_coronavir...
+11,"black, arrest anti, arrest, police, protest",7,2020-10-23 00:33:09.800000000,11_live matter_matter_black live_black l...
+12,"plastic, mount everest, everest, waste, bottle",17,2020-10-23 00:33:09.800000000,12_plastic_waste_single use_plastic wast...
+13,"prince, queen, queen elizabeth, elizabeth, prince charles",18,2020-10-23 00:33:09.800000000,13_queen_prince_elizabeth_queen elizabet...
+14,"tiktok, forget try ban, try ban like, trump administration forget, forget try",5,2020-10-23 00:33:09.800000000,14_tiktok_ban_ban tiktok_trump
+15,"flood, rain, region philippines sink, sink release water, somalia strongest",5,2020-10-23 00:33:09.800000000,15_flood_rain_dam_china
+16,"cannabis, marijuana, decriminalize, drug, legalization",27,2020-10-23 00:33:09.800000000,16_cannabis_marijuana_drug_decriminalize
+17,"ice, melt, sea ice, arctic, glaciers",13,2020-10-23 00:33:09.800000000,17_ice_melt_greenland_arctic
+18,"astrazeneca, vaccine, covid vaccine, astrazeneca say, astrazeneca covid",6,2020-10-23 00:33:09.800000000,18_astrazeneca_vaccine_astrazeneca vacci...
+19,"earthquake, earthquake hit, turkey, greece turkey, magnitude",6,2020-10-23 00:33:09.800000000,19_earthquake_magnitude_magnitude earthq...
+20,"musk, elon, elon musk, tesla, covid elon musk",6,2020-10-23 00:33:09.800000000,20_musk_elon_elon musk_tesla
+22,"greta, thunberg, greta thunberg, lead swedish newspaper, pranksters pretend greta",3,2020-10-23 00:33:09.800000000,22_greta_thunberg_greta thunberg_climate
+23,"cancer, brain, dementia, whip, research",7,2020-10-23 00:33:09.800000000,23_brain_cancer_alzheimer_scientists
+24,"assange publish iraq, publish iraq, years wikileaks julian, years wikileaks, war log",1,2020-10-23 00:33:09.800000000,24_assange_julian_julian assange_wikilea...
+25,"ngozi okonjo iweala, try block ngozi, block ngozi, iweala, block ngozi okonjo",1,2020-10-23 00:33:09.800000000,25_omicron_variant_omicron variant_case ...
+26,"bird, bird flu, flu, chickens cull, confirm bird",6,2020-10-23 00:33:09.800000000,26_bird flu_bird_flu_case bird flu
+27,"lockdown, second lockdown, pizza, weeks nightmare end, lockdown non elite",10,2020-10-23 00:33:09.800000000,27_lockdown_england_reopen_travel
+28,"hope drill volcano, scientists hope drill, hope drill, drill volcano, scientists hope",1,2020-10-23 00:33:09.800000000,28_volcano_eruption_erupt_palma
+29,"warmest, record, course warmest year, course warmest, year record",5,2020-10-23 00:33:09.800000000,29_record_hottest_warmest_temperature
+34,"scottish, scotland, independence, owner lose, club owner lose",5,2020-10-23 00:33:09.800000000,34_scottish_scotland_independence_scotti...
+35,"school, covid, glasgow school, school protest covid, guidance push",5,2020-10-23 00:33:09.800000000,35_school_close_close school_coronavirus
+36,"cow, request, straw drink, request straw, request straw drink",3,2020-10-23 00:33:09.800000000,36_cow_urine_dung_cow urine
+37,"tax, billion lose year, good worldwide landmark, accuse avoid, show billion lose",2,2020-10-23 00:33:09.800000000,37_tax_corporate tax_corporate_minimum
+39,"duterte, philippines, typhoon, sex joke, philippine",5,2020-10-23 00:33:09.800000000,39_duterte_philippines_philippine_rodrig...
+41,"sanitiser, hand sanitiser, toilet, toilet paper, hand",4,2020-10-23 00:33:09.800000000,41_toilet_toilet paper_paper_hand
+42,"pollution, air pollution, air, diwali, smog",10,2020-10-23 00:33:09.800000000,42_pollution_air pollution_air_delhi
+44,"reverse hyperbaric chamber, reverse hyperbaric, hyperbaric chamber, grail study show, chamber oxygen therapy",1,2020-10-23 00:33:09.800000000,44_ventilators_ventilator_need_patients
+45,"take joy, soft terrorism, avoid look soft, bama, bama claim",1,2020-10-23 00:33:09.800000000,45_drone strike_drone_strike_kabul
+-1,"covid, china, say, new, coronavirus",2398,2020-11-24 21:56:50.000000000,-1_say_covid_ukraine_china
+0,"covid, china, say, vaccine, iran",2374,2020-11-24 21:56:50.000000000,0_china_coronavirus_say_covid
+1,"mask, face mask, wear, face, wear mask",35,2020-11-24 21:56:50.000000000,1_mask_face mask_wear_face
+2,"space, moon, earth, lunar, spacecraft",77,2020-11-24 21:56:50.000000000,2_space_earth_nasa_moon
+3,"climate, climate change, change, emissions, declare climate",58,2020-11-24 21:56:50.000000000,3_climate_climate change_change_emission...
+4,"pope, francis, pope francis, vatican, vaccines",33,2020-11-24 21:56:50.000000000,4_pope_vatican_francis_pope francis
+5,"navalny, poison, alexei, alexei navalny, russian",35,2020-11-24 21:56:50.000000000,5_navalny_alexei_alexei navalny_poison
+6,"projekt dramatic, devotion gog, devotion gog release, dramatic turn, dramatic turn devotion",1,2020-11-24 21:56:50.000000000,6_zelensky_zelenskyy_ukraine_volodymyr
+7,"deforestation, amazon, brazil, amazon deforestation, deforestation brazil",19,2020-11-24 21:56:50.000000000,7_amazon_deforestation_rainforest_tree
+8,"fraser island, fraser, bushfire, australia, tell leave immediately",6,2020-11-24 21:56:50.000000000,8_australia_bushfires_wildfires_bushfire
+9,"huawei, meng, wanzhou, meng wanzhou, china huawei",20,2020-11-24 21:56:50.000000000,9_huawei_meng_wanzhou_meng wanzhou
+10,"boris johnson, boris, johnson, strain, new covid strain",5,2020-11-24 21:56:50.000000000,10_johnson_boris johnson_boris_coronavir...
+11,"live matter, black live, black live matter, matter, black",15,2020-11-24 21:56:50.000000000,11_live matter_matter_black live_black l...
+12,"plastic, plastic waste, waste, coca cola, cola",16,2020-11-24 21:56:50.000000000,12_plastic_waste_single use_plastic wast...
+13,"queen, queen elizabeth, elizabeth, prince, elizabeth years throne",5,2020-11-24 21:56:50.000000000,13_queen_prince_elizabeth_queen elizabet...
+14,"new seven, grant bytedance, grant bytedance new, day extension tiktok, order file",1,2020-11-24 21:56:50.000000000,14_tiktok_ban_ban tiktok_trump
+15,"rain, rain snow, flood, snow, fail activate",3,2020-11-24 21:56:50.000000000,15_flood_rain_dam_china
+16,"cannabis, drug, marijuana, decriminalize, dangerous drug",38,2020-11-24 21:56:50.000000000,16_cannabis_marijuana_drug_decriminalize
+17,"ice, melt, greenland, ice sheet, greenland ice",5,2020-11-24 21:56:50.000000000,17_ice_melt_greenland_arctic
+18,"astrazeneca, vaccine, astrazeneca vaccine, covid vaccine, astrazeneca covid",13,2020-11-24 21:56:50.000000000,18_astrazeneca_vaccine_astrazeneca vacci...
+19,"earthquake, magnitude, magnitude earthquake, tsunami island, adrift tsunami",3,2020-11-24 21:56:50.000000000,19_earthquake_magnitude_magnitude earthq...
+20,"elon, tesla, musk, elon musk, bezos",5,2020-11-24 21:56:50.000000000,20_musk_elon_elon musk_tesla
+21,"residential school, residential, school, positive stories residential, assignment list",5,2020-11-24 21:56:50.000000000,21_residential school_residential_school...
+22,"thunberg, greta, greta thunberg, climate, thunberg say happy",7,2020-11-24 21:56:50.000000000,22_greta_thunberg_greta thunberg_climate
+23,"brain, cancer, implant, brain implant, drug",13,2020-11-24 21:56:50.000000000,23_brain_cancer_alzheimer_scientists
+26,"bird flu, bird, flu, flu outbreak, bird flu outbreak",13,2020-11-24 21:56:50.000000000,26_bird flu_bird_flu_case bird flu
+27,"lockdown, primark, england, lockdown rule, travellers",8,2020-11-24 21:56:50.000000000,27_lockdown_england_reopen_travel
+28,"volcano, erupt, eruption, volcano erupt, island",11,2020-11-24 21:56:50.000000000,28_volcano_eruption_erupt_palma
+29,"hottest november, november, warmest, hottest, record",3,2020-11-24 21:56:50.000000000,29_record_hottest_warmest_temperature
+30,"nord stream, nord, stream, pipeline, gas pipeline",5,2020-11-24 21:56:50.000000000,30_pipeline_nord stream_nord_stream
+31,"ufo, ufos, pentagon, government photo, motionless cube",7,2020-11-24 21:56:50.000000000,31_ufo_pentagon_ufos_ufo videos
+34,"scottish, scotland, independence, scottish independence, sturgeon",4,2020-11-24 21:56:50.000000000,34_scottish_scotland_independence_scotti...
+35,"app world number, students fall, number surge popularity, popularity cause pandemic, study students",2,2020-11-24 21:56:50.000000000,35_school_close_close school_coronavirus
+36,"parkinson patient, activist prison india, india ask authorities, ask authorities, patient year old",1,2020-11-24 21:56:50.000000000,36_cow_urine_dung_cow urine
+37,"tax, tech giants, giants, tech, digital",5,2020-11-24 21:56:50.000000000,37_tax_corporate tax_corporate_minimum
+38,"locust, locusts, swarm, locust swarm, east africa",2,2020-11-24 21:56:50.000000000,38_locust_locusts_swarm_locust swarm
+39,"duterte, philippines, duterte say, crimes humanity, court find evidence",6,2020-11-24 21:56:50.000000000,39_duterte_philippines_philippine_rodrig...
+40,"food, putin urge food, lithuanians urge, urge food price, cap russian economy",2,2020-11-24 21:56:50.000000000,40_wheat_food_ukraine_war
+41,"toilet, ration egg rice, campaign wait toilet, yakiniku restaurant, toilet stickers",3,2020-11-24 21:56:50.000000000,41_toilet_toilet paper_paper_hand
+42,"pollution, air pollution, cause death, air, pollution list",6,2020-11-24 21:56:50.000000000,42_pollution_air pollution_air_delhi
+43,"maxwell, ghislaine maxwell, ghislaine, bail package, bail",5,2020-11-24 21:56:50.000000000,43_maxwell_ghislaine maxwell_ghislaine_s...
+45,"drone strike, terrorist sue government, confirm help, man kill convict, taliban launch drone",2,2020-11-24 21:56:50.000000000,45_drone strike_drone_strike_kabul
+-1,"covid, china, say, new, chinese",1988,2020-12-27 19:20:30.200000000,-1_say_covid_ukraine_china
+0,"covid, china, vaccine, iran, say",2260,2020-12-27 19:20:30.200000000,0_china_coronavirus_say_covid
+1,"mask, wear, wear mask, face mask, face",26,2020-12-27 19:20:30.200000000,1_mask_face mask_wear_face
+2,"space, jupiter, moon, space station, universe",29,2020-12-27 19:20:30.200000000,2_space_earth_nasa_moon
+3,"climate, climate change, change, emissions, climate crisis",24,2020-12-27 19:20:30.200000000,3_climate_climate change_change_emission...
+4,"pope, vatican, francis, pope francis, church",39,2020-12-27 19:20:30.200000000,4_pope_vatican_francis_pope francis
+5,"navalny, alexei, alexei navalny, critic, kremlin",128,2020-12-27 19:20:30.200000000,5_navalny_alexei_alexei navalny_poison
+7,"amazon, rainforest, amazon rainforest, deforestation, tree",17,2020-12-27 19:20:30.200000000,7_amazon_deforestation_rainforest_tree
+8,"fireworks, rome, new year, australia, year eve",12,2020-12-27 19:20:30.200000000,8_australia_bushfires_wildfires_bushfire
+9,"huawei, meng, wanzhou, meng wanzhou, huawei cfo",13,2020-12-27 19:20:30.200000000,9_huawei_meng_wanzhou_meng wanzhou
+10,"johnson, boris johnson, boris, say boris, say boris johnson",19,2020-12-27 19:20:30.200000000,10_johnson_boris johnson_boris_coronavir...
+11,"live matter, matter, lockdown activist, film ward, anti lockdown activist",7,2020-12-27 19:20:30.200000000,11_live matter_matter_black live_black l...
+12,"plastic, waste, arctic, plastic bag, single use",17,2020-12-27 19:20:30.200000000,12_plastic_waste_single use_plastic wast...
+13,"queen, prince, queen elizabeth, elizabeth, prince philip",8,2020-12-27 19:20:30.200000000,13_queen_prince_elizabeth_queen elizabet...
+14,"tiktok, tiktok block, girl, users, challenge",5,2020-12-27 19:20:30.200000000,14_tiktok_ban_ban tiktok_trump
+15,"mekong river, mekong, dam, flood, river",4,2020-12-27 19:20:30.200000000,15_flood_rain_dam_china
+16,"cannabis, marijuana, cannabis factory, drug, decriminalize",12,2020-12-27 19:20:30.200000000,16_cannabis_marijuana_drug_decriminalize
+17,"glaciers, lose greenhouse, glaciers afghanistan, glaciers afghanistan total, area glaciers lose",1,2020-12-27 19:20:30.200000000,17_ice_melt_greenland_arctic
+18,"astrazeneca, vaccine, astrazeneca vaccine, oxford, oxford astrazeneca",29,2020-12-27 19:20:30.200000000,18_astrazeneca_vaccine_astrazeneca vacci...
+19,"earthquake, magnitude, magnitude earthquake, zagreb, croatia",5,2020-12-27 19:20:30.200000000,19_earthquake_magnitude_magnitude earthq...
+20,"musk, elon, elon musk, bezos, tesla",10,2020-12-27 19:20:30.200000000,20_musk_elon_elon musk_tesla
+21,"hasidic jewish council, say school remain, remain open quebec, open quebec, hasidic jewish",1,2020-12-27 19:20:30.200000000,21_residential school_residential_school...
+22,"feature swedish postage, thunberg feature, thunberg feature swedish, greta thunberg feature, swedish postage",1,2020-12-27 19:20:30.200000000,22_greta_thunberg_greta thunberg_climate
+23,"cancer, diagnose, urine, brain, urine test",8,2020-12-27 19:20:30.200000000,23_brain_cancer_alzheimer_scientists
+24,"assange, julian assange, julian, wikileaks, extradition",30,2020-12-27 19:20:30.200000000,24_assange_julian_julian assange_wikilea...
+26,"bird, flu, bird flu, duck, avian",8,2020-12-27 19:20:30.200000000,26_bird flu_bird_flu_case bird flu
+27,"lockdown, england, england enter, enter lockdown, enter",11,2020-12-27 19:20:30.200000000,27_lockdown_england_reopen_travel
+28,"volcano, caribbean, vincent grenadines, grenadines, volcanoes",4,2020-12-27 19:20:30.200000000,28_volcano_eruption_erupt_palma
+29,"record, year record, hottest, hottest year, hottest year record",12,2020-12-27 19:20:30.200000000,29_record_hottest_warmest_temperature
+30,"pipeline, nord, nord stream, stream, gas pipeline",8,2020-12-27 19:20:30.200000000,30_pipeline_nord stream_nord_stream
+31,"ufo, cia release, cia, release, ufos",12,2020-12-27 19:20:30.200000000,31_ufo_pentagon_ufos_ufo videos
+32,"base bio, reportedly develop ebola, russia reportedly develop, develop ebola base, develop ebola",1,2020-12-27 19:20:30.200000000,32_chemical_ukraine_biological_false fla...
+34,"scottish, scotland, independence, scottish nationalists, nationalists",22,2020-12-27 19:20:30.200000000,34_scottish_scotland_independence_scotti...
+35,"school, break virus restrictions, france break virus, london primary, london primary school",5,2020-12-27 19:20:30.200000000,35_school_close_close school_coronavirus
+36,"cow, cow science exam, science exam, cow science, india hold",3,2020-12-27 19:20:30.200000000,36_cow_urine_dung_cow urine
+37,"study tax, wealthy show fail, wealthy show, year study tax, show fail trickle",1,2020-12-27 19:20:30.200000000,37_tax_corporate tax_corporate_minimum
+38,"ravage crop, farmers struggle locusts, locusts ravage crop, struggle locusts ravage, struggle locusts",1,2020-12-27 19:20:30.200000000,38_locust_locusts_swarm_locust swarm
+39,"duterte, rodrigo duterte, rodrigo, philippine, president rodrigo duterte",6,2020-12-27 19:20:30.200000000,39_duterte_philippines_philippine_rodrig...
+41,"hand sanitizer, sanitizer, hand, youths replace sanitiser, pandemic help spread",3,2020-12-27 19:20:30.200000000,41_toilet_toilet paper_paper_hand
+42,"pollution, air pollution, air, quality, malaysian",7,2020-12-27 19:20:30.200000000,42_pollution_air pollution_air_delhi
+43,"ghislaine maxwell, maxwell, ghislaine, sex crime case, deny bail sex",2,2020-12-27 19:20:30.200000000,43_maxwell_ghislaine maxwell_ghislaine_s...
+45,"sleeper cell kill, sleeper cell, dead amp cop, isis sleeper cell, cop families claim",2,2020-12-27 19:20:30.200000000,45_drone strike_drone_strike_kabul
+-1,"china, covid, say, new, russia",1748,2021-01-29 16:44:10.400000000,-1_say_covid_ukraine_china
+0,"myanmar, china, covid, say, vaccine",2177,2021-01-29 16:44:10.400000000,0_china_coronavirus_say_covid
+1,"mask, wear, face mask, face, wear mask",19,2021-01-29 16:44:10.400000000,1_mask_face mask_wear_face
+2,"space, spacex, starship, astronomers, discover",18,2021-01-29 16:44:10.400000000,2_space_earth_nasa_moon
+3,"climate, climate change, emissions, change, greenhouse",21,2021-01-29 16:44:10.400000000,3_climate_climate change_change_emission...
+4,"pope, catholic, german nuns, vatican, nuns",16,2021-01-29 16:44:10.400000000,4_pope_vatican_francis_pope francis
+5,"navalny, alexei, alexei navalny, critic, poison",86,2021-01-29 16:44:10.400000000,5_navalny_alexei_alexei navalny_poison
+6,"zelensky, channel, ukraine zelensky sign, ukrainian opposition channel, ukrainian opposition",1,2021-01-29 16:44:10.400000000,6_zelensky_zelenskyy_ukraine_volodymyr
+7,"tree, amazon, deforestation, forest, plant tree",16,2021-01-29 16:44:10.400000000,7_amazon_deforestation_rainforest_tree
+8,"australia, fire, home, burn, wildfires",6,2021-01-29 16:44:10.400000000,8_australia_bushfires_wildfires_bushfire
+9,"huawei, turn pig farm, turn pig, huawei turn pig, fall huawei",6,2021-01-29 16:44:10.400000000,9_huawei_meng_wanzhou_meng wanzhou
+10,"johnson, boris johnson, boris, lockdown, cautious irreversible",12,2021-01-29 16:44:10.400000000,10_johnson_boris johnson_boris_coronavir...
+11,"live matter, coca cola, cola, matter, coca",12,2021-01-29 16:44:10.400000000,11_live matter_matter_black live_black l...
+12,"plastic, bottle, trials paper bottle, paper bottle, company trials paper",12,2021-01-29 16:44:10.400000000,12_plastic_waste_single use_plastic wast...
+13,"prince, queen, prince philip, philip, elizabeth",17,2021-01-29 16:44:10.400000000,13_queen_prince_elizabeth_queen elizabet...
+14,"tiktok, oracle, tiktok oracle suppose, oracle suppose, prevent data pass",2,2021-01-29 16:44:10.400000000,14_tiktok_ban_ban tiktok_trump
+15,"flood, glacier, glacier collapse, dam, river",7,2021-01-29 16:44:10.400000000,15_flood_rain_dam_china
+16,"cannabis, drug, decriminalize, oregon, marijuana",16,2021-01-29 16:44:10.400000000,16_cannabis_marijuana_drug_decriminalize
+17,"ice, melt, antarctic, antarctica, scientists",9,2021-01-29 16:44:10.400000000,17_ice_melt_greenland_arctic
+18,"astrazeneca, vaccine, astrazeneca vaccine, dose, covid vaccine",41,2021-01-29 16:44:10.400000000,18_astrazeneca_vaccine_astrazeneca vacci...
+19,"earthquake, magnitude, magnitude earthquake, fukushima, earthquake strike",20,2021-01-29 16:44:10.400000000,19_earthquake_magnitude_magnitude earthq...
+20,"bezos step, jeff bezos step, bezos, jeff, jeff bezos",17,2021-01-29 16:44:10.400000000,20_musk_elon_elon musk_tesla
+22,"thunberg, greta, greta thunberg, thunberg nominees nobel, nominees nobel peace",6,2021-01-29 16:44:10.400000000,22_greta_thunberg_greta thunberg_climate
+23,"cure alzheimer, musk start, elon musk start, alzheimer, molecule",5,2021-01-29 16:44:10.400000000,23_brain_cancer_alzheimer_scientists
+24,"assange, julian assange, julian, extradition, wikileaks",4,2021-01-29 16:44:10.400000000,24_assange_julian_julian assange_wikilea...
+26,"bird flu, bird, flu, case bird, case bird flu",14,2021-01-29 16:44:10.400000000,26_bird flu_bird_flu_case bird flu
+27,"cost silence, cycle years, sage scientist warn, ramp cost silence, ramp cost",2,2021-01-29 16:44:10.400000000,27_lockdown_england_reopen_travel
+28,"smoke rain stone, spew smoke rain, etna volcano erupt, etna volcano, mount etna volcano",1,2021-01-29 16:44:10.400000000,28_volcano_eruption_erupt_palma
+29,"record, suffer greatly, time suffer greatly, pepper record, germany record sharpest",2,2021-01-29 16:44:10.400000000,29_record_hottest_warmest_temperature
+30,"nord stream, nord, stream, pipeline, controversial pipeline germany",7,2021-01-29 16:44:10.400000000,30_pipeline_nord stream_nord_stream
+31,"object new, object new mexico, cylindrical object new, cylindrical, cylindrical object",5,2021-01-29 16:44:10.400000000,31_ufo_pentagon_ufos_ufo videos
+33,"store child porn, abandon factory, abandon factory store, store child, picture abandon",1,2021-01-29 16:44:10.400000000,33_suez_canal_suez canal_ship
+34,"scottish, independence, scotland, sturgeon, nicola sturgeon",14,2021-01-29 16:44:10.400000000,34_scottish_scotland_independence_scotti...
+35,"school, children future, covid mean israel, kid covid mean, say covid school",2,2021-01-29 16:44:10.400000000,35_school_close_close school_coronavirus
+36,"cow, science exam india, exam india, science exam, cow science",3,2021-01-29 16:44:10.400000000,36_cow_urine_dung_cow urine
+37,"tax, company tax avoidance, expose big company, expose big, big company tax",2,2021-01-29 16:44:10.400000000,37_tax_corporate tax_corporate_minimum
+39,"philippines admit police, agents shoot undercover, enforcement agents shoot, shoot undercover, undercover narcotics",2,2021-01-29 16:44:10.400000000,39_duterte_philippines_philippine_rodrig...
+42,"pollution, air pollution, air, europe northeastern unite, globally part",4,2021-01-29 16:44:10.400000000,42_pollution_air pollution_air_delhi
+43,"maxwell, ghislaine maxwell, ghislaine, ghislaine maxwell offer, maxwell offer",4,2021-01-29 16:44:10.400000000,43_maxwell_ghislaine maxwell_ghislaine_s...
+-1,"china, covid, say, new, police",1168,2021-03-03 14:07:50.600000000,-1_say_covid_ukraine_china
+0,"myanmar, china, say, covid, kill",1490,2021-03-03 14:07:50.600000000,0_china_coronavirus_say_covid
+1,"mask, face mask, wear, face, fully vaccinate people",14,2021-03-03 14:07:50.600000000,1_mask_face mask_wear_face
+2,"space, moon, spacex, lunar, station",34,2021-03-03 14:07:50.600000000,2_space_earth_nasa_moon
+3,"climate, climate change, change, heat, regions limit",14,2021-03-03 14:07:50.600000000,3_climate_climate change_change_emission...
+4,"bless, vatican, pope, bless sex, sex",38,2021-03-03 14:07:50.600000000,4_pope_vatican_francis_pope francis
+5,"navalny, critic, kremlin critic, kremlin, alexei",17,2021-03-03 14:07:50.600000000,5_navalny_alexei_alexei navalny_poison
+7,"amazon, deforestation, forest, rainforest, tree",20,2021-03-03 14:07:50.600000000,7_amazon_deforestation_rainforest_tree
+9,"huawei, meng, meng wanzhou, wanzhou, extradition",7,2021-03-03 14:07:50.600000000,9_huawei_meng_wanzhou_meng wanzhou
+10,"johnson, boris johnson, boris, johnson delay covid, johnson urge share",3,2021-03-03 14:07:50.600000000,10_johnson_boris johnson_boris_coronavir...
+11,"kill rally, join kill rally, join kill, kill rally britain, rally britain",12,2021-03-03 14:07:50.600000000,11_live matter_matter_black live_black l...
+12,"plastic, material need, shanna swan couple, swan couple, reproduction professor environmental",4,2021-03-03 14:07:50.600000000,12_plastic_waste_single use_plastic wast...
+13,"prince, prince philip, philip, prince william, william",18,2021-03-03 14:07:50.600000000,13_queen_prince_elizabeth_queen elizabet...
+14,"parent company value, company value billion, tiktok parent company, tiktok parent, company value",1,2021-03-03 14:07:50.600000000,14_tiktok_ban_ban tiktok_trump
+15,"tibet near, major dam project, major dam, project tibet, controversial major dam",1,2021-03-03 14:07:50.600000000,15_flood_rain_dam_china
+16,"cannabis, legalize, drug, marijuana, legalization",9,2021-03-03 14:07:50.600000000,16_cannabis_marijuana_drug_decriminalize
+17,"ice, melt, greenland, glacier, greenland ice",5,2021-03-03 14:07:50.600000000,17_ice_melt_greenland_arctic
+18,"astrazeneca, vaccine, astrazeneca vaccine, astrazeneca covid, oxford",72,2021-03-03 14:07:50.600000000,18_astrazeneca_vaccine_astrazeneca vacci...
+19,"earthquake, tsunami, magnitude, tsunami warn, magnitude earthquake",18,2021-03-03 14:07:50.600000000,19_earthquake_magnitude_magnitude earthq...
+20,"uae elon, lord martin rees, delusion say, say astrophysicist lord, mar dangerous delusion",1,2021-03-03 14:07:50.600000000,20_musk_elon_elon musk_tesla
+22,"greta, thunberg, greta thunberg, climate, change mural",4,2021-03-03 14:07:50.600000000,22_greta_thunberg_greta thunberg_climate
+23,"brain, cancer, intelligence generate personally, disorder baffle canadian, die inquiry essential",5,2021-03-03 14:07:50.600000000,23_brain_cancer_alzheimer_scientists
+26,"bird flu, bird, flu, russia warn, transmission",2,2021-03-03 14:07:50.600000000,26_bird flu_bird_flu_case bird flu
+28,"volcano, eruption, iceland, erupt, earthquakes",13,2021-03-03 14:07:50.600000000,28_volcano_eruption_erupt_palma
+29,"temperature, record, warmest, thunderstorm cloud altitude, reach atop",2,2021-03-03 14:07:50.600000000,29_record_hottest_warmest_temperature
+30,"nord, nord stream, submarine enter zone, prepare provocations, pipeline plan",1,2021-03-03 14:07:50.600000000,30_pipeline_nord stream_nord_stream
+32,"order clandestine, chemicals poor neighborhoods, order clandestine burn, neighborhoods study, toxic chemicals poor",1,2021-03-03 14:07:50.600000000,32_chemical_ukraine_biological_false fla...
+33,"suez, canal, suez canal, ship, block suez",72,2021-03-03 14:07:50.600000000,33_suez_canal_suez canal_ship
+34,"scotland, thirds scots, better outside, fare better outside, fare better",2,2021-03-03 14:07:50.600000000,34_scottish_scotland_independence_scotti...
+35,"lockdown france close, order covid lockdown, macron order covid, covid lockdown france, macron order",1,2021-03-03 14:07:50.600000000,35_school_close_close school_coronavirus
+37,"tax, tariff, digital tax, digital, tax rate",5,2021-03-03 14:07:50.600000000,37_tax_corporate tax_corporate_minimum
+38,"fight make animal, animal fee, fight make, make animal, fee locust plague",1,2021-03-03 14:07:50.600000000,38_locust_locusts_swarm_locust swarm
+39,"duterte, kill duterte, philippines, kill, lawyers",4,2021-03-03 14:07:50.600000000,39_duterte_philippines_philippine_rodrig...
+40,"cotton india, sugar cotton, pakistan import sugar, sugar cotton india, import sugar cotton",1,2021-03-03 14:07:50.600000000,40_wheat_food_ukraine_war
+41,"spray reporters, thai spray, sanitiser duck, reporters hand, reporters hand sanitiser",1,2021-03-03 14:07:50.600000000,41_toilet_toilet paper_paper_hand
+42,"world pollute capital, capital straight, pollute capital straight, pollute capital, capital straight year",5,2021-03-03 14:07:50.600000000,42_pollution_air pollution_air_delhi
+43,"maxwell, ghislaine maxwell, ghislaine, jail condition, jail condition torture",9,2021-03-03 14:07:50.600000000,43_maxwell_ghislaine maxwell_ghislaine_s...
+-1,"covid, china, india, say, russia",2270,2021-04-05 11:31:30.800000000,-1_say_covid_ukraine_china
+0,"india, covid, china, say, vaccine",2303,2021-04-05 11:31:30.800000000,0_china_coronavirus_say_covid
+1,"mask, wear, wear mask, face mask, outdoor",20,2021-04-05 11:31:30.800000000,1_mask_face mask_wear_face
+2,"space, space station, rocket, chinese rocket, station",60,2021-04-05 11:31:30.800000000,2_space_earth_nasa_moon
+3,"climate, climate change, change, emissions, climate crisis",46,2021-04-05 11:31:30.800000000,3_climate_climate change_change_emission...
+4,"vatican, pope, corruption, anti corruption, new vatican anti",7,2021-04-05 11:31:30.800000000,4_pope_vatican_francis_pope francis
+5,"navalny, alexei navalny, alexei, critic, kremlin critic",83,2021-04-05 11:31:30.800000000,5_navalny_alexei_alexei navalny_poison
+6,"zelensky, vow stand man, zelensky ready war, president zelensky ready, russia vow stand",3,2021-04-05 11:31:30.800000000,6_zelensky_zelenskyy_ukraine_volodymyr
+7,"amazon, deforestation, rainforest, brazil, amazon rainforest",21,2021-04-05 11:31:30.800000000,7_amazon_deforestation_rainforest_tree
+8,"cars destroy arson, wildfire northern ireland, cars destroy, police officer home, ireland declare major",2,2021-04-05 11:31:30.800000000,8_australia_bushfires_wildfires_bushfire
+9,"huawei, dutch mobile network, dutch mobile, eavesdrop, mobile network",7,2021-04-05 11:31:30.800000000,9_huawei_meng_wanzhou_meng wanzhou
+10,"boris johnson, boris, johnson, body pile high, pile high",7,2021-04-05 11:31:30.800000000,10_johnson_boris johnson_boris_coronavir...
+11,"black, race report, white, race, live matter",7,2021-04-05 11:31:30.800000000,11_live matter_matter_black live_black l...
+12,"plastic, chemicals, single use, plastics, pollution",16,2021-04-05 11:31:30.800000000,12_plastic_waste_single use_plastic wast...
+13,"philip, prince philip, prince, queen, philip die",20,2021-04-05 11:31:30.800000000,13_queen_prince_elizabeth_queen elizabet...
+14,"children data, tiktok sue, tiktok, data britain europe, tiktok sue collect",2,2021-04-05 11:31:30.800000000,14_tiktok_ban_ban tiktok_trump
+15,"river, dam, flood, endanger orangutan habitat, critically endanger orangutan",3,2021-04-05 11:31:30.800000000,15_flood_rain_dam_china
+16,"cannabis, drug, decriminalize, drug possession, possession",7,2021-04-05 11:31:30.800000000,16_cannabis_marijuana_drug_decriminalize
+17,"melt, ice, glaciers, glaciers melt, antarctic",21,2021-04-05 11:31:30.800000000,17_ice_melt_greenland_arctic
+18,"astrazeneca, vaccine, astrazeneca vaccine, sue astrazeneca, dose",30,2021-04-05 11:31:30.800000000,18_astrazeneca_vaccine_astrazeneca vacci...
+19,"earthquake, magnitude, magnitude earthquake, japan magnitude earthquake, japan magnitude",5,2021-04-05 11:31:30.800000000,19_earthquake_magnitude_magnitude earthq...
+20,"musk, elon, elon musk, people probably die, people probably",4,2021-04-05 11:31:30.800000000,20_musk_elon_elon musk_tesla
+21,"kid, school edmonton, black kid, attack black kid, kid attack black",3,2021-04-05 11:31:30.800000000,21_residential school_residential_school...
+22,"greta, thunberg, greta thunberg, inequity, vaccine inequity",4,2021-04-05 11:31:30.800000000,22_greta_thunberg_greta thunberg_climate
+23,"brain, neuralink, musk neuralink, elon musk neuralink, disease",7,2021-04-05 11:31:30.800000000,23_brain_cancer_alzheimer_scientists
+26,"bird, bird flu, flu, biggest pharma company, mutant bird flu",2,2021-04-05 11:31:30.800000000,26_bird flu_bird_flu_case bird flu
+27,"lockdown, target worship, survive lockdown hit, mass ban intend, hair salon london",5,2021-04-05 11:31:30.800000000,27_lockdown_england_reopen_travel
+28,"vincent, volcano, eruption, caribbean, erupt",7,2021-04-05 11:31:30.800000000,28_volcano_eruption_erupt_palma
+29,"record, imd europe, yrs imd europe, europe hottest year, record european union",2,2021-04-05 11:31:30.800000000,29_record_hottest_warmest_temperature
+30,"germany pressure russian, pressure russian pipeline, germany pressure, pressure russian, russian pipeline",1,2021-04-05 11:31:30.800000000,30_pipeline_nord stream_nord_stream
+31,"ufo, pentagon, confirm leak, pentagon confirm, ufos",17,2021-04-05 11:31:30.800000000,31_ufo_pentagon_ufos_ufo videos
+32,"adviser say develop, say develop biological, vladimir putin adviser, putin adviser say, putin adviser",1,2021-04-05 11:31:30.800000000,32_chemical_ukraine_biological_false fla...
+33,"suez, canal, suez canal, ship, block suez",10,2021-04-05 11:31:30.800000000,33_suez_canal_suez canal_ship
+34,"scottish, independence, scotland, edge pro, early seat",8,2021-04-05 11:31:30.800000000,34_scottish_scotland_independence_scotti...
+35,"jewish star covid, star covid demo, german ban jewish, star covid, jewish star",5,2021-04-05 11:31:30.800000000,35_school_close_close school_coronavirus
+36,"cow, urine, cow urine, help desks, desks",11,2021-04-05 11:31:30.800000000,36_cow_urine_dung_cow urine
+37,"tax, corporate tax, corporate, minimum, minimum corporate tax",7,2021-04-05 11:31:30.800000000,37_tax_corporate tax_corporate_minimum
+38,"wind change direction, locusts wind change, locusts wind, battle swarm locusts, swarm locusts wind",1,2021-04-05 11:31:30.800000000,38_locust_locusts_swarm_locust swarm
+39,"duterte, philippine, rodrigo duterte, rodrigo, philippines",2,2021-04-05 11:31:30.800000000,39_duterte_philippines_philippine_rodrig...
+40,"raw material covishield, send raw, send raw material, material covishield, raw material",1,2021-04-05 11:31:30.800000000,40_wheat_food_ukraine_war
+41,"tech rival, colgate unveil recyclable, recyclable toothpaste, recyclable toothpaste tube, unveil recyclable toothpaste",1,2021-04-05 11:31:30.800000000,41_toilet_toilet paper_paper_hand
+42,"air pollution, pollution, air, asia deadliest, pollution cloud older",2,2021-04-05 11:31:30.800000000,42_pollution_air pollution_air_delhi
+43,"maxwell, ghislaine maxwell, ghislaine, jail, charge ghislaine",10,2021-04-05 11:31:30.800000000,43_maxwell_ghislaine maxwell_ghislaine_s...
+44,"ventilators, oxygen concentrators, oxygen, concentrators, india",5,2021-04-05 11:31:30.800000000,44_ventilators_ventilator_need_patients
+-1,"china, covid, say, india, new",1965,2021-05-08 08:55:11.000000000,-1_say_covid_ukraine_china
+0,"gaza, israel, israeli, hamas, say",3677,2021-05-08 08:55:11.000000000,0_china_coronavirus_say_covid
+1,"mask, wear, vaccinate, cdc, indoor outdoor",15,2021-05-08 08:55:11.000000000,1_mask_face mask_wear_face
+2,"space, rocket, earth, moon, chinese rocket",37,2021-05-08 08:55:11.000000000,2_space_earth_nasa_moon
+3,"climate, climate change, change, emissions, risk hit temperature",26,2021-05-08 08:55:11.000000000,3_climate_climate change_change_emission...
+4,"pope, church, vatican, abuse, francis",27,2021-05-08 08:55:11.000000000,4_pope_vatican_francis_pope francis
+5,"navalny, critic, alexei, alexei navalny, kremlin critic",32,2021-05-08 08:55:11.000000000,5_navalny_alexei_alexei navalny_poison
+6,"ukraine zelensky confuse, try block russia, confuse disappoint biden, block russia pipeline, biden try block",1,2021-05-08 08:55:11.000000000,6_zelensky_zelenskyy_ukraine_volodymyr
+7,"amazon, forest, tree, deforestation, brazilian",31,2021-05-08 08:55:11.000000000,7_amazon_deforestation_rainforest_tree
+8,"explode device, wildfire northern alberta, far europe cause, far europe, explode device gender",2,2021-05-08 08:55:11.000000000,8_australia_bushfires_wildfires_bushfire
+9,"huawei, battle seek admit, admit new hsbc, meng wanzhou open, wanzhou open",1,2021-05-08 08:55:11.000000000,9_huawei_meng_wanzhou_meng wanzhou
+10,"johnson, boris johnson, boris, cummings, infect covid live",9,2021-05-08 08:55:11.000000000,10_johnson_boris johnson_boris_coronavir...
+11,"live matter, black live, black live matter, matter, black",7,2021-05-08 08:55:11.000000000,11_live matter_matter_black live_black l...
+12,"plastic, waste, plastic waste, single use, use plastic",27,2021-05-08 08:55:11.000000000,12_plastic_waste_single use_plastic wast...
+13,"prince, queen, prince harry, harry, diana interview",10,2021-05-08 08:55:11.000000000,13_queen_prince_elizabeth_queen elizabet...
+14,"tiktok, collect biometric data, collect biometric, sue tiktok, biometric data",6,2021-05-08 08:55:11.000000000,14_tiktok_ban_ban tiktok_trump
+15,"tornadoes, flood, tornadoes kill, kill china injure, tornadoes kill china",8,2021-05-08 08:55:11.000000000,15_flood_rain_dam_china
+16,"cannabis, marijuana, back marijuana, legalization drop weed, amazon back marijuana",9,2021-05-08 08:55:11.000000000,16_cannabis_marijuana_drug_decriminalize
+17,"ice, melt, arctic, glaciers, ice sheet",12,2021-05-08 08:55:11.000000000,17_ice_melt_greenland_arctic
+18,"astrazeneca, astrazeneca vaccine, vaccine, dose, drop second dose",12,2021-05-08 08:55:11.000000000,18_astrazeneca_vaccine_astrazeneca vacci...
+19,"kuala, lumpur, hit kuala lumpur, hit kuala, magnitude hit kuala",1,2021-05-08 08:55:11.000000000,19_earthquake_magnitude_magnitude earthq...
+20,"musk, elon, elon musk, bezos, jeff",12,2021-05-08 08:55:11.000000000,20_musk_elon_elon musk_tesla
+21,"residential school, residential, school, indigenous, canada",54,2021-05-08 08:55:11.000000000,21_residential school_residential_school...
+22,"greta, thunberg, greta thunberg, fat, fat sham",9,2021-05-08 08:55:11.000000000,22_greta_thunberg_greta thunberg_climate
+23,"brain, alzheimer, cancer, disease, drug",18,2021-05-08 08:55:11.000000000,23_brain_cancer_alzheimer_scientists
+24,"jan federal conspiracy, jan federal, indict jan, conspiracy case court, conspiracy case",1,2021-05-08 08:55:11.000000000,24_assange_julian_julian assange_wikilea...
+26,"bird flu, bird, flu, case bird flu, case bird",38,2021-05-08 08:55:11.000000000,26_bird flu_bird_flu_case bird flu
+27,"lockdown, lockdown ease, ease, variant concern ban, germany say area",4,2021-05-08 08:55:11.000000000,27_lockdown_england_reopen_travel
+28,"volcano, erupt, congo, eruption, volcano erupt",10,2021-05-08 08:55:11.000000000,28_volcano_eruption_erupt_palma
+29,"early season, east part, east part asia, unusually severe early, unusually severe",1,2021-05-08 08:55:11.000000000,29_record_hottest_warmest_temperature
+30,"nord stream, nord, pipeline, stream, waive sanction",8,2021-05-08 08:55:11.000000000,30_pipeline_nord stream_nord_stream
+31,"ufo, ufos, pentagon, sight, report",27,2021-05-08 08:55:11.000000000,31_ufo_pentagon_ufos_ufo videos
+33,"suez, canal, suez canal, give, ship",7,2021-05-08 08:55:11.000000000,33_suez_canal_suez canal_ship
+34,"scottish, independence, scotland, scottish independence, sturgeon",13,2021-05-08 08:55:11.000000000,34_scottish_scotland_independence_scotti...
+36,"cow, dung, cow dung, urine, cow urine",42,2021-05-08 08:55:11.000000000,36_cow_urine_dung_cow urine
+37,"tax, corporate tax, minimum, corporate, global",23,2021-05-08 08:55:11.000000000,37_tax_corporate tax_corporate_minimum
+38,"locust, swarm, locust swarm, face hazard megafires, fao report",1,2021-05-08 08:55:11.000000000,38_locust_locusts_swarm_locust swarm
+41,"service couldn use, toilets wive, secret service couldn, use toilets, couldn use",1,2021-05-08 08:55:11.000000000,41_toilet_toilet paper_paper_hand
+42,"zero pollution air, biggest environmental, aim zero pollution, face biggest environmental, water soil asia",2,2021-05-08 08:55:11.000000000,42_pollution_air pollution_air_delhi
+44,"donate oxygen concentrators, concentrators ventilators, oxygen concentrators ventilators, cross donate oxygen, donate oxygen",1,2021-05-08 08:55:11.000000000,44_ventilators_ventilator_need_patients
+45,"accidentally kill afghan, strike accidentally, drone strike accidentally, strike accidentally kill, kill afghan farmers",1,2021-05-08 08:55:11.000000000,45_drone strike_drone_strike_kabul
+-1,"covid, china, say, new, canada",2254,2021-06-10 06:18:51.200000000,-1_say_covid_ukraine_china
+0,"say, china, covid, israel, new",2520,2021-06-10 06:18:51.200000000,0_china_coronavirus_say_covid
+1,"mask, wear, wear mask, face mask, face",36,2021-06-10 06:18:51.200000000,1_mask_face mask_wear_face
+2,"space, space station, station, branson, astronauts",55,2021-06-10 06:18:51.200000000,2_space_earth_nasa_moon
+3,"climate, climate change, change, heat, emissions",51,2021-06-10 06:18:51.200000000,3_climate_climate change_change_emission...
+4,"vatican, pope, francis, pope francis, cardinal",46,2021-06-10 06:18:51.200000000,4_pope_vatican_francis_pope francis
+5,"navalny, poison, alexei, alexei navalny, putin",14,2021-06-10 06:18:51.200000000,5_navalny_alexei_alexei navalny_poison
+7,"amazon, deforestation, rainforest, brazil, amazon rainforest",34,2021-06-10 06:18:51.200000000,7_amazon_deforestation_rainforest_tree
+8,"wildfires, wildfires rage, rage, amid high temperatures, wildfires rage russia",8,2021-06-10 06:18:51.200000000,8_australia_bushfires_wildfires_bushfire
+9,"huawei, meng, wanzhou, meng wanzhou, extradition",8,2021-06-10 06:18:51.200000000,9_huawei_meng_wanzhou_meng wanzhou
+10,"johnson, boris johnson, boris, delta variant boris, delay lockdown",4,2021-06-10 06:18:51.200000000,10_johnson_boris johnson_boris_coronavir...
+11,"racism, live matter, black, matter, black live",13,2021-06-10 06:18:51.200000000,11_live matter_matter_black live_black l...
+12,"plastic, single use, pollution, plastic pollution, single",16,2021-06-10 06:18:51.200000000,12_plastic_waste_single use_plastic wast...
+13,"queen, queen elizabeth, elizabeth, leaders joke, rank change queen",4,2021-06-10 06:18:51.200000000,13_queen_prince_elizabeth_queen elizabet...
+14,"tiktok, tiktok videos tiktok, confiscate cambodia, earn double, bytedance see",2,2021-06-10 06:18:51.200000000,14_tiktok_ban_ban tiktok_trump
+15,"tornado, flood, czech republic, czech, republic",15,2021-06-10 06:18:51.200000000,15_flood_rain_dam_china
+16,"cannabis, cannabis use, young adults, use, adults",5,2021-06-10 06:18:51.200000000,16_cannabis_marijuana_drug_decriminalize
+17,"ice, antarctic, shelf protect, shelf protect antarctic, protect antarctic glacier",7,2021-06-10 06:18:51.200000000,17_ice_melt_greenland_arctic
+18,"astrazeneca, vaccine, astrazeneca vaccine, astrazeneca covid, dose",16,2021-06-10 06:18:51.200000000,18_astrazeneca_vaccine_astrazeneca vacci...
+19,"earthquake, earthquakes, magnitude, rouhani fear, navy detonate bomb",4,2021-06-10 06:18:51.200000000,19_earthquake_magnitude_magnitude earthq...
+20,"jeff, jeff bezos, bezos, bezos step amazon, step amazon",9,2021-06-10 06:18:51.200000000,20_musk_elon_elon musk_tesla
+21,"residential school, residential, school, grave, unmarked",102,2021-06-10 06:18:51.200000000,21_residential school_residential_school...
+22,"zealand greta thunberg, zealand greta, white dominate space, white dominate, dominate space",1,2021-06-10 06:18:51.200000000,22_greta_thunberg_greta thunberg_climate
+23,"cancer, cells, healthy cells, type cancer, cancer cells",4,2021-06-10 06:18:51.200000000,23_brain_cancer_alzheimer_scientists
+24,"assange, julian assange, julian, key witness, assange case",14,2021-06-10 06:18:51.200000000,24_assange_julian_julian assange_wikilea...
+26,"bird, bird flu, flu, spread cause unknown, bird illness spread",2,2021-06-10 06:18:51.200000000,26_bird flu_bird_flu_case bird flu
+27,"lockdown, england, weeks, july, result travel restrictions",6,2021-06-10 06:18:51.200000000,27_lockdown_england_reopen_travel
+28,"philippine volcano erupt, erupt spew toxic, thousands flee philippine, flee philippine, flee philippine volcano",1,2021-06-10 06:18:51.200000000,28_volcano_eruption_erupt_palma
+29,"record, heat, heat wave, temperature, hottest",22,2021-06-10 06:18:51.200000000,29_record_hottest_warmest_temperature
+30,"nord, nord stream, stream, pipeline, stream pipeline",2,2021-06-10 06:18:51.200000000,30_pipeline_nord stream_nord_stream
+31,"ufo, ufo report, report, ufos, pentagon",14,2021-06-10 06:18:51.200000000,31_ufo_pentagon_ufos_ufo videos
+32,"helmets militants prepare, prepare false flag, helmets militants, prepare false, white helmets militants",1,2021-06-10 06:18:51.200000000,32_chemical_ukraine_biological_false fla...
+33,"canal, suez, suez canal, block suez, block suez canal",5,2021-06-10 06:18:51.200000000,33_suez_canal_suez canal_ship
+34,"lodge scottish parliament, assist die lodge, die lodge, die lodge scottish, lodge scottish",2,2021-06-10 06:18:51.200000000,34_scottish_scotland_independence_scotti...
+36,"cow, dung, say cow, cow dung, cure",12,2021-06-10 06:18:51.200000000,36_cow_urine_dung_cow urine
+37,"tax, minimum, global minimum, global, corporate",17,2021-06-10 06:18:51.200000000,37_tax_corporate tax_corporate_minimum
+39,"duterte, philippine, philippines, drug, icc probe kill",5,2021-06-10 06:18:51.200000000,39_duterte_philippines_philippine_rodrig...
+42,"stubbornly, stubbornly high, pollution cities stubbornly, cities stubbornly high, cities stubbornly",1,2021-06-10 06:18:51.200000000,42_pollution_air pollution_air_delhi
+43,"maxwell, ghislaine maxwell, ghislaine, traffic claim news, yard review ghislaine",3,2021-06-10 06:18:51.200000000,43_maxwell_ghislaine maxwell_ghislaine_s...
+44,"ventilators, philips recall breathe, degrade toxic potentially, foam degrade toxic, foam degrade",1,2021-06-10 06:18:51.200000000,44_ventilators_ventilator_need_patients
+45,"drone, force base jammu, base jammu, air force base, force base",3,2021-06-10 06:18:51.200000000,45_drone strike_drone_strike_kabul
+-1,"covid, china, say, new, world",2023,2021-07-13 03:42:31.400000000,-1_say_covid_ukraine_china
+0,"taliban, covid, china, say, afghanistan",2404,2021-07-13 03:42:31.400000000,0_china_coronavirus_say_covid
+1,"mask, wear, wear mask, face, cdc",19,2021-07-13 03:42:31.400000000,1_mask_face mask_wear_face
+2,"space, bezos, earth, jeff bezos, jeff",51,2021-07-13 03:42:31.400000000,2_space_earth_nasa_moon
+3,"climate, climate change, change, emissions, warn",79,2021-07-13 03:42:31.400000000,3_climate_climate change_change_emission...
+4,"pope, vatican, priest, restrictions latin, restrictions latin mass",14,2021-07-13 03:42:31.400000000,4_pope_vatican_francis_pope francis
+5,"navalny, critic, kremlin critic, critic navalny, kremlin critic navalny",5,2021-07-13 03:42:31.400000000,5_navalny_alexei_alexei navalny_poison
+7,"amazon, rainforest, amazon rainforest, tree, absorb",29,2021-07-13 03:42:31.400000000,7_amazon_deforestation_rainforest_tree
+8,"wildfires, wildfire, greece, fire, firefighters",41,2021-07-13 03:42:31.400000000,8_australia_bushfires_wildfires_bushfire
+9,"huawei, extradition, meng, wanzhou, meng wanzhou",11,2021-07-13 03:42:31.400000000,9_huawei_meng_wanzhou_meng wanzhou
+10,"johnson, boris johnson, boris, covid boris johnson, covid boris",10,2021-07-13 03:42:31.400000000,10_johnson_boris johnson_boris_coronavir...
+11,"racism, clash protesters try, panic white, storm old, bbc jab passport",5,2021-07-13 03:42:31.400000000,11_live matter_matter_black live_black l...
+12,"plastic, pollution, marine pollution, plastics, plastic pollution",7,2021-07-13 03:42:31.400000000,12_plastic_waste_single use_plastic wast...
+13,"queen, elizabeth monarch unite, queen elizabeth monarch, health terribly, worse health terribly",3,2021-07-13 03:42:31.400000000,13_queen_prince_elizabeth_queen elizabet...
+14,"tiktok, darrechi anger condom, tiktok dangerous game, tiktok ads promise, spanish tiktok",5,2021-07-13 03:42:31.400000000,14_tiktok_ban_ban tiktok_trump
+15,"flood, rain, germany, flood germany, dam",97,2021-07-13 03:42:31.400000000,15_flood_rain_dam_china
+16,"cannabis, marijuana, victorian, employment discrimination, genomes plant world",11,2021-07-13 03:42:31.400000000,16_cannabis_marijuana_drug_decriminalize
+17,"ice, melt, greenland, florida inch, cover florida",12,2021-07-13 03:42:31.400000000,17_ice_melt_greenland_arctic
+18,"astrazeneca, vindication astrazeneca vaccine, lifetime study, politicise europe quietly, vaccine protection lifetime",2,2021-07-13 03:42:31.400000000,18_astrazeneca_vaccine_astrazeneca vacci...
+19,"earthquake, magnitude, magnitude earthquake, haiti, tsunami",13,2021-07-13 03:42:31.400000000,19_earthquake_magnitude_magnitude earthq...
+20,"musk, elon, elon musk, bezos, jeff",10,2021-07-13 03:42:31.400000000,20_musk_elon_elon musk_tesla
+21,"residential school, residential, school, grave, unmarked",26,2021-07-13 03:42:31.400000000,21_residential school_residential_school...
+22,"greta, thunberg, tomorrow, greta thunberg, tomorrow tomorrow",3,2021-07-13 03:42:31.400000000,22_greta_thunberg_greta thunberg_climate
+23,"brain, paralyze man, paralyze, cancer, ban coral",13,2021-07-13 03:42:31.400000000,23_brain_cancer_alzheimer_scientists
+24,"assange, julian assange, julian, extradition, ecuador",10,2021-07-13 03:42:31.400000000,24_assange_julian_julian assange_wikilea...
+26,"bird flu, bird, flu, human death, human",3,2021-07-13 03:42:31.400000000,26_bird flu_bird_flu_case bird flu
+27,"dhabi announce, confusion covid safety, amid confusion covid, reopen venues, england amid confusion",2,2021-07-13 03:42:31.400000000,27_lockdown_england_reopen_travel
+28,"volcano, pacific ring erupt, eye sauron discover, locate alaska, locate alaska pacific",2,2021-07-13 03:42:31.400000000,28_volcano_eruption_erupt_palma
+29,"hottest, record, temperature, heat, europe",28,2021-07-13 03:42:31.400000000,29_record_hottest_warmest_temperature
+30,"nord, nord stream, pipeline, stream, germany",6,2021-07-13 03:42:31.400000000,30_pipeline_nord stream_nord_stream
+31,"pentagon, ufos, astronomer study, dot sky actually, future events harvard",3,2021-07-13 03:42:31.400000000,31_ufo_pentagon_ufos_ufo videos
+32,"hampshire company allegedly, lab equipment russia, fbi federal, destruction program, lab equipment",1,2021-07-13 03:42:31.400000000,32_chemical_ukraine_biological_false fla...
+33,"suez, suez canal, canal, give ship, ship",2,2021-07-13 03:42:31.400000000,33_suez_canal_suez canal_ship
+34,"scotland, cite trump organization, judge rule lawyers, golf course judge, launder investigation trump",1,2021-07-13 03:42:31.400000000,34_scottish_scotland_independence_scotti...
+35,"students expose officials, students expose, school positive, expose officials, parent send child",1,2021-07-13 03:42:31.400000000,35_school_close_close school_coronavirus
+36,"cow, release manipur activist, immediate release manipur, arrest post say, manipur activist",1,2021-07-13 03:42:31.400000000,36_cow_urine_dung_cow urine
+37,"world salt sugar, sugar tax, tax introduce england, world salt, introduce england",1,2021-07-13 03:42:31.400000000,37_tax_corporate tax_corporate_minimum
+39,"duterte, careful plan duterte, say malacaang, duterte state department, malacaang",2,2021-07-13 03:42:31.400000000,39_duterte_philippines_philippine_rodrig...
+40,"egypt president vow, vow increase price, subsidize bread, president vow increase, increase price subsidize",1,2021-07-13 03:42:31.400000000,40_wheat_food_ukraine_war
+41,"longer urinate, urinate defecate public, urinate defecate, woman tell longer, longer urinate defecate",1,2021-07-13 03:42:31.400000000,41_toilet_toilet paper_paper_hand
+42,"government say, emissions mobile, safety electric magnetic, win health, norms safety",1,2021-07-13 03:42:31.400000000,42_pollution_air pollution_air_delhi
+43,"nba hay, nba hay controversial, controversial arrest, hay controversial arrest, hay controversial",1,2021-07-13 03:42:31.400000000,43_maxwell_ghislaine maxwell_ghislaine_s...
+44,"unused ventilators, ventilators covid, unused ventilators covid, government keep unused, indian government keep",1,2021-07-13 03:42:31.400000000,44_ventilators_ventilator_need_patients
+-1,"covid, china, say, taliban, new",2131,2021-08-15 01:06:11.600000000,-1_say_covid_ukraine_china
+0,"taliban, afghanistan, kabul, afghan, say",3272,2021-08-15 01:06:11.600000000,0_china_coronavirus_say_covid
+1,"mask, wear, wear mask, face mask, refuse wear",32,2021-08-15 01:06:11.600000000,1_mask_face mask_wear_face
+2,"space, spacex, space station, nasa, moon",45,2021-08-15 01:06:11.600000000,2_space_earth_nasa_moon
+3,"climate, climate change, change, journals, action climate",33,2021-08-15 01:06:11.600000000,3_climate_climate change_change_emission...
+4,"pope, francis, pope francis, bishop, vatican",34,2021-08-15 01:06:11.600000000,4_pope_vatican_francis_pope francis
+5,"navalny, alexei navalny, alexei, kremlin, poison",9,2021-08-15 01:06:11.600000000,5_navalny_alexei_alexei navalny_poison
+6,"tie track, biden zelenskyy, zelenskyy ukraine tie, biden zelenskyy ukraine, ukraine tie track",1,2021-08-15 01:06:11.600000000,6_zelensky_zelenskyy_ukraine_volodymyr
+7,"amazon, deforestation, tree, brazilian, brazilian amazon",21,2021-08-15 01:06:11.600000000,7_amazon_deforestation_rainforest_tree
+8,"block flats, flats, wildfires, flame, climate crisis",5,2021-08-15 01:06:11.600000000,8_australia_bushfires_wildfires_bushfire
+9,"huawei, spy pakistan, backdoor spy pakistan, backdoor spy, claim biz",8,2021-08-15 01:06:11.600000000,9_huawei_meng_wanzhou_meng wanzhou
+10,"social care, johnson, pay social, pay social care, johnson hike",5,2021-08-15 01:06:11.600000000,10_johnson_boris johnson_boris_coronavir...
+11,"live matter, black live, black live matter, matter, black",8,2021-08-15 01:06:11.600000000,11_live matter_matter_black live_black l...
+12,"plastic, single use, cutlery, single use plastic, use plastic",6,2021-08-15 01:06:11.600000000,12_plastic_waste_single use_plastic wast...
+13,"queen, queen elizabeth, elizabeth, barbados, generations say novelist",7,2021-08-15 01:06:11.600000000,13_queen_prince_elizabeth_queen elizabet...
+14,"tiktok, milk crate challenge, crate challenge, milk crate, data china",5,2021-08-15 01:06:11.600000000,14_tiktok_ban_ban tiktok_trump
+15,"flood, god, north east spain, nyc flood god, snitch plan",7,2021-08-15 01:06:11.600000000,15_flood_rain_dam_china
+16,"cannabis, marijuana, allow, cannabis grow, italy legalise",7,2021-08-15 01:06:11.600000000,16_cannabis_marijuana_drug_decriminalize
+17,"ice, greenland, melt, northernmost, scientists",13,2021-08-15 01:06:11.600000000,17_ice_melt_greenland_arctic
+18,"astrazeneca, lisa shaw, shaw, lisa, vaccine",12,2021-08-15 01:06:11.600000000,18_astrazeneca_vaccine_astrazeneca vacci...
+19,"earthquake, haiti, magnitude, quake, magnitude earthquake",23,2021-08-15 01:06:11.600000000,19_earthquake_magnitude_magnitude earthq...
+20,"bezos, musk, elon, elon musk, jeff bezos",7,2021-08-15 01:06:11.600000000,20_musk_elon_elon musk_tesla
+21,"school, reconciliation, residential school, residential, book",3,2021-08-15 01:06:11.600000000,21_residential school_residential_school...
+22,"thunberg, greta, greta thunberg, climate, months threaten skip",4,2021-08-15 01:06:11.600000000,22_greta_thunberg_greta thunberg_climate
+23,"brain, alzheimer, cancer, mini brain, mini",15,2021-08-15 01:06:11.600000000,23_brain_cancer_alzheimer_scientists
+24,"assange, reach new summit, samantha power reach, informant pay, informant pay government",2,2021-08-15 01:06:11.600000000,24_assange_julian_julian assange_wikilea...
+26,"turkeys christmas, poultry producers warn, warn farm, turkeys christmas brexit, brexit poultry producers",1,2021-08-15 01:06:11.600000000,26_bird flu_bird_flu_case bird flu
+27,"tourists sweden, sweden announce ban, reimpose ban tourists, ban tourists sweden, announce ban travelers",3,2021-08-15 01:06:11.600000000,27_lockdown_england_reopen_travel
+28,"eruption, volcanic eruption, volcanic, volcano, palma",7,2021-08-15 01:06:11.600000000,28_volcano_eruption_erupt_palma
+29,"record, temperature, warmest, hottest, europe",5,2021-08-15 01:06:11.600000000,29_record_hottest_warmest_temperature
+30,"nord, nord stream, stream, pipeline, gas",5,2021-08-15 01:06:11.600000000,30_pipeline_nord stream_nord_stream
+33,"canal, suez, suez canal, ship, block suez",7,2021-08-15 01:06:11.600000000,33_suez_canal_suez canal_ship
+34,"scottish, independence, scotland, scottish independence, scottish government",6,2021-08-15 01:06:11.600000000,34_scottish_scotland_independence_scotti...
+35,"school, guidance board, isolation new local, cdc guidance board, buck cdc",2,2021-08-15 01:06:11.600000000,35_school_close_close school_coronavirus
+36,"cow, give fundamental, beg americans, court snake, take drug mean",4,2021-08-15 01:06:11.600000000,36_cow_urine_dung_cow urine
+37,"tax, set path record, store year tax, havens national insurance, level tax",2,2021-08-15 01:06:11.600000000,37_tax_corporate tax_corporate_minimum
+39,"duterte, philippine, rodrigo duterte, rodrigo, philippine drug war",6,2021-08-15 01:06:11.600000000,39_duterte_philippines_philippine_rodrig...
+42,"pollution, air pollution, air, pollution cut, years life expectancy",7,2021-08-15 01:06:11.600000000,42_pollution_air pollution_air_delhi
+43,"jail weeks claim, claim god give, glynn jail, glynn jail weeks, god give right",1,2021-08-15 01:06:11.600000000,43_maxwell_ghislaine maxwell_ghislaine_s...
+45,"drone strike, drone, strike, kabul, kill",50,2021-08-15 01:06:11.600000000,45_drone strike_drone_strike_kabul
+-1,"china, covid, say, new, world",2244,2021-09-16 22:29:51.800000000,-1_say_covid_ukraine_china
+0,"china, say, covid, taliban, new",2214,2021-09-16 22:29:51.800000000,0_china_coronavirus_say_covid
+1,"mask, face mask, gas station, face, germany gas station",26,2021-09-16 22:29:51.800000000,1_mask_face mask_wear_face
+2,"space, earth, space station, station, william shatner",52,2021-09-16 22:29:51.800000000,2_space_earth_nasa_moon
+3,"climate, climate change, change, cop, emissions",54,2021-09-16 22:29:51.800000000,3_climate_climate change_change_emission...
+4,"pope, church, catholic, abuse, catholic church",74,2021-09-16 22:29:51.800000000,4_pope_vatican_francis_pope francis
+5,"navalny, poison, alexei, alexei navalny, critic",18,2021-09-16 22:29:51.800000000,5_navalny_alexei_alexei navalny_poison
+7,"amazon, rainforest, palm oil, indigenous, palm",17,2021-09-16 22:29:51.800000000,7_amazon_deforestation_rainforest_tree
+8,"wildfires, blanket, largest tree, world largest tree, california",9,2021-09-16 22:29:51.800000000,8_australia_bushfires_wildfires_bushfire
+9,"huawei, meng, meng wanzhou, wanzhou, huawei executive",26,2021-09-16 22:29:51.800000000,9_huawei_meng_wanzhou_meng wanzhou
+10,"johnson, confirm carrie, meet maskless johnson, johnson break lockdown, amp alex boris",2,2021-09-16 22:29:51.800000000,10_johnson_boris johnson_boris_coronavir...
+11,"affairs committee antiracist, macarthur genius grant, kendi award, areas migrants, tell affairs",3,2021-09-16 22:29:51.800000000,11_live matter_matter_black live_black l...
+12,"plastic, plastic waste, fruit vegetables, waste, vegetables",15,2021-09-16 22:29:51.800000000,12_plastic_waste_single use_plastic wast...
+13,"royals marry sex, royals marry, dutch royals, dutch royals marry, marry sex partner",6,2021-09-16 22:29:51.800000000,13_queen_prince_elizabeth_queen elizabet...
+14,"tiktok, douyin, tiktok minutes, minutes, kid",6,2021-09-16 22:29:51.800000000,14_tiktok_ban_ban tiktok_trump
+15,"flood, shanxi, rain, shanxi province, displace",12,2021-09-16 22:29:51.800000000,15_flood_rain_dam_china
+16,"cannabis, decriminalize, decriminalize cannabis, italy likely hold, referendum decriminalize",12,2021-09-16 22:29:51.800000000,16_cannabis_marijuana_drug_decriminalize
+17,"ice, arctic, sea ice, melt, sea",6,2021-09-16 22:29:51.800000000,17_ice_melt_greenland_arctic
+18,"slovenia, johnson vaccine death, suspend johnson vaccine, year old amp, suspend slovenia",2,2021-09-16 22:29:51.800000000,18_astrazeneca_vaccine_astrazeneca vacci...
+19,"earthquake, magnitude, magnitude earthquake, earthquake strike, magnitude earthquake strike",14,2021-09-16 22:29:51.800000000,19_earthquake_magnitude_magnitude earthq...
+20,"musk, elon, elon musk, tesla, tesla continue",6,2021-09-16 22:29:51.800000000,20_musk_elon_elon musk_tesla
+21,"residential school, residential, school, catholic bishops, catholic",10,2021-09-16 22:29:51.800000000,21_residential school_residential_school...
+22,"thunberg, greta, blah, greta thunberg, climate",15,2021-09-16 22:29:51.800000000,22_greta_thunberg_greta thunberg_climate
+23,"cancer, brain, tumours terminally, terminally ill find, tumours terminally ill",10,2021-09-16 22:29:51.800000000,23_brain_cancer_alzheimer_scientists
+24,"assange, julian assange, julian, assassinate julian assange, assassinate julian",19,2021-09-16 22:29:51.800000000,24_assange_julian_julian assange_wikilea...
+26,"bird flu, bird, flu, case bird, case bird flu",5,2021-09-16 22:29:51.800000000,26_bird flu_bird_flu_case bird flu
+27,"delay impose, helpline leave hold, leave hold, delay impose lockdown, leave hold delay",2,2021-09-16 22:29:51.800000000,27_lockdown_england_reopen_travel
+28,"volcano, palma, lava, canary, erupt",22,2021-09-16 22:29:51.800000000,28_volcano_eruption_erupt_palma
+29,"categorize heat wave, categorize heat, seville major, seville major city, world categorize heat",1,2021-09-16 22:29:51.800000000,29_record_hottest_warmest_temperature
+30,"nord stream, nord, stream, waiver nord stream, waiver nord",3,2021-09-16 22:29:51.800000000,30_pipeline_nord stream_nord_stream
+31,"ness monster, officer present evidence, ufos tamper, show massive creature, monster capture strike",2,2021-09-16 22:29:51.800000000,31_ufo_pentagon_ufos_ufo videos
+33,"murder madeleine mccann, suspect abduct, abduct murder, abduct murder madeleine, prosecutor convince suspect",1,2021-09-16 22:29:51.800000000,33_suez_canal_suez canal_ship
+34,"scotland, british space, wreck sensitive, dune scotland build, europe ferry link",4,2021-09-16 22:29:51.800000000,34_scottish_scotland_independence_scotti...
+35,"school, olds school reopen, school reopen return, cambodia vaccinate year, school cause surge",2,2021-09-16 22:29:51.800000000,35_school_close_close school_coronavirus
+36,"cow, cow disease, mad cow disease, mad cow, mad",2,2021-09-16 22:29:51.800000000,36_cow_urine_dung_cow urine
+37,"tax, tax rate, corporate tax, corporate, rate",18,2021-09-16 22:29:51.800000000,37_tax_corporate tax_corporate_minimum
+39,"duterte, philippine, retirement politics, announce retirement politics, duterte announce",17,2021-09-16 22:29:51.800000000,39_duterte_philippines_philippine_rodrig...
+42,"pollution, air pollution, air, issue new, health agency rank",2,2021-09-16 22:29:51.800000000,42_pollution_air pollution_air_delhi
+45,"drone strike, drone, strike, kabul drone, kabul drone strike",24,2021-09-16 22:29:51.800000000,45_drone strike_drone_strike_kabul
+-1,"china, covid, say, climate, world",1805,2021-10-19 19:53:32.000000000,-1_say_covid_ukraine_china
+0,"china, say, covid, belarus, israel",1753,2021-10-19 19:53:32.000000000,0_china_coronavirus_say_covid
+1,"mask, medical gloves, gloves, face mask, gloves import",11,2021-10-19 19:53:32.000000000,1_mask_face mask_wear_face
+2,"space, debris, astronauts, space station, anti satellite",36,2021-10-19 19:53:32.000000000,2_space_earth_nasa_moon
+3,"climate, climate change, change, cop, warm",120,2021-10-19 19:53:32.000000000,3_climate_climate change_change_emission...
+4,"pope, abuse, vatican, church, catholic",15,2021-10-19 19:53:32.000000000,4_pope_vatican_francis_pope francis
+5,"navalny, critic, alexei, alexei navalny, kremlin critic",9,2021-10-19 19:53:32.000000000,5_navalny_alexei_alexei navalny_poison
+7,"deforestation, amazon, end deforestation, cop, brazil",41,2021-10-19 19:53:32.000000000,7_amazon_deforestation_rainforest_tree
+8,"sequoias, fire, burn, fire kill nearly, drax burn canada",5,2021-10-19 19:53:32.000000000,8_australia_bushfires_wildfires_bushfire
+9,"fin mobile phone, mobile phone clampdown, drivers face fin, face fin mobile, phone clampdown",1,2021-10-19 19:53:32.000000000,9_huawei_meng_wanzhou_meng wanzhou
+10,"johnson, boris johnson, boris, care queen say, like drug consumption",4,2021-10-19 19:53:32.000000000,10_johnson_boris johnson_boris_coronavir...
+11,"swoop insulate, white history, stage demo, pete critical, stage demo dutch",5,2021-10-19 19:53:32.000000000,11_live matter_matter_black live_black l...
+12,"plastic, waste, plastic waste, single use, use plastic",15,2021-10-19 19:53:32.000000000,12_plastic_waste_single use_plastic wast...
+13,"queen, queen elizabeth, elizabeth, barbados, prince",35,2021-10-19 19:53:32.000000000,13_queen_prince_elizabeth_queen elizabet...
+14,"tiktok, tiktoker jinn, skyrim skits kill, tiktok blame, push teachers edge",5,2021-10-19 19:53:32.000000000,14_tiktok_ban_ban tiktok_trump
+15,"flood, rain, heavy, british columbia, columbia",10,2021-10-19 19:53:32.000000000,15_flood_rain_dam_china
+16,"decriminalize, cannabis, drug personal use, drug personal, personal use",6,2021-10-19 19:53:32.000000000,16_cannabis_marijuana_drug_decriminalize
+17,"study look northern, hemisphere warm lakes, look northern hemisphere, algae bloom canadian, drought flood say",2,2021-10-19 19:53:32.000000000,17_ice_melt_greenland_arctic
+18,"astrazeneca, vaccine, astrazeneca covid, public vaccine spend, spend months intubate",3,2021-10-19 19:53:32.000000000,18_astrazeneca_vaccine_astrazeneca vacci...
+19,"earthquake, scotland shake, magnitude hit taiwan, southern iran west, iran west scotland",3,2021-10-19 19:53:32.000000000,19_earthquake_magnitude_magnitude earthq...
+20,"musk, elon, elon musk, tesla, tesla stock",27,2021-10-19 19:53:32.000000000,20_musk_elon_elon musk_tesla
+21,"residential school, residential, school, chrtien, canada",7,2021-10-19 19:53:32.000000000,21_residential school_residential_school...
+22,"greta, thunberg, greta thunberg, cop, climate",9,2021-10-19 19:53:32.000000000,22_greta_thunberg_greta thunberg_climate
+23,"brain, alzheimer, cancer, alzheimer disease, nation expose high",10,2021-10-19 19:53:32.000000000,23_brain_cancer_alzheimer_scientists
+24,"assange, julian assange, julian, appeal, extradition",9,2021-10-19 19:53:32.000000000,24_assange_julian_julian assange_wikilea...
+26,"bird flu, bird, flu, europe asia, poultry",18,2021-10-19 19:53:32.000000000,26_bird flu_bird_flu_case bird flu
+28,"volcano, palma, eruption, lava, palma volcano",19,2021-10-19 19:53:32.000000000,28_volcano_eruption_erupt_palma
+29,"record, hottest, warmest, planet head uncharted, warn planet head",4,2021-10-19 19:53:32.000000000,29_record_hottest_warmest_temperature
+30,"pipeline, nord stream, nord, gas, stream",9,2021-10-19 19:53:32.000000000,30_pipeline_nord stream_nord_stream
+31,"ufo, ufos, ufos alien, adversary earth nasa, earth nasa leader",3,2021-10-19 19:53:32.000000000,31_ufo_pentagon_ufos_ufo videos
+33,"suez, canal, suez canal, plan mock trial, mccann prosecutor plan",2,2021-10-19 19:53:32.000000000,33_suez_canal_suez canal_ship
+34,"lawyers aim, investigate trump golf, force scotland, force scotland investigate, scotland investigate",1,2021-10-19 19:53:32.000000000,34_scottish_scotland_independence_scotti...
+36,"cow, dung, cow dung, urine, properties video viral",2,2021-10-19 19:53:32.000000000,36_cow_urine_dung_cow urine
+37,"tax, corporate, corporate tax, minimum, global minimum",7,2021-10-19 19:53:32.000000000,37_tax_corporate tax_corporate_minimum
+39,"duterte, philippines, rodrigo duterte, rodrigo, president rodrigo",9,2021-10-19 19:53:32.000000000,39_duterte_philippines_philippine_rodrig...
+41,"cambodia, unsafe toilets, people cambodia, toilets impact health, cambodia die drink",2,2021-10-19 19:53:32.000000000,41_toilet_toilet paper_paper_hand
+42,"pollution, air pollution, air, delhi, smog",23,2021-10-19 19:53:32.000000000,42_pollution_air pollution_air_delhi
+43,"maxwell, ghislaine maxwell, ghislaine, ghislaine maxwell trial, maxwell trial",5,2021-10-19 19:53:32.000000000,43_maxwell_ghislaine maxwell_ghislaine_s...
+45,"drone strike, drone, strike, strike kill afghan, pentagon",12,2021-10-19 19:53:32.000000000,45_drone strike_drone_strike_kabul
+-1,"covid, new, china, say, russia",1366,2021-11-21 17:17:12.200000000,-1_say_covid_ukraine_china
+0,"say, china, covid, israel, iran",1232,2021-11-21 17:17:12.200000000,0_china_coronavirus_say_covid
+1,"mask, face mask, face, wear, breastfeed cat",17,2021-11-21 17:17:12.200000000,1_mask_face mask_wear_face
+2,"space, asteroid, nasa, moon, earth",19,2021-11-21 17:17:12.200000000,2_space_earth_nasa_moon
+3,"climate, emissions, fall short, climate change, change",6,2021-11-21 17:17:12.200000000,3_climate_climate change_change_emission...
+4,"pope, francis, pope francis, vatican, francis say",16,2021-11-21 17:17:12.200000000,4_pope_vatican_francis_pope francis
+5,"navalny, alexei, alexei navalny, seamstress, figure depart",2,2021-11-21 17:17:12.200000000,5_navalny_alexei_alexei navalny_poison
+6,"zelensky, prepare ukraine ukraine, state coup etat, coup etat prepare, zelensky state",2,2021-11-21 17:17:12.200000000,6_zelensky_zelenskyy_ukraine_volodymyr
+7,"amazon, deforestation, amazon deforestation, forest, brazil",13,2021-11-21 17:17:12.200000000,7_amazon_deforestation_rainforest_tree
+8,"protesters burn chinatown, force solomon islands, deploy force solomon, solomon islands protesters, australia deploy force",1,2021-11-21 17:17:12.200000000,8_australia_bushfires_wildfires_bushfire
+9,"huawei, china ambassador warn, ambassador warn, china ambassador, canada approve huawei",3,2021-11-21 17:17:12.200000000,9_huawei_meng_wanzhou_meng wanzhou
+10,"johnson, boris johnson, boris, lose passports boris, press hold",4,2021-11-21 17:17:12.200000000,10_johnson_boris johnson_boris_coronavir...
+11,"rowling receive, edinburgh home, outside edinburgh home, outside edinburgh, activists pose",1,2021-11-21 17:17:12.200000000,11_live matter_matter_black live_black l...
+12,"plastic, garbage patch, garbage, patch, patch immense",12,2021-11-21 17:17:12.200000000,12_plastic_waste_single use_plastic wast...
+13,"barbados, queen, prince, queen elizabeth, elizabeth",23,2021-11-21 17:17:12.200000000,13_queen_prince_elizabeth_queen elizabet...
+14,"deactivate instagram facebook, facebook tiktok snapchat, snapchat account, cosmetics deactivate instagram, lush cosmetics",1,2021-11-21 17:17:12.200000000,14_tiktok_ban_ban tiktok_trump
+15,"flood, storm, arwen man die, study storm, fsm experience massive",6,2021-11-21 17:17:12.200000000,15_flood_rain_dam_china
+16,"cannabis, uber, drug, cannabis market, marijuana",10,2021-11-21 17:17:12.200000000,16_cannabis_marijuana_drug_decriminalize
+17,"arctic, ice, arctic ocean, ocean, decades earlier",9,2021-11-21 17:17:12.200000000,17_ice_melt_greenland_arctic
+18,"macron quick, quick mock, macron quick mock, strategy astrazeneca, mock britain",1,2021-11-21 17:17:12.200000000,18_astrazeneca_vaccine_astrazeneca vacci...
+19,"earthquake, magnitude earthquake hit, magnitude, earthquake hit, magnitude earthquake",2,2021-11-21 17:17:12.200000000,19_earthquake_magnitude_magnitude earthq...
+20,"musk, elon, elon musk, elon musk say, musk say",7,2021-11-21 17:17:12.200000000,20_musk_elon_elon musk_tesla
+21,"land belong kmaq, transfer nova, kmaq people, kmaq people acres, historic land transfer",1,2021-11-21 17:17:12.200000000,21_residential school_residential_school...
+22,"triumph women, triumph women europe, thunberg angela merkel, merkel triumph, merkel triumph women",1,2021-11-21 17:17:12.200000000,22_greta_thunberg_greta thunberg_climate
+23,"nanorobot, alzheimer, viagra, cancer, develop",5,2021-11-21 17:17:12.200000000,23_brain_cancer_alzheimer_scientists
+24,"assange, julian, julian assange, extradite, extradition",20,2021-11-21 17:17:12.200000000,24_assange_julian_julian assange_wikilea...
+25,"omicron, omicron variant, variant, case omicron, africa",159,2021-11-21 17:17:12.200000000,25_omicron_variant_omicron variant_case ...
+26,"bird flu, flu, bird, farm, chief vet",6,2021-11-21 17:17:12.200000000,26_bird flu_bird_flu_case bird flu
+28,"volcano, palma, eruption, ash, erupt",8,2021-11-21 17:17:12.200000000,28_volcano_eruption_erupt_palma
+30,"pipeline, nord, nord stream, stream, oil pipeline regulations",3,2021-11-21 17:17:12.200000000,30_pipeline_nord stream_nord_stream
+31,"ufo, pentagon, declassify canadian, ufo report ignore, pentagon ufo rapid",4,2021-11-21 17:17:12.200000000,31_ufo_pentagon_ufos_ufo videos
+33,"suez, canal, suez canal, egypt, emergency state ahead",1,2021-11-21 17:17:12.200000000,33_suez_canal_suez canal_ship
+34,"scotland, scottish, power arwen, thousands home power, stone destiny return",3,2021-11-21 17:17:12.200000000,34_scottish_scotland_independence_scotti...
+35,"school, online school year, school forever amid, normal routines france, school forever",2,2021-11-21 17:17:12.200000000,35_school_close_close school_coronavirus
+36,"government office india, paper government, office india, goat steal, paper government office",1,2021-11-21 17:17:12.200000000,36_cow_urine_dung_cow urine
+37,"tax, pay tax, unfair, tax deal leave, loopholes reuters analysis",3,2021-11-21 17:17:12.200000000,37_tax_corporate tax_corporate_minimum
+39,"duterte, help probe duterte, probe duterte, drug war shoot, filipino journalist help",2,2021-11-21 17:17:12.200000000,39_duterte_philippines_philippine_rodrig...
+42,"world pollute cities, pollute cities, world pollute, pollute, killer choke",3,2021-11-21 17:17:12.200000000,42_pollution_air pollution_air_delhi
+43,"maxwell, ghislaine maxwell, ghislaine, maxwell sex traffic, trial",5,2021-11-21 17:17:12.200000000,43_maxwell_ghislaine maxwell_ghislaine_s...
+45,"drone deaths kabul, troop civilian, civilian drone deaths, troop civilian drone, drone deaths",1,2021-11-21 17:17:12.200000000,45_drone strike_drone_strike_kabul
+-1,"ukraine, anti, weapons ukraine, amid fear russian, fear russian",24,2021-12-24 14:40:52.400000000,-1_say_covid_ukraine_china
+0,"russia, ukraine, nato, warn, sex abuse",17,2021-12-24 14:40:52.400000000,0_china_coronavirus_say_covid
+4,"parent condemn, parent condemn children, different sexual, condemn children, sexual orientations",1,2021-12-24 14:40:52.400000000,4_pope_vatican_francis_pope francis
+32,"attack ukraine point, release toxic ammonia, lead militants release, lead militants, toxic ammonia",2,2021-12-24 14:40:52.400000000,32_chemical_ukraine_biological_false fla...
+-1,"ukraine, russia, russian, putin, say",3862,2022-01-26 12:04:32.600000000,-1_say_covid_ukraine_china
+0,"ukraine, russia, russian, invasion, putin",3748,2022-01-26 12:04:32.600000000,0_china_coronavirus_say_covid
+1,"mask, face mask, walk, airways demand, faceless figure",6,2022-01-26 12:04:32.600000000,1_mask_face mask_wear_face
+2,"space, iss, russian space, space station, station",40,2022-01-26 12:04:32.600000000,2_space_earth_nasa_moon
+3,"climate, climate change, change, global, global warm",13,2022-01-26 12:04:32.600000000,3_climate_climate change_change_emission...
+4,"invalid, catholic priest, priest, catholic, perform thousands invalid",3,2022-01-26 12:04:32.600000000,4_pope_vatican_francis_pope francis
+5,"navalny, critic, trial, alexei, alexei navalny",7,2022-01-26 12:04:32.600000000,5_navalny_alexei_alexei navalny_poison
+6,"zelensky, zelenskyy, ukraine, zelenskiy, volodymyr",181,2022-01-26 12:04:32.600000000,6_zelensky_zelenskyy_ukraine_volodymyr
+7,"amazon, deforestation, tree, forest, rainforest",14,2022-01-26 12:04:32.600000000,7_amazon_deforestation_rainforest_tree
+8,"laugh natural, natural disasters climate, disasters climate, disasters climate scientists, warn global wildfire",2,2022-01-26 12:04:32.600000000,8_australia_bushfires_wildfires_bushfire
+9,"huawei, hit russia export, information mps huawei, threat hit russia, chinese informant",2,2022-01-26 12:04:32.600000000,9_huawei_meng_wanzhou_meng wanzhou
+10,"johnson, boris johnson, boris, covid, england",6,2022-01-26 12:04:32.600000000,10_johnson_boris johnson_boris_coronavir...
+11,"live matter, black live, black live matter, matter, live",7,2022-01-26 12:04:32.600000000,11_live matter_matter_black live_black l...
+12,"plastic, waste, chemicals, sri lanka, lanka",7,2022-01-26 12:04:32.600000000,12_plastic_waste_single use_plastic wast...
+13,"queen, elizabeth, prince, queen elizabeth, positive",36,2022-01-26 12:04:32.600000000,13_queen_prince_elizabeth_queen elizabet...
+14,"info tik tok, chinese get, get info, get info tik, info tik",1,2022-01-26 12:04:32.600000000,14_tiktok_ban_ban tiktok_trump
+15,"flood, storm eunice, storm, eunice, wind",16,2022-01-26 12:04:32.600000000,15_flood_rain_dam_china
+16,"cannabis, drug, police commander write, referendum liberalise, melbourne titanic theme",5,2022-01-26 12:04:32.600000000,16_cannabis_marijuana_drug_decriminalize
+17,"ice, begin greenland, melt far faster, level measurements begin, measurements begin",2,2022-01-26 12:04:32.600000000,17_ice_melt_greenland_arctic
+19,"earthquake, magnitude, magnitude earthquake, sumatra, tsunami",6,2022-01-26 12:04:32.600000000,19_earthquake_magnitude_magnitude earthq...
+20,"musk, elon, elon musk, tesla, musk brother",8,2022-01-26 12:04:32.600000000,20_musk_elon_elon musk_tesla
+21,"dozens grave residential, dozens grave, residential school sit, school sit, grave residential school",2,2022-01-26 12:04:32.600000000,21_residential school_residential_school...
+22,"paris williamson, help paris, help paris williamson, williamson, paris",1,2022-01-26 12:04:32.600000000,22_greta_thunberg_greta thunberg_climate
+23,"extreme suffer, musk neuralink, neuralink, elon musk neuralink, monkey",10,2022-01-26 12:04:32.600000000,23_brain_cancer_alzheimer_scientists
+25,"omicron, variant, delta omicron, subvariant, omicron variant",14,2022-01-26 12:04:32.600000000,25_omicron_variant_omicron variant_case ...
+26,"bird, bird flu, flu, spread, flu outbreak",4,2022-01-26 12:04:32.600000000,26_bird flu_bird_flu_case bird flu
+30,"nord, nord stream, pipeline, stream, gas pipeline",44,2022-01-26 12:04:32.600000000,30_pipeline_nord stream_nord_stream
+31,"recognize uap ufo, ufo research, research legitimate object, recognize uap, object academic research",1,2022-01-26 12:04:32.600000000,31_ufo_pentagon_ufos_ufo videos
+32,"false flag, flag, false, ukraine, chemical",13,2022-01-26 12:04:32.600000000,32_chemical_ukraine_biological_false fla...
+39,"leni robredo presidential, robredo presidential, leni, robredo, leni robredo",2,2022-01-26 12:04:32.600000000,39_duterte_philippines_philippine_rodrig...
+40,"wheat, wheat import, ukraine, china lift, import",18,2022-01-26 12:04:32.600000000,40_wheat_food_ukraine_war
+-1,"ukraine, russia, russian, putin, war",6041,2022-02-28 09:28:12.800000000,-1_say_covid_ukraine_china
+0,"ukraine, russia, russian, war, say",4994,2022-02-28 09:28:12.800000000,0_china_coronavirus_say_covid
+1,"mask, mask wear, wear, raise safety concern, ionic",4,2022-02-28 09:28:12.800000000,1_mask_face mask_wear_face
+2,"space, astronaut, nasa, earth, american astronaut",56,2022-02-28 09:28:12.800000000,2_space_earth_nasa_moon
+3,"climate, climate change, change, report, climate report",25,2022-02-28 09:28:12.800000000,3_climate_climate change_change_emission...
+4,"pope, catholic, francis, pope francis, abuse",8,2022-02-28 09:28:12.800000000,4_pope_vatican_francis_pope francis
+5,"navalny, alexei navalny, alexei, critic, kremlin critic",20,2022-02-28 09:28:12.800000000,5_navalny_alexei_alexei navalny_poison
+6,"zelensky, zelenskyy, ukraine, volodymyr, president",404,2022-02-28 09:28:12.800000000,6_zelensky_zelenskyy_ukraine_volodymyr
+7,"amazon, rainforest, amazon rainforest, deforestation, tip point",19,2022-02-28 09:28:12.800000000,7_amazon_deforestation_rainforest_tree
+9,"huawei, robert lewandowski, tie sponsor huawei, accuse huawei, accuse huawei tax",2,2022-02-28 09:28:12.800000000,9_huawei_meng_wanzhou_meng wanzhou
+12,"plastic, recycle, waste, treaty, proposals",6,2022-02-28 09:28:12.800000000,12_plastic_waste_single use_plastic wast...
+13,"queen, prince, queen elizabeth, elizabeth, prince william",15,2022-02-28 09:28:12.800000000,13_queen_prince_elizabeth_queen elizabet...
+14,"tiktok, tiktok suspend, russia tiktok, russia tiktok suspend, content",13,2022-02-28 09:28:12.800000000,14_tiktok_ban_ban tiktok_trump
+15,"flood, australian flood, rain, evacuate, evacuate worst australian",7,2022-02-28 09:28:12.800000000,15_flood_rain_dam_china
+16,"marijuana license, past offenders, conglomerate imagine, oil oligarchs conglomerate, conglomerate imagine cultivate",2,2022-02-28 09:28:12.800000000,16_cannabis_marijuana_drug_decriminalize
+17,"ice, sea ice, melt, antarctic, ice extent",5,2022-02-28 09:28:12.800000000,17_ice_melt_greenland_arctic
+19,"earthquake, magnitude, tsunami, magnitude earthquake, tsunami warn",19,2022-02-28 09:28:12.800000000,19_earthquake_magnitude_magnitude earthq...
+20,"musk, elon, elon musk, teslas russia, ask twitter users",3,2022-02-28 09:28:12.800000000,20_musk_elon_elon musk_tesla
+21,"potential grave, northern alberta, residential school, residential, school",3,2022-02-28 09:28:12.800000000,21_residential school_residential_school...
+23,"bacterium visible naked, discover centimeter long, bacterium visible, scientists discover centimeter, centimeter long bacterium",1,2022-02-28 09:28:12.800000000,23_brain_cancer_alzheimer_scientists
+24,"assange, permission appeal, assange deny permission, deny permission appeal, deny permission",4,2022-02-28 09:28:12.800000000,24_assange_julian_julian assange_wikilea...
+25,"omicron, variant, omicron variant, subvariant, omicron sub",10,2022-02-28 09:28:12.800000000,25_omicron_variant_omicron variant_case ...
+26,"bird flu, bird, flu, spread lethal, kill million chickens",2,2022-02-28 09:28:12.800000000,26_bird flu_bird_flu_case bird flu
+28,"japan lava flow, new guinea tsunami, tsunami japan, tsunami japan lava, merapi continue",2,2022-02-28 09:28:12.800000000,28_volcano_eruption_erupt_palma
+30,"pipeline, nord, nord stream, stream, gas",25,2022-02-28 09:28:12.800000000,30_pipeline_nord stream_nord_stream
+31,"ufo, warn arch rival, sight get, consider reach, ufo incursions nuclear",3,2022-02-28 09:28:12.800000000,31_ufo_pentagon_ufos_ufo videos
+32,"chemical, ukraine, biological, weapons, chemical weapons",114,2022-02-28 09:28:12.800000000,32_chemical_ukraine_biological_false fla...
+33,"aground, run aground, suez, canal, suez canal",5,2022-02-28 09:28:12.800000000,33_suez_canal_suez canal_ship
+34,"independent scotland say, stay head state, stay head, state independent scotland, scotland say",1,2022-02-28 09:28:12.800000000,34_scottish_scotland_independence_scotti...
+36,"cow, lumpy skin, affect cattle, biosecurity authorities alert, government week confirm",1,2022-02-28 09:28:12.800000000,36_cow_urine_dung_cow urine
+37,"tax, corporate tax, corporate, tax rate, global minimum",3,2022-02-28 09:28:12.800000000,37_tax_corporate tax_corporate_minimum
+39,"philippine, duterte, young mid age, race back young, duterte approve",2,2022-02-28 09:28:12.800000000,39_duterte_philippines_philippine_rodrig...
+40,"wheat, food, ukraine, war, supply",89,2022-02-28 09:28:12.800000000,40_wheat_food_ukraine_war
+41,"toilet paper, toilet, paper, effect energy crisis, paper shortages effect",2,2022-02-28 09:28:12.800000000,41_toilet_toilet paper_paper_hand
+42,"air pollution deaths, time india decades, pollution deaths time, deaths time india, india decades",1,2022-02-28 09:28:12.800000000,42_pollution_air pollution_air_delhi
+-1,"moldova, ukraine, russian, territory, putin",28,2022-04-02 06:51:53.000000000,-1_say_covid_ukraine_china
+0,"latvian parliaments, germany chant antisemitic, households share, challenge power victory, macron face immediate",20,2022-04-02 06:51:53.000000000,0_china_coronavirus_say_covid
+6,"capture people, warn filtration, filtration camp, send ukrainians, filtration camp capture",2,2022-04-02 06:51:53.000000000,6_zelensky_zelenskyy_ukraine_volodymyr
+20,"elon, musk, elon musk, twitter, musk buy twitter",20,2022-04-02 06:51:53.000000000,20_musk_elon_elon musk_tesla
+-1,"councilors putin, dissolution putin removal, council face dissolution, face dissolution putin, face dissolution",4,2022-08-11 20:26:33.800000000,-1_say_covid_ukraine_china
+0,"vaccinate boost, long covid vaccinate, covid vaccinate boost, covid vaccinate, long covid",2,2022-08-11 20:26:33.800000000,0_china_coronavirus_say_covid
