@@ -2,6 +2,7 @@ import React, { useEffect, useRef, useState } from 'react'
 import * as d3 from 'd3'
 import _ from 'lodash'
 import tip from 'd3-tip'
+import moment from 'moment'
 
 // data manipulation function takes raw data from csv and converts it into an array of node objects
 // each node will store data and visualisation values to draw a bubble
@@ -11,9 +12,11 @@ function createNodes(rawData, currentTimeline) {
   const timeStamps = Array.from(new Set(rawData.map(item => item.Timestamp)))
   const filterTimeline = timeStamps.slice(currentTimeline, currentTimeline+3)
 
+  const aspectRatio = (window.innerWidth / window.innerHeight) / 2
+
   // use max size in the data as the max in the scale's domain
   // note we have to ensure that size is a number
-  const maxSize = d3.max(rawData, d => +d.Frequency / 1.5);
+  const maxSize = d3.max(rawData, d => (+d.Frequency / 1.5) * aspectRatio);
 
   // size bubbles based on area
   const radiusScale = d3.scaleSqrt()
@@ -58,7 +61,7 @@ function bubbleChart(selector, timeSentimentData, setGraphElements, currentTimel
   .append('svg')
   .attr('id', 'graph-svg')
   .attr('width', '100%')
-  .attr('height', '600px')
+  .attr('height', (window.innerHeight / 1.5))
 
   const svgData = document.getElementById('graph-svg').getBoundingClientRect()
 
@@ -171,14 +174,15 @@ function bubbleChart(selector, timeSentimentData, setGraphElements, currentTimel
     .restart();
 
   svg.append("g")
-    .attr("transform", "translate(" + 0 + ", " + (600-40) + ")")
+    .attr("transform", "translate(" + 0 + ", " + (svgData.height-50) + ")")
     .attr("class", "axis-timeline")
     .call(d3.axisBottom(clusters));
   
   d3.selectAll('.tick').selectAll('text')
     .style("font-size", "16px")
     .text(d => {
-      return new Date(timeStamps[d]).toLocaleDateString('en-US', {month: 'long', year: 'numeric'})
+      // return moment(timeStamps[d]).format('MMMM YYYY').toString()
+      return timeStamps[d]
     });
   
   const sentimentScale = d3.scaleLinear()
@@ -369,7 +373,7 @@ function SingleGraph({data, selected, handleSelection}) {
       .classed('sentiment-scale-title', true)
       .style("font-size", "20px")
       .style("font-weight", "600")
-      .attr("transform", "translate(" + (graphElements.svgData.width/2 - 60) + ", " + 80 + ")")
+      .attr("transform", "translate(" + (graphElements.svgData.width/2 - 90) + ", " + 80 + ")")
       .text('Sentiment Scale')
 
       d3.select('#graph-svg').append("g")
@@ -414,7 +418,8 @@ function SingleGraph({data, selected, handleSelection}) {
       d3.selectAll('.tick').selectAll('text')
       .style("font-size", "16px")
       .text(d => {
-        return new Date(graphElements.timeStamps[d]).toLocaleDateString('en-US', {month: 'long', year: 'numeric'})
+        // return moment(graphElements.timeStamps[d]).format('MMMM YYYY').toString()
+        return graphElements.timeStamps[d]
       });
 
       const updatedNodes = createNodes(graphElements.timeSentimentData, currentTimeline)
@@ -433,7 +438,7 @@ function SingleGraph({data, selected, handleSelection}) {
   }
   
   return (
-    <div className='flex items-center w-full justify-evenly p-6'>
+    <div className='flex w-full items-center justify-center m-auto'>
       <button 
         className={`bg-blue-200 border border-solid border-black border-opacity-50 rounded px-8 py-2 ${currentTimeline === 0 ? 'invisible' : 'visible'}`}
         onClick={() => handleTimelineChange('prev')}
