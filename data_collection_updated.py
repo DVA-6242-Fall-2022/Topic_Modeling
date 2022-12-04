@@ -44,14 +44,6 @@ def get_submission_data(filters, start_date, end_date,
         
     return submission_df[filters]
 
-# df = get_submission_data(filters, start_date, end_date, subreddits, num_comments=">5")
-# df.head()
-
-# df.tail()
-
-# df.shape
-
-# df.to_csv("raw_reddit_news_posts.csv")
 
 df = pd.read_csv("raw_reddit_news_posts.csv")
 
@@ -73,11 +65,6 @@ def get_comments(subreddit, link_id, limit, comment_length = None):
 def add_comments_to_df(submission_df, limit=10, comment_length = None, n_jobs=-2):
     comments = Parallel(n_jobs=n_jobs)(delayed(get_comments)(row['subreddit'], 
                                                         row['id'], limit, comment_length) for i, row in tqdm(submission_df.iterrows()))
-    # submission_df["comments"] = pd.Series(comments)
-    
-#     submission_df["comments"] = ""
-#     for i, row in submission_df.iterrows():
-#         submission_df["comments"][i] = get_comments(row['subreddit'], row['id'], limit, comment_length)
     return submission_df.assign(comments=comments)
 
 #function to add url content scraped from newspaper library
@@ -99,11 +86,9 @@ def get_url_content(url):
 
 def add_url_content_to_df(df, n_jobs=-2):
     url_contents = Parallel(n_jobs=n_jobs)(delayed(get_url_content)(row['url']) for i, row in tqdm(df.iterrows()))
-    # df["url_content"] = pd.Series(url_contents)
             
     return df.assign(url_content=url_contents)
 
-# df_list = np.array_split(df, 1000)
 n = 100  #chunk row size
 list_df = [df[i:i+n] for i in range(0,df.shape[0],n)]
 i = 0
