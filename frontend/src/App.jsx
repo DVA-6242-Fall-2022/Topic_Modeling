@@ -3,6 +3,7 @@ import SingleGraph from './components/SingleGraph'
 import { Link } from "react-router-dom";
 import timeSentimentsNews from './data/topics_sentiments_news.csv'
 import timeSentimentsPolitics from './data/topics_sentiments_politics.csv'
+import timeSentimentsMovies from './data/topics_sentiments_movies.csv'
 
 function App() {
   const [selected, setSelected] = useState(false)
@@ -18,12 +19,13 @@ function App() {
 
   const getData = {
     news: timeSentimentsNews,
-    politics: timeSentimentsPolitics
+    politics: timeSentimentsPolitics,
+    movies: timeSentimentsMovies,
   }
 
   return (
     <div className='h-full md:h-screen md:w-screen bg-yellow-100 flex md:block max-h-screen overflow-hidden'>
-      <div className='p-4'>
+      <div className='p-4 flex flex-col items-stretch h-full w-full'>
         <h1 className='text-2xl font-bold text-center'>Topic Modeling over Time</h1>
         <div className='m-auto w-full text-center flex items-center justify-center mt-4 gap-8'>
           <h3 className='text-center justify-self-end font-medium'>Choose a subreddit</h3>
@@ -35,14 +37,14 @@ function App() {
             onChange={handleSubredditChange}
           >
             <option value="news">News</option>
-            {/* <option value="movies">Movies</option> */}
             <option value="politics">Politics</option>
+            <option value="movies">Movies</option>
           </select>
         </div>
         <div className='m-auto text-center'>
-          <Link to={{pathname: '/viz', search: `?subreddit=${subreddit}`}} className='relative z-50 text-blue-500 underline top-10'>Interactive Infographics</Link>
+          <Link to={{pathname: '/viz', search: `?subreddit=${subreddit}`}} className='relative z-50 text-blue-500 underline'>Interactive Infographics</Link>
         </div>
-        <div className='grid grid-flow-row md:grid-flow-col w-screen items-end my-10 px-10'>
+        <div className='m-auto w-screen items-end px-10 justify-self-end'>
           <SingleGraph data={getData[subreddit]} selected={selected} handleSelection={handleSelection} />
         </div>
       </div>
