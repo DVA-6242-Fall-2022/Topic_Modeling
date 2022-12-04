@@ -2,7 +2,6 @@ import React, { useEffect, useRef, useState } from 'react'
 import * as d3 from 'd3'
 import _ from 'lodash'
 import tip from 'd3-tip'
-import moment from 'moment'
 
 // data manipulation function takes raw data from csv and converts it into an array of node objects
 // each node will store data and visualisation values to draw a bubble
@@ -11,46 +10,54 @@ import moment from 'moment'
 function createNodes(rawData, currentTimeline) {
   const timeStamps = Array.from(new Set(rawData.map(item => item.Timestamp)))
   const filterTimeline = timeStamps.slice(currentTimeline, currentTimeline+3)
+  const dataInTimeline = rawData.filter(item => filterTimeline.includes(item.Timestamp))
+  const timeGroups = _.groupBy(dataInTimeline, 'Timestamp')
 
-  const aspectRatio = (window.innerWidth / window.innerHeight) / 2
-
-  // use max size in the data as the max in the scale's domain
-  // note we have to ensure that size is a number
-  const maxSize = d3.max(rawData, d => (+d.Frequency / 1.5) * aspectRatio);
-
-  // size bubbles based on area
-  const radiusScale = d3.scaleSqrt()
-    .domain([0, maxSize])
-    .range([0, 60])
-
-  // use map() to convert raw data into node data
-  const myNodes = rawData.map(d => ({
-    ...d,
-    Topic: +d.Topic,
-    radius: radiusScale(+d.Frequency),
-    comment_sentiment: +d.comment_sentiment,
-    Frequency: +d.Frequency,
-    // size: +d.size,
-    x: Math.random() * 900,
-    y: Math.random() * 800
-  }))
-
-
-  const timeGroups = _.groupBy(myNodes, 'Timestamp')
-
+  const processedGroups = {}
+  
   Object.keys(timeGroups).forEach(key => {
-    const temp = _.orderBy(timeGroups[key], 'Frequency', 'desc')
-    timeGroups[key] = temp.slice(0, 20)
+    const temp = []
+
+    timeGroups[key].forEach(item => {
+      temp.push({
+        ...item,
+        Topic: +item.Topic,
+        comment_sentiment: +item.comment_sentiment,
+        Frequency: +item.Frequency,
+        x: Math.random() * 900,
+        y: Math.random() * 800
+      })
+    })
+
+    const topNodes = _.orderBy(temp, 'Frequency', 'desc').slice(0, 20)
+
+    const minMax = d3.extent(topNodes.map(item => item.Frequency))
+    // set up colour scale
+    const fillColour = d3.scaleLinear()
+    .domain([minMax[0],((minMax[1] - minMax[0]) / 2), minMax[1]])
+    .range(['#FCCFCD', '#F88494' , '#E80000']);
+
+    // size bubbles based on area
+    const radiusScale = d3.scaleLog()
+    .domain([minMax[0]/3, minMax[1]*3.5])
+    .range([0, 70])
+
+    processedGroups[key] = topNodes.map(item => ({
+      ...item,
+      radius: radiusScale(+item.Frequency),
+      fillColour: fillColour(+item.Frequency)
+    }))
+
   })
 
-  const topNodes = Object.values(timeGroups).reduce((prev, curr) => {
+  const nodes = Object.values(processedGroups).reduce((prev, curr) => {
     return [
       ...prev,
       ...curr
     ]
   }, [])
 
-  return topNodes.filter(item => filterTimeline.includes(item.Timestamp));
+  return nodes
 }
 
 // bubbleChart creation function; instantiate new bubble chart given a DOM element to display it in and a dataset to visualise
@@ -99,11 +106,6 @@ function bubbleChart(selector, timeSentimentData, setGraphElements, currentTimel
   // force simulation starts up automatically, which we don't want as there aren't any nodes yet
   simulation.stop();
 
-  // set up colour scale
-  const fillColour = d3.scaleLinear()
-    .domain(d3.extent(timeSentimentData.map(item => item.Frequency)))
-    .range(["#feebe2", "#fbb4b9", "#f768a1", "#c51b8a", "#7a0177"]);
-
   // main entry point to bubble chart, returned by parent closure
   // prepares rawData for visualisation and adds an svg element to the provided selector and starts the visualisation process
   const timeStamps = Array.from(new Set(timeSentimentData.map(item => item.Timestamp)))
@@ -150,7 +152,7 @@ function bubbleChart(selector, timeSentimentData, setGraphElements, currentTimel
     .append('circle')
     .classed('bubble', true)
     .attr('r', d => d.radius)
-    .style('fill', d => fillColour(d.Frequency))
+    .style('fill', d => d.fillColour)
 
   // labels
   labels = elements
@@ -271,7 +273,7 @@ function bubbleChart(selector, timeSentimentData, setGraphElements, currentTimel
             newElements.append('circle')
             .classed('bubble', true)
             .attr('r', d => d.radius)
-            .style('fill', d => fillColour(d.Frequency))
+            .style('fill', d => d.fillColour)
 
             newElements.append('text')
             .classed('topic-label', true)
