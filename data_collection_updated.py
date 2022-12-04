@@ -44,6 +44,15 @@ def get_submission_data(filters, start_date, end_date,
         
     return submission_df[filters]
 
+# Collect posts data
+df = get_submission_data(filters, start_date, end_date, subreddits, num_comments=">5")
+# df.head()
+
+# df.tail()
+
+# df.shape
+
+df.to_csv("raw_reddit_news_posts.csv")
 
 df = pd.read_csv("raw_reddit_news_posts.csv")
 
