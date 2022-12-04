@@ -4,6 +4,25 @@ import { Link } from "react-router-dom";
 import timeSentimentsNews from './data/topics_sentiments_news.csv'
 import timeSentimentsPolitics from './data/topics_sentiments_politics.csv'
 import timeSentimentsMovies from './data/topics_sentiments_movies.csv'
+import ReactTooltip from 'react-tooltip';
+import ReactDOMServer from 'react-dom/server';
+
+
+const ToolTipInfo = () => {
+  return (
+    <div>
+      <b>Usage:</b>
+      <p style={{marginBottom: '8px'}}>Single click to select a node. Double click to unselect.</p>
+      <b>Selecting a node will show the sentiments associated with that topic.</b>
+      <br />
+      <b>Links will connect a topic across time showing how the topic has changed.</b>
+      <p style={{marginTop: '8px'}}>
+        <b>You can also see the model outputs by visiting '<em>Interactive Infographics</em>'.</b>
+      </p>
+      <b>Model outputs give more techincal information about how the BERT <br /> model perceives topic modeling.</b>
+    </div>
+  )
+}
 
 function App() {
   const [selected, setSelected] = useState(false)
@@ -40,6 +59,13 @@ function App() {
             <option value="politics">Politics</option>
             <option value="movies">Movies</option>
           </select>
+          <img 
+            className='w-6 -m-4 opacity-60 cursor-pointer' 
+            src='./info_icon.svg' 
+            alt="Info" 
+            data-html={true} 
+            data-tip={ReactDOMServer.renderToString(ToolTipInfo())}
+          />
         </div>
         <div className='m-auto text-center'>
           <Link to={{pathname: '/viz', search: `?subreddit=${subreddit}`}} className='relative z-50 text-blue-500 underline'>Interactive Infographics</Link>
@@ -48,6 +74,7 @@ function App() {
           <SingleGraph data={getData[subreddit]} selected={selected} handleSelection={handleSelection} />
         </div>
       </div>
+      <ReactTooltip place='bottom' />
     </div>
   )
 }
