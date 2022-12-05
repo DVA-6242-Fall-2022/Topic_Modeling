@@ -4,7 +4,7 @@ import { Link, useLocation } from "react-router-dom";
 function Viz() {
   const location = new useLocation()
   const subreddit = location.search.split('=')[1]
-  const suf = `./data/${subreddit.charAt(0).toUpperCase() + subreddit.slice(1)}/${subreddit}`
+  const suf = `./data/${subreddit}/${subreddit.toLowerCase()}`
   
   return (
     <div className='m-auto'>
