@@ -1,12 +1,9 @@
-import React, { useState } from 'react'
+import React, { useMemo, useState } from 'react'
 import SingleGraph from './components/SingleGraph'
 import { Link } from "react-router-dom";
-import timeSentimentsNews from './data/topics_sentiments_news.csv'
-import timeSentimentsPolitics from './data/topics_sentiments_politics.csv'
-import timeSentimentsMovies from './data/topics_sentiments_movies.csv'
 import ReactTooltip from 'react-tooltip';
 import ReactDOMServer from 'react-dom/server';
-
+import subredditList from './subreddits.json'
 
 const ToolTipInfo = () => {
   return (
@@ -26,8 +23,15 @@ const ToolTipInfo = () => {
 
 function App() {
   const [selected, setSelected] = useState(false)
-  const [subreddit, setSubreddit] = useState('news')
-
+  const [subreddit, setSubreddit] = useState(subredditList.subreddits[0])
+  const data = useMemo(() => {
+    const temp = {}
+    subredditList.subreddits.forEach((item, i) => {
+      temp[item] = `./data/${item}/topics_sentiments_${item.toLowerCase()}.csv`
+    })
+    return temp
+  }, [subredditList.subreddits])
+  
   const handleSelection = (selectedNode) => {
     setSelected(selectedNode)
   }
@@ -36,16 +40,10 @@ function App() {
     setSubreddit(e.target.value)
   }
 
-  const getData = {
-    news: timeSentimentsNews,
-    politics: timeSentimentsPolitics,
-    movies: timeSentimentsMovies,
-  }
-
   return (
     <div className='h-full md:h-screen md:w-screen bg-yellow-100 flex md:block max-h-screen overflow-hidden'>
       <div className='p-4 flex flex-col items-stretch h-full w-full'>
-        <h1 className='text-2xl font-bold text-center'>Topic Modeling over Time</h1>
+        <h1 className='text-2xl font-bold text-center'>Glance: Topic Modeling over Time</h1>
         <div className='m-auto w-full text-center flex items-center justify-center mt-4 gap-8'>
           <h3 className='text-center justify-self-end font-medium'>Choose a subreddit</h3>
           <select 
@@ -55,9 +53,9 @@ function App() {
             value={subreddit}
             onChange={handleSubredditChange}
           >
-            <option value="news">News</option>
-            <option value="politics">Politics</option>
-            <option value="movies">Movies</option>
+            {subredditList.subreddits.map((item, i) => (
+              <option key={i} value={item}>{item}</option>
+            ))}
           </select>
           <img 
             className='w-6 -m-4 opacity-60 cursor-pointer' 
@@ -71,7 +69,7 @@ function App() {
           <Link to={{pathname: '/viz', search: `?subreddit=${subreddit}`}} className='relative z-50 text-blue-500 underline'>Interactive Infographics</Link>
         </div>
         <div className='m-auto w-screen items-end px-10 justify-self-end'>
-          <SingleGraph data={getData[subreddit]} selected={selected} handleSelection={handleSelection} />
+          <SingleGraph data={data[subreddit]} selected={selected} handleSelection={handleSelection} />
         </div>
       </div>
       <ReactTooltip place='bottom' />

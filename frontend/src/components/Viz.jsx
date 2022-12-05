@@ -1,10 +1,10 @@
 import React from 'react'
 import { Link, useLocation } from "react-router-dom";
 
-function Viz(props) {
+function Viz() {
   const location = new useLocation()
   const subreddit = location.search.split('=')[1]
-  const suf = `./${subreddit.charAt(0).toUpperCase() + subreddit.slice(1)}/${subreddit}`
+  const suf = `./data/${subreddit.charAt(0).toUpperCase() + subreddit.slice(1)}/${subreddit}`
   
   return (
     <div className='m-auto'>
